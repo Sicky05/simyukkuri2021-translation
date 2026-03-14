@@ -1,0 +1,4677 @@
+# 餌発見
+[WantFood]
+	<normal>
+		<baby>
+			Uu! Uu~
+			Ich'sh dinner chime dado~!
+			I'm gonna each you~☆
+			SHweech-shweechsh~☆
+			Uu! Dinner-dinner♪
+			Buddiiin'♪
+			I wanch cho blay wid you chogeder dadoo~
+			Bach-bach me, bleashe~♪
+			Uu~ I'm gonna each you~!
+			Uu! Ich'sh hunching chime dadoo~!
+			Uu! SHchay shchill and lech %name each you!
+		</baby>
+		<child>
+			Uu! Uu!
+			Uu! Ich'sh dinner chime dadoo~☆
+			I'm gonna each you~☆
+			U~! SHweech-shweechsh~☆
+			Uu~! Dinner-dinner♪
+			Buddiiing~♪
+			I wanch cho blay wid you chogeder~☆
+			Bach-bach me, bleashe~♪
+			Uu~! I'm gonna each you~!
+			Uu~! Ich'sh hunching chime dadoo~☆
+			Uu! SHchay shchill and lech %name will each you!
+		</child>
+		<adult>
+			Uu!
+			Uu~♪ Uu~♪
+			Uu! It's Mister dinner dado~!
+			I'm gonna eat you~☆
+			Uu~! dinner dinner ♪
+			Pudding~♪
+			Uu~! I found sweet-sweets dado~☆
+			I want to play together dado~!
+			Uu~! I'm gonna eat you~!
+			Uu~ It's hunting time dado!!
+			Uu~! Stay still and let %name eat you!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu! Uu~
+			Ich'sh dinner chime dadoo~!
+			I'm gonna each you~☆
+			Uu~ Ich'sh hunching chime dadoo!
+			Uu~ SHchay shchill and lech %name will each you!
+			I'm gonna each you~☆
+			Buddiiin'♪
+			U~! SHweech-shweechsh~☆
+			Uu~ Dinner-dinner~♪
+			%name ish sho bored dadoo~!
+		</baby>
+		<child>
+			Uu!
+			Uu! Uu!
+			Uu! Ich'sh dinner chime dadoo~☆
+			Uu~ Ich'sh hunching chime dadoo~!
+			I'm gonna each you~☆
+			Uu~ SHchay shchill and lech %name will each you~!
+			SHaguyaaaa! Buddiiin'~♪
+			U~ SHweech-shweechsh~☆
+			Uu~ Dinner-dinner~♪
+			%name ish sho bored dadoo~☆
+		</child>
+		<adult>
+			Uu!
+			Uu! Uu!
+			Uu~♪ Uu~♪
+			Uu! It's dinner time dado~!
+			I'm gonna eat you~☆
+			Uu~! It's dinner time♪
+			Sakuyaーー！ Id's puddiiiiiing dime, dadoooo-♪
+			Uu～！I found a sweet-sweet dado~☆
+			%name is bored dado~！
+			Uu~ I'm gonna eat you~！
+			Uu~ It's hunting time dado!!
+			Uu~ Stay still and let %name eat you!!
+		</adult>
+	</rude>
+[/WantFood]
+
+# 餌なし
+[NoFood]
+	<normal>
+		<baby>
+			Uu~...
+			SHaguya~~ SHaguya~~
+			I wanch cho each Mishcher food dadoo!
+			My chummy ish rumbling dadoo~!
+			Uu~~~ shweech-shweechsh~~...
+			SHaguya~~ Ich'sh dinner chime dadoo~~...
+			Uu! I'm sho hungry~!
+			I wanch cho each Mishcher food doo!
+			<damage>
+				Uu~...
+				Zagu-ya-a... zagu-ya-a...
+				U~, Ich'sh dinner chime dadoo...
+				Zagu-ya-a... I'm hun-gryyyy doo...
+				U~, Mishcher food bleashe gome...
+				Uuu~... I really wanch cho each...
+				U~..., shweech-shweechsh...
+				My chummy ish rumbling dadoo~!
+			</damage>
+		</baby>
+		<child>
+			I'm sho hungry, dado~!
+			Mishcher food, gan you feed me?
+			My chummy ish rumbling dadoo~!
+			SHagu-ya~~ Ich'sh dinner chime dadoo~~...
+			Uu... Mishcher food...
+			Uu,,,
+			Uu,, My chummy ish rumbling dadoo~!
+			<damage>
+				Uu~... Ich'sh chime for dinner, dado~~!
+				Zagu-ya-a... I'm sho hungry dadoo...
+				Uu~~...
+				My chummy ish rumbling dadoo~!
+				Uu~~... shweech-shweechsh~~~
+				Zaguyaa... Zaguyaa...
+				Uu~~... Bleashe gibe me shome Mishcher food~~~
+				Uuu~... My chummy ish rumbling dadoo...
+			</damage>
+		</child>
+		<adult>
+			There's no Mister food dado~?
+			%name's hungry dado~...
+			I want to eat delicious Mister food dado
+			Sakuya~~ Mister food,...
+			My tummy is rumbling dado~!
+			Sakuya~!! Mister dinner~~!!
+			<damage>
+				Uu~~~
+				Uu～~, mister food please~~~
+				I'm so hungry dado~~~
+				My tummy is rumbling dado~！
+				Uu～~~, shweech-shweechsh~~~
+				Sakuya~,, Sakuya~,
+				Uu~,, I'm so hungry,,
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~...
+			%name wanchsh cho each Mishcher food dadoo!
+			SHaguyaa,, Ich'sh chime dinner chime dadoo~
+			Uu! I'm sho hungry~!
+			My chummy ish rumbling dadoo~!
+			U~... Bleashe gibe me shome Mishcher food...
+			U~... SHweech-shweechsh...
+			SHaguyaa~, SHaguyaa~
+			<damage>
+				Uu~......
+				Uu~, Mishcher food, gibe ich cho me~~~
+				Uu~, Mishcher food, bleashe gibe ich~~~
+				Zaguyaaa~~~ I'm sho hungry dadoo~~~
+				My chummy ish rumbling dadoo~!
+				Uu~~~~ SHweech-shweechsh~~~~~~~~~
+				Zaguyaaa...... Zaguyaaa~~~
+			</damage>
+		</baby>
+		<child>
+			Uu~...
+			%name wanchsh cho each Mishcher food dadoo!
+			I'm sho hungry~!
+			SHaguyaa,, Ich'sh chime dinner chime dadoo~...
+			My chummy ish rumbling dadoo~!
+			Uu~~, shweech-shweechsh~~...
+			SHaguya... SHaguya~~...
+			Uu~~, gibe me Mishcher food bleashe~~...
+			<damage>
+				Uu~~~
+				Uu~, Mishcher food bleashe gibe ich cho me~~~
+				Uuu~... I'm sho hungry~~~
+				Uu~, gibe me Mishcher food bleashe~~~
+				Zaguyaaaaa~~~ I'm sho hungry dadoo~~~
+				Uu~~~
+				My chummy ish rumbling dadoo~~~!
+				Uu,,, shweech-shweechsh~~~
+				Zaguya~~ Zaguya~~~
+			</damage>
+		</child>
+		<adult>
+			There is no Mister food dado~?
+			%name's so hungry dado...
+			Uu~! Give me the yummy Mister food!
+			I want to eat the yummy Mister food dado
+			Sakuya~... Mister food ...
+			My tummy's rumbling dado~!
+			Uu~~, Mister food give it here~
+			Uu~~, sweet sweets~
+			Sakuya~~, Sakuya~~
+			<damage>
+				Uu~~~
+				U~! It's dinner time dado~~~
+				U~! It's dinner time dado~~~
+				I'm so hungry dado~~~
+				U~! Mister food, hand it over~~~
+				My tummy is rumbling dado~!
+				Uu~..... shweech-shweechsh.....
+				Sakuya~..... Sakuya~.....
+			</damage>
+		</adult>
+	</rude>
+[/NoFood]
+
+# 番要求
+[WantPartner]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			Uuu, uuu! Quickly become %name's bride, doー!!
+			Uuu, uuu! %name wants a partner soon too, doー!
+			Uuu! %name wants a little ones, do...
+			Uuu... %name is at marriageable age too, do...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Uu! I wanch a real barchner now~!
+			Uu~! %name, really needsh guche lichchle onesh~!
+			Uu-! %name wanchsh a gharishmachig yugguri ash a barchner, doo-!
+		</child>
+		<adult>
+			Uuu, uuu! Hurry up and marry me, doー!
+			Uuu, uuu! %name wants a partner soon too, doー!
+			Uu-! %name wants a charismatic yukkuri as a partner, doo-!
+		</adult>
+	</rude>
+[/WantPartner]
+
+# 発情
+[Excite]
+	<normal>
+		<baby>
+			Uu! Uu~
+			SHurrender yourshelf cho %name dado~!
+		</baby>
+		<child>
+			Uu! Uu~
+			SHurrender yourshelf cho %name dado~!
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Surrender yourself to %name dado~!
+		</adult>
+	</normal>
+[/Excite]
+
+# れいぱー化して発情
+[ExciteForRaper]
+	<normal>
+		<baby>
+			%name alsho wanchsh cho feel good choo, dooー!
+		</baby>
+		<child>
+			%name alsho wanchsh cho feel good choo, dooー!
+		</child>
+		<adult>
+			%name also wants to feel good too, dooー!
+		</adult>
+	</normal>
+[/ExciteForRaper]
+
+# ぺにぺに切断
+[PenipeniCutting]
+	<normal>
+		<baby>
+			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhsh!
+			Mishcher ish mean, dooo! Gibe bagg %name'sh Mishcher Benibeni!!!
+		</baby>
+		<child>
+			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhhsh!
+			Mishcher ish mean, dooo! Gibe bagg %name'sh Mishcher Benibeni!!!
+		</child>
+		<adult>
+			%name's easy Mister peni-peni...?! Stick back on! Stick back on!
+			Mister is so mean, do! Blease give bag %name's Mister peni-peni!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhsh!
+			Ich hurchhhhhhhsh! Whach are you doing cho %name'sh Mishcher Benibeni?
+		</baby>
+		<child>
+			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhsh!
+			Ich hurchhhhhhhsh! Whach are you doing cho %name'sh Mishcher Benibeni?
+		</child>
+		<adult>
+			Give %name's Mister peni-peni baaack!!!
+			Yunyaaa! Just because your own peni-peni is the size of a little one's, being jealous of %name is so mean, doー!
+		</adult>
+	</rude>
+[/PenipeniCutting]
+
+# ぺにぺに切断後
+[PenipeniCutted]
+	<normal>
+		<baby>
+			Uu~~
+			Mishcher benibeni~~~
+		</baby>
+		<child>
+			Uu~~
+			Mishcher benibeni~~~
+		</child>
+		<adult>
+			Uu~
+			Mister PeniPeni...
+			Mister PeniPeni is not here anymore... not anymore dado..
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~...
+			Mishcher benibeni~~~
+		</baby>
+		<child>
+			Uu~~
+			Mishcher benibeni~~~
+		</child>
+		<adult>
+			Uu..
+			Mister penipeni...
+			%name wanted to refresh more, dadoo...
+		</adult>
+	</rude>
+[/PenipeniCutted]
+
+# ぺにぺにをつかえない
+[CantUsePenipeni]
+	<normal>
+		<baby>
+			Uu~~~
+			%name alsho wanched lichchle onesh dadoo~~~
+		</baby>
+		<child>
+			Uu~~~
+			%name alsho wanched lichchle onesh dadoo~~~
+		</child>
+		<adult>
+			Uu,...
+			%name also wanted little ones, dadoo...
+			%name can't make little ones with something like this, do...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~...
+			%name alsho wanched lichchle onesh~~...
+		</baby>
+		<child>
+			Uu~...
+			%name alsho wanched lichchle onesh~~...
+		</child>
+		<adult>
+			Uu,...
+			%name wanted little ones...
+			%name wanted to refresh more, do...
+			%name can't make little ones with something like this, do...
+		</adult>
+	</rude>
+[/CantUsePenipeni]
+
+# リラックス
+[Relax]
+	<normal>
+		<baby>
+			Uu~!
+			Uu~♪ Uu~♪
+			Uu~♪ Mishcher choo hash cho chage ich eajy, dado~
+			Uu~? %name ish %name, dadoo!
+			Mama~ Mama~♪
+			Uu~? Uu~♪
+			Uu~! Ua~ua~♪
+			Uu~☆ Ua~ Ua~ Remirya~ u~!
+			Uu~? SHaguya~
+		</baby>
+		<child>
+			Uu~!
+			Uu~♪ Uu~♪
+			Uu~♪ Mishcher choo hash cho chage ich eajy, dado~
+			Uu~? %name ish %name, dadoo!
+			Mama~ Mama~♪
+			Uu~? Uu~♪
+			Uu~! Ua~ Ua~♪
+			Uu~☆ Ua~ Ua~☆ Remirya~ u~!
+			Uu~? SHaguya~
+		</child>
+		<adult>
+			Uu~!
+			Uuu~♪ Uuu~♪
+			Uuu~♪ Mister takes it easy too dado~
+			Uu? %name is %name dadoo!
+			U-uu~☆ Ua☆ Ua☆ Remi☆rya☆ Uuu~!
+			Uu~? Sakuya~!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~!
+			Uu~♪ Uu~♪
+			Bubibi♪ Bubibibi♪
+			Uu~? %name ish %name, dadoo!
+			"%name ish Goumagan'sh %name, dadoo☆"
+			Uu~? Uu~♪
+			Uu! Uaua~♪
+			Uu~☆ Ua~☆ Ua~ ☆Remi☆rya☆Uu~!
+			Uu~? SHaguya~
+			Drob dead eajy!
+		</baby>
+		<child>
+			Uu~!
+			Uu~♪ Uu~♪
+			Uu~? %name ish %name, dadoo!
+			"%name ish Goumagan'sh %name, dadoo☆"
+			Uu~? Uu~♪
+			Uu! Uaua~♪
+			Uu~☆ Ua~☆ Ua~ ☆Remi☆rya☆Uu~!
+			Uu~? SHaguya~
+			Drob dead eajy!
+		</child>
+		<adult>
+			Uuu!
+			Uuu~♪ Uuu~♪
+			%name is %name, doo!
+			%name is the Scarlet Devil Mansion's %name, doo☆
+			U-uuーー☆ Ua-ua☆ Charisma, dooーーー♪
+			Old geezer! %name will make you %name's servant, doo♪
+			U-uu~☆ Ua☆ Ua☆ Remi☆rya☆ Uuu~!
+			Uuu? Sakuya~
+			Drop dead easy!
+		</adult>
+	</rude>
+[/Relax]
+
+# おくるみをはいてリラックス
+[RelaxOkurumi]
+	<normal>
+		<baby>
+			<pants>
+				Uu~♪ Uu~♪
+				Uu~♪Uu~♪ Mishcher Aggeshshory ish bery eajy do!
+			</pants>
+		</baby>
+		<child>
+			<pants>
+				Uu~♪ Uu~♪
+				Uu~♪Uu~♪ Mishcher Aggeshshory ish bery eajy do!
+			</pants>
+		</child>
+		<adult>
+			<pants>
+				Uu~♪Uu~♪
+				Uu~♪Uu~♪ Mister Accessory is very easy do!
+			</pants>
+		</adult>
+	</normal>
+[/RelaxOkurumi]
+
+# 尻振り
+[FuriFuri]
+	<normal>
+		<baby>
+			Uu~☆Ua~Ua~
+			Uu~☆Ua~Ua~ Uu~Ua~Ua☆~
+			Uu~ Ua~ua♪
+			Ua~? Gharishma dange dadoo☆~
+			Mama~! Loog~☆ Ua~ua♪
+			I'll dange lige Mama, doo♪
+			Dange dadoo~
+			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Ich'll be a fun nighch! sheemsh lige ich dado~!
+		</baby>
+		<child>
+			Uu~☆Ua~Ua~
+			Uu~☆Ua~Ua~ Uu~Ua~Ua☆~
+			Uu~ Ua~ua♪
+			Ua~? Gharishma dange dadoo☆~
+			Mama~! Loog~☆ Ua~ua♪
+			I'll dange lige Mama, doo♪
+			Dange dadoo~
+			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Ich'll be a fun nighch! sheemsh lige ich dado~!
+		</child>
+		<adult>
+			Uu~? wa wa ~☆
+			Uu~? wa wa ~☆ Uu~? wa wa ~☆
+			Uu  wa wa ~♪
+			Uuu? It's okay to be captivated, doo♪
+			%name's dance is~♪ the best in the world!☆
+			Little ones, look closely do! Uu☆waawa♪
+			Dance dado☆
+			Shake shake♪ Remi☆ri☆ya～!
+			It'll be a fun night! seems like it dado~!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~☆Ua~Ua~
+			Uu~☆Ua~Ua~ Uu~☆Ua~Ua~
+			Bfffffrrrrch~! Mishcher farch game ouch dadoo~
+			Uu~ Ua~ua~
+			Ua~? Gharishma dange dadoo☆~
+			Mommy, loog~♪ Ua~ua~
+			I'll dange lige Mama, doo♪
+			Dange dadoo~
+			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Ich'll be a fun nighch! sheemsh lige ich dado~!
+		</baby>
+		<child>
+			Uu~☆Ua~☆Ua~☆
+			Uu~☆Ua~☆Ua~☆ Uu~☆Ua~☆Ua~☆
+			Bfffffrrrrch~! Mishcher farch game ouch dadoo~
+			Uu~ Ua~ua♪
+			Ua~? Gharishma dange dadoo☆~
+			Mommy, loog~♪ Ua~ua~
+			I'll dange lige Mama, doo♪
+			Dange daado~☆
+			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Ich'll be a fun nighch! sheemsh lige ich dado~!
+		</child>
+		<adult>
+			Uu~? wa wa~
+			Uu~? wa wa~ uu~? wa wa~
+			bo bo! Did Mister fart dado~
+			Uuu? It's okay to be captivated, doo♪
+			%name's dance is~♪ the best in the world!☆
+			Little ones, look closely do~! Uu☆waawa♪
+			Elegant dado? Bring the pudding!
+			Dance dado☆
+			Shake shake♪ Remi☆ri☆ya~!
+			It seems like a fun night dado~!
+		</adult>
+	</rude>
+[/FuriFuri]
+
+# キリッ
+[BeVain]
+	<normal>
+		<baby>
+			Gharishma dado~！
+			Uu~!
+			Uu~!
+		</baby>
+		<child>
+			Gharishma dado~！
+			Uu~!
+			Uu~~!
+		</child>
+		<adult>
+			Charisma dado~！
+			Uu~!
+			Uu~!
+		</adult>
+	</normal>
+[/BeVain]
+
+# ゆっくりしていってね！
+[TakeItEasy]
+	<normal>
+		<baby>
+			Uu~! CHage ich eajy!
+			Lech'sh chage ich eajy dadoo!
+		</baby>
+		<child>
+			Uu~! CHage ich eajy!
+			Lech'sh chage ich eajy dadoo!
+		</child>
+		<adult>
+			Uu~! Take it easy!
+			Let's take it easy dadoo!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Lech'sh chage ich eajy dadoo!!!
+			Uu~! CHage ich eajy!!!
+			Uu~ Uu~!!!
+		</baby>
+		<child>
+			Lech'sh chage ich eajy dadoo!!!
+			Uu~! CHage ich eajy!!!
+			Uu~ Uu~!!!
+		</child>
+		<adult>
+			Take it easy dado~!!！
+			Uu~! Take it easy!ー！！！
+			Uu~ Uu~!!！
+		</adult>
+	</rude>
+[/TakeItEasy]
+
+# 起床
+[Wakeup]
+	<normal>
+		<baby>
+			%name woge ub dadoo~
+			Uu~! Uu~!
+			Lech'sh chage ich eajy dadoo~!
+		</baby>
+		<child>
+			%name woge ub dadoo~
+			Uu~! Uu~!
+			Lech'sh chage ich eajy dadoo~!
+		</child>
+		<adult>
+			%name woke up dado~!
+			Uu~! Uu~!
+			Take it easy dado~!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name woge ub dadoo~!!!
+			Uu~! Uu~!!!
+			Lech'sh chage ich eajy dadoo~!!!
+		</baby>
+		<child>
+			%name woge ub dadoo~!!!
+			Uu~! Uu~!!!
+			Lech'sh chage ich eajy dadoo~!!!
+		</child>
+		<adult>
+			%name woke up dado~!!!!
+			Uu~ Uu~!!!!!
+			Take it easy dado~!!!!
+		</adult>
+	</rude>
+[/Wakeup]
+
+# 睡眠
+[Sleep]
+	<normal>
+		<baby>
+			Uu~ Uu~
+			SHaguya~~
+		</baby>
+		<child>
+			Uu~ Uu~
+			SHaguya~
+		</child>
+		<adult>
+			Uu~... Uu~...
+			Sakuya~...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~ Uu~
+			SHaguya~~
+		</baby>
+		<child>
+			Uu~ Uu~
+			SHaguya~~
+			
+		</child>
+		<adult>
+			Uu~... Uu~...
+			Sakuya~...
+		</adult>
+	</rude>
+[/Sleep]
+
+# 悲鳴
+[Scream]
+	<normal>
+		<baby>
+			Uu~! Uu~
+			SHchob ich dadoo~!
+			Ich hurchhhhhhhsh doo!
+			Whach are you doing cho %name, anyway?
+			SHaguya~!
+			Uuu~! I hache you sho mugh~~!
+			Ich hurchhhhhhhsh!!!
+			<damage>
+				Uuu~...
+				Ich hurchsh, shchob ich.. bleashe..
+				SHchob, shchob ich already...
+				SHaguyaa.. Helb me..
+			</damage>
+		</baby>
+		<child>
+			Uu~! Uu~
+			SHchob ich dadoo~!
+			Ich hurchhhhhhhsh doo!
+			Whach are you doing cho %name, anyway?
+			SHaguya~!
+			Uuu~! I hache you sho mugh~~!
+			Ich hurchhhhhhhsh!!!
+			<damage>
+				Uuu~...
+				Ich hurchsh, shchob ich.. bleashe..
+				SHchob, shchob ich already...
+				SHaguyaa.. Helb me..
+			</damage>
+		</child>
+		<adult>
+			Uuu!
+			Stop it, doー!
+			What are you doing to %name, doー!
+			Zaguyaaa!!!
+			Uuu! I hate you!!!
+			It hurrrts!!! Don't hit %name!!!
+			Ittt huuurtsss!!!
+			<damage>
+				Uu~,...
+				It hurts, do... stop it...
+				Stob it... stob it already...			
+				</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~! Uu~
+			SHchob ich dadoo~!
+			Ich hurchhhhhhhsh doo!
+			Whach are you doing cho %name dadoo?
+			SHaguya~!
+			Uuu~! I hache you sho mugh~~!
+			Ich hurchhhhhhhsh!!!
+			<damage>
+				Uu~ Uu~
+				Ich hurchsh, shchob ich.. bleashe..
+				SHchob, shchob ich already...
+				SHaguyaa.. Helb me..
+				I hache you.. ich hurchhhhhhhsh!
+			</damage>
+		</baby>
+		<child>
+			Uu~! Uu~
+			SHchob ich dadoo~!
+			Ich hurchhhhhhhsh doo!
+			Whach are you doing cho %name dadoo?
+			SHaguya~!
+			Uuu~! I hache you sho mugh~~!
+			Ich hurchhhhhhhsh!!!
+			<damage>
+				Uuu~...
+				Ich hurchsh, shchob ich.. bleashe..
+				SHchob, shchob ich already...
+				SHaguyaa.. Helb me..
+				I hache you.. ich hurchhhhhhhsh!!
+			</damage>
+		</child>
+		<adult>
+			Uuu!
+			Stop it, doー!
+			What are you doing to %name, doー!
+			Zaguyaaa!!!
+			Uuu! I hate you!!!
+			It hurrrts!!! Don't hit %name!!!
+			Ittt huuurtsss!!!
+			<damage>
+				Uuu...
+				It hurts, do... stop it...
+				Stob it... stob it already...
+				Sakuyaaa... helb me...
+				I hate you... go awayyy...
+			</damage>
+		</adult>
+	</rude>
+[/Scream]
+
+# 悲鳴2
+[Scream2]
+	<normal>
+		Yubibiiiiiiiiiiiiiiiiiiiiiiii!!!
+		Yugibibiiiiiiiiiiiiiiiiiiiiii!!!
+		Yubibiiiiiiiiiiiiiiiiiiiiii!!!
+		Bibibibibibibibibibibibibiii!!!
+		Yubaaahhhhhhhhhhhhhhhhhhhhh!!!
+		Yugegibibibibibibibibibibiii!!!
+		Pigibibibibibibibibibibibiii!!!
+		Yugogeeeeeeeeeeeeeeeeeeeeee!!!
+		Yugyoohhhhhhhhhhhhhhhhhhhhh!!!
+		Uuuuuuuuuuuuuuuuhhhhhh!!!
+		Yubububububububububububii!!!
+		Gigigigigigigigigigiii!!!
+	</normal>
+[/Scream2]
+
+# 怯え
+[Scare]
+	<normal>
+		<baby>
+			Uu~~~
+			I'm shgared dadooo!
+			SHaguya~! Helb me dadoo!!
+			Uu~~~ Dere'sh a bad shmell shomewhere......
+			<damage>
+				Uu~~
+				I'm shgared dado~~!
+				Zaguya... helb me~~~
+				Ich shchingsh,, I gan'ch chage ich eajy,,
+			</damage>
+		</baby>
+		<child>
+			Uu~...
+			I'm shgared dado~!
+			SHaguya~! Helb me bleashe!!
+			Uu~~... Dere'sh a bad shmell here~~...
+			<damage>
+				Uu~...
+				I'm shgared dado~~!
+				SHaguya...... helb me~~~
+				Ich shchingsh,, I gan'ch chage ich eajy,,
+			</damage>
+		</child>
+		<adult>
+			Uu,...
+			I'm scared dado~!
+			Sakuya~! Help me dado~!!
+			Uu,... It smells bad do...
+			<damage>
+				Uu~~!
+				%name is scaaared, do...
+				Zaguyaaa... helb me...
+				There's a bad smell, zo...
+			</damage>
+		</adult>
+	</normal>
+[/Scare]
+
+# 警戒
+[Alarm]
+	<normal>
+		<baby>
+			Uu~! Uu~
+			SHchob ich!
+			SHaguya~! Helb me dado~~!
+			I hache you~~!!!
+			Uu~! Go ober dere!!!
+			<damage>
+				SHchob ich dadoo~~!
+				SHaguyaa, Helb me~~
+				Go ober dere~~
+			</damage>
+		</baby>
+		<child>
+			Uu~! Uu~
+			SHchob ich!
+			SHaguya~! Helb me dadoo~~!
+			I hache you~~!!!
+			Uu~! Go ober dere!!!
+			<damage>
+				SHchob ich dadoo~~!
+				SHaguyaa, Helb me~~
+				Go ober dere~~~
+			</damage>
+		</child>
+		<adult>
+			Uu~? Uu~?
+			Stop it!
+			Sakuya~! Help dado~!!
+			I hate you~~!!!
+			Uu~! Go over there!!!
+			<damage>
+				Stob id dado....
+				Zaguya... Helb me.....
+				Ahh go away.....
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~! Uu~
+			SHchob ich!
+			SHaguya~! Helb me dado~~!
+			I hache you sho mugh~~!!!
+			Uu~! Go ober dere!!!
+			<damage>
+				SHchob ich dadoo~~!
+				SHaguya... Helb me,,,
+				Go ober dere,,,
+			</damage>
+		</baby>
+		<child>
+			Uu~! Uu~
+			SHchob ich, ya!
+			SHaguya~! Helb me~~!
+			I hache you sho mugh~~~!
+			Uu~! Go ober dere!!!
+			<damage>
+				SHchob ich dadoo~~!
+				SHaguya... Helb me~~~
+				Go ober dere~~
+			</damage>
+		</child>
+		<adult>
+			Uu~? Uu~?
+			Stop it!
+			Sakuya~! Help me dado~!!
+			I hate you!!!
+			Uu~! Go over there!!!
+			<damage>
+				Stob id dado....
+				Sakuya... Helb me.....
+				Aaah go away.....
+			</damage>
+		</adult>
+	</rude>
+[/Alarm]
+
+# 瀕死
+[Dying]
+	<normal>
+		<baby>
+			Uu! Uu!
+			Uu、、、
+		</baby>
+		<child>
+			Bugyu!
+			Uu~~
+		</child>
+		<adult>
+			Gekoboo!
+			Uu~~...
+		</adult>
+	</normal>
+[/Dying]
+
+# 死亡
+[Dead]
+	<normal>
+		<baby>
+			Uu~...
+			SHaguyaa~~...
+		</baby>
+		<child>
+			Uu~...
+			SHaguyaa~~...
+		</child>
+		<adult>
+			Uu~~!
+			Sakuya~!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~...
+			SHaguyaa~~...
+		</baby>
+		<child>
+			Uu~...
+			SHaguyaa~~...
+		</child>
+		<adult>
+			Uu~~!
+			Sakuya~!!
+		</adult>
+	</rude>
+[/Dead]
+
+# 食事
+[Eating]
+	<normal>
+		<baby>
+			Uu~! Uu~
+			Uu~uu~! Habbineshsh~
+			Uu~! Yummy, nyee~
+			Uu~! Dang you Mishcher~
+			Yummy♪
+			Deligioush! Ich'sh a deligioush chashche, dadoo~!
+		</baby>
+		<child>
+			Uu~! Uu~
+			Uu~uu~! Habbineshsh~
+			Uu~! Yummy, nyee~
+			Uu~! Dang you Mishcher~
+			Yummy♪
+			Deligioush! Ich'sh a deligioush chashche, dadoo~!
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Uu~u~! Happiness!
+			Uu~! Yummy dado!
+			Uu~! Mister thanks a lot!
+			Uu~! Dinner time dado~♪
+			Elegant taste dado~!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~!☆
+			Uu~!Uuー！
+			Uu～！I'm noch shachishfied dado~!
+			Drow away de beggiesh dado~!
+			U～！U～！
+			Uu~,, ich'sh sho-sho~!
+			Uu~! Ich'sh noch enough~!
+			Uu~! Bring more deligioush Mishcher food!!
+		</baby>
+		<child>
+			Uu~!☆
+			Uu~!Uuー！
+			Uu～！I'm noch shachishfied dado~!
+			Drow away de beggiesh dado~!
+			U～！U～！
+			Uu~,, ich'sh sho-sho~!
+			Uu~! Ich'sh noch enough~!
+			Uu~! Bring more deligioush Mishcher food!!
+		</child>
+		<adult>
+			Uu~!☆
+			Uu~!Uuー！
+			Uu～！I'm not satisfied dado~!
+			Throw away the veggies dado~!
+			U～！U～！
+			Uu~,, it's so-so~!
+			Uu~! I'm not satisfied with just this much dado~!
+			Uu~! Bring more delicious Mister food!!
+		</adult>
+	</rude>
+[/Eating]
+
+# 食事(うんうん)
+[EatingShit]
+	<normal>
+		<baby>
+			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
+			Mungh mungh,,, Ich chashchesh bad dado,,,,
+			Yuwaaan, ich shchingsh do,,,,
+			Why %name hash cho each boo-boo dadoo?
+			<loveplayer>
+				I don'ch wanch cho each boo-boo... go bagg cho being de nige mishcher...
+				If %name did shomeding wrong, I abologize, sho bleashe forgibe me...
+				Yubee! Boo-boo chashchesh bad doo~~!
+				I wanch cho each shweech-shweechsh doo~~~
+			</loveplayer>
+		</baby>
+		<child>
+			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
+			Mungh mungh,,, Ich chashchesh bad dado,,,,
+			Yuwaaan, ich shchingsh do,,,,
+			Why %name hash cho each boo-boo dadoo?
+			<loveplayer>
+				I don'ch wanch cho each boo-boo... go bagg cho being de nige mishcher...
+				If %name did shomeding wrong, I abologize, sho bleashe forgibe me...
+				Yubee! Boo-boo chashchesh bad doo~~!
+				I wanch cho each shweech-shweechsh doo~~~
+			</loveplayer>
+		</child>
+		<adult>
+			Uu! It stinks do, it tastes bad dado~~!!
+			Poo-poo isn't food dado....
+			Eating poo-poo is humiliating dado...
+			Why does %name have to eat it dado~?
+			<loveplayer>
+				I don't want to eat poo-poo... go back to being the nice misteeer...
+				If %name did something wrong, I apologize, so please forgive me...
+				Yugee! Poo-poo tastes awful, doo...
+				I'm sorry... please forgive me...
+			</loveplayer>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
+			Ghomb ghomb,,, Ich chashchesh bad dado,,,,
+			Yuwaaan, ich shchingsh do,,,,
+			Why %name hash cho each boo-boo dadoo?
+			<dislikeplayer>
+				SHhichchy shlabe each boo-boo...
+				SHhichchy shlabe who ish mean shhould dieee...
+				Yubee,, I don'ch wanna each boo-boo,,,
+			</dislikeplayer>
+		</baby>
+		<child>
+			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
+			Ghomb ghomb,,, Ich chashchesh bad dado,,,,
+			Eaching boo-boo ish a humiliachion, dadoo,,,
+			Why %name hash cho each boo-boo dadoo?
+			<dislikeplayer>
+				SHhichchy shlabe each boo-boo...
+				SHhichchy shlabe who ish mean shhould dieee...
+				Yubee,, I don'ch wanna each boo-boo,,,
+			</dislikeplayer>
+		</child>
+		<adult>
+			Uu! It smells bad, it's not yummy dado~~!!
+			Poo-poo isn't food dado dado...
+			Eating poo-poo is humiliating dado....
+			Why does %name have to eat it dado~?
+			<dislikeplayer>
+				Shitty slave eat poo-poo...
+				Shitty slave who is mean should dieee...
+				I don't want to eat poo-poo... hurry up and bring sweet-sweets...
+			</dislikeplayer>
+		</adult>
+	</rude>
+[/EatingShit]
+
+# 餌運び
+[TransportFood]
+	<normal>
+		<baby>
+			Mishcher food! I'll chage ich bagg cho de SHgarlech Debil Manshion doo!
+		</baby>
+		<child>
+			Mishcher food! I'll chage ich bagg cho de SHgarlech Debil Manshion doo!
+		</child>
+		<adult>
+			Mister Food, %name found you! I'll take it back to the Scarlet Devil Mansion doo!
+		</adult>
+	</normal>
+[/TransportFood]
+
+# うんうん運び
+[TransportShit]
+	<normal>
+		<baby>
+			I'm garrying boo-boo.
+			I'm gleaning boo-boo.
+			<ununSlave>
+				I'll bring boo-boo cho de choilech do...
+				Ich'sh boo-boo garrying chime dado...
+				I don'ch wanch cho glean ub boo-boo anymore...
+				I wand cho dage ich eajy, doo... yu, yu, yu..
+			</ununSlave>
+		</baby>
+		<child>
+			I'm garrying boo-boo.
+			I'm gleaning boo-boo.
+			<ununSlave>
+				Uu~! I'll bring boo-boo cho de choilech do...
+				Uu~! Ich'sh boo-boo garrying chime dado...
+				I don'ch wanch cho glean ub boo-boo anymore...
+				I wand cho dage ich eajy, doo... yu, yu, yu..
+			</ununSlave>
+		</child>
+		<adult>
+			I'm carrying poo-poo.
+			I'm cleaning poo-poo.
+			For the little ones, even though it stinks, I'll endure it dado.
+			The little ones are doing poo-poo very easy do.
+			<ununSlave>
+				I'll bring poo-poo to the toilet do...
+				It's poo-poo carrying time dado...
+				I don't want to clean up poo-poo anymore...
+				I wand to dake it easy, doo... yu, yu, yu...
+			</ununSlave>
+		</adult>
+	</normal>
+[/TransportShit]
+
+# アイテムを落とす
+[DropItem]
+	<normal>
+		<baby>
+			Heab-ho!
+			Heab-ho!!
+			CHoday'sh reshulchsh, dado!!
+			CHoday'sh worg ish done, dado!!
+			%name ish already a full-fledged adulch, dadoo-!!
+			<ununSlave>
+				Heab-ho,....
+				Heab-ho,....
+				CHoday wash anoder day of garrying boo-boo, doo......
+				I finally finishhed garrying boo-boo, doo... ich shchingsh, doo...
+			</ununSlave>
+		</baby>
+		<child>
+			Heab-ho!
+			Heab-ho!!
+			CHoday'sh reshulchsh, dado!!
+			CHoday'sh worg ish done, dado!!
+			%name ish already a full-fledged adulch, dadoo-!!
+			<ununSlave>
+				Heab-ho,....
+				Heab-ho,....
+				CHoday wash anoder day of garrying boo-boo, doo......
+				I finally finishhed garrying boo-boo, doo... ich shchingsh, doo...
+			</ununSlave>
+		</child>
+		<adult>
+			Heav-ho!
+			Heav-ho!!
+			Today's results, dado!!
+			Today's work is done, dado!!
+			<ununSlave>
+				Heav-ho,....
+				Heav-ho,....
+				Today was another day of carrying poo-poo, doo......
+				I finally finished carrying poo-poo, doo... it stinks, doo...
+			</ununSlave>
+		</adult>
+	</normal>
+[/DropItem]
+
+# 食事(まずい)
+[EatingBadtasting]
+	<normal>
+		<baby>
+			Yu~, yuuu...
+			Mungh mungh...
+			Ghomb ghomb... ich chashchesh awful, doo...
+			%name wanchsh cho each shomeding chashchier, do...
+			%name wanchsh cho each shomeding dach chagesh ich eajy more, do...
+			Mungh mungh... unhabbineshsh~...
+			Ghomb ghomb... unhabbineshsh~...
+			Ghomb ghomb... I wanch cho each shweech-shweechsh, do...
+		</baby>
+		<child>
+			Yu~, yuuu...
+			Mungh mungh...
+			Ghomb ghomb... ich chashchesh awful, doo...
+			%name wanchsh cho each shomeding chashchier, do...
+			%name wanchsh cho each shomeding dach chagesh ich eajy more, do...
+			Mungh mungh... unhabbineshsh~...
+			Ghomb ghomb... unhabbineshsh~...
+			Ghomb ghomb... I wanch cho each shweech-shweechsh, do...
+		</child>
+		<adult>
+			Yu~, yuuu...
+			Munch munch...
+			Chomp chomp... it tastes awful, doo...
+			%name wants to eat something tastier, do...
+			%name wants to eat something that takes it easy more, do...
+			Munch munch... unhappiness~...
+			Chomp chomp... unhappiness~...
+			It's a taste that doesn't take it easy, do...
+			Chomp chomp... I want to eat sweet-sweets, do...
+			Gulp, unhappiness~...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ghomb ghomb, dishgushching! Hand ober shomeding elshe!!!
+			Mungh mungh, I gan'ch each shomeding lige dish, doo!! SHchubid, doooo!!
+			Awful! Bichcher! Dish ishn'ch food ach all!!
+			Do you really ding %name would lige cho each shomeding lige dish?
+			Mungh, awful!
+			Why won'ch you gibe %name shweech-shweechsh!!!
+			Mungh mungh, %name doeshn'ch wanch cho each shomeding lige dish!!!
+			Ghomb ghomb... unhabbineshsh~!!
+			Mungh mungh... unhabbineshsh~!!
+			Ghomb, dishgushching!!! Hand ober shomeding elshe!!!
+			Hurry ub and hand ober shweech-shweechsh!!!
+			Mungh mungh... SHhichchy barench! Gan'ch you eben brebare a brober meal?!
+			Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
+			No no! %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
+			No no noo！！Awfulll！！
+			<damage>
+				Uu~ Uu~
+				Mungh mungh~~~
+				Mungh mungh Ich'sh sho dishgushching doo,...
+				Ghomb ghomb... unhabbineshsh...
+				Mungh mungh... unhabbineshsh...
+				Mungh mungh Dish mushch be shome gind of mishchage dado~!
+				Mungh why doesh guche %name habe cho each garbage lige dish doo?...
+				Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy more doo...
+				Mungh mungh, I wanch cho each shweech-shweechsh, do...
+			</damage>
+		</baby>
+		<child>
+			Ghomb ghomb, dishgushching! Hand ober shomeding elshe!!!
+			Mungh mungh, I gan'ch each shomeding lige dish, doo!! SHchubid, doooo!!
+			Awful! Bichcher! Dish ishn'ch food ach all!!
+			How gould %name ding I'd lige cho each shomeding lige dish?!
+			Mungh, awful!
+			Why won'ch you gibe %name shweech-shweechsh!!!
+			Mungh mungh, %name doeshn'ch wanch cho each shomeding lige dish!!!
+			Ghomb ghomb... unhabbineshsh~!!
+			Mungh mungh... unhabbineshsh~!!
+			Ghomb, dishgushching!!! Hand ober shomeding elshe!!!
+			Hurry ub and hand ober shweech-shweechsh!!!
+			Mungh mungh! SHhichchy barench! Gan'ch you eben brebare a brober meal?!
+			Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
+			No no! %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
+			<damage>
+				Uu~ Uu~
+				Mungh mungh~~~
+				Mungh mungh Ich'sh sho dishgushching doo,...
+				Ghomb ghomb... unhabbineshsh...
+				Mungh mungh... unhabbineshsh...
+				Ghomb ghomb gulb unhabbineshsh...
+				Mungh mungh Dish mushch be shome gind of mishchage dado~!
+				Mungh why doesh guche %name habe cho each garbage lige dish doo?...
+				Mungh mungh, %name ish bichiful, dado~? Bleashe gibe me brober Mishcher food, ogay?
+				Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy more doo...
+				Mungh mungh, I wanch cho each shweech-shweechsh, do...
+			</damage>
+		</child>
+		<adult>
+			Chew, chew, disgusting! Hand over something else!!!
+			Munch, munch, %name can't eat something like this, doo!! Stupid, doooo!!
+			Awful! Bitter! This isn't food at all!!
+			Do you think it's okay to make %name eat something like this, do?
+			Munch, awful!
+			Why won't you give %name sweet-sweets!!!
+			Munch munch, %name doesn't want to eat something like this!!!
+			Chomp chomp... unhappiness~!!
+			Chomp, disgusting!!! Hand over something else!!!
+			Hurry up and hand over sweet-sweets!!!
+			Munch munch, can a shitty slave not even prepare a proper meal!!!
+			Munch munch, %name wants to eat something that takes it easy moooore!!!
+			Chomp chomp, gulp, unhappiness~...
+			Munch munch, it tastes awful, doo... unhappiness~...
+			Munch why does %name have to eat garbage like this!!
+			Chomp chomp, eating garbage like this is the height of humiliation, doo!
+			<damage>
+				Yu, yu, uuu...
+				Munch munch...
+				Munch munch, it tastes awful, doo...
+				Chomp chomp, unhappiness~...
+				Chomp chomp, gulp, unhappiness~...
+				Munch munch... unhappiness~...
+				Munch munch, it tastes awful, doo... unhappiness~...
+				Munch munch, something like this is some kind of mistake, doo...
+				Why does cute %name have to eat garbage like this...
+				Munch munch, %name is pitiful, dado~? Please give me proper Mister food, okay?
+				Chomp chomp, %name wants to eat a meal that takes it easy more, do...
+				Munch munch, I want to eat sweet-sweets, do...
+			</damage>
+		</adult>
+	</rude>
+[/EatingBadtasting]
+
+# 食事(毒)
+[EatingBitter]
+	<normal>
+		<baby>
+			Uu~uu~~, dish ish boishonoush dado!
+			Yubeeee! Ich chashchesh cherrible dadoo~~~
+			Uu~~ Yugg!!!
+		</baby>
+		<child>
+			Uu~uu~~, dish ish boishonoush dado!
+			Yubeeee! Ich chashchesh sho bad dadoo...
+			Uu~~~ Yugg!
+		</child>
+		<adult>
+			Uu,, this is poisonous dado~!
+			Yubeeee! It tasted bad dado..,
+			Uu~~ Yuck!
+		</adult>
+	</normal>
+[/EatingBitter]
+
+# 食事(嘔吐)
+[SpitFood]
+	<normal>
+		<baby>
+			Yee~~~
+			Yuge~~~
+			Yuge~~~
+			Yubi~~~
+			Yo-ro-lo-lo-lo-lo-lo~~~
+			Yubi-yubi-yubi-yubi~~~
+			Whyyy, I gan'ch each ich, dooo...
+			Yubeee... Mishcher Food, chage ich eajy and be eachen by %nameee...
+			Yuge~~~ gyoure gara %name wa dou shhighirai yo-dooooooo~~~
+			Yugeee... whach shhould %name do now, dooo!!
+			Yugeeeeee!! Whyyy! Why doesh %name habe cho go drough dishshsh!!!
+		</baby>
+		<child>
+			Yye~~~
+			Yuge~~~
+			Yuge~~~
+			Yube~~~
+			Yorororororororo~~~
+			Yubububu~~~
+			Whyyy, I gan'ch each ich, dooo...
+			Yubeee... Mishcher Food, chage ich eajy and be eachen by %nameee...
+			Yugeeeeeeee!!! Ich'sh bichcher-bichcher and I gan'd chage ich eajyyyyyyy!!!
+			Yugeee... whach shhould %name do now, dooo!!
+			Yugeeeeee!! Whyyy! Why doesh %name habe cho go drough dish!!!
+		</child>
+		<adult>
+			Yueeeee...
+			Yugeeee...
+			Yugeeee...
+			Yubeeee...
+			Yuorororororororo...
+			Yububububu...
+			Whyyy, I can't eat it, dooo...
+			Yubeee... Mister Food, take it easy and be eaten by %nameee...
+			Yugeeeeeeee!!! It's bitter-bitter and I can'd dake id easyyyyyyy!!!
+			Yugeee... what should %name do now, dooo!!!
+			Yugeeeeee!! Whyyy! Why does %name have to go through thisss!!!
+		</adult>
+	</normal>
+[/SpitFood]
+
+# 満腹
+[Full]
+	<normal>
+		<baby>
+			Uu~! %name'sh chummy ish full dado~!
+			Uu~! CHummy'sh full dado~!
+			Ich wash deligioush dado~!
+			Uu~☆ Mishcher, dang you bery mugh dado~!
+		</baby>
+		<child>
+			Uu~! %name'sh chummy ish full dado~!
+			Uu~! CHummy'sh full dado~!
+			Ich wash deligioush dado~!
+			Uu~☆ Mishcher, dang you bery mugh dado~!
+		</child>
+		<adult>
+			Uu~! %name's tummy is full dado~!
+			Uu~! Tummy's full dado~!
+			It was delicious dado~!
+			Uu~☆ Mister, thank you very much dado~!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~,, noch quiche good yech dado~
+			Ich washn'ch bery deligioush ach all!
+			Noch quiche good yech dado~ Nexch chime bring shome buddin' dado~!
+		</baby>
+		<child>
+			Uu~,, noch quiche good yech dado~
+			Ich washn'ch bery deligioush ach all!
+			Noch quiche good yech dado~ Nexch chime bring shome buddin' dado~!
+		</child>
+		<adult>
+			Uu~,, not quite good yet dado~
+			It wasn't very delicious at all!
+			Not quite good yet dado~ Next time bring some puddin' dado~!
+		</adult>
+	</rude>
+[/Full]
+
+# 回復
+[Healing]
+	<normal>
+		<baby>
+			Deligioush shweech-shweechsh dado~!
+			Mishcher, dangsh for de shweech-shweechsh dado~☆
+			Uu~! Uu~!
+			Uu~! Mishcher, dang you sho mugh~
+			<damage>
+				gharishma☆%name ish bagg dado~！
+				%name hash made a magnifigench gomebagg!
+			</damage>
+		</baby>
+		<child>
+			Deligioush shweech-shweechsh dado~!
+			Mishcher, dangsh for de shweech-shweechsh dado~☆
+			Uu~! Uu~!
+			Uu~! Mishcher, dang you sho mugh~
+			<damage>
+				gharishma☆%name ish bagg dado~！
+				%name hash made a magnifigench gomebagg!
+			</damage>
+		</child>
+		<adult>
+			Delicious sweet-sweets dado~!
+			Mister, thanks for the sweet-sweets dado~☆
+			Uu~! Uu~!
+			Uu~! Mister, thank you so much~
+			<damage>
+				charisma☆%name is back dado~！
+				%name has made a magnificent comeback!
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~! Uu~!
+			Deligioush shweech-shweechsh dado~!
+			More shweech-shweechsh dado~!
+			<damage>
+				gharishma☆%name ish bagg dado~！
+				%name hash made a magnifigench gomebagg!
+			</damage>
+		</baby>
+		<child>
+			Uu~! Uu~!
+			Deligioush shweech-shweechsh dado~!
+			More shweech-shweechsh dado~!
+			<damage>
+				gharishma☆%name ish bagg dado~！
+				%name hash made a magnifigench gomebagg!
+			</damage>
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Delicious sweet-sweets dado~!
+			More sweet-sweets dado~!
+			<damage>
+				charisma☆%name is back dado~！
+				%name has made a magnificent comeback!
+			</damage>
+		</adult>
+	</rude>
+[/Healing]
+
+# 解放感を感じた時
+[ToFreedom]
+	<normal>
+		<baby>
+			Refreshhed!
+		</baby>
+		<child>
+			Refreshhed!
+		</child>
+		<adult>
+			Refreshed!
+		</adult>
+	</normal>
+[/ToFreedom]
+
+# 清掃された時
+[Cleaned]
+	<normal>
+		<baby>
+			Refreshhed!
+		</baby>
+		<child>
+			Refreshhed!
+		</child>
+		<adult>
+			Refreshed!
+		</adult>
+	</normal>
+[/Cleaned]
+
+# すっきり
+[Sukkiri]
+	<normal>
+		<baby>
+			Uu~!!
+			Refreshhed!
+		</baby>
+		<child>
+			Uu~!!
+			Refreshhed!
+		</child>
+		<adult>
+			Uu~!!!
+			Refreshed!
+		</adult>
+	</normal>
+[/Sukkiri]
+
+# れいぱー化してすっきりー！
+[SukkiriForRaper]
+	<normal>
+		<baby>
+			Refreshhed!!
+		</baby>
+		<child>
+			CHighch, chighch, chighch!!
+		</child>
+		<adult>
+			Tight, tight, tight!!
+		</adult>
+	</normal>
+[/SukkiriForRaper]
+
+# レイパーとすっきり
+[RaperSukkiri]
+	<normal>
+		<baby>
+			I don'ch wanch cho refreshh anymore dadoo!
+			Lichchle onesh, don'ch shbrouch, dadoooo!!!
+			Uu~、bleashe forgibe me、、、
+			SHaguya, helb me bleashe~~!
+			Uu~！Mamumamu hurchhhhhhhsh！！！
+			Uwaahhh~! I don’ch lige dish game~~!
+			%name'sh mamumamu ish going cho breeeag, doooo!!!
+			Uuu~! I hache you~~!!!
+		</baby>
+		<child>
+			I don'ch wanch cho refreshh anymore dadoo!
+			Be more genchle, dadooo!!!
+			Uu~、bleashe forgibe me~~…
+			SHaguya, helb me bleashe~~!
+			Uu~! Mamumamu hurchhhhhhhsh~~!
+			Uwaahhh~! I don’ch lige dish game~~!
+			Lichchle onesh, don'ch shbrouch, dadoooo!!!
+			%name'sh mamumamu ish going cho breeeag, doooo!!!
+			Uuu~! I hache you~~!!!
+		</child>
+		<adult>
+			I don'd wand to refresh anymore dadoo!
+			Be more gendle, dadooo!!!
+			Liddle ones, don'd sprouud, dadoooo!!!
+			Uuu... the little ones can dake id easy, but I hate thisss!!!
+			%name's mamumamu is going to breeeak, doooo!!!
+			Uuu! I hate you!!!
+		</adult>
+	</normal>
+[/RaperSukkiri]
+
+# 養殖プールすっきり
+[PoolSukkiri]
+	<normal>
+		<baby>
+			Uu~! Ich hurchhhhhhhsh~~!
+			Refreshhed-! I don'ch wanna do ich, dadoo-!
+			Liddle onesh, don'd be born, doooo!!!
+			%name ish breeeaging, doooo!!!
+			Uuu~! I hache you sho mugh~~!
+			Uuuhhh... bleashe forgibe me~~...
+			SHaguya, helb me yoo~~!
+			Uu~! Ich hurchhhhhhhsh~~!
+			Uwaahhh~! I hache dish~~!
+		</baby>
+		<child>
+			Refreshhed-! I don'ch wanna do ich, dadoo-!
+			Do ich more gendly, dadoooo!!!
+			Liddle onesh, don'd be born, doooo!!!
+			Uuuhhh... bleashe forgibe me~~...
+			%name ish breeeaging, doooo!!!
+			Uuu~! I hache you sho mugh~~!
+			SHaguya, helb me yoo~~!
+			Uu~! Ich hurchhhhhhhsh~~!
+			Uwaahhh~! I hache dish~~!
+		</child>
+		<adult>
+			I don'd wand to refresh anymoreee!
+			Do id more gendly, dadoooo!!!
+			Liddle ones, don'd be born, doooo!!!
+			%name's is going to breeeak, doooo!!!
+			Uuu! I hate you!!!
+			Uuu... the little ones can dake id easy, but I hate thisss!!!
+			Uuu! Id's breeeakinggg!!!
+			Uwaaahn! Sakuyaaa, helb meee!
+		</adult>
+	</normal>
+[/PoolSukkiri]
+
+# 誕生
+[Birth]
+	<normal>
+		Uu~! Uu~!
+		Uu~! Uu~!
+		Uu~! %name is %name dado～！Dage id eajy!
+	</normal>
+[/Birth]
+
+# 排泄
+[Shit]
+	<normal>
+		<baby>
+			Boo-boo dadoo!
+			Mishcher boo-boo ish goming ouch eajy dado~♪
+			Mishcher boo-boo ish goming ouch dado~☆
+			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			<pants>
+				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
+				Mishcher! Gan you chage Mishcher glodesh off dadoo~?
+			</pants>
+			<ununSlave>
+				Boo-boo ish goming ouch, do...
+				Mishcher boo-boo, don'ch gome ouch...
+			</ununSlave>
+		</baby>
+		<child>
+			Boo-boo dadoo!
+			Mishcher boo-boo ish goming ouch eajy dado~♪
+			Mishcher boo-boo ish goming ouch dado~☆
+			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			<pants>
+				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
+				Mishcher! Gan you chage Mishcher glodesh off dadoo~?
+			</pants>
+			<ununSlave>
+				Boo-boo ish goming ouch, do...
+				Mishcher boo-boo, don'ch gome ouch...
+			</ununSlave>
+		</child>
+		<adult>
+			Poo-poo dado~!
+			%name is doing poo-poo dado~
+			Mister poo-poo is coming out dado~☆
+			Mister poo-poo is coming out easy dado~
+			<pants>
+				Mister poo-poo is gonna leak dado~?
+				Uu! Why the clothes won't come off dado~?
+				Mister! Can you take off my clothes?
+			</pants>
+			<ununSlave>
+				Poo-poo is coming out, do...
+				Mister poo-poo, don't come out...
+			</ununSlave>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Boo-boo dado~!
+			Mishcher boo-boo ish goming ouch eajy dado~♪
+			Mishcher boo-boo ish goming ouch dado~☆
+			%name will do boo-boo eleganchly☆, doo-!
+			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			<pants>
+				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
+				SHlabe! CHage off Mishcher glodesh, doo~?
+			</pants>
+			<ununSlave>
+				Boo-boo ish goming ouch, do...
+				Mishcher boo-boo, don'ch gome ouch...
+			</ununSlave>
+		</baby>
+		<child>
+			Boo-boo dado~!
+			Mishcher boo-boo ish goming ouch eajy dado~♪
+			Mishcher boo-boo ish goming ouch dado~☆
+			%name will do boo-boo eleganchly☆, doo-!
+			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			<pants>
+				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
+				SHlabe! CHage off Mishcher glodesh, doo~?
+			</pants>
+			<ununSlave>
+				Boo-boo ish goming ouch, do...
+				Mishcher boo-boo, don'ch gome ouch...
+			</ununSlave>
+		</child>
+		<adult>
+			It's poo-poo, dadoー!
+			%name is going to do poo-poo, dadoー!
+			Mister poo-poo is coming out, dadoー☆
+			It's %name's poo-poo time, dadoー!
+			%name will do poo-poo elegantly☆, doー!
+			<pants>
+				Mister poo-poo is coming out dado~?
+				Uu! Why can't I take it off dado~?
+				Slaveee! Take off my clothes, doー?
+			</pants>
+			<ununSlave>
+				Poo-poo is coming out, do...
+				Mister poo-poo, don't come out...
+			</ununSlave>
+		</adult>
+	</rude>
+[/Shit]
+
+# 排泄2
+[Shit2]
+	<normal>
+		<baby>
+			Uu! Refreshhed!
+			Uu! I did ich all by myshelf, dado~♪
+			I'm going cho glean de boo-boo now dadoo~!
+			<pants>
+				Ich'sh groshsh, dado~!
+				Ich shchingsh doo~
+				Uu~, Ich'sh groshsh dadoo~~
+				Being dirchy ish noch eleganch, dado...
+				Being gobered in boo-boo gannoch be galled %name, dado...
+			</pants>
+			<ununSlave>
+				Boo-boo game ouch, dado...
+				Do I habe cho each dish boo-boo choo, do?...
+				Mishcher boo-boo, why did you gome ouch, do?...
+			</ununSlave>
+		</baby>
+		<child>
+			Uu! Refreshhed!
+			Uu! I did ich all by myshelf, dado~♪
+			I'm going cho glean de boo-boo now dadoo~!
+			<pants>
+				Ich'sh groshsh, dado~!
+				Ich shchingsh doo~
+				Uu~, Ich'sh groshsh dadoo~~
+				Being dirchy ish noch eleganch, dado...
+				Being gobered in boo-boo gannoch be galled %name, dado...
+			</pants>
+			<ununSlave>
+				Boo-boo game ouch, dado...
+				Do I habe cho each dish boo-boo choo, do?...
+				Mishcher boo-boo, why did you gome ouch, do?...
+			</ununSlave>
+		</child>
+		<adult>
+			Uuu! Refreshed!
+			Clean up the poo-poo, dadoー!
+			Slave! Hurry up and clean it up, dadoー!
+			<pants>
+				Uuu...
+				Something like this is humiliating, dado...
+				Uuu... %name is not a little one, dado...
+				Uuu... it stinks, do, it feels disgusting, dado...
+				Being dirty is not elegant, dado...
+				Being covered in poo-poo cannot be called %name, dado...
+			</pants>
+			<ununSlave>
+				Poo-poo came out, dado...
+				Do I have to eat this poo-poo too, do?...
+				Mister poo-poo, why did you come out, do?...
+			</ununSlave>
+		</adult>
+	</normal>
+[/Shit2]
+
+# すりすり
+[SuriSuri]
+	<normal>
+		<baby>
+			ru~b♪ru~b♪
+			uwauwa~♪
+			Myamya'sh dange ish de beshch in de world♪
+			Habbineshsh dadoo~！
+			Myamya~♪ Gishsh gishsh♪
+		</baby>
+		<child>
+			ru~b♪ru~b♪
+			uwauwa~♪
+			Mommy'sh dange ish de beshch in de world♪
+			Habbineshsh dadoo~！
+			Mommy~♪ Gishsh gishsh♪
+		</child>
+		<adult>
+			ru~b♪ru~b♪
+			uwauwa~♪
+			uu~uu~♪
+			%name is happy dadoo~!
+		</adult>
+	</normal>
+[/SuriSuri]
+
+# ぺろぺろ
+[PeroPero]
+	<normal>
+		<baby>
+			Ligg-ligg♪
+			Uu~! Myamya~♪
+			Going hunching chogeder wid myamya, doo-! Uaa-♪
+			Ich'sh brebarachion for de ball, doo~♪
+		</baby>
+		<child>
+			Ligg-ligg♪
+			Uu~! Myamya~♪
+			Going hunching chogeder wid myamya, doo-! Uaa-♪
+			Ich'sh brebarachion for de ball, doo~♪
+		</child>
+		<adult>
+			li~ck li~ck~♪
+			uuu~♪ Little one's such a sweetheart dadoo~
+			Uu~!! %name is so happy dadoo~!!
+			Uuu~! It's preparation for the ball, doo~♪
+			It's about time for the little ones to practice hunting too, doo~!
+		</adult>
+	</normal>
+[/PeroPero]
+
+# 出産
+[Breed]
+	<normal>
+		<baby>
+			Uu,,, I'm being born, doo,,,
+		</baby>
+		<child>
+			Uu,,, I'm being born, doo,,,
+		</child>
+		<adult>
+			Uu,,, The little ones are moving dadoo,...
+			Uuu... they're being born, doo...
+		</adult>
+	</normal>
+[/Breed]
+
+# 産後
+[Breed2]
+	<normal>
+		Little ones, take it easy, dadoo~♪
+		They're little ones that looks exactly like %name and %partner, dado~☆
+		<pants>
+			%name's liddle oneees!
+			Uuu~ liddle ones~!
+		</pants>
+	</normal>
+[/Breed2]
+
+# うんうん発見
+[HateShit]
+	<normal>
+		<baby>
+			Uu~! Ich shchingsh doo~!
+			Boo-boo shchingsh doo~!
+			<damage>
+				Ich shchingsh doo~...
+				Boo-boo shchingsh doo~...
+			</damage>
+			<ununSlave>
+				Ich shchingsh~~~
+				I don'ch wanch cho shee boo-boo anymore~~~
+				I hache boo-boo~~~
+			</ununSlave>
+		</baby>
+		<child>
+			Uu~! I wanch you cho glean ub de boo-boo doo!
+			Uu~~~ Why ich shchingsh doo~?
+			<damage>
+				Ich shchingsh doo~...
+				Boo-boo shchingsh doo~...
+			</damage>
+			<ununSlave>
+				Ich shmellsh bad, I gan'ch chage ich eajy...
+				I don'ch wanch cho shee boo-boo anymore...
+				I hache boo-boo...
+			</ununSlave>
+		</child>
+		<adult>
+			Uu~! I want you to clean up the poo-poo do!
+			Uu~! Please clean it up dado~!
+			<damage>
+				Smelly dado...Can't take it easy dado...
+				Why did this happen to %name dado...
+			</damage>
+			<ununSlave>
+				It smells bad, I can't take it easy doo...
+				I don't want to see poo-poo anymore...
+				I hate poo-poo...
+			</ununSlave>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~! Ich shchingsh doo~!
+			Boo-boo shchingsh doo~!
+			SHhichchy barench who won'ch lech %name chage ich eajy shhould drob dead, dadoo-!
+			<damage>
+				Ich shchingsh doo~...
+				Boo-boo shchingsh doo~...
+			</damage>
+			<ununSlave>
+				Ich shchingsh~~~
+				I don'ch wanch cho shee boo-boo anymore~~~
+				I hache boo-boo~~~
+			</ununSlave>
+		</baby>
+		<child>
+			Uu~ I wanch you cho glean ub de boo-boo doo!
+			Uu~~ Why ich shchingsh doo~?
+			SHhichchy barench who won'ch lech %name chage ich eajy shhould drob dead, dadoo-!
+			<damage>
+				Ich shchingsh doo~...
+				Boo-boo shchingsh doo~...
+			</damage>
+			<ununSlave>
+				Ich shmellsh bad, gan'ch chage ich eajy....
+				I don'ch wanch cho shee boo-boo anymore....
+				I hache boo-boo....
+			</ununSlave>
+		</child>
+		<adult>
+			Uu~! Time to clean up poo-poo dado~!
+			%name can't take it easy dado~!
+			<damage>
+				Smelly dado... Can't take it easy dado...
+				Why did this happen to %name dado...
+			</damage>
+			<ununSlave>
+				It smells bad, can't take it easy do....
+				I don't want to see poo-poo anymore....
+				I hate poo-poo....
+			</ununSlave>
+		</adult>
+	</rude>
+[/HateShit]
+
+# あほの子がうんうんを威嚇するセリフ
+[ShitIntimidation]
+	<normal>
+		<baby>
+			Bufff！Bufff！！！
+			Mishcher boo-boo！Go ober dere！
+			Mishcher boo-boo！Go away！Buff dooo！
+			Uu！Uuu！！！
+			Boo-boo, go ober dere dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+		</baby>
+		<child>
+			Bufff！Bufff！！！
+			Mishcher boo-boo！Go ober dere！
+			Mishcher boo-boo！Go away！Buff dooo！
+			Uu！Uuu！！！
+			Boo-boo, go ober dere dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Bufff！Bufff！！！
+			%name will bunishh de chrashhy boo-boo doo-!
+			Mishcher boo-boo！Go ober dere！
+			Go away Mishcher boo-boo！Buff dooo！
+			Uu！Uuu！！！
+			Boo-boo, go ober dere dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+		</baby>
+		<child>
+			Bufff！Bufff！！！
+			%name will bunishh de chrashhy boo-boo doo-!
+			Mishcher boo-boo！Go ober dere！
+			Go away Mishcher boo-boo！Buff dooo！
+			Uu！Uuu！！！
+			Boo-boo, go ober dere dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/ShitIntimidation]
+
+# 空腹
+[Hungry]
+	<normal>
+		<baby>
+			Bleashe gibe me Mishcher food!
+			Uu~~...
+			My chummy ish rumbling, dado~!
+			Uuu~~~ shweech-shweechsh~~~
+			SHaguyaa~~~ SHaguyaa~~~
+			<damage>
+				Uu~......
+				My chummy ish rumbling, dado~~!
+				Uuu~~~, shweech-shweechsh~~~~~
+				Zaguyaa... zaguyaaaa~~~
+			</damage>
+			<ununSlave>
+				I wanna each shomeding oder dan boo-boo,,,
+				I don'ch wanch cho each boo-boo...
+				I don'ch wanch boo-boo anymore...
+				Why are you being sho mean do...?
+			</ununSlave>
+		</baby>
+		<child>
+			Bleashe gibe Mishcher food cho %name!
+			My chummy ish rumbling dado~!
+			U～,,.. shweech-shweechsh ..,
+			SHaguyaaa,,, SHaguyaaa,,,
+			<damage>
+				Uu~......
+				My chummy ish rumbling, dado~~!
+				Uuu~~~, shweech-shweechsh~~~~~
+				Zaguyaa... zaguyaaaa~~~
+			</damage>
+			<ununSlave>
+				I wanna each shomeding oder dan boo-boo,,,
+				I don'ch wanch cho each boo-boo...
+				I don'ch wanch boo-boo anymore...
+				Why are you being sho mean do...?
+			</ununSlave>
+		</child>
+		<adult>
+			Please give Mister food to %name!
+			My tummy is rumbling dado~!
+			U～,,.. sweet-sweets ..,
+			Sakuyaaa,,, Sakuyaaa,,,
+			<damage>
+				Food to %name blease
+				Uu,...
+				My tummy is rumbling dado~!
+				U~~, ababa~~,
+				Sakuya~, Sakuya~,
+			</damage>
+			<ununSlave>
+				I wanna eat something other than poo-poo,,,
+				I don't want to eat poo-poo...
+				I don't want poo-poo anymore...
+				Why are you being so mean do...?
+			</ununSlave>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Bring me shweech-shweechsh!
+			My chummy ish rumbling dado~!
+			Uu~~~ shweech-shweechsh~~~
+			SHaguya... SHaguya......
+			<damage>
+				Yu、Mishcher food,,,
+				Uu~~~
+				My chummy ish rumbling dado~!
+				Uu~~..., shweech-shweechsh...
+				Zaguyaaa, zaguyaaa~~~
+			</damage>
+			<ununSlave>
+				I wanna each shomeding oder dan boo-boo,,,
+				I don'ch wanch cho each boo-boo,...
+				I don'ch wanch boo-boo anymore...
+				Why are you being sho mean do...?
+			</ununSlave>
+		</baby>
+		<child>
+			Bring %name shweech-shweechsh!
+			My chummy ish rumbling dado~!
+			Uu~~~ shweech-shweechsh~~~
+			SHaguya... SHaguya...
+			<damage>
+				I'm sho hungry doo~~~
+				Uu~......
+				My chummy ish rumbling dado~!
+				Uuu~~~ shweech-shweechsh......
+				Zaguya~~ Zaguya~~~
+			</damage>
+			<ununSlave>
+				I wanna each shomeding oder dan boo-boo,,,
+				I don'ch wanch cho each boo-boo,...
+				I don'ch wanch boo-boo anymore...
+				Why are you being sho mean do...?
+			</ununSlave>
+		</child>
+		<adult>
+			Bring %name sweet-sweets right now! Lots is fine do!
+			My tummy is rumbling dado~!
+			U～,,,... sweet-sweets,,,
+			Sakuyaaa,,, Sakuyaa,,,
+			<damage>
+				Food to %name blease
+				Uu,...
+				My tummy is rumbling dado~!
+				U~,... ababa,...
+				Sakuya..., Sakuya...
+			</damage>
+			<ununSlave>
+				I wanna eat something other than poo-poo,,,
+				I don't want to eat poo-poo,...
+				I don't want poo-poo anymore...
+				Why are you being so mean do...?
+			</ununSlave>
+		</adult>
+	</rude>
+[/Hungry]
+
+# おぼうし没収
+[NoAccessory]
+	<normal>
+		<baby>
+			Uu~! Uu~
+			Uu~! I wanch ich bagg! I wanch ich bagg!
+			Mishcher hach! Gibe me bagg %name'sh Mishcher hach!
+			Uu~? Uu~!!!
+			Gibe bagg %name'sh gharishma☆ Mishcher hach dadoo!
+			Uu~! Gibe ich bagg dadoo!
+			Uu~! SHchob being sho mean dadoo!
+			Don'ch chage Mishcher Hach awayyy!
+		</baby>
+		<child>
+			Uu~! Uu~
+			Uu~! I wanch ich bagg! I wanch ich bagg!
+			Mishcher hach! Gibe me bagg %name'sh Mishcher hach!
+			Uu~? Uu~!!!
+			Gibe bagg %name'sh gharishma☆ Mishcher hach dadoo!
+			Uu~! Gibe ich bagg dadoo!
+			Uu~! SHchob being sho mean dadoo!
+			Don'ch chage Mishcher Hach awayyy!
+		</child>
+		<adult>
+			Uu~~! Uu~~!
+			Uu~! Give it back! Give it back!!
+			Uu~! Can't take it easy do!
+			Uu～? Uu～!!!
+			%name's Karisuma☆Mister hat, give it back dado!
+			Uu~! Give it back dado~!
+			Uu~! Don't be mean dado~!
+			Don'd dake Mister Had awayyy!
+		</adult>
+	</normal>
+[/NoAccessory]
+
+# おぼうしがなくなっていることに気がつく
+[NoticeNoAccessory]
+	<normal>
+		<baby>
+			Yu~en! Where ish %name'sh aweshome Mishcher hach gone do!?
+			Yu~en!!! %name'sh guche hach ish gone doo~!?
+		</baby>
+		<child>
+			Yu~en! Where ish %name'sh aweshome Mishcher hach gone do!?
+			Yu~en!!! %name'sh guche hach ish gone doo~!?
+		</child>
+		<adult>
+			Yu~en! Where is %name's awesome Mister hat gone do!?
+			Yuwaaaaa!!! %name's cute hat is gone doo~!?
+		</adult>
+	</normal>
+[/NoticeNoAccessory]
+
+# 他ゆんのおぼうしをこっそり奪う
+[GetOtherAccessoryStealthily]
+	<normal>
+		<baby>
+			SHlooowly, shlooowly. %name will shegrechly chage Mishcher Hach
+		</baby>
+		<child>
+			SHlooowly, shlooowly. %name will shegrechly chage Mishcher Hach
+		</child>
+		<adult>
+			Slooowly, slooowly. %name will secretly take Mister Hat
+		</adult>
+	</normal>
+[/GetOtherAccessoryStealthily]
+
+# 持ち上げ
+[Flying]
+	<normal>
+		<baby>
+			Uuu~?
+			Flooaching, flooaching♪, dadooo~!
+			U-uu☆ fluffy♪ U-uu☆ fluffy♪
+		</baby>
+		<child>
+			Uuu~?
+			Flooaching, flooaching♪, dadooo~!
+			U-uu☆ fluffy♪ U-uu☆ fluffy♪
+		</child>
+		<adult>
+			Uuu~?
+			Flooating, flooating♪, dadooo~!
+			U-uu☆ fluffy♪ U-uu☆ fluffy♪
+		</adult>
+	</normal>
+[/Flying]
+
+# 子供死亡
+[SadnessForChild]
+	<normal>
+		<baby>
+			Uu~? %name'sh lichchle one oben your eyesh!
+			Uuu! Why iz da liddle one dead, dooooo!?
+			%name'sh lichchle one
+			Lichchle one! oben your eyesh dado~!
+			Whach'sh wrong wid %name'sh lichchle one dadooooo！？
+		</baby>
+		<child>
+			Uu~? %name'sh lichchle one oben your eyesh!
+			Uuu! Why iz da liddle one dead, dooooo!?
+			%name'sh lichchle one
+			Lichchle one! oben your eyesh dado~!
+			Whach'sh wrong wid %name'sh lichchle one dadooooo！？
+		</child>
+		<adult>
+			Uu~? %name's little one open your eyes!
+			Uuu! Why iz da liddle one dead, dooooo!?
+			Uu~? %name didn't do anything wrong!!!
+			%name's little one
+			Little one! open your eyes dado~!
+			What's wrong with %name's little one dadooooo！？
+		</adult>
+	</normal>
+[/SadnessForChild]
+
+# つがい死亡
+[SadnessForPartner]
+	<normal>
+		%partner, open your eyes already, dado~!
+		Uaah~! Uaah~!!
+	</normal>
+[/SadnessForPartner]
+
+# 姉死亡
+[SadnessForEldersister]
+	<normal>
+		<baby>
+			Big shishcher, oben your eyesh dado~!
+			Whach shhould %name do dado~?
+		</baby>
+		<child>
+			Big shishcher, oben your eyesh dado~!
+			Whach shhould %name do dado~?
+		</child>
+		<adult>
+			Big sister, open your eyes dado~!
+			What should %name do dado~?
+		</adult>
+	</normal>
+[/SadnessForEldersister]
+
+# 妹死亡
+[SadnessForSister]
+	<normal>
+		<baby>
+			Lichchle shishcher, oben your eyesh dado~!
+			Whach shhould %name do dado~?
+		</baby>
+		<child>
+			Lichchle shishcher, oben your eyesh dado~!
+			Whach shhould %name do dado~?
+		</child>
+		<adult>
+			Little sister, open your eyes dado~!
+			What should %name do dado~?
+		</adult>
+	</normal>
+[/SadnessForSister]
+
+# 壁発見
+[BlockedByWall]
+	<normal>
+		<baby>
+			%name gan'ch mobe forwaaard, dadooo!?
+			Don'd gech in %name'sh waaaay, dadooo!!!
+			Uuu-! Go awaaay!!!
+		</baby>
+		<child>
+			%name gan'ch mobe forwaaard, dadooo!?
+			Don'd gech in %name'sh waaaay, dadooo!!!
+			Uuu-! Go awaaay!!!
+		</child>
+		<adult>
+			%name can'd move forwaaard, dadooo!?
+			Don'd ged in %name's waaaay, dadooo!!!
+			Uuu-! Go awaaay!!!
+		</adult>
+	</normal>
+[/BlockedByWall]
+
+# おもちゃ発見
+[GetTreasure]
+	<normal>
+		<baby>
+			%name will mage ich %name'sh chreashure, do~!
+			I'm chaging ich home cho de Goumagan, dadoo~☆
+		</baby>
+		<child>
+			%name will mage ich %name'sh chreashure, do~!
+			I'm chaging ich home cho de Goumagan, dadoo~☆
+		</child>
+		<adult>
+			%name will make it %name's treasure, do~!
+			I'm taking it home to the Koumakan, dadoo~☆
+		</adult>
+	</normal>
+[/GetTreasure]
+
+# おもちゃ紛失
+[LostTreasure]
+	<normal>
+		<baby>
+			Uu~! Uu~!
+			Gibe bagg %name'sh chreashure, dadoo-!
+		</baby>
+		<child>
+			Uu~! Uu~!
+			Gibe bagg %name'sh chreashure, dadoo-!
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Give back %name's treasure, dadoo-!
+		</adult>
+	</normal>
+[/LostTreasure]
+
+# 膨張
+[Inflation]
+	<normal>
+		<baby>
+			CHummy ish going cho exblodeeeee!
+			CHummy hurdchsh!
+			Ich'sh bainfuuuuul!!!!
+			Zaguyaaaaaa helb meeeee!!!!
+			Ich hurchhhhhhhsh!!! Mishcher helb meee!!!!
+			Helb meee! %name doeshn'ch wanch do dieee dadoo!!!!!!
+		</baby>
+		<child>
+			CHummy ish going cho exblodeeeee!
+			CHummy hurdchsh!
+			Ich'sh bainfuuuuul!!!!
+			Zaguyaaaaaa helb meeeee!!!!
+			Ich hurchhhhhhhsh!!! Mishcher helb meee!!!!
+			Helb meee! %name doeshn'ch wanch do dieee dadoo!!!!!!
+		</child>
+		<adult>
+			Tummy is going to explodeeeee!
+			Tummy hurdddddsss!
+			Id's bainfuuuuul!!!!
+			Zaguyaaaaaa helb meeeee!!!!
+			Id hurdddddsss!!! Misder helb meee!!!!
+			Help meee! %name doesn'd wand do dieee!!!!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			CHummy ish going cho exblodeeeee!
+			CHummy hurchhhhhhhsh!
+			SHaguyaaaaa! Helb meeeee!!!
+			Ich'sh bainfuuuuul!!!!
+			Ich hurchhhhhhhsh!!! SHhichchy old geezer, helb meee!!!!
+			Old geezer, helb meee! %name doeshn'ch wanch do dieee, dadooooo!!!!!!
+		</baby>
+		<child>
+			CHummy ish going cho exblodeeeee!
+			CHummy hurchhhhhhhsh!
+			SHaguyaaaaa! Helb meeeee!!!
+			Ich'sh bainfuuuuul!!!!
+			Ich hurchhhhhhhsh!!! SHhichchy old geezer, helb meee!!!!
+			Old geezer, helb meee! %name doeshn'ch wanch do dieee, dadooooo!!!!!!
+		</child>
+		<adult>
+			Tummy is going to explodeeeee!
+			Tummy hurdddddsss!
+			Sakuyaaaaa! Help meeeee!!!
+			Id's bainfuuuuul!!!!
+			Id hurdddddsss!!! Shiddy old geezer, helb meee!!!!
+			Old geezer, helb meee! %name doesn'd wand do dieee, dadooooo!!!!!!
+		</adult>
+	</rude>
+[/Inflation]
+
+# 子虐待
+[AbuseBaby]
+	<normal>
+		<baby>
+			Uu~! Uu~!
+			Why are you doing dish, dadooo!!!
+		</baby>
+		<child>
+			Uu~! Uu~!
+			Why are you doing dish, dadooo!!!
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Why are you doing dis, dadooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu! Uu~!
+			Uu-! Don'ch bully de baby, dadoo-!
+		</baby>
+		<child>
+			Uu! Uu~!
+			Uu-! Don'ch bully de baby, dadoo-!
+			Why are you doing dish, dadooooo!!!
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Uuu! Don't lay a hand on the little one, dadoo-!
+			Why are you doing dis, dadooooo!!!
+		</adult>
+	</rude>
+[/AbuseBaby]
+
+# 子虐待死
+[AbuseBabyKilled]
+	<normal>
+		<baby>
+			Uu! Uu!
+			Uuu-! Gibe de baby bagg, dadoo-!!!
+			Why are you doing dish, dadooo!!!
+		</baby>
+		<child>
+			Uu! Uu!
+			Uuu-! Gibe de baby bagg, dadoo-!!!
+			Why are you doing dish, dadooo!!!
+		</child>
+		<adult>
+			Uu! Uu!
+			Uuu-! Give the little one back, dadoo-!!!
+			Why are you doing dis, dadooo!!!
+			Give bag %name's little oneee!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~! Uu~!
+			Why are you doing dish, dadooooo!!!
+			SHgum! Debil! I'll gill you, dadooooo!!!
+			SHchob ich! Gibe bagg %name'sh baby, dadooooo!!!
+		</baby>
+		<child>
+			Uu~! Uu~!
+			Why are you doing dish, dadooooo!!!
+			SHgum! Debil! I'll gill you, dadooooo!!!
+			SHchob ich! Gibe bagg %name'sh baby, dadooooo!!!
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Why are you doing dis, dadooooo!!!
+			Scum! Devil! I'll gill you, dadooooo!!!
+			Sdob idddd! Give bag %name's little one, dadooooo!!!
+		</adult>
+	</rude>
+[/AbuseBabyKilled]
+
+# のびのび
+[Nobinobi]
+	<normal>
+		<baby>
+			Uu~♪ Uu~♪
+			Uu~♪ shchrechghy~shchrechghy♪
+			Uu~♪ uuu~♪
+		</baby>
+		<child>
+			Uu~♪ Uu~
+			Uu~♪ shchrechghy~shchrechghy♪
+			Uu~♪ uuu~♪
+		</child>
+		<adult>
+			Uu~♪Uu~♪
+			Uu~♪stretchy~stretchy dadoo~♪
+			%name is doing stretchy~stretchy dadoo~♪
+			Uu~♪Uuu--♪
+		</adult>
+	</normal>
+[/Nobinobi]
+
+# 出産前
+[NearToBirth]
+		<normal>
+		<baby>
+			De babiesh are abouch cho be born dado~!
+			De babiesh are mobing healdily dado~! Bufff!
+			Mishcher bed, where are you dado~?
+			SHo guche sho guche de lichchle onesh are going cho be born dado~!
+			%name will begome a moder dado~!
+		</baby>
+		<child>
+			De babiesh are abouch cho be born dado~!
+			De lichchle onesh are mobing healdily dado~! Bufff!
+			Mishcher bed, where are you dado~?
+			SHo guche sho guche de lichchle onesh are going cho be born dado~!
+			%name will begome a moder dado~!
+		</child>
+		<adult>
+			%name's little one are about to be born dado~!
+			The little ones are moving healthily dado~!
+			Mister bed, where are you dado~?
+			So cute so cute the little ones are going to be born dado~!
+			%name will become a mother dado~!
+		</adult>
+	</normal>
+[/NearToBirth]
+
+# 毒
+[PoisonDamage]
+	<normal>
+		<baby>
+			Uu! Ich hurchhhhhhhsh!
+			Uu~~, Yu bii!!
+			Yuboo, yuboo~~
+			Zaguyaaaaa!!!
+			<damage>
+				Green onion...
+				Helb gigigi...
+			</damage>
+		</baby>
+		<child>
+			Uu! Helb me~!
+			Uu,,, shomeone bleashe~~!
+			Uu? Ich hurchhhhhhhsh~~!
+			Zaguyaaaaaa!!!
+			<damage>
+				Gill me
+				Yugigigigigigi
+			</damage>
+		</child>
+		<adult>
+			Uuu-! Uuu-! Id's poison-!
+			Uuu,, %name wants to get out of here!!
+			Uuu-? B-breath is,,,
+			Zaguyaaaaa!!!
+			<damage>
+				Howaaaa
+				Let me out let me out let me out let me out
+			</damage>
+		</adult>
+	</normal>
+[/PoisonDamage]
+
+# 排泄不可
+[CantShit]
+		<normal>
+		<baby>
+			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher boo-boo ish noch goming ouch doo!
+		</baby>
+		<child>
+			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher boo-boo ish noch goming ouch doo!
+		</child>
+		<adult>
+			Poo-poo won't come out, dadoo-!
+			Mister Poo-poo, don't take it easy and come out, dadoo-!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher boo-boo ish noch goming ouch doo!
+		</baby>
+		<child>
+			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher boo-boo ish noch goming ouch doo!
+		</child>
+		<adult>
+			Poo-poo won't come out, dadoo-!
+			Poo-poo, don't take it easy and come out, dadoo-!
+		</adult>
+	</rude>
+[/CantShit]
+
+# 妊娠失敗
+[NoPregnancy]
+	<normal>
+		<baby>
+		Uu~! I gan'ch gome ash a baby~?!
+		Where ish my baby%name? Where hash ich gone~?!
+		</baby>
+		<child>
+		Uu~! I gan'ch gome ash a baby~?!
+		Where ish my baby? Where hash ich gone~?!
+		</child>
+		<adult>
+			%name wants little ones dado....
+			Why can't %name make little ones dado....
+			U～! Why can'd %name ged pregnant, dadooooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu! %name gan'ch habe a baby doo~?!
+			Where ish my %name'sh baby dadoo?
+		</baby>
+		<child>
+			Uu! %name gan'ch habe a baby doo~?!
+			Where ish my %name'sh baby dadoo?
+		</child>
+		<adult>
+			%name wants little ones dado....
+			Why can't %name make little ones dado....
+			U～! Why can'd %name ged pregnant, dadooooo!!!
+		</adult>
+	</rude>
+[/NoPregnancy]
+
+# 恐怖でパニック状態
+[Fear]
+	<normal>
+		<baby>
+			Uu! Uu!
+			SHaguyaaaaa!!!
+			<damage>
+				Uu~ Uu~
+				SHaguyaaa~~~
+				Myamyaaaaa~~~
+			</damage>
+		</baby>
+		<child>
+			Uu! Uu!
+			SHaaguyaaaaa!!!
+			<damage>
+				Uu~~~ Uu~~~
+				SHaguyaa~~~
+				Mommyyyy~~~
+			</damage>
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Sakuya~!!！
+			<damage>
+				Uu,,, Uu,,,
+				Sakuyaaaaa,,,
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu! Uu!
+			SHaguyaaaaa!!!
+			<damage>
+				Uu~ Uu~
+				SHagu-yaa~~~
+				Myamyaaaaa~~~
+			</damage>
+		</baby>
+		<child>
+			Uu! Uu!
+			SHaaguyaaaaa!!!
+			<damage>
+				Uu~ Uu~
+				SHaguyaaaa~~~
+				Mommyyyy~~~
+			</damage>
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Sakuya~!!！
+			<damage>
+				Uu,, Uu,..
+				Sakuya~,~ ~
+			</damage>
+		</adult>
+	</rude>
+[/Fear]
+
+# 火がついてる状態
+[Burning]
+	<normal>
+		<baby>
+			Uu~!
+			Ich'sh hwoooooch dadoo!
+			SHaguya! Helb mee~☆
+			Myamya! Ich'sh hwooch doo~!
+			<damage>
+				Uu~Uu~Uu~....
+				hwoch... helb me....
+				Nooo,,, nooo, dooo,,, %name doeshn'd wand do die, dooo,,,
+				%name wanched cho uauaa wid Mishcher, dooo,,,
+			</damage>
+		</baby>
+		<child>
+			Uu~!
+			Ich'sh hwoooooch dadoo!
+			SHaguya~! Helb mee~!
+			Mommyyy! Ich'sh hwooch doo~!
+			<damage>
+				Uu~Uu~Uu~....
+				hwoch... helb me....
+				Nooo,,, nooo, dooo,,, %name doeshn'd wand do die, dooo,,,
+				%name wanched cho uauaa wid Mishcher, dooo,,,
+			</damage>
+		</child>
+		<adult>
+			It's hwooooot!
+			Helb meeeeeee!
+			It's too hot I can't take it easy dado~~!!
+			Sakuya a~a~a~!!
+			<damage>
+				Uu~Uu~Uu~....
+				hwot... helb me....
+				Nooo,,, nooo, dooo,,, %name doesn'd wand do die, dooo,,,
+				%name wanted to uauaa with Mister, dooo,,,
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~!
+			Ich'sh hwoooooch dadoo!
+			SHaguya! Helb mee~☆
+			Myamya! Ich'sh hwooch doo~!
+			<damage>
+				Uu~Uu~Uu~....
+				hwoch... helb me....
+				Nooo,,, nooo, dooo,,, %name doeshn'ch wanch cho die, dooo,,,
+				gharishma How gould you do shugh a ding cho %name, dadooo,,,
+			</damage>
+		</baby>
+		<child>
+			Uu~!
+			Ich'sh hwoooooch dadoo!
+			SHaguya~! Helb mee~!
+			Mommyyy! Ich'sh hwooch doo~!
+			<damage>
+				Uu~Uu~Uu~....
+				hwoch... helb me....
+				Nooo,,, nooo, dooo,,, %name doeshn'ch wanch do die, dooo,,,
+				gharishma How gould you do shugh a ding cho %name, dadooo,,,
+			</damage>
+		</child>
+		<adult>
+			It's hwooooot!
+			Helb meeeeeee!
+			Sakuya a~a~a~!!
+			<damage>
+				Uu~Uu~Uu~....
+				hwot... helb me....
+				Nooo,,, nooo, dooo,,, %name doesn'd wand do die, dooo,,,
+				charisma How could you do such a thing to %name, dadooo,,,
+			</damage>
+		</adult>
+	</rude>
+[/Burning]
+
+# 水をかけられた
+[Wet]
+	<normal>
+		<baby>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</baby>
+		<child>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</child>
+		<adult>
+			Id's cwoldddd, dadoo-!
+			Mister Water can't take it easy, dadoo-! Stop it, dadoo~?
+			<damage>
+				Id's cwoldddd, dadoo-,,,
+				Uu~,... %name's feet are melting, do,,,
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</baby>
+		<child>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</child>
+		<adult>
+			Id's cwoldddd, dadoo-!
+			Mister Water can't take it easy, dadoo-! Stop it, dadoo~?
+			<damage>
+				Id's cwoldddd, dadoo-,,,
+				Uu~,... %name's feet are melting, do,,,
+			</damage>
+		</adult>
+	</rude>
+[/Wet]
+
+# 水の中にいる(浅瀬)
+[WetInShallowWater]
+	<normal>
+		<baby>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</baby>
+		<child>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</child>
+		<adult>
+			Id's cwoldddd, dadoo-!
+			Mister Water can't take it easy, dadoo-! Stop it, dadoo~?
+			<damage>
+				Id's cwoldddd, dadoo-,,,
+				Uu~,... %name's feet are melting, do,,,
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</baby>
+		<child>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</child>
+		<adult>
+			Id's cwoldddd, dadoo-!
+			Mister Water can't take it easy, dadoo-! Stop it, dadoo~?
+			<damage>
+				Id's cwoldddd, dadoo-,,,
+				Uu~,... %name's feet are melting, do,,,
+			</damage>
+		</adult>
+	</rude>
+[/WetInShallowWater]
+
+# 水の中にいる(深瀬)
+[WetInDeepwWater]
+	<normal>
+		<baby>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</baby>
+		<child>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</child>
+		<adult>
+			Id's cwoldddd, dadoo-!
+			Mister Water can't take it easy, dadoo-! Stop it, dadoo~?
+			<damage>
+				Id's cwoldddd, dadoo-,,,
+				Uu~,... %name's feet are melting, do,,,
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</baby>
+		<child>
+			Ich'sh gwoldddd, dadoo-!
+			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			<damage>
+				Ich'sh gwoldddd, dadoo-,,,
+				%name'sh feech are melching, do,,,
+			</damage>
+		</child>
+		<adult>
+			Id's cwoldddd, dadoo-!
+			Mister Water can't take it easy, dadoo-! Stop it, dadoo~?
+			<damage>
+				Id's cwoldddd, dadoo-,,,
+				Uu~,... %name's feet are melting, do,,,
+			</damage>
+		</adult>
+	</rude>
+[/WetInDeepwWater]
+
+# あにゃる閉鎖
+[AnalSealed]
+	<normal>
+		<baby>
+			Uu~♪
+			Nooo~ sho naughchy☆
+		</baby>
+		<child>
+			Uu~♪ Ich chigglesh doo~♪
+			Nooo~ sho naughchy☆
+		</child>
+		<adult>
+			Uu~♪ It tickles doo~♪
+			Nooo~ so naughty☆
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~♪
+			Nooo~ sho naughchy☆
+		</baby>
+		<child>
+			Uu~♪ Ich chigglesh doo~♪
+			Nooo~ sho naughchy☆
+		</child>
+		<adult>
+			It tickles dadoo~
+			Nooo~ so naughty☆
+			Uuu, to be interested in a place like that, you really are a pervert, dadoo~
+		</adult>
+	</rude>
+[/AnalSealed]
+
+# 針が刺さった時
+[NeedleStick]
+	<normal>
+		<baby>
+			Bigii！？
+			Uu！？
+			Gibiii！
+			Id hurdsh, doo-!
+			Uuu！Uuu！
+		</baby>
+		<child>
+			Bigii！？
+			Uu！？
+			Gibiii！
+			Id hurdsh, doo-!
+			Uuu！Uuu！
+		</child>
+		<adult>
+			Id hurds, doo-!
+			Vuu-! Vuu--!
+		</adult>
+	</normal>
+[/NeedleStick]
+
+# 針が刺さっている時
+[NeedleScream]
+	<normal>
+		<baby>
+			CHage dishshshshsh!!!
+			Uwaaaaaaaah!!!
+		</baby>
+		<child>
+			CHage dishshshshsh!!!
+			Uwaaaaaaaah!!!
+		</child>
+		<adult>
+			Dake disssss!!!
+			Uwaaaaaaaah!!!
+		</adult>
+	</normal>
+[/NeedleScream]
+
+# あにゃるに針が刺さっている時
+[NeedleScreamInAnal]
+	<normal>
+		<baby>
+			CHage dish!!!
+			Uwaaaaaaaah!!!
+			%name'sh Mishcher Anyaru Birginichyyyyy!
+		</baby>
+		<child>
+			CHage dish!!!
+			Uwaaaaaaaah!!!
+			%name'sh Mishcher Anyaru Birginichyyyyy!
+		</child>
+		<adult>
+			Dake disssss!!!
+			Uwaaaaaaaah!!!
+			%name's Mister Anyaru Virginityyyyy!
+		</adult>
+	</normal>
+[/NeedleScreamInAnal]
+
+# つがいの針をぐーりぐりする
+[ExtractingNeedlePartner]
+	<normal>
+		<baby>
+			Uu! I'll shabe you now, doo-!
+			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
+			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+		</baby>
+		<child>
+			Uu! I'll shabe you now, doo-!
+			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
+			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+		</child>
+		<adult>
+			Uuu-! %partner, I'll save you now, doo-!
+			Uuu-! Needle, don't take it easy and come out quickly-!
+			Uuu-! %partner hates it, doo-! Go away, needle-!
+			Uuu-! The needle who bullies %partner will get punished doo-!
+			Uuu-? Why won'd the needle come oud, dooooo!?
+			What are you doing, dadoo~? Sdob id, dadoo-!
+		</adult>
+	</normal>
+[/ExtractingNeedlePartner]
+
+# 子の針をぐーりぐりする
+[ExtractingNeedleChild]
+	<normal>
+		<baby>
+			Uu! I'll shabe you now, doo-!
+			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
+			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+		</baby>
+		<child>
+			Uu! I'll shabe you now, doo-!
+			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
+			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+		</child>
+		<adult>
+			Uuu-! Little one, I'll save you now, doo-!
+			Uuu-! Needle, don't take it easy and come out quickly-!
+			Uuu-! The little one hates it, doo-! Go away, needle-!
+			Uuu-! The needle who bullies the little one will get punished doo-!
+			Uuu-? Why won'd the needle come oud, dooooo!?
+			What are you doing, doo~? Sdob id, dadoo-!
+		</adult>
+	</normal>
+[/ExtractingNeedleChild]
+
+# 被ぐーりぐり時
+[NeedlePain]
+	<normal>
+		<baby>
+			Uu~, SHchob ich!
+			Uuu~! Don'd grind ich!
+			Uu~, helb... Yugyaaahh!
+			SHchob ich dado~!
+			Ich hurchhhhhhhsh!!!
+		</baby>
+		<child>
+			Uu~, SHchob ich!
+			Uuu~! Don'd grind ich!
+			Uu~, helb... Yugyaaahh!
+			SHchob ich dado~!
+			Ich hurchhhhhhhsh!!!
+		</child>
+		<adult>
+			Uu~, Stob iddd!
+			Uuu~! Don'd grind idddddd!
+			Uu~, help... Yugyaaahh!
+			Stob id dado~!
+			Id hurdddddsss!!!
+		</adult>
+	</normal>
+[/NeedlePain]
+
+# 針を抜いた時
+[NeedleRemove]
+	<normal>
+		<baby>
+			Uuu,, id hurchsh, doo,,,
+		</baby>
+		<child>
+			Uuu,, id hurchsh, doo,,,
+		</child>
+		<adult>
+			Uuu,, id hurdds, doo,,,
+		</adult>
+	</normal>
+[/NeedleRemove]
+
+# あまあま要求
+[WantAmaama]
+	<normal>
+		<baby>
+			Mishcher shweech-shweechsh where are you ,,..
+			Mishcher shweech-shweechsh gome quiggly dado..,..
+			%name'sh Mishcher shweech-shweechsh where did you go !!
+			I wanch cho each Mishcher shweech-shweechsh dooo!!
+			%name wanchsh cho each shweech-shweechsh !
+		</baby>
+		<child>
+			Mishcher shweech-shweechsh where are you ,,..
+			Mishcher shweech-shweechsh gome quiggly dado..,..
+			%name'sh Mishcher shweech-shweechsh where did you go !!
+			I wanch cho each Mishcher shweech-shweechsh dooo!!
+			%name wanchsh cho each shweech-shweechsh !
+		</child>
+		<adult>
+			Mister sweet-sweets where are you ,,..
+			Mister sweet-sweets come quickly dado..,..
+			%name's Mister sweet-sweets where did you go !!
+			I want to eat Mister sweet-sweets dooo!!
+			%name wants to eat sweet-sweets !
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			shweech-shweechsh~♪
+			Gibe shweech-shweechsh☆ cho gherishh %name dado~！
+			buddin~♪
+		</baby>
+		<child>
+			shweech-shweechsh~♪
+			Gibe shweech-shweechsh☆ cho gherishh %name dado~！
+			buddin~♪
+		</child>
+		<adult>
+			sweet-sweets~♪
+			Give sweet-sweets☆ to cherish %name dado~！
+			puddin~♪
+		</adult>
+	</rude>
+[/WantAmaama]
+
+# 移動不能
+[CantMove]
+	<normal>
+		<baby>
+			Uuu~? I gan'd mobe forward, dadoo~?
+			Uu~? Whad ish dish~?
+			Uu~? Mishcher Feech won'ch mobe do?
+			Uu~! Mishcher Feech mobe ub eajy dado~?
+		</baby>
+		<child>
+			Uuu~? I gan'd mobe forward, dadoo~?
+			Uu~? Whad ish dish~?
+			Uu~? Mishcher Feech won'ch mobe do?
+			Uu~! Mishcher Feech mobe ub eajy dado~?
+		</child>
+		<adult>
+			Uuu~? I can'd move forward, dadoo~?
+			Uu~? Whad is dis~?
+			Uu~? Mister Feet won't move do?
+			Uu~! Mister Feet move up easy dado~?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uuu~? I gan'ch mobe forward, dadoo~?
+			Uuu~? Whach ish dish~?
+		</baby>
+		<child>
+			Uuu~? I gan'ch mobe forward, dadoo~?
+			Uuu~? Whach ish dish~?
+		</child>
+		<adult>
+			Uuu~? I can'd move forward, dadoo~?
+			Uuu~? Whad is dis~?
+		</adult>
+	</rude>
+[/CantMove]
+
+# 移動不能2
+[CantMove2]
+	<normal>
+		<baby>
+			Whach'sh de machcher? I gan'ch mobe forward, dadoo~?
+			Uu~! I hache bershishchench dingsh-!
+			Uu! Uu! Mishcher Feech, why won'ch you mobe ach all!?
+		</baby>
+		<child>
+			Whach'sh de machcher? I gan'ch mobe forward, dadoo~?
+			Uu~! I hache bershishchench dingsh-!
+			Uu! Uu! Mishcher Feech, why won'ch you mobe ach all!?
+		</child>
+		<adult>
+			Uu! Uu! Mister Feet, why won't you move at all!?
+			What's the matter? I can'd move forward, dadoo~?
+			Uu~! I hade persisdend dings-!
+		</adult>
+	</normal>
+[/CantMove2]
+
+# 目潰し
+[BLINDING]
+	<normal>
+		<baby>
+			Braishe me!!!!
+			%name'sh big round eyesh, yangya~a~a~a!!!
+			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
+			SHchob ich!!!
+			Bigiii!!!!!!!!
+		</baby>
+		<child>
+			Braishe me!!!!
+			%name'sh big round eyesh, yangya~a~a~a!!!
+			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
+			SHchob ich!!! Bring dem bagg, bring dem baggggggg!!
+			Yuguuuuuuu！！
+		</child>
+		<adult>
+			Praise me!!!!
+			%name's big round eyes, yangya~a~a~a!!!
+			Id hurdddddsss!!! Mister eyes, where did you goooooo!!
+			Stop it! Bring them back, bring them backkkkkk!!
+			Uuuuuaaaaaaahhh!!
+			Yugggguuuuuuuu!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Braishe me!!!!
+			%name'sh big round eyesh, yangya~a~a~a!!!
+			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
+			SHchob ich!!!
+			Bigiii!!!!!!!!
+			Uwaaaaaaaa！！Do you ding ich'sh ogay cho do shugh a ding！？
+		</baby>
+		<child>
+			Braishe me!!!!
+			%name'sh big round eyesh, yangya~a~a~a!!!
+			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
+			SHchob ich!!! Bring dem bagg, bring dem baggggggg!!
+			Uwaaaaaaaa!!!
+			Yugiiiii!! Do you ding ich'sh ogay cho do shugh a ding！？
+		</child>
+		<adult>
+			Praise me!!!!
+			%name's big round eyes, yangya~a~a~a!!!
+			Id hurdddddsss!!! Mister eyes, where did you go dadooooo!!
+			Stop it! Bring them back, bring them backkkkkk!!
+			Yugiigiiiii！！I will never forgive such things！！
+			Yugiigiii! Do you think it's okay to do such a thing doo!？
+			Yugiigii!!! This is the worst thing in the world!!!! dadooooo！！！
+			Uwaaaahhhhhhhhhhhhhhhhhhhhhh！！
+		</adult>
+	</rude>
+[/BLINDING]
+
+# 見えない
+[CANTSEE]
+	<normal>
+		<baby>
+			Yu.....Yugii~...
+			Eberyone...where did you go dado...
+			Myamyaaaa!!! Where are youuuu~~?
+			Ich'sh darg... Ich'sh shgaryyyy...
+			SHaguyaaaa!!! Where are youuuu~~?
+			%name ish here do..? Where did eberyone go dado..?
+			Ich'sh darg... Ich'sh shgaryyyy...
+			Pacheeeee!!! Where are youuuu~~?
+		</baby>
+		<child>
+			Yu.....Yugii~...
+			Eberyone...where did you go dado...
+			Mommyyyyy!!! Where are youuuu~~?
+			Ich'sh darg... Ich'sh shgaryyyy...
+			SHaguyaaaa!!! Where are youuuu~~?
+			%name ish here do..? Where did eberyone go dado..?
+			Hi, hiiii...
+			Ich'sh darg... Ich'sh shgaryyyy...
+			Pacheeeee!!! Where are youuuu~~?
+		</child>
+		<adult>
+			Yuki.....Yuki~...
+			Everyone...where did you go dado...
+			%partner!!!!! Where are you~~!?
+			Id's dark, doo... Id's sgaryyyy, doo...
+			Mister Sun...don't be mean...
+			%name is here do..? Where did everyone go dado..?
+			Hi, hi..
+			Id's dark, doo... I'm scared, doo...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu.....Yugii~...
+			Eberyone...where did you go dado...
+			Myamyaaaa!!! Where are youuuu~~?
+			Ich'sh darg... Ich'sh shgaryyyy...
+			SHaguyaaaa!!! Where are youuuu~~?
+			%name ish here do..? Where did eberyone go dado..?
+			Ich'sh darg... Ich'sh shgaryyyy...
+			Pacheeeee!!! Where are youuuu~~?
+		</baby>
+		<child>
+			Yu.....Yugii~...
+			Eberyone...where did you go dado...
+			Mommyyyyy!!! Where are youuuu~~?
+			Ich'sh darg... Ich'sh shgaryyyy...
+			SHaguyaaaa!!! Where are youuuu~~?
+			%name ish here do..? Where did eberyone go dado..?
+			Hi, hiiii...
+			Ich'sh darg... Ich'sh shgaryyyy...
+			Pacheeeee!!! Where are youuuu~~?
+		</child>
+		<adult>
+			Yuh... Yuhi...
+			Everyone... Where did you go...
+			%partner!!! Where!!?
+			Id's dark doo... Scary doo...
+			Mister Sun... Don't be mean doo...
+			%name is here do..? Where did everyone go dado..?
+			Hi, hi...
+			Id's dark doo... Scary doo...
+		</adult>
+	</rude>
+[/CANTSEE]
+
+# むしる
+[PLUNCKING]
+	<normal>
+		<baby>
+			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
+			Ich hurchhhhhhhsh! I gan'ch chage ich eajy~!!
+			Uwaaaah!! I don'ch wanch cho be a bald manjuu~!!
+		</baby>
+		<child>
+			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
+			Uwaaaaaaaah!! Mishcher hair, where did you go yooooooooooo!!
+			Ich hurchhhhhhhsh! I gan'ch chage ich eajy doo~!!!
+			Yugyaaaaaaa!! I don'ch wanch cho be a bald manjuu!!
+		</child>
+		<adult>
+			Stop it! Give it back, give it back yoooooo!!
+			Uwaaaaaaaah!! %name's Mister silky-smooth hair is gone uwaaaah!!
+			Uwaaaaaaaah!! Mister hair, where did you go yooooooooooo!!
+			Id hurddddddddssssss!! Bald manjuu can't take it easy!!
+			Yugyaaaaaaa!! I don't want to be a bald manjuu!!
+			Uwaaaah!! Like dis, I can'd go to the pardy, dadooooo!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
+			Ich hurchhhhhhhsh! I gan'ch chage ich eajy~!!
+			Uwaaaah!! I don'ch wanch cho be a bald manjuu~!!
+		</baby>
+		<child>
+			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
+			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Yunyaaa~! Mishcher hair, where did you go yooooooooooo!!
+			Ich hurchhhhhhhsh! I gan'ch chage ich eajy~!!
+			Uwaaaah!! I don'ch wanch cho be a bald manjuu~!!
+		</child>
+		<adult>
+			Uwaaaaaaaah!! %name's Mister silky-smooth hair is gone uwaaaah!!
+			Stop it! Give me back, give it back yoooooo!!
+			Uwaaaaaaaah!! Mister hair, where did you go yooooooooooo!!
+			Id hurddddddddssssss!! Bald manjuu can't take it easy!!
+			Uwaaaaaaaah!! I don't want to be a bald manjuu!!
+			It's okay for only the damn slave to be bald dadoooooo!!!!
+			Uu~~!! W-what are you laughing at dado! Give it back right now dado!!
+			Uwaaaah!! Like dis, I can'd go to the pardy, dadooooo!
+		</adult>
+	</rude>
+[/PLUNCKING]
+
+# つちのなかにいる
+[BaryInUnderGround]
+	<normal>
+		<baby>
+			Ich'sh agonizinggg!!,,, gech me ouch of hereee!,,,
+			Ich'sh darg, doo,,, ich'sh grambed, doo,,,
+			If %name did a bad ding, I'll abologize,,,
+			I gan'd breadeee,,,
+			<damage>
+				Habe,,, mergy,,,,,,
+				Jushch gill me,,,
+				I'm shorry,,, I'm shor,, ry,,,,
+			</damage>
+		</baby>
+		<child>
+			Ich'sh agonizinggg!!,,, gech me ouch of hereee!,,,
+			Ich'sh darg, doo,,, ich'sh grambed, doo,,,
+			If %name did a bad ding, I'll abologize,,,
+			I gan'd breadeee,,,
+			<damage>
+				Habe,,, mergy,,,,,,
+				Jushch gill me,,,
+				I'm shorry,,, I'm shor,, ry,,,,
+			</damage>
+		</child>
+		<adult>
+			Id's agonizinggg!!,,, ged me oud of hereee!,,,
+			Id's dark, doo,,, id's cramped, doo,,,
+			If %name did a bad thing, I'll abologize,,,
+			I can'd breatheee,,,
+			<damage>
+				Habe,,, mercy,,,,,,
+				Jusd kill me,,,
+				I'b zorry,,, I'b zor,, ry,,,,
+			</damage>
+		</adult>
+	</normal>
+[/BaryInUnderGround]
+
+# 引っ張る
+[Pull]
+	<normal>
+		<baby>
+			Uu~? Whach are you doing dado~?
+			Uu~? SHchregh-shchregh?
+			Uu-! SHchob ich righch now-! I gan'ch chage ich eajy, doo-!
+			Uu~? SHchregh-shchregh?
+		</baby>
+		<child>
+			Uu~? Whach are you doing dado~?
+			Uu~? SHchregh-shchregh?
+			Uu-! SHchob ich righch now-! I gan'ch chage ich eajy, doo-!
+			Uu~? SHchregh-shchregh?
+		</child>
+		<adult>
+			Uu~? What are you doing dado~?
+			Uu~? Strech-strech?
+			Uu~?!
+			Uu~! Touch gently~!
+			Uu~! Stop it! I can't take it easy doo~!
+		</adult>
+	</normal>
+[/Pull]
+
+# 引っ張る2
+[Pull2]
+	<normal>
+		<baby>
+			Uu~!! Ich'sh ogay!! Don'ch shchrechgh anymore doo!!
+			Uu~!! Ich'll breag ub!!
+			Uu~!Uu~!! SHchob ich!!
+			Uu~? Ich hurchhhhhhhsh!!
+			Ich hurchhhhhhhsh!! SHchob ich dado!!
+			Zaguya~!! Helb meeee!!!
+		</baby>
+		<child>
+			Uu~!! Ich'sh ogay!! Don'ch shchrechgh anymore doo!!
+			Uu~!! Ich'll breag ub!!
+			Uu~!Uu~!! SHchob ich!!
+			Uu~? Ich hurchhhhhhhsh!!
+			Ich hurchhhhhhhsh!! SHchob ich dado!!
+			Zaguya~!! Helb meeee!!!
+		</child>
+		<adult>
+			Uu~!! It's okay!! Don't stretch anymore doo!!
+			Uu~!! It'll break up!!
+			Uu~!Uu~!! Stob iddd!!
+			Uu~? Id hurdddddsss!!
+			Id hurdddddsss!! Stob iddd dado!!
+			Zaguya~!! Helb meeee!!!
+		</adult>
+	</normal>
+[/Pull2]
+
+# つぶす
+[Press]
+	<normal>
+		<baby>
+			Uu~?
+			Whach are you doing, dado~?
+		</baby>
+		<child>
+			Uu~?
+			Whach are you doing, dado~?
+		</child>
+		<adult>
+			Uu~?
+			What are you doing dado~?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu~?
+			Whach are you doing dado~?
+			Don'd chough %name'sh head sho gashually, dadoo-!
+		</baby>
+		<child>
+			Uu~?
+			Whach are you doing dado~?
+			Don'd chough %name'sh head sho gashually, dadoo-!
+		</child>
+		<adult>
+			Uu~?
+			What are you doing dado~?
+			Don'd douch %name's head so casually, dadoo-!
+		</adult>
+	</rude>
+[/Press]
+
+# つぶす2
+[Press2]
+	<normal>
+		<baby>
+			Uu~! Uu~!
+			Being grushhed uuuu! SHchob ich dado~!
+			Zaguyaaaa!!!
+			Uu~! SHchob ich! Damn human!!!!
+			Uu~! Uu~!
+			Uu~! Being grushhed uuu!
+			Uu~! Ich hurchhhhhhhsh!!!
+		</baby>
+		<child>
+			Uu~! Uu~!
+			Being grushhed uuuu! SHchob ich dado~!
+			Zaguyaaaa!!!
+			Uu~! SHchob ich! Damn human!!!!
+			Uu~! Uu~!
+			Uu~! Being grushhed uuu!
+			Uu~! Id hurchhhhhhhsh!!!
+		</child>
+		<adult>
+			Uu~! Uu~!
+			Being crushed uuuu! Stop it dado~!
+			Zaguyaaaa!!!
+			Uu~! Stop it! Damn human!!!!
+			Uu~! Uu~!
+			Uu~! Being crushed uuu!
+			Uu~! Id hurdddddsss!!!
+		</adult>
+	</normal>
+[/Press2]
+
+# 加工所でつぶされる
+[KilledInFactory]
+	<normal>
+		<baby>
+			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!!
+			%name doeshn'ch wanch cho die yech!!!
+			%name hashn'ch had a ghange cho chage ich eajy ach all yech doo!!
+			I wanch cho each shweechsh and be habby doo!!
+			Why gan'ch I chage ich eajy doo?!
+			%name and de odersh haben'ch done anyding, doo-!!
+			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
+			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcher human!! Bleashe helb %name!!
+			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
+			Yugyaaaaaaaa!!!
+			Lech'sh chage ich eajy chogeder wid %name!!
+			Human-shamaaaaaa!!!
+			Zaguyaaaa!!!
+			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
+			Uwaaaaaaaa!!!!
+			I wanna go bagg cho de SHgarlech Debil Manshiooooon!!!
+			No no noooooo!!!!
+			No no noooooo, shomeone helb meeee!!!!!
+			Ach leashch for de lashch chime!!!
+			eajy, eajyyyy~!!!
+			I don'ch wanch cho die!! Bleashe helb me!!
+			%name ish noch jushch shome ordinary manjuu~~
+			SHaguyaaaaaa!!!! Pacheeeeee!!
+			SHaguyaaaaaa, helb meee!!
+			Pacheeeeee!!!
+			I wanched cho gech married, doooo!!
+			I shchill haben'ch refreshhed, doooo!!!
+			I wanched lichchle onesh, doooo!!!
+			I wanna mungh-mungh food wid my guche liddle onesh, doooo!!!
+			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+		</baby>
+		<child>
+			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!!
+			%name doeshn'ch wanch cho die yech!!!
+			%name hashn'ch had a ghange cho chage ich eajy ach all yech doo!!
+			Zaguyaaaa!!
+			I wanch cho each shweechsh and be habby doo!!
+			Why gan'ch I chage ich eajy doo?!
+			%name and de odersh haben'ch done anyding, doo-!!
+			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
+			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcher human!! Bleashe helb %name!!
+			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
+			Yugyaaaaaaaa!!!
+			Lech'sh chage ich eajy chogeder wid %name!!
+			Human-shamaaaaaa!!!
+			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
+			Uwaaaaaa!!
+			I wanna go bagg cho de SHgarlech Debil Manshiooooon!!!
+			No no noooooo!!!!
+			No no noooooo, shomeone helb meeee!!!!!
+			Ach leashch for de lashch chime!!!
+			eajy, eajyyyy~!!!
+			I don'ch wanch cho die!! Bleashe helb me!!
+			%name ish noch jushch shome ordinary manjuu~~
+			SHaguyaaaaaa!!
+			SHaguyaaaa, helb me!!!!
+			Pacheeeeee!!
+			I wanched cho gech married, doooo!!
+			I shchill haben'ch refreshhed, doooo!!!
+			I wanched lichchle onesh, doooo!!!
+			I wanna mungh-mungh food wid my guche liddle onesh, doooo!!!
+			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+		</child>
+		<adult>
+			No No!!! I don't want to die!! I don't want to die!!!
+			%name doesn't want to die yet!!!
+			%name hasn't had a chance to take it easy at all yet doo!!
+			I want to eat sweets and be happy doo!!
+			Why can't I take it easy doo?!
+			%name and the others haven'd done anyding, doo-!!
+			Even dough %name and the others haven'd done anyding wrongggg!!!
+			Even dough %name and the others jusd wand to dake id easyyyyy!!!
+			Easy Easy!!!
+			Zaguyaaaaahaa!!!
+			Mister human!! Please help %name!!
+			I'll abologizeee!!! Zo blease forgibe meee!!! I don'd wand to dieee!!
+			Yunyaaaaaa!! Yunyaaaaaa!!
+			Yugyaaa!!!!
+			Let's take it easy together with %name!!
+			Human-samaaaaaa!!!
+			I'll abologizeee!!! Zo blease don'd kill meee!!!
+			Uwwwwwwwaaaaaaa!!!!!
+			No no noooooo!!!!
+			No no noooooo, someone help meeee!!!!!
+			At least for the last time!!!
+			I don'd wand to dieee! Helb meee!!!
+			%name and the others are alive too, dooooo!!!
+			%name is nod a manjuu!!!
+			I wand to munch-munch food wid my cude babies, dooooo!!!
+			On zunny days, I wand to bask in de zun and go znuggle ub wid everyoneee!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!!
+			%name doeshn'ch wanch cho die yech!!!
+			%name hashn'ch had a ghange cho chage ich eajy ach all yech doo!!
+			I wanch cho each shweechsh and be habby doo!!
+			Why gan'ch I chage ich eajy doo?!
+			%name and de odersh haben'ch done anyding, doo-!!
+			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
+			Helb guche %name!!! Lech me chage ich eajyyyy!!
+			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcher human!! Bleashe helb %name!!
+			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
+			%name ish noch a yugguri who shhould die in a blage lige dish, dooooo!!!
+			Yugyaaaaaaa! ! !
+			Zaguyaaaa!!!
+			I'll shchill lech you chage ich eajy wid %name, doo-!! SHo don'ch gill meee!!!
+			Whach do you shhichchy humansh ding life ish, dooooo!!
+			Human-shamaaaaaa!!!
+			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
+			Ash if I gould die in a blage lige dishshsh!!
+			Uwaaaaaaaa~!
+			No no noooooo!!!!
+			No no noooooo, shomeone helb meeee!!!!!
+			I don'ch wanch cho die!! Bleashe helb me!!
+			%name and de odersh are alibe choo, dadooooo!!!
+			Ich'sh a noble bloodline, dadooooo!!!
+			%name ish noch jushch shome ordinary manjuu~~
+			SHaguyaaaaaa!!!! Pacheeeeee!!
+			SHaguyaaaaaa, helb meee!!
+			Pacheeeeee!!!
+			I wanched cho gech married, doooo!!
+			I shchill haben'ch refreshhed, doooo!!!
+			I wanched lichchle onesh, doooo!!!
+			I wanna mungh-mungh food wid my guche liddle onesh, doooo!!!
+			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+		</baby>
+		<child>
+			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!!
+			%name doeshn'ch wanch cho die yech!!!
+			%name hashn'ch had a ghange cho chage ich eajy ach all yech doo!!
+			I wanch cho each shweechsh and be habby doo!!
+			Why gan'ch I chage ich eajy doo?!
+			%name and de odersh haben'ch done anyding, doo-!!
+			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
+			Helb guche %name!!! Lech me chage ich eajyyyy!!
+			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcher human!! Bleashe helb %name!!
+			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
+			%name ish noch a yugguri who shhould die in a blage lige dish, dooooo!!!
+			Yugyaaaaaaa! ! !
+			I'll shchill lech you chage ich eajy wid %name, doo-!! SHo don'ch gill meee!!!
+			Whach do you shhichchy humansh ding life ish, dooooo!!
+			Zaguyaaaa!!!
+			Human-shamaaaaaa!!!
+			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
+			Ash if I gould die in a blage lige dishshsh!!
+			Uwaaaaaaaa~!
+			No no noooooo!!!!
+			No no noooooo, shomeone helb meeee!!!!!
+			I don'ch wanch cho die!! Bleashe helb me!!
+			%name and de odersh are alibe choo, dadooooo!!!
+			Ich'sh a noble bloodline, dadooooo!!!
+			%name ish noch jushch shome ordinary manjuu~~
+			SHaguyaaaaaa!!!! Pacheeeeee!!
+			SHaguyaaaaaa, helb meee!!
+			Pacheeeeee!!!
+			%name wash gheegyyyy!! I'm shorryyy!! Helb meee!!
+			I wanched cho gech married, doooo!!
+			I shchill haben'ch refreshhed, doooo!!!
+			I wanched lichchle onesh, doooo!!!
+			I wand cho mungh-mungh food wid my gude babiesh, dooooo!!!
+			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+		</child>
+		<adult>
+			Nooooo!!! I don'd wand to die!! I don'd wand to dieee!!
+			%name doesn'd wand to dieee yet!!!!
+			%name hasn'd daken id easy ad all yed, dooooo!!
+			I wand to ead sweeds and be habby, doo-!!
+			Why can'd I dake id easy, dooooo!?!
+			%name and the others haven'd done anyding, doo-!!
+			Even dough %name and the others haven'd done anyding wrongggg!!!
+			Zaguyaaaaa!!!
+			Even dough %name and the others jusd wand to dake id easyyyyy!!!
+			Mister Human!! Zave %name!!
+			I'll abologizeee!!! Zo blease forgibe meee!!! I don'd wand to dieee!!
+			Yunyaaaaaaa!! Yunyaaaaaaa!!!
+			%name is nod a yukkuri who should die in a blace like dis, dooooo!!!
+			Yugyaaaaaa!!!
+			I'll sdill led you dake id easy wid %name, doo-!! Zo don'd kill meee!!!
+			Whad do you shiddy humans think life is, dooooo!!
+			Mister Humannnnn!!!
+			I'll abologizeee! I'll abologize, zo don'd kill meee!!!
+			As if I could die in a blace like disss!!
+			Uwaaaaaaa!!!!
+			%name was cheegyyyy!! I'b zorryyy!! Zave meee!!
+			Nooo nooo nooooo!!!
+			Nooo nooo nooo, zomeone zave meee!!!
+			I don'd wand to dieee! Helb meee!!!
+			%name and the others are alive too, dadooooo!!!
+			Id's a noble bloodline, dadooooo!!!
+			%name is nod a manjuu!!!
+			I wand to munch-munch food wid my cude babies, dooooo!!!
+			On zunny days, I wand to bask in de zun and go uaa-uaa wid everyoneee!!!
+		</adult>
+	</rude>
+[/KilledInFactory]
+
+# あまあま発見
+[FindAmaama]
+	<normal>
+		<baby>
+			SHweech-shweechsh dado~!
+			buddin~♪
+			Uu~! SHweech-shweechsh!!!
+			Uu! SHweech-shweechsh dado~!
+			Uu! SHweech-shweechsh♪SHweech-shweechsh♪
+			UuUu! Mishcher, dang you for shweech-shweechsh dado~!
+		</baby>
+		<child>
+			SHweech-shweechsh dado~!
+			buddin~♪
+			Uu~! SHweech-shweechsh!!!
+			Uu! SHweech-shweechsh dado~!
+			Uu! SHweech-shweechsh♪SHweech-shweechsh♪
+			UuUu! Mishcher, dang you for shweech-shweechsh dado~!
+		</child>
+		<adult>
+			Sweet-sweets dado~!
+			puddin~♪
+			Uu~! Sweet-sweets!!!
+			Uu! Sweet-sweets dado~!
+			Uu! Sweet-sweets♪Sweet-sweets♪
+			UuUu! Mister, thank you for sweet-sweets dado~!
+		</adult>
+	</normal>
+[/FindAmaama]
+
+# あまあま食事
+[EatingAmaama]
+	<normal>
+		<baby>
+			Uu☆ SHweech-shweechsh♪
+			Gibe more shweech-shweechsh cho %name dado~!
+			Ich'sh an eleganch chashche! dado ☆~!
+			Bery shweech～♪
+		</baby>
+		<child>
+			Uu☆ SHweech-shweechsh♪
+			Gibe more shweech-shweechsh cho %name dado~!
+			Ich'sh an eleganch chashche! dado ☆~!
+			Bery shweech～♪
+		</child>
+		<adult>
+			Uu☆ Sweet-sweets♪
+			Give more sweet-sweets to %name dado~!
+			It's an elegant taste! dado ☆~!
+			Very sweet～♪
+		</adult>
+	</normal>
+[/EatingAmaama]
+
+# 野菜発見
+[FindVegetable]
+	<normal>
+		<baby>
+			Yuwaaa,, ich'sh a bery eajy Mishcher begechable-!
+			While %name wash chaging ich eajy, Mishcher begechablesh shcharched growing on deir own dadoo!
+		</baby>
+		<child>
+			Yuwaaa,, ich'sh a bery eajy Mishcher begechable-!
+			While %name wash chaging ich eajy, Mishcher begechablesh shcharched growing on deir own dadoo!
+		</child>
+		<adult>
+			Yuwaaa,, id'z a bery eazy Mister Vegedable-!
+			While %name was taking it easy, Mister vegetables started growing on their own dadoo!
+		</adult>
+	</normal>
+[/FindVegetable]
+
+# 吐餡
+[Vomit]
+	<normal>
+		<baby>
+			Yubuu...
+			Yububu...
+			Oeeee!!!
+		</baby>
+		<child>
+			Yubuu...
+			Yububu...
+			Oeeee!!!
+		</child>
+		<adult>
+			Yubuu...
+			Yububu...
+			Oeeee!!!
+		</adult>
+	</normal>
+[/Vomit]
+
+# 汎用、瀕死継続
+[Dying2]
+	<normal>
+		<baby>
+			Uu... uUu...
+			ugguggug...
+			Bleashe,, jushch,, gill meee,,,
+		</baby>
+		<child>
+			Uu~ Uu~...
+			Bleashe,, jushch,, gill meee,,,
+		</child>
+		<adult>
+			Uu... uUu...
+			ugguggug...
+			Blease,, jusd,, kill meee,,,
+		</adult>
+	</normal>
+[/Dying2]
+
+# 汎用、驚き
+[Surprise]
+	<normal>
+		<baby>
+			Why ish dish habbening, dadooooo!?
+			Uu? Uuu~?
+			Uuu-? I hache dish-!
+			%name hashn'ch done anyding wrong, doo-?
+		</baby>
+		<child>
+			Why ish dish habbening, dadooooo!?
+			Uu? Uuu~?
+			Uuu-? I hache dish-!
+			%name hashn'ch done anyding wrong, doo-?
+		</child>
+		<adult>
+			Why is dis habbening, dadooooo!?
+			Uu? Uuu~?
+			Uuu-? I hade dis-!
+			%name hasn'd done anyding wrong, doo-?
+		</adult>
+	</normal>
+[/Surprise]
+
+# 皮を剥かれる
+[PEALING]
+	<normal>
+		<baby>
+			Uuuuu---!!! Don'ch beel-beel meee!!!
+			Bigii!! Don'ch do gruel dingsh cho %name'sh world-enbied flawleshsh shginnnn!!!
+			Yugyeeee!! SHchob ich! Why are you beel-beeling me, dooooo?!
+			Yugii!! SHaguyaaaa! Ich hurchhhhhhhsh doo!!!
+		</baby>
+		<child>
+			Uuuuu---!!! Don'ch beel-beel meee!!!
+			Bigii!! Don'ch do gruel dingsh cho %name'sh world-enbied flawleshsh shginnnn!!!
+			Yugyeeee!! SHchob ich! Why are you beel-beeling me, dooooo?!
+			Yugii!! SHaguyaaaa! Beel-beel hurchhhhhhhsh doo!!!
+		</child>
+		<adult>
+			Uuuuu---!!! Don'd peel-peel meee!!!
+			Pigii!! Don'd do cruel dings to %name's world-envied flawless skinnnn!!!
+			Yugyeeee!! Sdob iddd! Why are you peel-peeling me, dooooo?!
+			Yugiiiii!! %partner-! Don'd worry aboud %name, zo hurry ub and run awayyy!!!
+			To %partner-! Blease don'd do cruel dings to %partnerrr!!!
+			Yugyoeeeeee!!!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uuuuu---!!! Don'ch beel-beel meee!!!
+			Bigii!! Don'ch do gruel dingsh cho %name'sh world-enbied flawleshsh shginnnn!!!
+			Yugyeeee!! SHchob ich! Why are you beel-beeling me, dooooo?!
+			Yugyaaaa!! SHhichchy barench!! Helb meee!!!
+			Bigiiiiiiiiiiiiii~!!
+		</baby>
+		<child>
+			Uu! Uu!
+			Bigi! Bigi! %name'sh shhushhing ish sho meany~!!
+			Yugi! SHchob ich already! Ich'sh maging me shquishh-shquishh~!!
+			Yugyaaaa!! SHhichchy barench!! Helb meee!!!
+			Bigiiiiiiiiiiiiii~!!
+		</child>
+		<adult>
+			Uuuuu---!!! Don'd beel-beel meee!!!
+			Yugyaaaaa!! Whad are you doing to %name's world-envied flawless skinnnn, dooooo!!!
+			Yugiiiii!! Sdob iddd! Why are you peel-peeling me, dooooo?!
+			Pigiiiii!! %partner-! Hurry ub and zave %nameee!!!
+			Yugyoeeeeeeeeeeee!!!!!!
+		</adult>
+	</rude>
+[/PEALING]
+
+# 汎用、ゆっくりできなくて嘆く(低)
+[LamentLowYukkuri]
+	<normal>
+		<baby>
+			I wanch cho be eajy dooo,,,
+			Lech me be eajy,,,
+			Why won'ch you lech me be eajy doo?
+			I wanch cho be eajy,,,
+			For shome reashon, I gan'ch chage ich eajy,,,
+		</baby>
+		<child>
+			I wanch cho be eajy dooo,,,
+			Lech me be eajy,,,
+			Why won'ch you lech me be eajy doo?
+			I wanch cho be eajy,,,
+			For shome reashon, I gan'ch chage ich eajy,,,
+		</child>
+		<adult>
+			I want to be easy dooo,,,
+			Let me be easy,,,
+			Why won't you let me be easy doo?
+			I want to be easy,,,
+			For some reason, I can't take it easy,,,
+		</adult>
+	</normal>
+[/LamentLowYukkuri]
+
+# 汎用、ゆっくりできなくて嘆く
+[LamentNoYukkuri]
+	<normal>
+		<baby>
+			I gan'ch chage ich eajy...
+			I wanch cho chage ich eajyyyy!
+			Why won'ch you lech me chage ich eajy, doo!?
+		</baby>
+		<child>
+			I gan'ch chage ich eajy...
+			I wanch cho chage ich eajyyyy!
+			Why won'ch you lech me chage ich eajy, doo!?
+		</child>
+		<adult>
+			I can't take it easy...
+			I wand to dake id easyyyy!
+			Why won'd you led me dake id easy, doo!?
+		</adult>
+	</normal>
+[/LamentNoYukkuri]
+
+# ゆんやああ
+[Yunnyaa]
+	<normal>
+		Yunyaaaaaa!!!!!!!
+	</normal>
+[/Yunnyaa]
+
+# 非ゆっくり症初期
+[NonYukkuriDiseaseNear]
+	<normal>
+		<baby>
+			Why ish %name born,,，？
+			If I gan'ch chage ich eajy lige dhish, I didn'ch wanna be born,,,
+			Myamya, why did you gib birdh cho %name,,,?
+			I jushch wanch cho relax, cho chage ich eajy... I really wanch cho...~
+			<damage>
+				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
+			</damage>
+		</baby>
+		<child>
+			Why ish %name born,,，？
+			If I gan'ch chage ich eajy lige dhish, I didn'ch wanna be born,,,
+			Mommy, why did you gib birdh cho %name,,,?
+			I jushch wanch cho relax... I really wanch cho relax...
+			<damage>
+				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
+			</damage>
+		</child>
+		<adult>
+			Why is %name born,,，？
+			I want to take it easy, I want to take it easy, I want to take it easy
+			<damage>
+				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
+			</damage>
+		</adult>
+	</normal>
+[/NonYukkuriDiseaseNear]
+
+# 非ゆっくり症
+[NonYukkuriDisease]
+	<normal>
+		<baby>
+			eajy!! eajy!! eajy!! eajy!! eajy!! eajy!!
+			<damage>
+				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
+			</damage>
+		</baby>
+		<child>
+			eajy!! eajy!! eajy!! eajy!! eajy!! eajy!!
+			<damage>
+				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
+			</damage>
+		</child>
+		<adult>
+			Easy!! Easy!! Easy!! Easy!! Easy!! Easy!!
+			<damage>
+				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
+			</damage>
+		</adult>
+	</normal>
+[/NonYukkuriDisease]
+
+# 汎用、他のゆっくりに何かされたときに対する攻撃、反撃
+[RevengeAttack]
+	<rude>
+		<baby>
+			Uu~!
+			SHchob ich, dado~!
+			Whach are you doing cho %name, dadoo~?
+			Don'ch defy gharishma☆, dadoo-!
+		</baby>
+		<child>
+			Uu~!
+			SHchob ich, dado~!
+			Whach are you doing cho %name, dadoo~?
+			Don'ch defy gharishma☆, dadoo-!
+		</child>
+		<adult>
+			Uu!
+			Stop it dado~!
+			Whad are you doing to %name, dadoo-?
+			Don'd defy charisma☆, dadoo-!
+		</adult>
+	</rude>
+[/RevengeAttack]
+
+# おさげ、尻尾、羽をちぎる
+[BraidCut]
+	<normal>
+		<baby>
+			%name'sh braid ish gone!!!
+			Ich hurchhhhhhhsh!!!
+			Why are you doing dhish, doo?!
+		</baby>
+		<child>
+			%name'sh braid ish gone!!!
+			Ich hurchhhhhhhsh!!!
+			Why are you doing dhish, doo?!
+		</child>
+		<adult>
+			%name's braid is gone!!!
+			Id hurdddddsss!!!
+			Why are you doing dhis, doo?!
+		</adult>
+	</normal>
+[/BraidCut]
+
+# 汎用、他のゆっくりに生きたまま食べられる
+[EatenByBody]
+	<normal>
+		<baby>
+			Ich hurchhhhhhhsh!!!!
+			Helb meeee!!!
+			Uu~! Uuu-!!!
+			%name ish noch a shweech, dadoo-!
+		</baby>
+		<child>
+			Ich hurchhhhhhhsh!!!!
+			Helb meeee!!!
+			Uu~! Uuu-!!!
+			%name ish noch a shweech, dadoo-!
+		</child>
+		<adult>
+			Id hurdddddsss!!!!
+			Helb meeee!!!
+			Uu~! Uuu-!!!
+			%name is nod a sweed, dadoo-!
+		</adult>
+	</normal>
+[/EatenByBody]
+
+# 汎用、他のゆっくりに生きたまま吸われる
+[EatenByBody2]
+	<normal>
+		<baby>
+			Don'd zugg-zugg,,,
+			Uu~! Uuu~....
+		</baby>
+		<child>
+			Don'd zugg-zugg,,,
+			Uu~! Uuu~....
+		</child>
+		<adult>
+			Don'd zuck-zuck,,,
+			Uu~! Uuu~....
+		</adult>
+	</normal>
+[/EatenByBody2]
+
+# れみりゃから逃げる
+[EscapeFromRemirya]
+	<normal>
+		<baby>
+			Go awayyyy!!!!!
+			%name ish running away dado!!!!!!
+			UuUu！uuu-!!!!!
+		</baby>
+		<child>
+			Go awayyyy!!!!!
+			%name ish running away dado!!!!!!
+			UuUu！uuu-!!!!!
+		</child>
+		<adult>
+			Go awayyyy!!!!!
+			%name is running away dado!!!!!!
+			UuUu！uuu-!!!!!
+		</adult>
+	</normal>
+[/EscapeFromRemirya]
+
+# しゃべれない
+[CantTalk]
+	<normal>
+		<baby>
+			Muu~!!
+			-----!!!
+			Yu-guu~!! Yumuguu~!!
+		</baby>
+		<child>
+			Muu~!!
+			-----!!!
+			Yu-guu~!! Yumuguu~!!
+		</child>
+		<adult>
+			Muu~!!
+			-----!!!
+			Yu-guu~!! Yumuguu~!!
+		</adult>
+	</normal>
+[/CantTalk]
+
+# しゃべれない(非ゆっくり)
+[NYDCantTalk]
+	<normal>
+		<baby>
+			Yugumu~! Yugumu~! Yugumu~! Yugumu~!
+			Yugumu~! Yugumu~! Yugumu~! Yugumu~!
+			<damage>
+				Yumu~! Yugu~! Yumu~! Yugu~! Yumu~!
+			</damage>
+		</baby>
+		<child>
+			Yugumu~! Yugumu~! Yugumu~! Yugumu~!
+			Yugumu~! Yugumu~! Yugumu~! Yugumu~!
+			<damage>
+				Yumu~! Yugu~! Yumu~! Yugu~! Yumu~!
+			</damage>
+		</child>
+		<adult>
+			Yugumu~! Yugumu~! Yugumu~! Yugumu~!
+			Yugumu~! Yugumu~! Yugumu~! Yugumu~!
+			<damage>
+				Yumu~! Yugu~! Yumu~! Yugu~! Yumu~!
+			</damage>
+		</adult>
+	</normal>
+[/NYDCantTalk]
+
+# 汚い
+[Dirty]
+	<normal>
+		<baby>
+			Bieen, bieeen...
+			Uu~,, boo-boo feelsh groshsh,,,
+			Uuu.. Ich shchingsh doo...
+			Myamya, bleashe do ligg-ligg,,,
+			Uu~,, mage me glean-glean,,,
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Bieen! bieeen!!!
+			Boo-boo feelsh groshsh!!!
+			Uuu!! Ich shchingsh doo!!!
+			Uu~,, mage me glean-glean,,,
+			Uu~~！！SHhichchy barench! Hurry ub and do ligg-ligg,,,
+			Uu~~！Dhish ish neglegch, dadoooo!!!
+		</baby>
+		<child>
+			Bieen! bieeen!!!
+			Uuu!! Ich shchingsh doo!!!
+			Uuu!! Ich shchingsh doo!!!
+			Uu~,, mage me glean-glean,,,
+			Uu~~！！SHhichchy barench! Hurry ub and do ligg-ligg,,,
+			Uu~~！Dhish ish neglegch, dadoooo!!!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/Dirty]
+
+# かびてる時の通常時
+[Moldy]
+	<normal>
+		<baby>
+			Uu~...
+			Uu~~... Uu~~~
+			Mainly de whole body hurchsh doo...
+			Uu, mainly de whole body ichhesh doo~....
+			Mishcher chummy don'ch be mean cho me doo......
+			I can'ch chage ich eajy....
+			Uu~~, shomehow my body doeshn'ch feel well...
+			Uu,, my chummy ish going wound and wound doo,,
+			Shaguyaa, shomehow %name can'ch chage it eajy...
+		</baby>
+		<child>
+			Uu~...
+			Uu~~... Uu~~~
+			Mainly de whole body hurchsh doo...
+			Uu, mainly de whole body ichhesh doo~....
+			Mishcher chummy don'ch be mean cho me doo......
+			I can'ch chage ich eajy....
+			Uu~~, shomehow my body doeshn'ch feel well...
+			Uu,, my chummy ish going wound and wound doo,,
+			Shaguyaa, shomehow %name can'ch chage it eajy...
+		</child>
+		<adult>
+			Uu..
+			Uu..Uu..Uu..
+			Mister tummy don't be mean to me...
+			Uu.. mainly the whole body hurts doo...
+			Uu.. mainly the whole body itches doo...
+			Uu,,, something's wrong,, I can't take it easy doo,,,
+			Uu,, zomehow my body doesn'd feel well,,
+			Uu,, my belly is going grumble-grumble, doo,,
+			Sakuyaa, somehow %name can't take it easy...
+		</adult>
+	</normal>
+[/Moldy]
+
+# 深刻なカビ
+[MoldySeriousry]
+	<normal>
+		<baby>
+			Yugi~!!
+			Yuzugu~zugu~~~! Yuzugu~~~!
+			Nooo dooo!! %name doeshn'ch wanch cho die yech!!!!
+			Yuzugiziiiiiiiiii!!!!!
+			Pigiya~~~~~~~!
+			Yugiya~~~~~~~~~~~! Myamyaaaaa~~~~~~~~~~~!
+			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			No, no, no, nooooo!!!
+		</baby>
+		<child>
+			Yugi~!!
+			Yuzugu~zugu~~~! Yuzugu~~~!
+			Yuzugiziiiiiiiiii!!!!!
+			Nooo dooo!! %name doeshn'ch wanch cho die yech!!!!
+			Yugiya~~~~~~~~~~~! Mommyyyyy~~~~~~~~~~~!
+			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			No, no, no, nooooo!!!
+		</child>
+		<adult>
+			Yugii!!
+			Yu-gu!!!!!! Yu-!!!!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!!!!!
+			Yu-ga-ga-ga-ga-aga-a-a-a-!!!!!
+			%name doesn't want to die yet!!!!
+			Yugoeee!!!!!!!!
+			Yugyaaaa!!! piggiiiieee!!!!!
+			Yugogee!!! Moooooom!!!
+			No, no, no, nooooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yugi~!!
+			Yuzugu~zugu~~~! Yuzugu~~~!
+			Nooo dooo!! %name doeshn'ch wanch cho die yech!!!!
+			Yuzugiziiiiiiiiii!!!!!
+			Pigiya~~~~~~~!
+			Yugiya~~~~~~~~~~~! Myamyaaaaa~~~~~~~~~~~!
+			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			No, no, no, nooooo!!!
+			Yugyaaaa！！Shiddy barench！Helb meeeee！！！
+			Pigiiiiiiiiiiiiiiiiiiiiiii！！！！！！
+		</baby>
+		<child>
+			Yugi~!!
+			Yuzugu~zugu~~~! Yuzugu~~~!
+			Nooo dooo!! %name doeshn'ch wanch cho die yech!!!!
+			Yuzugiziiiiiiiiii!!!!!
+			Pigiya~~~~~~~!
+			Yugiya~~~~~~~~~~~! Myamyaaaaa~~~~~~~~~~~!
+			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			No, no, no, nooooo!!!
+			Yugyaaaa！！Shiddy barench！Helb meeeee！！！
+			Pigiiiiiiiiiiiiiiiiiiiiiii！！！！！！
+		</child>
+		<adult>
+			Yugi!!
+			Yu-gu!!!!! Yu-!!!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!!!
+			Yu-ga-ga-ga-ga-aga-a-a-a-!!!!!
+			%name doesn't want to die yet!!!
+			Yugoeee!!!!!!!!
+			Yugyaaaa!!! piggiiii!!!!!
+			Yugogee!!! mamaaaaaa!!!
+			No, no, no, nooooo!!!
+		</adult>
+	</rude>
+[/MoldySeriousry]
+
+# 悪夢
+[Nightmare]
+	<normal>
+		<baby>
+			Yuuu~!!!
+			Uuuh~~~
+			Yunya~~~
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy~!!
+			I can'ch chage ich eajy ach aww....
+			Helb meeee, helb %name
+			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I wanch cho chage ich eajy.....
+			Lech me chage ich eajy.....
+			Myamyaaaaa~~~
+			Shagyuyaaaaaaa,...
+			Go away... don'ch come obew hewe...
+			I'm shorryyyy, I'm sho shorryyyy...
+			Whyyy,... whyyy,...
+			Shagyuyaaaaaaa,...
+		</baby>
+		<child>
+			Yuuu~!!!
+			Uuuh~~~
+			Yunya~~~
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy~!!
+			I can'ch chage ich eajy ach aww....
+			Helb meeee, helb %name
+			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I wanch cho chage ich eajy.....
+			Lech me chage ich eajy.....
+			Fraaaan,,,
+			Shagyuyaaaaaaa,...
+			Go away... don'ch come obew hewe...
+			I'm shorryyyy, I'm sho shorryyyy...
+			Whyyy,... whyyy,...
+			Shagyuyaaaaaaa,...
+		</child>
+		<adult>
+			Yuuu~!!!
+			Uuuh~~~
+			Yunya~~~
+			No, no, no, no, no, nooooo...
+			Easy, Easy~!!
+			I can'd take it easy at all....
+			Helb meeee, helb %name
+			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I want to take it easy.....
+			Let me take it easy.....
+			Little oneeee...
+			Go away... don't come over here...
+			I'm shorryyyy, I'm sho shorryyyy...
+			Whyyy,... whyyy,...
+			Sakuyaaaaaaa,...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yuuu~!!!
+			Uuuh~~~
+			Yunya~~~
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy~!!
+			I can'ch chage ich eajy ach aww....
+			Helb meeee, helb %name
+			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I wanch cho chage ich eajy.....
+			Lech me chage ich eajy.....
+			Myamyaaaaa~~~
+			Shagyuyaaaaaaa,...
+			Go away... don'ch come obew hewe...
+			Shichhy shlabe, huwwy ub and helb meeeee...
+			Why ish dish habbening to %name, doo,,, Id's unfaiw, dooooo,,,
+			%name ish absholudely nod ad faulddddd,,,
+			I'm shorryyyy, I'm sho shorryyyy...
+			Whyyy,... whyyy,...
+			%name was ad faulddddd,,, zo led me dake id easyyy,,,
+			How did this happen to %name...?
+
+		</baby>
+		<child>
+			Yuuu~!!!
+			Uuuh~~~
+			Yunya~~~
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy~!!
+			I can'ch chage ich eajy ach aww....
+			Helb meeee, helb %name
+			Id hurddddddds,,, I don'ch wanch cho die...
+			I wanch cho chage ich eajy.....
+			Lech me chage ich eajy.....
+			Fraaaan~~~
+			Shagyuyaaaaaaa~~~
+			Go away... don'ch come obew hewe...
+			Shichhy shlabe, huwwy ub and helb meeeee...
+			Why ish dish habbening to %name, doo,,, Id's unfaiw, dooooo,,,
+			%name ish absholudely nod ad faulddddd,,,
+			I'm shorryyyy, I'm sho shorryyyy...
+			Whyyy,... whyyy,...
+			%name was ad faulddddd,,, zo led me dake id easyyy,,,
+			How did this happen to %name...?
+		</child>
+		<adult>
+			Yuuu~~~
+			Uuuu~~~
+			yunya~~~
+			No, no, no, no, no, nooooo...
+			Easy, Easy~~~
+			I can't take it easy.....
+			Helb meeee, helb %name
+			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I want to take it easy.....
+			Let me take it easy.....
+			Litle oneeeee...
+			Go away... don't come over here...
+			Shitty slave, hurry up and help meeeee...
+			Why is dis habbening to %name, doo,,, Id's unfair, dooooo,,,
+			%name is absoludely nod ad faulddddd,,,
+			I'm shorry, I'm really shorry...!!!
+			Whyyy, whyyy...!!!
+			%name was ad faulddddd,,, zo led me dake id easyyy,,,
+			How did this happen to %name...?
+			Sakuyaaaa...!!!
+		</adult>
+	</rude>
+[/Nightmare]
+
+# 加工所で処分されると思ったとき
+[DontThrowMeAway]
+	<normal>
+		<baby>
+			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
+			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
+			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
+			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
+			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			Nooooo!!! I shchiww don'd wand to dieee!!!
+			I hade dizbosawww!!! Zave meee!!!
+			Nooooo!!! I hade dizbosawww!!!
+			Nooooo!!! Nooooo!!!
+		</baby>
+		<child>
+			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
+			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
+			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
+			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
+			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			Nooooo!!! I shchiww don'd wand to dieee!!!
+			I hade dizbosawww!!! Zave meee!!!
+			Nooooo!!! I hade dizbosawww!!!
+			Nooooo!!! Nooooo!!!
+		</child>
+		<adult>
+			%name can sdill feel refresheeeed!!! Zo blease don'd kill meee!!! I hade dizbosalll!!!
+			I-I'b fineee!!! %name can sdill feel refresheeeed!!! Zo I beg youuu!!! %name sdill doesn'd wand to dieee!!
+			%name can sdill feel refresheeeed!!! Blease don'd dhrow me awayyy!! %name sdill doesn'd wand to dieee!!!
+			I-I'b fineee!!! %name is sdill healdhyyy!!! Nooooo!!! I hade dizbosalll!!!
+			%name is sdill healdhyyy!!! Zo don'd dizbose of me yed!! Blease don'd kill meee!! I don'd wand to dieee!!!
+			I-I'b fineee!!! %name is sdill healdhyyy!!! Zo blease don'd kill meee!! I beg youuu!!
+			%name is sdill fineee!!! Nooooo!!! I hade dizbosalll!!!
+			%name is sdill fineee!!! Habe mercyyy!! Blease habe mercyyy!!! I hade dizbosalll!!!
+			%name is sdill fineee!!! Zo blease zave meee!!! Blease don'd kill meee!!!
+			Nooooo!!! I sdill don'd wand to dieee!!!
+			I hade dizbosalll!!! Zave meee!!!
+			Nooooo!!! I hade dizbosalll!!!
+			Nooooo!!! Nooooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
+			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
+			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
+			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
+			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			Nooooo!!! I shchiww don'd wand to dieee!!!
+			I hade dizbosawww!!! Zave meee!!!
+			Nooooo!!! I hade dizbosawww!!!
+			Nooooo!!! Nooooo!!!
+			%name can shchiww mage chiwdwennn!!! Zo I beg youuu!!! %name shchiww doeshn'ch wand cho dieee!!
+			%name can shchiww mage chiwdwennn!!! Zo blease don'd dizbose of meee!!! %name shchiww doeshn'ch wand cho dieee!!!
+			I-I'b fineee!!! %name can shchiww mage chiwdwennn!!! Zo don'd gill meeeeeee!!
+			%name can shchiww gibe birdh cho liddle onesh!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			I-I'b fineee!!! %name can shchiww gibe birdh to liddle onesh!!!
+			%name can shchiww gibe birdh to liddle onesh!!! Zo zave meee!! Zave %name!
+			%name can shchiww mage liddle onesh!!! Zo! Habe mewcyyy!! Habe mercyyyyy!!! Jusd nod dizbosallll!!!
+			I-I'b fineee!!! %name can shchiww mage liddle onesh!!!
+			%name can shchiww mage liddle onesh!!! Zo don'd dizbose of me yed!! Blease don'd gill meee!!
+		</baby>
+		<child>
+			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
+			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
+			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
+			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
+			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
+			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			Nooooo!!! I shchiww don'd wand to dieee!!!
+			I hade dizbosawww!!! Zave meee!!!
+			Nooooo!!! I hade dizbosawww!!!
+			Nooooo!!! Nooooo!!!
+			%name can shchiww mage chiwdwennn!!! Zo I beg youuu!!! %name shchiww doeshn'ch wand cho dieee!!
+			%name can shchiww mage chiwdwennn!!! Zo blease don'd dizbose of meee!!! %name shchiww doeshn'ch wand cho dieee!!!
+			I-I'b fineee!!! %name can shchiww mage chiwdwennn!!! Zo don'd gill meeeeeee!!
+			%name can shchiww gibe birdh cho liddle onesh!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			I-I'b fineee!!! %name can shchiww gibe birdh to liddle onesh!!!
+			%name can shchiww gibe birdh to liddle onesh!!! Zo zave meee!! Zave %name!
+			%name can shchiww mage liddle onesh!!! Zo! Habe mewcyyy!! Habe mercyyyyy!!! Jusd nod dizbosallll!!!
+			I-I'b fineee!!! %name can shchiww mage liddle onesh!!!
+			%name can shchiww mage liddle onesh!!! Zo don'd dizbose of me yed!! Blease don'd gill meee!!
+		</child>
+		<adult>
+			%name can sdill feel refresheeeed!!! Zo blease don'd kill meee!!! I hade dizbosalll!!!
+			I-I'b fineee!!! %name can sdill feel refresheeeed!!! Zo I beg youuu!!! %name sdill doesn'd wand to dieee!!
+			%name can sdill feel refresheeeed!!! Blease don'd dhrow me awayyy!! %name sdill doesn'd wand to dieee!!!
+			I-I'b fineee!!! %name is sdill healdhyyy!!! Nooooo!!! I hade dizbosalll!!!
+			%name is sdill healdhyyy!!! Zo don'd dizbose of me yed!! Blease don'd kill meee!! I don'd wand to dieee!!!
+			I-I'b fineee!!! %name is sdill healdhyyy!!! Zo blease don'd kill meee!! I beg youuu!!
+			%name is sdill fineee!!! Nooooo!!! I hade dizbosalll!!!
+			%name is sdill fineee!!! Habe mercyyy!! Blease habe mercyyy!!! I hade dizbosalll!!!
+			%name is sdill fineee!!! Zo blease zave meee!!! Blease don'd kill meee!!!
+			Nooooo!!! I sdill don'd wand to dieee!!!
+			I hade dizbosalll!!! Zave meee!!!
+			Nooooo!!! I hade dizbosalll!!!
+			Nooooo!!! Nooooo!!!
+			%name can sdill make childrennn!!! Zo I beg youuu!!! %name sdill doesn'd wand to dieee!!
+			%name can sdill make childrennn!!! Zo blease don'd dizbose of meee!!! %name sdill doesn'd wand to dieee!!!
+			I-I'b fineee!!! %name can sdill make childrennn!!! Zo don'd kill meeeeeee!!
+			%name can sdill gibe birdh to liddle ones!!! Zo blease zave meee!!! Blease don'd kill meee!!!
+			I-I'b fineee!!! %name can sdill gibe birdh to liddle ones!!!
+			%name can sdill gibe birdh to liddle ones!!! Zo zave meee!! Zave %name!
+			%name can sdill make liddle ones!!! Zo! Habe mercyyy!! Habe mercyyyyy!!! Jusd nod dizbosallll!!!
+			I-I'b fineee!!! %name can sdill make liddle ones!!!
+			%name can sdill make liddle ones!!! Zo don'd dizbose of me yed!! Blease don'd kill meee!!
+		</adult>
+	</rude>
+[/DontThrowMeAway]
+
+
+# 静かにする
+[BeingQuiet]
+	<normal>
+		<baby>
+			Uu,, I'll chage ich eajy and be quiech, doo,,,
+			Yumumu,, %name will be quiech, doo,,
+			Yuu, %name will enduwe ich a liddle, doo,,,,
+			Uu,,
+		</baby>
+		<child>
+			Uu,, I'll chage ich eajy and be quiech, doo,,,
+			Yumumu,, %name will be quiech, doo,,
+			Yuu, %name will enduwe ich a liddle, doo,,,,
+			Uu,,
+		</child>
+		<adult>
+			Uu,, I'll dake id easy and be quied, doo,,,
+			Yumumu,, %name will be quied, doo,,
+			Yuu, %name will endure id a liddle, doo,,,,
+			Uu,,
+		</adult>
+	</normal>
+[/BeingQuiet]
