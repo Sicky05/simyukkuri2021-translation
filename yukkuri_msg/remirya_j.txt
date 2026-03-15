@@ -1034,11 +1034,11 @@
 			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
 			Mungh mungh,,, Ich chashchesh bad dado,,,,
 			Yuwaaan, ich shchingsh do,,,,
-			Why %name hash cho each boo-boo dadoo?
+			Why %name hash cho each poo-poo dadoo?
 			<loveplayer>
-				I don'ch wanch cho each boo-boo... go bagg cho being de nige mishcher...
+				I don'ch wanch cho each poo-poo... go bagg cho being de nige mishcher...
 				If %name did shomeding wrong, I abologize, sho bleashe forgibe me...
-				Yubee! Boo-boo chashchesh bad doo~~!
+				Yubee! poo-poo chashchesh bad doo~~!
 				I wanch cho each shweech-shweechsh doo~~~
 			</loveplayer>
 		</baby>
@@ -1046,11 +1046,11 @@
 			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
 			Mungh mungh,,, Ich chashchesh bad dado,,,,
 			Yuwaaan, ich shchingsh do,,,,
-			Why %name hash cho each boo-boo dadoo?
+			Why %name hash cho each poo-poo dadoo?
 			<loveplayer>
-				I don'ch wanch cho each boo-boo... go bagg cho being de nige mishcher...
+				I don'ch wanch cho each poo-poo... go bagg cho being de nige mishcher...
 				If %name did shomeding wrong, I abologize, sho bleashe forgibe me...
-				Yubee! Boo-boo chashchesh bad doo~~!
+				Yubee! poo-poo chashchesh bad doo~~!
 				I wanch cho each shweech-shweechsh doo~~~
 			</loveplayer>
 		</child>
@@ -1072,22 +1072,22 @@
 			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
 			Ghomb ghomb,,, Ich chashchesh bad dado,,,,
 			Yuwaaan, ich shchingsh do,,,,
-			Why %name hash cho each boo-boo dadoo?
+			Why %name hash cho each poo-poo dadoo?
 			<dislikeplayer>
-				SHhichchy shlabe each boo-boo...
+				SHhichchy shlabe each poo-poo...
 				SHhichchy shlabe who ish mean shhould dieee...
-				Yubee,, I don'ch wanna each boo-boo,,,
+				Yubee,, I don'ch wanna each poo-poo,,,
 			</dislikeplayer>
 		</baby>
 		<child>
 			Uu! Ich shchingsh do~! Ich chashchesh bad dado~!!!
 			Ghomb ghomb,,, Ich chashchesh bad dado,,,,
-			Eaching boo-boo ish a humiliachion, dadoo,,,
-			Why %name hash cho each boo-boo dadoo?
+			Eaching poo-poo ish a humiliachion, dadoo,,,
+			Why %name hash cho each poo-poo dadoo?
 			<dislikeplayer>
-				SHhichchy shlabe each boo-boo...
+				SHhichchy shlabe each poo-poo...
 				SHhichchy shlabe who ish mean shhould dieee...
-				Yubee,, I don'ch wanna each boo-boo,,,
+				Yubee,, I don'ch wanna each poo-poo,,,
 			</dislikeplayer>
 		</child>
 		<adult>
@@ -1123,22 +1123,22 @@
 [TransportShit]
 	<normal>
 		<baby>
-			I'm garrying boo-boo.
-			I'm gleaning boo-boo.
+			I'm garrying poo-poo.
+			I'm gleaning poo-poo.
 			<ununSlave>
-				I'll bring boo-boo cho de choilech do...
-				Ich'sh boo-boo garrying chime dado...
-				I don'ch wanch cho glean ub boo-boo anymore...
+				I'll bring poo-poo cho de choilech do...
+				Ich'sh poo-poo garrying chime dado...
+				I don'ch wanch cho glean ub poo-poo anymore...
 				I wand cho dage ich eajy, doo... yu, yu, yu..
 			</ununSlave>
 		</baby>
 		<child>
-			I'm garrying boo-boo.
-			I'm gleaning boo-boo.
+			I'm garrying poo-poo.
+			I'm gleaning poo-poo.
 			<ununSlave>
-				Uu~! I'll bring boo-boo cho de choilech do...
-				Uu~! Ich'sh boo-boo garrying chime dado...
-				I don'ch wanch cho glean ub boo-boo anymore...
+				Uu~! I'll bring poo-poo cho de choilech do...
+				Uu~! Ich'sh poo-poo garrying chime dado...
+				I don'ch wanch cho glean ub poo-poo anymore...
 				I wand cho dage ich eajy, doo... yu, yu, yu..
 			</ununSlave>
 		</child>
@@ -1169,8 +1169,8 @@
 			<ununSlave>
 				Heab-ho,....
 				Heab-ho,....
-				CHoday wash anoder day of garrying boo-boo, doo......
-				I finally finishhed garrying boo-boo, doo... ich shchingsh, doo...
+				CHoday wash anoder day of garrying poo-poo, doo......
+				I finally finishhed garrying poo-poo, doo... ich shchingsh, doo...
 			</ununSlave>
 		</baby>
 		<child>
@@ -1182,8 +1182,8 @@
 			<ununSlave>
 				Heab-ho,....
 				Heab-ho,....
-				CHoday wash anoder day of garrying boo-boo, doo......
-				I finally finishhed garrying boo-boo, doo... ich shchingsh, doo...
+				CHoday wash anoder day of garrying poo-poo, doo......
+				I finally finishhed garrying poo-poo, doo... ich shchingsh, doo...
 			</ununSlave>
 		</child>
 		<adult>
@@ -1651,33 +1651,33 @@
 [Shit]
 	<normal>
 		<baby>
-			Boo-boo dadoo!
-			Mishcher boo-boo ish goming ouch eajy dado~♪
-			Mishcher boo-boo ish goming ouch dado~☆
-			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			poo-poo dadoo!
+			Mishcher poo-poo ish goming ouch eajy dado~♪
+			Mishcher poo-poo ish goming ouch dado~☆
+			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
-				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu-? poo-poo ish leaging, dadoo-!
 				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
 				Mishcher! Gan you chage Mishcher glodesh off dadoo~?
 			</pants>
 			<ununSlave>
-				Boo-boo ish goming ouch, do...
-				Mishcher boo-boo, don'ch gome ouch...
+				poo-poo ish goming ouch, do...
+				Mishcher poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</baby>
 		<child>
-			Boo-boo dadoo!
-			Mishcher boo-boo ish goming ouch eajy dado~♪
-			Mishcher boo-boo ish goming ouch dado~☆
-			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			poo-poo dadoo!
+			Mishcher poo-poo ish goming ouch eajy dado~♪
+			Mishcher poo-poo ish goming ouch dado~☆
+			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
-				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu-? poo-poo ish leaging, dadoo-!
 				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
 				Mishcher! Gan you chage Mishcher glodesh off dadoo~?
 			</pants>
 			<ununSlave>
-				Boo-boo ish goming ouch, do...
-				Mishcher boo-boo, don'ch gome ouch...
+				poo-poo ish goming ouch, do...
+				Mishcher poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</child>
 		<adult>
@@ -1698,35 +1698,35 @@
 	</normal>
 	<rude>
 		<baby>
-			Boo-boo dado~!
-			Mishcher boo-boo ish goming ouch eajy dado~♪
-			Mishcher boo-boo ish goming ouch dado~☆
-			%name will do boo-boo eleganchly☆, doo-!
-			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			poo-poo dado~!
+			Mishcher poo-poo ish goming ouch eajy dado~♪
+			Mishcher poo-poo ish goming ouch dado~☆
+			%name will do poo-poo eleganchly☆, doo-!
+			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
-				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu-? poo-poo ish leaging, dadoo-!
 				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
 				SHlabe! CHage off Mishcher glodesh, doo~?
 			</pants>
 			<ununSlave>
-				Boo-boo ish goming ouch, do...
-				Mishcher boo-boo, don'ch gome ouch...
+				poo-poo ish goming ouch, do...
+				Mishcher poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</baby>
 		<child>
-			Boo-boo dado~!
-			Mishcher boo-boo ish goming ouch eajy dado~♪
-			Mishcher boo-boo ish goming ouch dado~☆
-			%name will do boo-boo eleganchly☆, doo-!
-			Uuu~☆ %name gan go boo-boo all alone, dadoo-
+			poo-poo dado~!
+			Mishcher poo-poo ish goming ouch eajy dado~♪
+			Mishcher poo-poo ish goming ouch dado~☆
+			%name will do poo-poo eleganchly☆, doo-!
+			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
-				Uu-? Boo-boo ish leaging, dadoo-!
+				Uu-? poo-poo ish leaging, dadoo-!
 				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
 				SHlabe! CHage off Mishcher glodesh, doo~?
 			</pants>
 			<ununSlave>
-				Boo-boo ish goming ouch, do...
-				Mishcher boo-boo, don'ch gome ouch...
+				poo-poo ish goming ouch, do...
+				Mishcher poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</child>
 		<adult>
@@ -1754,41 +1754,41 @@
 		<baby>
 			Uu! Refreshhed!
 			Uu! I did ich all by myshelf, dado~♪
-			I'm going cho glean de boo-boo now dadoo~!
+			I'm going cho glean de poo-poo now dadoo~!
 			<pants>
 				Ich'sh groshsh, dado~!
 				Ich shchingsh doo~
 				Uu~, Ich'sh groshsh dadoo~~
 				Being dirchy ish noch eleganch, dado...
-				Being gobered in boo-boo gannoch be galled %name, dado...
+				Being gobered in poo-poo gannoch be galled %name, dado...
 			</pants>
 			<ununSlave>
-				Boo-boo game ouch, dado...
-				Do I habe cho each dish boo-boo choo, do?...
-				Mishcher boo-boo, why did you gome ouch, do?...
+				poo-poo game ouch, dado...
+				Do I habe cho each dish poo-poo choo, do?...
+				Mishcher poo-poo, why did you gome ouch, do?...
 			</ununSlave>
 		</baby>
 		<child>
 			Uu! Refreshhed!
 			Uu! I did ich all by myshelf, dado~♪
-			I'm going cho glean de boo-boo now dadoo~!
+			I'm going cho glean de poo-poo now dadoo~!
 			<pants>
 				Ich'sh groshsh, dado~!
 				Ich shchingsh doo~
 				Uu~, Ich'sh groshsh dadoo~~
 				Being dirchy ish noch eleganch, dado...
-				Being gobered in boo-boo gannoch be galled %name, dado...
+				Being gobered in poo-poo gannoch be galled %name, dado...
 			</pants>
 			<ununSlave>
-				Boo-boo game ouch, dado...
-				Do I habe cho each dish boo-boo choo, do?...
-				Mishcher boo-boo, why did you gome ouch, do?...
+				poo-poo game ouch, dado...
+				Do I habe cho each dish poo-poo choo, do?...
+				Mishcher poo-poo, why did you gome ouch, do?...
 			</ununSlave>
 		</child>
 		<adult>
 			Uuu! Refreshed!
 			Clean up the poo-poo, dadoー!
-			Slave! Hurry up and clean it up, dadoー!
+			Servantlave! Hurry up and clean it up, dadoー!
 			<pants>
 				Uuu...
 				Something like this is humiliating, dado...
@@ -1890,28 +1890,28 @@
 	<normal>
 		<baby>
 			Uu~! Ich shchingsh doo~!
-			Boo-boo shchingsh doo~!
+			poo-poo shchingsh doo~!
 			<damage>
 				Ich shchingsh doo~...
-				Boo-boo shchingsh doo~...
+				poo-poo shchingsh doo~...
 			</damage>
 			<ununSlave>
 				Ich shchingsh~~~
-				I don'ch wanch cho shee boo-boo anymore~~~
-				I hache boo-boo~~~
+				I don'ch wanch cho shee poo-poo anymore~~~
+				I hache poo-poo~~~
 			</ununSlave>
 		</baby>
 		<child>
-			Uu~! I wanch you cho glean ub de boo-boo doo!
+			Uu~! I wanch you cho glean ub de poo-poo doo!
 			Uu~~~ Why ich shchingsh doo~?
 			<damage>
 				Ich shchingsh doo~...
-				Boo-boo shchingsh doo~...
+				poo-poo shchingsh doo~...
 			</damage>
 			<ununSlave>
 				Ich shmellsh bad, I gan'ch chage ich eajy...
-				I don'ch wanch cho shee boo-boo anymore...
-				I hache boo-boo...
+				I don'ch wanch cho shee poo-poo anymore...
+				I hache poo-poo...
 			</ununSlave>
 		</child>
 		<adult>
@@ -1931,30 +1931,30 @@
 	<rude>
 		<baby>
 			Uu~! Ich shchingsh doo~!
-			Boo-boo shchingsh doo~!
+			poo-poo shchingsh doo~!
 			SHhichchy barench who won'ch lech %name chage ich eajy shhould drob dead, dadoo-!
 			<damage>
 				Ich shchingsh doo~...
-				Boo-boo shchingsh doo~...
+				poo-poo shchingsh doo~...
 			</damage>
 			<ununSlave>
 				Ich shchingsh~~~
-				I don'ch wanch cho shee boo-boo anymore~~~
-				I hache boo-boo~~~
+				I don'ch wanch cho shee poo-poo anymore~~~
+				I hache poo-poo~~~
 			</ununSlave>
 		</baby>
 		<child>
-			Uu~ I wanch you cho glean ub de boo-boo doo!
+			Uu~ I wanch you cho glean ub de poo-poo doo!
 			Uu~~ Why ich shchingsh doo~?
 			SHhichchy barench who won'ch lech %name chage ich eajy shhould drob dead, dadoo-!
 			<damage>
 				Ich shchingsh doo~...
-				Boo-boo shchingsh doo~...
+				poo-poo shchingsh doo~...
 			</damage>
 			<ununSlave>
 				Ich shmellsh bad, gan'ch chage ich eajy....
-				I don'ch wanch cho shee boo-boo anymore....
-				I hache boo-boo....
+				I don'ch wanch cho shee poo-poo anymore....
+				I hache poo-poo....
 			</ununSlave>
 		</child>
 		<adult>
@@ -1978,18 +1978,18 @@
 	<normal>
 		<baby>
 			Bufff！Bufff！！！
-			Mishcher boo-boo！Go ober dere！
-			Mishcher boo-boo！Go away！Buff dooo！
+			Mishcher poo-poo！Go ober dere！
+			Mishcher poo-poo！Go away！Buff dooo！
 			Uu！Uuu！！！
-			Boo-boo, go ober dere dadoo！
+			poo-poo, go ober dere dadoo！
 			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
 		</baby>
 		<child>
 			Bufff！Bufff！！！
-			Mishcher boo-boo！Go ober dere！
-			Mishcher boo-boo！Go away！Buff dooo！
+			Mishcher poo-poo！Go ober dere！
+			Mishcher poo-poo！Go away！Buff dooo！
 			Uu！Uuu！！！
-			Boo-boo, go ober dere dadoo！
+			poo-poo, go ober dere dadoo！
 			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
 		</child>
 		<adult>
@@ -1999,20 +1999,20 @@
 	<rude>
 		<baby>
 			Bufff！Bufff！！！
-			%name will bunishh de chrashhy boo-boo doo-!
-			Mishcher boo-boo！Go ober dere！
-			Go away Mishcher boo-boo！Buff dooo！
+			%name will bunishh de chrashhy poo-poo doo-!
+			Mishcher poo-poo！Go ober dere！
+			Go away Mishcher poo-poo！Buff dooo！
 			Uu！Uuu！！！
-			Boo-boo, go ober dere dadoo！
+			poo-poo, go ober dere dadoo！
 			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
 		</baby>
 		<child>
 			Bufff！Bufff！！！
-			%name will bunishh de chrashhy boo-boo doo-!
-			Mishcher boo-boo！Go ober dere！
-			Go away Mishcher boo-boo！Buff dooo！
+			%name will bunishh de chrashhy poo-poo doo-!
+			Mishcher poo-poo！Go ober dere！
+			Go away Mishcher poo-poo！Buff dooo！
 			Uu！Uuu！！！
-			Boo-boo, go ober dere dadoo！
+			poo-poo, go ober dere dadoo！
 			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
 		</child>
 		<adult>
@@ -2037,9 +2037,9 @@
 				Zaguyaa... zaguyaaaa~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan boo-boo,,,
-				I don'ch wanch cho each boo-boo...
-				I don'ch wanch boo-boo anymore...
+				I wanna each shomeding oder dan poo-poo,,,
+				I don'ch wanch cho each poo-poo...
+				I don'ch wanch poo-poo anymore...
 				Why are you being sho mean do...?
 			</ununSlave>
 		</baby>
@@ -2055,9 +2055,9 @@
 				Zaguyaa... zaguyaaaa~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan boo-boo,,,
-				I don'ch wanch cho each boo-boo...
-				I don'ch wanch boo-boo anymore...
+				I wanna each shomeding oder dan poo-poo,,,
+				I don'ch wanch cho each poo-poo...
+				I don'ch wanch poo-poo anymore...
 				Why are you being sho mean do...?
 			</ununSlave>
 		</child>
@@ -2095,9 +2095,9 @@
 				Zaguyaaa, zaguyaaa~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan boo-boo,,,
-				I don'ch wanch cho each boo-boo,...
-				I don'ch wanch boo-boo anymore...
+				I wanna each shomeding oder dan poo-poo,,,
+				I don'ch wanch cho each poo-poo,...
+				I don'ch wanch poo-poo anymore...
 				Why are you being sho mean do...?
 			</ununSlave>
 		</baby>
@@ -2114,9 +2114,9 @@
 				Zaguya~~ Zaguya~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan boo-boo,,,
-				I don'ch wanch cho each boo-boo,...
-				I don'ch wanch boo-boo anymore...
+				I wanna each shomeding oder dan poo-poo,,,
+				I don'ch wanch cho each poo-poo,...
+				I don'ch wanch poo-poo anymore...
 				Why are you being sho mean do...?
 			</ununSlave>
 		</child>
@@ -2582,12 +2582,12 @@
 [CantShit]
 		<normal>
 		<baby>
-			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher boo-boo ish noch goming ouch doo!
+			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher poo-poo ish noch goming ouch doo!
 		</baby>
 		<child>
-			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher boo-boo ish noch goming ouch doo!
+			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher poo-poo ish noch goming ouch doo!
 		</child>
 		<adult>
 			Poo-poo won't come out, dadoo-!
@@ -2596,12 +2596,12 @@
 	</normal>
 	<rude>
 		<baby>
-			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher boo-boo ish noch goming ouch doo!
+			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher poo-poo ish noch goming ouch doo!
 		</baby>
 		<child>
-			Mishcher boo-boo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher boo-boo ish noch goming ouch doo!
+			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcher poo-poo ish noch goming ouch doo!
 		</child>
 		<adult>
 			Poo-poo won't come out, dadoo-!
@@ -4251,7 +4251,7 @@
 	<normal>
 		<baby>
 			Bieen, bieeen...
-			Uu~,, boo-boo feelsh groshsh,,,
+			Uu~,, poo-poo feelsh groshsh,,,
 			Uuu.. Ich shchingsh doo...
 			Myamya, bleashe do ligg-ligg,,,
 			Uu~,, mage me glean-glean,,,
@@ -4266,7 +4266,7 @@
 	<rude>
 		<baby>
 			Bieen! bieeen!!!
-			Boo-boo feelsh groshsh!!!
+			poo-poo feelsh groshsh!!!
 			Uuu!! Ich shchingsh doo!!!
 			Uu~,, mage me glean-glean,,,
 			Uu~~！！SHhichchy barench! Hurry ub and do ligg-ligg,,,
