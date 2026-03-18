@@ -453,19 +453,19 @@
 		<baby>
 			<pants>
 				Uu~♪ Uu~♪
-				Uu~♪Uu~♪ Mishcha Accesshowy ish bewy eajy do!
+				Uu~♪Uu~♪ Mishcha Clodhes awe bewy eajy do!
 			</pants>
 		</baby>
 		<child>
 			<pants>
 				Uu~♪ Uu~♪
-				Uu~♪Uu~♪ Mishcha Accesshowy ish bewy eajy do!
+				Uu~♪Uu~♪ Mishcha Clodhes awe bewy eajy do!
 			</pants>
 		</child>
 		<adult>
 			<pants>
 				Uu~♪Uu~♪
-				Uu~♪Uu~♪ Mister Accessory is very easy do!
+				Uu~♪Uu~♪ Mister Clothes is very easy do!
 			</pants>
 		</adult>
 	</normal>
