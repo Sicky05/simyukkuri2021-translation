@@ -3,29 +3,29 @@
 	<normal>
 		<baby>
 			Uu! Uu~
-			Ich'sh dinner chime dado~!
+			Ich'sh dinna chime dado~!
 			I'm gonna each you~☆
-			SHweech-shweechsh~☆
-			Uu! Dinner-dinner♪
+			Shweech-shweechsh~☆
+			Uu! Dinna-dinna♪
 			Buddiiin'♪
-			I wanch cho blay wid you chogeder dadoo~
-			Bach-bach me, bleashe~♪
+			I wanch cho blay widh you chogeda dadoo~
+			Pach-pach me, bleashe~♪
 			Uu~ I'm gonna each you~!
 			Uu! Ich'sh hunching chime dadoo~!
-			Uu! SHchay shchill and lech %name each you!
+			Uu! Shchay shchill and lech %name each you!
 		</baby>
 		<child>
 			Uu! Uu!
-			Uu! Ich'sh dinner chime dadoo~☆
+			Uu! Ich'sh dinna chime dadoo~☆
 			I'm gonna each you~☆
-			U~! SHweech-shweechsh~☆
-			Uu~! Dinner-dinner♪
+			U~! Shweech-shweechsh~☆
+			Uu~! Dinna-dinna♪
 			Buddiiing~♪
-			I wanch cho blay wid you chogeder~☆
-			Bach-bach me, bleashe~♪
+			I wanch cho blay widh you chogeda~☆
+			Pach-pach me, bleashe~♪
 			Uu~! I'm gonna each you~!
 			Uu~! Ich'sh hunching chime dadoo~☆
-			Uu! SHchay shchill and lech %name will each you!
+			Uu! Shchay shchill and lech %name each you!
 		</child>
 		<adult>
 			Uu!
@@ -44,27 +44,27 @@
 	<rude>
 		<baby>
 			Uu! Uu~
-			Ich'sh dinner chime dadoo~!
+			Ich'sh dinna chime dadoo~!
 			I'm gonna each you~☆
 			Uu~ Ich'sh hunching chime dadoo!
-			Uu~ SHchay shchill and lech %name will each you!
+			Uu~ Shchay shchill and lech %name each you!
 			I'm gonna each you~☆
 			Buddiiin'♪
-			U~! SHweech-shweechsh~☆
-			Uu~ Dinner-dinner~♪
-			%name ish sho bored dadoo~!
+			U~! Shweech-shweechsh~☆
+			Uu~ Dinna-dinna~♪
+			%name ish sho bowed dadoo~!
 		</baby>
 		<child>
 			Uu!
 			Uu! Uu!
-			Uu! Ich'sh dinner chime dadoo~☆
+			Uu! Ich'sh dinna chime dadoo~☆
 			Uu~ Ich'sh hunching chime dadoo~!
 			I'm gonna each you~☆
-			Uu~ SHchay shchill and lech %name will each you~!
-			SHaguyaaaa! Buddiiin'~♪
-			U~ SHweech-shweechsh~☆
-			Uu~ Dinner-dinner~♪
-			%name ish sho bored dadoo~☆
+			Uu~ Shchay shchill and lech %name each you~!
+			Shaguyaaaa! Buddiiin'~♪
+			U~ Shweech-shweechsh~☆
+			Uu~ Dinna-dinna~♪
+			%name ish sho bowed dadoo~☆
 		</child>
 		<adult>
 			Uu!
@@ -88,41 +88,41 @@
 	<normal>
 		<baby>
 			Uu~...
-			SHaguya~~ SHaguya~~
-			I wanch cho each Mishcher food dadoo!
-			My chummy ish rumbling dadoo~!
+			Shaguya~~ Shaguya~~
+			I wanch cho each Mishcha food dadoo!
+			My chummy ish wumbling dadoo~!
 			Uu~~~ shweech-shweechsh~~...
-			SHaguya~~ Ich'sh dinner chime dadoo~~...
-			Uu! I'm sho hungry~!
-			I wanch cho each Mishcher food doo!
+			Shaguya~~ Ich'sh dinna chime dadoo~~...
+			Uu! I'm sho hungwy~!
+			I wanch cho each Mishcha food doo!
 			<damage>
 				Uu~...
 				Zagu-ya-a... zagu-ya-a...
-				U~, Ich'sh dinner chime dadoo...
-				Zagu-ya-a... I'm hun-gryyyy doo...
-				U~, Mishcher food bleashe gome...
-				Uuu~... I really wanch cho each...
+				U~, Ich'sh dinna chime dadoo...
+				Zagu-ya-a... I'm hun-gwyyyy doo...
+				U~, Mishcha food bleashe gome...
+				Uuu~... I weally wanch cho each...
 				U~..., shweech-shweechsh...
-				My chummy ish rumbling dadoo~!
+				My chummy ish wumbling dadoo~!
 			</damage>
 		</baby>
 		<child>
-			I'm sho hungry, dado~!
-			Mishcher food, gan you feed me?
-			My chummy ish rumbling dadoo~!
-			SHagu-ya~~ Ich'sh dinner chime dadoo~~...
-			Uu... Mishcher food...
+			I'm sho hungwy, dado~!
+			Mishcha food, gan you feed me?
+			My chummy ish wumbling dadoo~!
+			Shagu-ya~~ Ich'sh dinna chime dadoo~~...
+			Uu... Mishcha food...
 			Uu,,,
-			Uu,, My chummy ish rumbling dadoo~!
+			Uu,, My chummy ish wumbling dadoo~!
 			<damage>
-				Uu~... Ich'sh chime for dinner, dado~~!
-				Zagu-ya-a... I'm sho hungry dadoo...
+				Uu~... Ich'sh chime fow dinna, dado~~!
+				Zagu-ya-a... I'm sho hungwy dadoo...
 				Uu~~...
-				My chummy ish rumbling dadoo~!
+				My chummy ish wumbling dadoo~!
 				Uu~~... shweech-shweechsh~~~
 				Zaguyaa... Zaguyaa...
-				Uu~~... Bleashe gibe me shome Mishcher food~~~
-				Uuu~... My chummy ish rumbling dadoo...
+				Uu~~... Bleashe gibe me shome Mishcha food~~~
+				Uuu~... My chummy ish wumbling dadoo...
 			</damage>
 		</child>
 		<adult>
@@ -146,40 +146,40 @@
 	<rude>
 		<baby>
 			Uu~...
-			%name wanchsh cho each Mishcher food dadoo!
-			SHaguyaa,, Ich'sh chime dinner chime dadoo~
-			Uu! I'm sho hungry~!
-			My chummy ish rumbling dadoo~!
-			U~... Bleashe gibe me shome Mishcher food...
-			U~... SHweech-shweechsh...
-			SHaguyaa~, SHaguyaa~
+			%name wanchsh cho each Mishcha food dadoo!
+			Shaguyaa,, Ich'sh chime dinna chime dadoo~
+			Uu! I'm sho hungwy~!
+			My chummy ish wumbling dadoo~!
+			U~... Bleashe gibe me shome Mishcha food...
+			U~... Shweech-shweechsh...
+			Shaguyaa~, Shaguyaa~
 			<damage>
 				Uu~......
-				Uu~, Mishcher food, gibe ich cho me~~~
-				Uu~, Mishcher food, bleashe gibe ich~~~
-				Zaguyaaa~~~ I'm sho hungry dadoo~~~
-				My chummy ish rumbling dadoo~!
-				Uu~~~~ SHweech-shweechsh~~~~~~~~~
+				Uu~, Mishcha food, gibe ich cho me~~~
+				Uu~, Mishcha food, bleashe gibe ich~~~
+				Zaguyaaa~~~ I'm sho hungwy dadoo~~~
+				My chummy ish wumbling dadoo~!
+				Uu~~~~ Shweech-shweechsh~~~~~~~~~
 				Zaguyaaa...... Zaguyaaa~~~
 			</damage>
 		</baby>
 		<child>
 			Uu~...
-			%name wanchsh cho each Mishcher food dadoo!
-			I'm sho hungry~!
-			SHaguyaa,, Ich'sh chime dinner chime dadoo~...
-			My chummy ish rumbling dadoo~!
+			%name wanchsh cho each Mishcha food dadoo!
+			I'm sho hungwy~!
+			Shaguyaa,, Ich'sh chime dinna chime dadoo~...
+			My chummy ish wumbling dadoo~!
 			Uu~~, shweech-shweechsh~~...
-			SHaguya... SHaguya~~...
-			Uu~~, gibe me Mishcher food bleashe~~...
+			Shaguya... Shaguya~~...
+			Uu~~, gibe me Mishcha food bleashe~~...
 			<damage>
 				Uu~~~
-				Uu~, Mishcher food bleashe gibe ich cho me~~~
-				Uuu~... I'm sho hungry~~~
-				Uu~, gibe me Mishcher food bleashe~~~
-				Zaguyaaaaa~~~ I'm sho hungry dadoo~~~
+				Uu~, Mishcha food bleashe gibe ich cho me~~~
+				Uuu~... I'm sho hungwy~~~
+				Uu~, gibe me Mishcha food bleashe~~~
+				Zaguyaaaaa~~~ I'm sho hungwy dadoo~~~
 				Uu~~~
-				My chummy ish rumbling dadoo~~~!
+				My chummy ish wumbling dadoo~~~!
 				Uu,,, shweech-shweechsh~~~
 				Zaguya~~ Zaguya~~~
 			</damage>
@@ -229,9 +229,9 @@
 			%dummy
 		</baby>
 		<child>
-			Uu! I wanch a real barchner now~!
-			Uu~! %name, really needsh guche lichchle onesh~!
-			Uu-! %name wanchsh a gharishmachig yugguri ash a barchner, doo-!
+			Uu! I wanch a weal bawchnew now~!
+			Uu~! %name, weally needsh guche liddle onesh~!
+			Uu-! %name wanchsh a ghawishmachig yugguwi ash a bawchnew, doo-!
 		</child>
 		<adult>
 			Uuu, uuu! Hurry up and marry me, doー!
@@ -246,11 +246,11 @@
 	<normal>
 		<baby>
 			Uu! Uu~
-			SHurrender yourshelf cho %name dado~!
+			Shuwwendew youwshelf cho %name dado~!
 		</baby>
 		<child>
 			Uu! Uu~
-			SHurrender yourshelf cho %name dado~!
+			Shuwwendew youwshelf cho %name dado~!
 		</child>
 		<adult>
 			Uu~! Uu~!
@@ -278,12 +278,12 @@
 [PenipeniCutting]
 	<normal>
 		<baby>
-			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhsh!
-			Mishcher ish mean, dooo! Gibe bagg %name'sh Mishcher Benibeni!!!
+			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhsh!
+			Mishcha ish mean, dooo! Gibe bagg %name'sh Mishcha Benibeni!!!
 		</baby>
 		<child>
-			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhhsh!
-			Mishcher ish mean, dooo! Gibe bagg %name'sh Mishcher Benibeni!!!
+			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhhsh!
+			Mishcha ish mean, dooo! Gibe bagg %name'sh Mishcha Benibeni!!!
 		</child>
 		<adult>
 			%name's easy Mister peni-peni...?! Stick back on! Stick back on!
@@ -292,12 +292,12 @@
 	</normal>
 	<rude>
 		<baby>
-			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhsh!
-			Ich hurchhhhhhhsh! Whach are you doing cho %name'sh Mishcher Benibeni?
+			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhsh!
+			Ich huwchhhhhhhsh! Whach awe you doing cho %name'sh Mishcha Benibeni?
 		</baby>
 		<child>
-			%name'sh Mishcher Benibeni?! Ich hurchhhhhhhsh!
-			Ich hurchhhhhhhsh! Whach are you doing cho %name'sh Mishcher Benibeni?
+			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhsh!
+			Ich huwchhhhhhhsh! Whach awe you doing cho %name'sh Mishcha Benibeni?
 		</child>
 		<adult>
 			Give %name's Mister peni-peni baaack!!!
@@ -311,11 +311,11 @@
 	<normal>
 		<baby>
 			Uu~~
-			Mishcher benibeni~~~
+			Mishcha benibeni~~~
 		</baby>
 		<child>
 			Uu~~
-			Mishcher benibeni~~~
+			Mishcha benibeni~~~
 		</child>
 		<adult>
 			Uu~
@@ -326,11 +326,11 @@
 	<rude>
 		<baby>
 			Uu~...
-			Mishcher benibeni~~~
+			Mishcha benibeni~~~
 		</baby>
 		<child>
 			Uu~~
-			Mishcher benibeni~~~
+			Mishcha benibeni~~~
 		</child>
 		<adult>
 			Uu..
@@ -345,11 +345,11 @@
 	<normal>
 		<baby>
 			Uu~~~
-			%name alsho wanched lichchle onesh dadoo~~~
+			%name alsho wanched liddle onesh dadoo~~~
 		</baby>
 		<child>
 			Uu~~~
-			%name alsho wanched lichchle onesh dadoo~~~
+			%name alsho wanched liddle onesh dadoo~~~
 		</child>
 		<adult>
 			Uu,...
@@ -360,11 +360,11 @@
 	<rude>
 		<baby>
 			Uu~...
-			%name alsho wanched lichchle onesh~~...
+			%name alsho wanched liddle onesh~~...
 		</baby>
 		<child>
 			Uu~...
-			%name alsho wanched lichchle onesh~~...
+			%name alsho wanched liddle onesh~~...
 		</child>
 		<adult>
 			Uu,...
@@ -381,24 +381,24 @@
 		<baby>
 			Uu~!
 			Uu~♪ Uu~♪
-			Uu~♪ Mishcher choo hash cho chage ich eajy, dado~
+			Uu~♪ Mishcha choo hash cho chage ich eajy, dado~
 			Uu~? %name ish %name, dadoo!
 			Mama~ Mama~♪
 			Uu~? Uu~♪
 			Uu~! Ua~ua~♪
-			Uu~☆ Ua~ Ua~ Remirya~ u~!
-			Uu~? SHaguya~
+			Uu~☆ Ua~ Ua~ Wemiwya~ u~!
+			Uu~? Shaguya~
 		</baby>
 		<child>
 			Uu~!
 			Uu~♪ Uu~♪
-			Uu~♪ Mishcher choo hash cho chage ich eajy, dado~
+			Uu~♪ Mishcha choo hash cho chage ich eajy, dado~
 			Uu~? %name ish %name, dadoo!
 			Mama~ Mama~♪
 			Uu~? Uu~♪
 			Uu~! Ua~ Ua~♪
-			Uu~☆ Ua~ Ua~☆ Remirya~ u~!
-			Uu~? SHaguya~
+			Uu~☆ Ua~ Ua~☆ Wemiwya~ u~!
+			Uu~? Shaguya~
 		</child>
 		<adult>
 			Uu~!
@@ -418,9 +418,9 @@
 			"%name ish Goumagan'sh %name, dadoo☆"
 			Uu~? Uu~♪
 			Uu! Uaua~♪
-			Uu~☆ Ua~☆ Ua~ ☆Remi☆rya☆Uu~!
-			Uu~? SHaguya~
-			Drob dead eajy!
+			Uu~☆ Ua~☆ Ua~ ☆Wemi☆wya☆Uu~!
+			Uu~? Shaguya~
+			Dwob dead eajy!
 		</baby>
 		<child>
 			Uu~!
@@ -429,9 +429,9 @@
 			"%name ish Goumagan'sh %name, dadoo☆"
 			Uu~? Uu~♪
 			Uu! Uaua~♪
-			Uu~☆ Ua~☆ Ua~ ☆Remi☆rya☆Uu~!
-			Uu~? SHaguya~
-			Drob dead eajy!
+			Uu~☆ Ua~☆ Ua~ ☆Wemi☆wya☆Uu~!
+			Uu~? Shaguya~
+			Dwob dead eajy!
 		</child>
 		<adult>
 			Uuu!
@@ -453,13 +453,13 @@
 		<baby>
 			<pants>
 				Uu~♪ Uu~♪
-				Uu~♪Uu~♪ Mishcher Aggeshshory ish bery eajy do!
+				Uu~♪Uu~♪ Mishcha Accesshowy ish bewy eajy do!
 			</pants>
 		</baby>
 		<child>
 			<pants>
 				Uu~♪ Uu~♪
-				Uu~♪Uu~♪ Mishcher Aggeshshory ish bery eajy do!
+				Uu~♪Uu~♪ Mishcha Accesshowy ish bewy eajy do!
 			</pants>
 		</child>
 		<adult>
@@ -478,22 +478,22 @@
 			Uu~☆Ua~Ua~
 			Uu~☆Ua~Ua~ Uu~Ua~Ua☆~
 			Uu~ Ua~ua♪
-			Ua~? Gharishma dange dadoo☆~
+			Ua~? Ghawishma dange dadoo☆~
 			Mama~! Loog~☆ Ua~ua♪
 			I'll dange lige Mama, doo♪
 			Dange dadoo~
-			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Shage Shage♪ Wemi☆wya☆Uu~!
 			Ich'll be a fun nighch! sheemsh lige ich dado~!
 		</baby>
 		<child>
 			Uu~☆Ua~Ua~
 			Uu~☆Ua~Ua~ Uu~Ua~Ua☆~
 			Uu~ Ua~ua♪
-			Ua~? Gharishma dange dadoo☆~
+			Ua~? Ghawishma dange dadoo☆~
 			Mama~! Loog~☆ Ua~ua♪
 			I'll dange lige Mama, doo♪
 			Dange dadoo~
-			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Shage Shage♪ Wemi☆wya☆Uu~!
 			Ich'll be a fun nighch! sheemsh lige ich dado~!
 		</child>
 		<adult>
@@ -512,25 +512,25 @@
 		<baby>
 			Uu~☆Ua~Ua~
 			Uu~☆Ua~Ua~ Uu~☆Ua~Ua~
-			Bfffffrrrrch~! Mishcher farch game ouch dadoo~
+			Bfffffwwwwch~! Mishcha fawch game ouch dadoo~
 			Uu~ Ua~ua~
-			Ua~? Gharishma dange dadoo☆~
+			Ua~? Ghawishma dange dadoo☆~
 			Mommy, loog~♪ Ua~ua~
 			I'll dange lige Mama, doo♪
 			Dange dadoo~
-			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Shage Shage♪ Wemi☆wya☆Uu~!
 			Ich'll be a fun nighch! sheemsh lige ich dado~!
 		</baby>
 		<child>
 			Uu~☆Ua~☆Ua~☆
 			Uu~☆Ua~☆Ua~☆ Uu~☆Ua~☆Ua~☆
-			Bfffffrrrrch~! Mishcher farch game ouch dadoo~
+			Bfffffwwwwch~! Mishcha fawch game ouch dadoo~
 			Uu~ Ua~ua♪
-			Ua~? Gharishma dange dadoo☆~
+			Ua~? Ghawishma dange dadoo☆~
 			Mommy, loog~♪ Ua~ua~
 			I'll dange lige Mama, doo♪
 			Dange daado~☆
-			SHhage SHhage♪ Remi☆rya☆Uu~!
+			Shage Shage♪ Wemi☆wya☆Uu~!
 			Ich'll be a fun nighch! sheemsh lige ich dado~!
 		</child>
 		<adult>
@@ -552,12 +552,12 @@
 [BeVain]
 	<normal>
 		<baby>
-			Gharishma dado~！
+			Ghawishma dado~！
 			Uu~!
 			Uu~!
 		</baby>
 		<child>
-			Gharishma dado~！
+			Ghawishma dado~！
 			Uu~!
 			Uu~~!
 		</child>
@@ -573,11 +573,11 @@
 [TakeItEasy]
 	<normal>
 		<baby>
-			Uu~! CHage ich eajy!
+			Uu~! Chage ich eajy!
 			Lech'sh chage ich eajy dadoo!
 		</baby>
 		<child>
-			Uu~! CHage ich eajy!
+			Uu~! Chage ich eajy!
 			Lech'sh chage ich eajy dadoo!
 		</child>
 		<adult>
@@ -588,12 +588,12 @@
 	<rude>
 		<baby>
 			Lech'sh chage ich eajy dadoo!!!
-			Uu~! CHage ich eajy!!!
+			Uu~! Chage ich eajy!!!
 			Uu~ Uu~!!!
 		</baby>
 		<child>
 			Lech'sh chage ich eajy dadoo!!!
-			Uu~! CHage ich eajy!!!
+			Uu~! Chage ich eajy!!!
 			Uu~ Uu~!!!
 		</child>
 		<adult>
@@ -647,11 +647,11 @@
 	<normal>
 		<baby>
 			Uu~ Uu~
-			SHaguya~~
+			Shaguya~~
 		</baby>
 		<child>
 			Uu~ Uu~
-			SHaguya~
+			Shaguya~
 		</child>
 		<adult>
 			Uu~... Uu~...
@@ -661,11 +661,11 @@
 	<rude>
 		<baby>
 			Uu~ Uu~
-			SHaguya~~
+			Shaguya~~
 		</baby>
 		<child>
 			Uu~ Uu~
-			SHaguya~~
+			Shaguya~~
 			
 		</child>
 		<adult>
@@ -680,32 +680,32 @@
 	<normal>
 		<baby>
 			Uu~! Uu~
-			SHchob ich dadoo~!
-			Ich hurchhhhhhhsh doo!
-			Whach are you doing cho %name, anyway?
-			SHaguya~!
+			Shchob ich dadoo~!
+			Ich huwchhhhhhhsh doo!
+			Whach awe you doing cho %name, anyway?
+			Shaguya~!
 			Uuu~! I hache you sho mugh~~!
-			Ich hurchhhhhhhsh!!!
+			Ich huwchhhhhhhsh!!!
 			<damage>
 				Uuu~...
-				Ich hurchsh, shchob ich.. bleashe..
-				SHchob, shchob ich already...
-				SHaguyaa.. Helb me..
+				Ich huwdsh, shchob ich.. bleashe..
+				Shchob, shchob ich alweady...
+				Shaguyaa.. Helb me..
 			</damage>
 		</baby>
 		<child>
 			Uu~! Uu~
-			SHchob ich dadoo~!
-			Ich hurchhhhhhhsh doo!
-			Whach are you doing cho %name, anyway?
-			SHaguya~!
+			Shchob ich dadoo~!
+			Ich huwchhhhhhhsh doo!
+			Whach awe you doing cho %name, anyway?
+			Shaguya~!
 			Uuu~! I hache you sho mugh~~!
-			Ich hurchhhhhhhsh!!!
+			Ich huwchhhhhhhsh!!!
 			<damage>
 				Uuu~...
-				Ich hurchsh, shchob ich.. bleashe..
-				SHchob, shchob ich already...
-				SHaguyaa.. Helb me..
+				Ich huwdsh, shchob ich.. bleashe..
+				Shchob, shchob ich alweady...
+				Shaguyaa.. Helb me..
 			</damage>
 		</child>
 		<adult>
@@ -726,34 +726,34 @@
 	<rude>
 		<baby>
 			Uu~! Uu~
-			SHchob ich dadoo~!
-			Ich hurchhhhhhhsh doo!
-			Whach are you doing cho %name dadoo?
-			SHaguya~!
+			Shchob ich dadoo~!
+			Ich huwchhhhhhhsh doo!
+			Whach awe you doing cho %name dadoo?
+			Shaguya~!
 			Uuu~! I hache you sho mugh~~!
-			Ich hurchhhhhhhsh!!!
+			Ich huwchhhhhhhsh!!!
 			<damage>
 				Uu~ Uu~
-				Ich hurchsh, shchob ich.. bleashe..
-				SHchob, shchob ich already...
-				SHaguyaa.. Helb me..
-				I hache you.. ich hurchhhhhhhsh!
+				Ich huwdsh, shchob ich.. bleashe..
+				Shchob, shchob ich alweady...
+				Shaguyaa.. Helb me..
+				I hache you.. ich huwchhhhhhhsh!
 			</damage>
 		</baby>
 		<child>
 			Uu~! Uu~
-			SHchob ich dadoo~!
-			Ich hurchhhhhhhsh doo!
-			Whach are you doing cho %name dadoo?
-			SHaguya~!
+			Shchob ich dadoo~!
+			Ich huwchhhhhhhsh doo!
+			Whach awe you doing cho %name dadoo?
+			Shaguya~!
 			Uuu~! I hache you sho mugh~~!
-			Ich hurchhhhhhhsh!!!
+			Ich huwchhhhhhhsh!!!
 			<damage>
 				Uuu~...
-				Ich hurchsh, shchob ich.. bleashe..
-				SHchob, shchob ich already...
-				SHaguyaa.. Helb me..
-				I hache you.. ich hurchhhhhhhsh!!
+				Ich huwdsh, shchob ich.. bleashe..
+				Shchob, shchob ich alweady...
+				Shaguyaa.. Helb me..
+				I hache you.. ich huwchhhhhhhsh!!
 			</damage>
 		</child>
 		<adult>
@@ -798,25 +798,25 @@
 	<normal>
 		<baby>
 			Uu~~~
-			I'm shgared dadooo!
-			SHaguya~! Helb me dadoo!!
-			Uu~~~ Dere'sh a bad shmell shomewhere......
+			I'm shgawed dadooo!
+			Shaguya~! Helb me dadoo!!
+			Uu~~~ Dhewe'sh a bad shmell shomewhewe......
 			<damage>
 				Uu~~
-				I'm shgared dado~~!
+				I'm shgawed dado~~!
 				Zaguya... helb me~~~
 				Ich shchingsh,, I gan'ch chage ich eajy,,
 			</damage>
 		</baby>
 		<child>
 			Uu~...
-			I'm shgared dado~!
-			SHaguya~! Helb me bleashe!!
-			Uu~~... Dere'sh a bad shmell here~~...
+			I'm shgawed dado~!
+			Shaguya~! Helb me bleashe!!
+			Uu~~... Dhewe'sh a bad shmell hewe~~...
 			<damage>
 				Uu~...
-				I'm shgared dado~~!
-				SHaguya...... helb me~~~
+				I'm shgawed dado~~!
+				Shaguya...... helb me~~~
 				Ich shchingsh,, I gan'ch chage ich eajy,,
 			</damage>
 		</child>
@@ -840,26 +840,26 @@
 	<normal>
 		<baby>
 			Uu~! Uu~
-			SHchob ich!
-			SHaguya~! Helb me dado~~!
+			Shchob ich!
+			Shaguya~! Helb me dado~~!
 			I hache you~~!!!
-			Uu~! Go ober dere!!!
+			Uu~! Go oba dhewe!!!
 			<damage>
-				SHchob ich dadoo~~!
-				SHaguyaa, Helb me~~
-				Go ober dere~~
+				Shchob ich dadoo~~!
+				Shaguyaa, Helb me~~
+				Go oba dhewe~~
 			</damage>
 		</baby>
 		<child>
 			Uu~! Uu~
-			SHchob ich!
-			SHaguya~! Helb me dadoo~~!
+			Shchob ich!
+			Shaguya~! Helb me dadoo~~!
 			I hache you~~!!!
-			Uu~! Go ober dere!!!
+			Uu~! Go oba dhewe!!!
 			<damage>
-				SHchob ich dadoo~~!
-				SHaguyaa, Helb me~~
-				Go ober dere~~~
+				Shchob ich dadoo~~!
+				Shaguyaa, Helb me~~
+				Go oba dhewe~~~
 			</damage>
 		</child>
 		<adult>
@@ -878,26 +878,26 @@
 	<rude>
 		<baby>
 			Uu~! Uu~
-			SHchob ich!
-			SHaguya~! Helb me dado~~!
+			Shchob ich!
+			Shaguya~! Helb me dado~~!
 			I hache you sho mugh~~!!!
-			Uu~! Go ober dere!!!
+			Uu~! Go oba dhewe!!!
 			<damage>
-				SHchob ich dadoo~~!
-				SHaguya... Helb me,,,
-				Go ober dere,,,
+				Shchob ich dadoo~~!
+				Shaguya... Helb me,,,
+				Go oba dhewe,,,
 			</damage>
 		</baby>
 		<child>
 			Uu~! Uu~
-			SHchob ich, ya!
-			SHaguya~! Helb me~~!
+			Shchob ich, ya!
+			Shaguya~! Helb me~~!
 			I hache you sho mugh~~~!
-			Uu~! Go ober dere!!!
+			Uu~! Go oba dhewe!!!
 			<damage>
-				SHchob ich dadoo~~!
-				SHaguya... Helb me~~~
-				Go ober dere~~
+				Shchob ich dadoo~~!
+				Shaguya... Helb me~~~
+				Go oba dhewe~~
 			</damage>
 		</child>
 		<adult>
@@ -938,11 +938,11 @@
 	<normal>
 		<baby>
 			Uu~...
-			SHaguyaa~~...
+			Shaguyaa~~...
 		</baby>
 		<child>
 			Uu~...
-			SHaguyaa~~...
+			Shaguyaa~~...
 		</child>
 		<adult>
 			Uu~~!
@@ -952,11 +952,11 @@
 	<rude>
 		<baby>
 			Uu~...
-			SHaguyaa~~...
+			Shaguyaa~~...
 		</baby>
 		<child>
 			Uu~...
-			SHaguyaa~~...
+			Shaguyaa~~...
 		</child>
 		<adult>
 			Uu~~!
@@ -970,17 +970,17 @@
 	<normal>
 		<baby>
 			Uu~! Uu~
-			Uu~uu~! Habbineshsh~
+			Uu~uu~! Habbinessh~
 			Uu~! Yummy, nyee~
-			Uu~! Dang you Mishcher~
+			Uu~! Dang you Mishcha~
 			Yummy♪
 			Deligioush! Ich'sh a deligioush chashche, dadoo~!
 		</baby>
 		<child>
 			Uu~! Uu~
-			Uu~uu~! Habbineshsh~
+			Uu~uu~! Habbinessh~
 			Uu~! Yummy, nyee~
-			Uu~! Dang you Mishcher~
+			Uu~! Dang you Mishcha~
 			Yummy♪
 			Deligioush! Ich'sh a deligioush chashche, dadoo~!
 		</child>
@@ -998,21 +998,21 @@
 			Uu~!☆
 			Uu~!Uuー！
 			Uu～！I'm noch shachishfied dado~!
-			Drow away de beggiesh dado~!
+			Dwow away de beggiesh dado~!
 			U～！U～！
 			Uu~,, ich'sh sho-sho~!
 			Uu~! Ich'sh noch enough~!
-			Uu~! Bring more deligioush Mishcher food!!
+			Uu~! Bwing mowe deligioush Mishcha food!!
 		</baby>
 		<child>
 			Uu~!☆
 			Uu~!Uuー！
 			Uu～！I'm noch shachishfied dado~!
-			Drow away de beggiesh dado~!
+			Dwow away de beggiesh dado~!
 			U～！U～！
 			Uu~,, ich'sh sho-sho~!
 			Uu~! Ich'sh noch enough~!
-			Uu~! Bring more deligioush Mishcher food!!
+			Uu~! Bwing mowe deligioush Mishcha food!!
 		</child>
 		<adult>
 			Uu~!☆
@@ -1036,8 +1036,8 @@
 			Yuwaaan, ich shchingsh do,,,,
 			Why %name hash cho each poo-poo dadoo?
 			<loveplayer>
-				I don'ch wanch cho each poo-poo... go bagg cho being de nige mishcher...
-				If %name did shomeding wrong, I abologize, sho bleashe forgibe me...
+				I don'ch wanch cho each poo-poo... go bagg cho being de nige mishcha...
+				If %name did shomeding wwong, I abologize, sho bleashe fowgibe me...
 				Yubee! poo-poo chashchesh bad doo~~!
 				I wanch cho each shweech-shweechsh doo~~~
 			</loveplayer>
@@ -1048,8 +1048,8 @@
 			Yuwaaan, ich shchingsh do,,,,
 			Why %name hash cho each poo-poo dadoo?
 			<loveplayer>
-				I don'ch wanch cho each poo-poo... go bagg cho being de nige mishcher...
-				If %name did shomeding wrong, I abologize, sho bleashe forgibe me...
+				I don'ch wanch cho each poo-poo... go bagg cho being de nige mishcha...
+				If %name did shomeding wwong, I abologize, sho bleashe fowgibe me...
 				Yubee! poo-poo chashchesh bad doo~~!
 				I wanch cho each shweech-shweechsh doo~~~
 			</loveplayer>
@@ -1074,8 +1074,8 @@
 			Yuwaaan, ich shchingsh do,,,,
 			Why %name hash cho each poo-poo dadoo?
 			<dislikeplayer>
-				SHhichchy shlabe each poo-poo...
-				SHhichchy shlabe who ish mean shhould dieee...
+				Shiddy shlabe each poo-poo...
+				Shiddy shlabe who ish mean should dieee...
 				Yubee,, I don'ch wanna each poo-poo,,,
 			</dislikeplayer>
 		</baby>
@@ -1085,8 +1085,8 @@
 			Eaching poo-poo ish a humiliachion, dadoo,,,
 			Why %name hash cho each poo-poo dadoo?
 			<dislikeplayer>
-				SHhichchy shlabe each poo-poo...
-				SHhichchy shlabe who ish mean shhould dieee...
+				Shiddy shlabe each poo-poo...
+				Shiddy shlabe who ish mean should dieee...
 				Yubee,, I don'ch wanna each poo-poo,,,
 			</dislikeplayer>
 		</child>
@@ -1108,10 +1108,10 @@
 [TransportFood]
 	<normal>
 		<baby>
-			Mishcher food! I'll chage ich bagg cho de SHgarlech Debil Manshion doo!
+			Mishcha food! I'll chage ich bagg cho de Shgawlech Debil Manshion doo!
 		</baby>
 		<child>
-			Mishcher food! I'll chage ich bagg cho de SHgarlech Debil Manshion doo!
+			Mishcha food! I'll chage ich bagg cho de Shgawlech Debil Manshion doo!
 		</child>
 		<adult>
 			Mister Food, %name found you! I'll take it back to the Scarlet Devil Mansion doo!
@@ -1123,22 +1123,22 @@
 [TransportShit]
 	<normal>
 		<baby>
-			I'm garrying poo-poo.
+			I'm gawwying poo-poo.
 			I'm gleaning poo-poo.
 			<ununSlave>
-				I'll bring poo-poo cho de choilech do...
-				Ich'sh poo-poo garrying chime dado...
-				I don'ch wanch cho glean ub poo-poo anymore...
+				I'll bwing poo-poo cho de choilech do...
+				Ich'sh poo-poo gawwying chime dado...
+				I don'ch wanch cho glean ub poo-poo anymowe...
 				I wand cho dage ich eajy, doo... yu, yu, yu..
 			</ununSlave>
 		</baby>
 		<child>
-			I'm garrying poo-poo.
+			I'm gawwying poo-poo.
 			I'm gleaning poo-poo.
 			<ununSlave>
-				Uu~! I'll bring poo-poo cho de choilech do...
-				Uu~! Ich'sh poo-poo garrying chime dado...
-				I don'ch wanch cho glean ub poo-poo anymore...
+				Uu~! I'll bwing poo-poo cho de choilech do...
+				Uu~! Ich'sh poo-poo gawwying chime dado...
+				I don'ch wanch cho glean ub poo-poo anymowe...
 				I wand cho dage ich eajy, doo... yu, yu, yu..
 			</ununSlave>
 		</child>
@@ -1163,27 +1163,27 @@
 		<baby>
 			Heab-ho!
 			Heab-ho!!
-			CHoday'sh reshulchsh, dado!!
-			CHoday'sh worg ish done, dado!!
-			%name ish already a full-fledged adulch, dadoo-!!
+			Choday'sh weshulchsh, dado!!
+			Choday'sh wowg ish done, dado!!
+			%name ish alweady a full-fledged adulch, dadoo-!!
 			<ununSlave>
 				Heab-ho,....
 				Heab-ho,....
-				CHoday wash anoder day of garrying poo-poo, doo......
-				I finally finishhed garrying poo-poo, doo... ich shchingsh, doo...
+				Choday wash anodhew day of gawwying poo-poo, doo......
+				I finally finished gawwying poo-poo, doo... ich shchingsh, doo...
 			</ununSlave>
 		</baby>
 		<child>
 			Heab-ho!
 			Heab-ho!!
-			CHoday'sh reshulchsh, dado!!
-			CHoday'sh worg ish done, dado!!
-			%name ish already a full-fledged adulch, dadoo-!!
+			Choday'sh weshulchsh, dado!!
+			Choday'sh wowg ish done, dado!!
+			%name ish alweady a full-fledged adulch, dadoo-!!
 			<ununSlave>
 				Heab-ho,....
 				Heab-ho,....
-				CHoday wash anoder day of garrying poo-poo, doo......
-				I finally finishhed garrying poo-poo, doo... ich shchingsh, doo...
+				Choday wash anodhew day of gawwying poo-poo, doo......
+				I finally finished gawwying poo-poo, doo... ich shchingsh, doo...
 			</ununSlave>
 		</child>
 		<adult>
@@ -1208,20 +1208,20 @@
 			Yu~, yuuu...
 			Mungh mungh...
 			Ghomb ghomb... ich chashchesh awful, doo...
-			%name wanchsh cho each shomeding chashchier, do...
-			%name wanchsh cho each shomeding dach chagesh ich eajy more, do...
-			Mungh mungh... unhabbineshsh~...
-			Ghomb ghomb... unhabbineshsh~...
+			%name wanchsh cho each shomeding chashchiew, do...
+			%name wanchsh cho each shomeding dach chagesh ich eajy mowe, do...
+			Mungh mungh... unhabbinessh~...
+			Ghomb ghomb... unhabbinessh~...
 			Ghomb ghomb... I wanch cho each shweech-shweechsh, do...
 		</baby>
 		<child>
 			Yu~, yuuu...
 			Mungh mungh...
 			Ghomb ghomb... ich chashchesh awful, doo...
-			%name wanchsh cho each shomeding chashchier, do...
-			%name wanchsh cho each shomeding dach chagesh ich eajy more, do...
-			Mungh mungh... unhabbineshsh~...
-			Ghomb ghomb... unhabbineshsh~...
+			%name wanchsh cho each shomeding chashchiew, do...
+			%name wanchsh cho each shomeding dach chagesh ich eajy mowe, do...
+			Mungh mungh... unhabbinessh~...
+			Ghomb ghomb... unhabbinessh~...
 			Ghomb ghomb... I wanch cho each shweech-shweechsh, do...
 		</child>
 		<adult>
@@ -1239,59 +1239,59 @@
 	</normal>
 	<rude>
 		<baby>
-			Ghomb ghomb, dishgushching! Hand ober shomeding elshe!!!
-			Mungh mungh, I gan'ch each shomeding lige dish, doo!! SHchubid, doooo!!
-			Awful! Bichcher! Dish ishn'ch food ach all!!
-			Do you really ding %name would lige cho each shomeding lige dish?
+			Ghomb ghomb, dishgushching! Hand oba shomeding elshe!!!
+			Mungh mungh, I gan'ch each shomeding lige dhishh, doo!! Shchubid, doooo!!
+			Awful! Bicchew! Dish ishn'ch food ach all!!
+			Do you weally ding %name would lige cho each shomeding lige dhishh?
 			Mungh, awful!
 			Why won'ch you gibe %name shweech-shweechsh!!!
-			Mungh mungh, %name doeshn'ch wanch cho each shomeding lige dish!!!
-			Ghomb ghomb... unhabbineshsh~!!
-			Mungh mungh... unhabbineshsh~!!
-			Ghomb, dishgushching!!! Hand ober shomeding elshe!!!
-			Hurry ub and hand ober shweech-shweechsh!!!
-			Mungh mungh... SHhichchy barench! Gan'ch you eben brebare a brober meal?!
-			Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
-			No no! %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
+			Mungh mungh, %name doeshn'ch wanch cho each shomeding lige dhishh!!!
+			Ghomb ghomb... unhabbinessh~!!
+			Mungh mungh... unhabbinessh~!!
+			Ghomb, dishgushching!!! Hand oba shomeding elshe!!!
+			Huwwy ub and hand oba shweech-shweechsh!!!
+			Mungh mungh... Shiddy bawench! Gan'ch you eben bwebawe a bwobew meal?!
+			Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy moooowe!!!
+			No no! %name wanchsh cho each shomeding dach chagesh ich eajy moooowe!!!
 			No no noo！！Awfulll！！
 			<damage>
 				Uu~ Uu~
 				Mungh mungh~~~
 				Mungh mungh Ich'sh sho dishgushching doo,...
-				Ghomb ghomb... unhabbineshsh...
-				Mungh mungh... unhabbineshsh...
+				Ghomb ghomb... unhabbinessh...
+				Mungh mungh... unhabbinessh...
 				Mungh mungh Dish mushch be shome gind of mishchage dado~!
-				Mungh why doesh guche %name habe cho each garbage lige dish doo?...
-				Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy more doo...
+				Mungh why doesh guche %name habe cho each gawbage lige dhishh doo?...
+				Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy mowe doo...
 				Mungh mungh, I wanch cho each shweech-shweechsh, do...
 			</damage>
 		</baby>
 		<child>
-			Ghomb ghomb, dishgushching! Hand ober shomeding elshe!!!
-			Mungh mungh, I gan'ch each shomeding lige dish, doo!! SHchubid, doooo!!
-			Awful! Bichcher! Dish ishn'ch food ach all!!
-			How gould %name ding I'd lige cho each shomeding lige dish?!
+			Ghomb ghomb, dishgushching! Hand oba shomeding elshe!!!
+			Mungh mungh, I gan'ch each shomeding lige dhishh, doo!! Shchubid, doooo!!
+			Awful! Bicchew! Dish ishn'ch food ach all!!
+			How gould %name ding I'd lige cho each shomeding lige dhishh?!
 			Mungh, awful!
 			Why won'ch you gibe %name shweech-shweechsh!!!
-			Mungh mungh, %name doeshn'ch wanch cho each shomeding lige dish!!!
-			Ghomb ghomb... unhabbineshsh~!!
-			Mungh mungh... unhabbineshsh~!!
-			Ghomb, dishgushching!!! Hand ober shomeding elshe!!!
-			Hurry ub and hand ober shweech-shweechsh!!!
-			Mungh mungh! SHhichchy barench! Gan'ch you eben brebare a brober meal?!
-			Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
-			No no! %name wanchsh cho each shomeding dach chagesh ich eajy moooore!!!
+			Mungh mungh, %name doeshn'ch wanch cho each shomeding lige dhishh!!!
+			Ghomb ghomb... unhabbinessh~!!
+			Mungh mungh... unhabbinessh~!!
+			Ghomb, dishgushching!!! Hand oba shomeding elshe!!!
+			Huwwy ub and hand oba shweech-shweechsh!!!
+			Mungh mungh! Shiddy bawench! Gan'ch you eben bwebawe a bwobew meal?!
+			Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy moooowe!!!
+			No no! %name wanchsh cho each shomeding dach chagesh ich eajy moooowe!!!
 			<damage>
 				Uu~ Uu~
 				Mungh mungh~~~
 				Mungh mungh Ich'sh sho dishgushching doo,...
-				Ghomb ghomb... unhabbineshsh...
-				Mungh mungh... unhabbineshsh...
-				Ghomb ghomb gulb unhabbineshsh...
+				Ghomb ghomb... unhabbinessh...
+				Mungh mungh... unhabbinessh...
+				Ghomb ghomb gulb unhabbinessh...
 				Mungh mungh Dish mushch be shome gind of mishchage dado~!
-				Mungh why doesh guche %name habe cho each garbage lige dish doo?...
-				Mungh mungh, %name ish bichiful, dado~? Bleashe gibe me brober Mishcher food, ogay?
-				Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy more doo...
+				Mungh why doesh guche %name habe cho each gawbage lige dhishh doo?...
+				Mungh mungh, %name ish bichiful, dado~? Bleashe gibe me bwobew Mishcha food, ogay?
+				Mungh mungh, %name wanchsh cho each shomeding dach chagesh ich eajy mowe doo...
 				Mungh mungh, I wanch cho each shweech-shweechsh, do...
 			</damage>
 		</child>
@@ -1334,12 +1334,12 @@
 [EatingBitter]
 	<normal>
 		<baby>
-			Uu~uu~~, dish ish boishonoush dado!
-			Yubeeee! Ich chashchesh cherrible dadoo~~~
+			Uu~uu~~, dhishh ish boishonoush dado!
+			Yubeeee! Ich chashchesh chewwible dadoo~~~
 			Uu~~ Yugg!!!
 		</baby>
 		<child>
-			Uu~uu~~, dish ish boishonoush dado!
+			Uu~uu~~, dhishh ish boishonoush dado!
 			Yubeeee! Ich chashchesh sho bad dadoo...
 			Uu~~~ Yugg!
 		</child>
@@ -1359,26 +1359,26 @@
 			Yuge~~~
 			Yuge~~~
 			Yubi~~~
-			Yo-ro-lo-lo-lo-lo-lo~~~
+			Yo-wo-lo-lo-lo-lo-lo~~~
 			Yubi-yubi-yubi-yubi~~~
 			Whyyy, I gan'ch each ich, dooo...
-			Yubeee... Mishcher Food, chage ich eajy and be eachen by %nameee...
-			Yuge~~~ gyoure gara %name wa dou shhighirai yo-dooooooo~~~
-			Yugeee... whach shhould %name do now, dooo!!
-			Yugeeeeee!! Whyyy! Why doesh %name habe cho go drough dishshsh!!!
+			Yubeee... Mishcha Food, chage ich eajy and be eachen by %nameee...
+			Yugeeeeeeee!!! Ich'sh bicchew-bicchew and I gan'd chage ich eajyyyyyyy!!!
+			Yugeee... whach should %name do now, dooo!!
+			Yugeeeeee!! Whyyy! Why doesh %name habe cho go dwough dhisssh!!!
 		</baby>
 		<child>
 			Yye~~~
 			Yuge~~~
 			Yuge~~~
 			Yube~~~
-			Yorororororororo~~~
+			Yowowowowowowowo~~~
 			Yubububu~~~
 			Whyyy, I gan'ch each ich, dooo...
-			Yubeee... Mishcher Food, chage ich eajy and be eachen by %nameee...
-			Yugeeeeeeee!!! Ich'sh bichcher-bichcher and I gan'd chage ich eajyyyyyyy!!!
-			Yugeee... whach shhould %name do now, dooo!!
-			Yugeeeeee!! Whyyy! Why doesh %name habe cho go drough dish!!!
+			Yubeee... Mishcha Food, chage ich eajy and be eachen by %nameee...
+			Yugeeeeeeee!!! Ich'sh bicchew-bicchew and I gan'd chage ich eajyyyyyyy!!!
+			Yugeee... whach should %name do now, dooo!!
+			Yugeeeeee!! Whyyy! Why doesh %name habe cho go dwough dhishh!!!
 		</child>
 		<adult>
 			Yueeeee...
@@ -1401,15 +1401,15 @@
 	<normal>
 		<baby>
 			Uu~! %name'sh chummy ish full dado~!
-			Uu~! CHummy'sh full dado~!
+			Uu~! Chummy'sh full dado~!
 			Ich wash deligioush dado~!
-			Uu~☆ Mishcher, dang you bery mugh dado~!
+			Uu~☆ Mishcha, dang you bewy mugh dado~!
 		</baby>
 		<child>
 			Uu~! %name'sh chummy ish full dado~!
-			Uu~! CHummy'sh full dado~!
+			Uu~! Chummy'sh full dado~!
 			Ich wash deligioush dado~!
-			Uu~☆ Mishcher, dang you bery mugh dado~!
+			Uu~☆ Mishcha, dang you bewy mugh dado~!
 		</child>
 		<adult>
 			Uu~! %name's tummy is full dado~!
@@ -1421,13 +1421,13 @@
 	<rude>
 		<baby>
 			Uu~,, noch quiche good yech dado~
-			Ich washn'ch bery deligioush ach all!
-			Noch quiche good yech dado~ Nexch chime bring shome buddin' dado~!
+			Ich washn'ch bewy deligioush ach all!
+			Noch quiche good yech dado~ Nexch chime bwing shome buddin' dado~!
 		</baby>
 		<child>
 			Uu~,, noch quiche good yech dado~
-			Ich washn'ch bery deligioush ach all!
-			Noch quiche good yech dado~ Nexch chime bring shome buddin' dado~!
+			Ich washn'ch bewy deligioush ach all!
+			Noch quiche good yech dado~ Nexch chime bwing shome buddin' dado~!
 		</child>
 		<adult>
 			Uu~,, not quite good yet dado~
@@ -1442,21 +1442,21 @@
 	<normal>
 		<baby>
 			Deligioush shweech-shweechsh dado~!
-			Mishcher, dangsh for de shweech-shweechsh dado~☆
+			Mishcha, dangsh fow de shweech-shweechsh dado~☆
 			Uu~! Uu~!
-			Uu~! Mishcher, dang you sho mugh~
+			Uu~! Mishcha, dang you sho mugh~
 			<damage>
-				gharishma☆%name ish bagg dado~！
+				ghawishma☆%name ish bagg dado~！
 				%name hash made a magnifigench gomebagg!
 			</damage>
 		</baby>
 		<child>
 			Deligioush shweech-shweechsh dado~!
-			Mishcher, dangsh for de shweech-shweechsh dado~☆
+			Mishcha, dangsh fow de shweech-shweechsh dado~☆
 			Uu~! Uu~!
-			Uu~! Mishcher, dang you sho mugh~
+			Uu~! Mishcha, dang you sho mugh~
 			<damage>
-				gharishma☆%name ish bagg dado~！
+				ghawishma☆%name ish bagg dado~！
 				%name hash made a magnifigench gomebagg!
 			</damage>
 		</child>
@@ -1475,18 +1475,18 @@
 		<baby>
 			Uu~! Uu~!
 			Deligioush shweech-shweechsh dado~!
-			More shweech-shweechsh dado~!
+			Mowe shweech-shweechsh dado~!
 			<damage>
-				gharishma☆%name ish bagg dado~！
+				ghawishma☆%name ish bagg dado~！
 				%name hash made a magnifigench gomebagg!
 			</damage>
 		</baby>
 		<child>
 			Uu~! Uu~!
 			Deligioush shweech-shweechsh dado~!
-			More shweech-shweechsh dado~!
+			Mowe shweech-shweechsh dado~!
 			<damage>
-				gharishma☆%name ish bagg dado~！
+				ghawishma☆%name ish bagg dado~！
 				%name hash made a magnifigench gomebagg!
 			</damage>
 		</child>
@@ -1506,10 +1506,10 @@
 [ToFreedom]
 	<normal>
 		<baby>
-			Refreshhed!
+			Wefweshed!
 		</baby>
 		<child>
-			Refreshhed!
+			Wefweshed!
 		</child>
 		<adult>
 			Refreshed!
@@ -1521,10 +1521,10 @@
 [Cleaned]
 	<normal>
 		<baby>
-			Refreshhed!
+			Wefweshed!
 		</baby>
 		<child>
-			Refreshhed!
+			Wefweshed!
 		</child>
 		<adult>
 			Refreshed!
@@ -1537,11 +1537,11 @@
 	<normal>
 		<baby>
 			Uu~!!
-			Refreshhed!
+			Wefweshed!
 		</baby>
 		<child>
 			Uu~!!
-			Refreshhed!
+			Wefweshed!
 		</child>
 		<adult>
 			Uu~!!!
@@ -1554,13 +1554,13 @@
 [SukkiriForRaper]
 	<normal>
 		<baby>
-			Refreshhed!!
+			Wefweshed!!
 		</baby>
 		<child>
-			CHighch, chighch, chighch!!
+			Wefweshed, Wefweshed, Wefweshed!!
 		</child>
 		<adult>
-			Tight, tight, tight!!
+			Refweshed, Refweshed, Refweshed!!
 		</adult>
 	</normal>
 [/SukkiriForRaper]
@@ -1569,24 +1569,24 @@
 [RaperSukkiri]
 	<normal>
 		<baby>
-			I don'ch wanch cho refreshh anymore dadoo!
-			Lichchle onesh, don'ch shbrouch, dadoooo!!!
-			Uu~、bleashe forgibe me、、、
-			SHaguya, helb me bleashe~~!
-			Uu~！Mamumamu hurchhhhhhhsh！！！
-			Uwaahhh~! I don’ch lige dish game~~!
-			%name'sh mamumamu ish going cho breeeag, doooo!!!
+			I don'ch wanch cho wefwesh anymowe dadoo!
+			Liddle onesh, don'ch shbwouch, dadoooo!!!
+			Uu~、bleashe fowgibe me、、、
+			Shaguya, helb me bleashe~~!
+			Uu~！Mamumamu huwchhhhhhhsh！！！
+			Uwaahhh~! I don’ch lige dhishh game~~!
+			%name'sh mamumamu ish going cho bweeeag, doooo!!!
 			Uuu~! I hache you~~!!!
 		</baby>
 		<child>
-			I don'ch wanch cho refreshh anymore dadoo!
-			Be more genchle, dadooo!!!
-			Uu~、bleashe forgibe me~~…
-			SHaguya, helb me bleashe~~!
-			Uu~! Mamumamu hurchhhhhhhsh~~!
-			Uwaahhh~! I don’ch lige dish game~~!
-			Lichchle onesh, don'ch shbrouch, dadoooo!!!
-			%name'sh mamumamu ish going cho breeeag, doooo!!!
+			I don'ch wanch cho wefwesh anymowe dadoo!
+			Be mowe genchle, dadooo!!!
+			Uu~、bleashe fowgibe me~~…
+			Shaguya, helb me bleashe~~!
+			Uu~! Mamumamu huwchhhhhhhsh~~!
+			Uwaahhh~! I don’ch lige dhishh game~~!
+			Liddle onesh, don'ch shbwouch, dadoooo!!!
+			%name'sh mamumamu ish going cho bweeeag, doooo!!!
 			Uuu~! I hache you~~!!!
 		</child>
 		<adult>
@@ -1604,26 +1604,26 @@
 [PoolSukkiri]
 	<normal>
 		<baby>
-			Uu~! Ich hurchhhhhhhsh~~!
-			Refreshhed-! I don'ch wanna do ich, dadoo-!
-			Liddle onesh, don'd be born, doooo!!!
-			%name ish breeeaging, doooo!!!
+			Uu~! Ich huwchhhhhhhsh~~!
+			Wefweshed-! I don'ch wanna do ich, dadoo-!
+			Liddle onesh, don'd be bown, doooo!!!
+			%name ish bweeeaging, doooo!!!
 			Uuu~! I hache you sho mugh~~!
-			Uuuhhh... bleashe forgibe me~~...
-			SHaguya, helb me yoo~~!
-			Uu~! Ich hurchhhhhhhsh~~!
-			Uwaahhh~! I hache dish~~!
+			Uuuhhh... bleashe fowgibe me~~...
+			Shaguya, helb me yoo~~!
+			Uu~! Ich huwchhhhhhhsh~~!
+			Uwaahhh~! I hache dhishh~~!
 		</baby>
 		<child>
-			Refreshhed-! I don'ch wanna do ich, dadoo-!
-			Do ich more gendly, dadoooo!!!
-			Liddle onesh, don'd be born, doooo!!!
-			Uuuhhh... bleashe forgibe me~~...
-			%name ish breeeaging, doooo!!!
+			Wefweshed-! I don'ch wanna do ich, dadoo-!
+			Do ich mowe gendly, dadoooo!!!
+			Liddle onesh, don'd be bown, doooo!!!
+			Uuuhhh... bleashe fowgibe me~~...
+			%name ish bweeeaging, doooo!!!
 			Uuu~! I hache you sho mugh~~!
-			SHaguya, helb me yoo~~!
-			Uu~! Ich hurchhhhhhhsh~~!
-			Uwaahhh~! I hache dish~~!
+			Shaguya, helb me yoo~~!
+			Uu~! Ich huwchhhhhhhsh~~!
+			Uwaahhh~! I hache dhishh~~!
 		</child>
 		<adult>
 			I don'd wand to refresh anymoreee!
@@ -1652,32 +1652,32 @@
 	<normal>
 		<baby>
 			poo-poo dadoo!
-			Mishcher poo-poo ish goming ouch eajy dado~♪
-			Mishcher poo-poo ish goming ouch dado~☆
+			Mishcha poo-poo ish goming ouch eajy dado~♪
+			Mishcha poo-poo ish goming ouch dado~☆
 			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
 				Uu-? poo-poo ish leaging, dadoo-!
-				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
-				Mishcher! Gan you chage Mishcher glodesh off dadoo~?
+				Uu! Why Mishcha glodesh won'ch gome off dadoo~?
+				Mishcha! Gan you chage Mishcha glodesh off dadoo~?
 			</pants>
 			<ununSlave>
 				poo-poo ish goming ouch, do...
-				Mishcher poo-poo, don'ch gome ouch...
+				Mishcha poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</baby>
 		<child>
 			poo-poo dadoo!
-			Mishcher poo-poo ish goming ouch eajy dado~♪
-			Mishcher poo-poo ish goming ouch dado~☆
+			Mishcha poo-poo ish goming ouch eajy dado~♪
+			Mishcha poo-poo ish goming ouch dado~☆
 			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
 				Uu-? poo-poo ish leaging, dadoo-!
-				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
-				Mishcher! Gan you chage Mishcher glodesh off dadoo~?
+				Uu! Why Mishcha glodesh won'ch gome off dadoo~?
+				Mishcha! Gan you chage Mishcha glodesh off dadoo~?
 			</pants>
 			<ununSlave>
 				poo-poo ish goming ouch, do...
-				Mishcher poo-poo, don'ch gome ouch...
+				Mishcha poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</child>
 		<adult>
@@ -1699,34 +1699,34 @@
 	<rude>
 		<baby>
 			poo-poo dado~!
-			Mishcher poo-poo ish goming ouch eajy dado~♪
-			Mishcher poo-poo ish goming ouch dado~☆
+			Mishcha poo-poo ish goming ouch eajy dado~♪
+			Mishcha poo-poo ish goming ouch dado~☆
 			%name will do poo-poo eleganchly☆, doo-!
 			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
 				Uu-? poo-poo ish leaging, dadoo-!
-				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
-				SHlabe! CHage off Mishcher glodesh, doo~?
+				Uu! Why Mishcha glodesh won'ch gome off dadoo~?
+				Shlabe! Chage off Mishcha glodesh, doo~?
 			</pants>
 			<ununSlave>
 				poo-poo ish goming ouch, do...
-				Mishcher poo-poo, don'ch gome ouch...
+				Mishcha poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</baby>
 		<child>
 			poo-poo dado~!
-			Mishcher poo-poo ish goming ouch eajy dado~♪
-			Mishcher poo-poo ish goming ouch dado~☆
+			Mishcha poo-poo ish goming ouch eajy dado~♪
+			Mishcha poo-poo ish goming ouch dado~☆
 			%name will do poo-poo eleganchly☆, doo-!
 			Uuu~☆ %name gan go poo-poo all alone, dadoo-
 			<pants>
 				Uu-? poo-poo ish leaging, dadoo-!
-				Uu! Why Mishcher glodesh won'ch gome off dadoo~?
-				SHlabe! CHage off Mishcher glodesh, doo~?
+				Uu! Why Mishcha glodesh won'ch gome off dadoo~?
+				Shlabe! Chage off Mishcha glodesh, doo~?
 			</pants>
 			<ununSlave>
 				poo-poo ish goming ouch, do...
-				Mishcher poo-poo, don'ch gome ouch...
+				Mishcha poo-poo, don'ch gome ouch...
 			</ununSlave>
 		</child>
 		<adult>
@@ -1752,43 +1752,43 @@
 [Shit2]
 	<normal>
 		<baby>
-			Uu! Refreshhed!
+			Uu! Wefweshed!
 			Uu! I did ich all by myshelf, dado~♪
 			I'm going cho glean de poo-poo now dadoo~!
 			<pants>
-				Ich'sh groshsh, dado~!
+				Ich'sh gwossh, dado~!
 				Ich shchingsh doo~
-				Uu~, Ich'sh groshsh dadoo~~
-				Being dirchy ish noch eleganch, dado...
-				Being gobered in poo-poo gannoch be galled %name, dado...
+				Uu~, Ich'sh gwossh dadoo~~
+				Being diwchy ish noch eleganch, dado...
+				Being gobewed in poo-poo gannoch be galled %name, dado...
 			</pants>
 			<ununSlave>
 				poo-poo game ouch, dado...
-				Do I habe cho each dish poo-poo choo, do?...
-				Mishcher poo-poo, why did you gome ouch, do?...
+				Do I habe cho each dhishh poo-poo choo, do?...
+				Mishcha poo-poo, why did you gome ouch, do?...
 			</ununSlave>
 		</baby>
 		<child>
-			Uu! Refreshhed!
+			Uu! Wefweshed!
 			Uu! I did ich all by myshelf, dado~♪
 			I'm going cho glean de poo-poo now dadoo~!
 			<pants>
-				Ich'sh groshsh, dado~!
+				Ich'sh gwossh, dado~!
 				Ich shchingsh doo~
-				Uu~, Ich'sh groshsh dadoo~~
-				Being dirchy ish noch eleganch, dado...
-				Being gobered in poo-poo gannoch be galled %name, dado...
+				Uu~, Ich'sh gwossh dadoo~~
+				Being diwchy ish noch eleganch, dado...
+				Being gobewed in poo-poo gannoch be galled %name, dado...
 			</pants>
 			<ununSlave>
 				poo-poo game ouch, dado...
-				Do I habe cho each dish poo-poo choo, do?...
-				Mishcher poo-poo, why did you gome ouch, do?...
+				Do I habe cho each dhishh poo-poo choo, do?...
+				Mishcha poo-poo, why did you gome ouch, do?...
 			</ununSlave>
 		</child>
 		<adult>
 			Uuu! Refreshed!
 			Clean up the poo-poo, dadoー!
-			Servantlave! Hurry up and clean it up, dadoー!
+			Servant! Hurry up and clean it up, dadoー!
 			<pants>
 				Uuu...
 				Something like this is humiliating, dado...
@@ -1810,18 +1810,18 @@
 [SuriSuri]
 	<normal>
 		<baby>
-			ru~b♪ru~b♪
+			wu~b♪wu~b♪
 			uwauwa~♪
-			Myamya'sh dange ish de beshch in de world♪
-			Habbineshsh dadoo~！
-			Myamya~♪ Gishsh gishsh♪
+			Myamya'sh dance ish dhe beshch in dhe wowld♪
+			Habbinessh dadoo~！
+			Myamya~♪ Kissh Kissh♪
 		</baby>
 		<child>
-			ru~b♪ru~b♪
+			wu~b♪wu~b♪
 			uwauwa~♪
-			Mommy'sh dange ish de beshch in de world♪
-			Habbineshsh dadoo~！
-			Mommy~♪ Gishsh gishsh♪
+			Mommy'sh dance ish dhe beshch in dhe wowld♪
+			Habbinessh dadoo~！
+			Mommy~♪ Kissh kissh♪
 		</child>
 		<adult>
 			ru~b♪ru~b♪
@@ -1838,14 +1838,14 @@
 		<baby>
 			Ligg-ligg♪
 			Uu~! Myamya~♪
-			Going hunching chogeder wid myamya, doo-! Uaa-♪
-			Ich'sh brebarachion for de ball, doo~♪
+			Going hunching chogeda wid myamya, doo-! Uaa-♪
+			Ich'sh bwebawachion fow de ball, doo~♪
 		</baby>
 		<child>
 			Ligg-ligg♪
 			Uu~! Myamya~♪
-			Going hunching chogeder wid myamya, doo-! Uaa-♪
-			Ich'sh brebarachion for de ball, doo~♪
+			Going hunching chogeda wid myamya, doo-! Uaa-♪
+			Ich'sh bwebawachion fow de ball, doo~♪
 		</child>
 		<adult>
 			li~ck li~ck~♪
@@ -1861,13 +1861,13 @@
 [Breed]
 	<normal>
 		<baby>
-			Uu,,, I'm being born, doo,,,
+			Uu,,, I'm being bown, doo,,,
 		</baby>
 		<child>
-			Uu,,, I'm being born, doo,,,
+			Uu,,, I'm being bown, doo,,,
 		</child>
 		<adult>
-			Uu,,, The little ones are moving dadoo,...
+			Uu,,, The little ones awe moving dadoo,...
 			Uuu... they're being born, doo...
 		</adult>
 	</normal>
@@ -1897,7 +1897,7 @@
 			</damage>
 			<ununSlave>
 				Ich shchingsh~~~
-				I don'ch wanch cho shee poo-poo anymore~~~
+				I don'ch wanch cho shee poo-poo anymowe~~~
 				I hache poo-poo~~~
 			</ununSlave>
 		</baby>
@@ -1910,7 +1910,7 @@
 			</damage>
 			<ununSlave>
 				Ich shmellsh bad, I gan'ch chage ich eajy...
-				I don'ch wanch cho shee poo-poo anymore...
+				I don'ch wanch cho shee poo-poo anymowe...
 				I hache poo-poo...
 			</ununSlave>
 		</child>
@@ -1932,28 +1932,28 @@
 		<baby>
 			Uu~! Ich shchingsh doo~!
 			poo-poo shchingsh doo~!
-			SHhichchy barench who won'ch lech %name chage ich eajy shhould drob dead, dadoo-!
+			Shiddy bawench who won'ch lech %name chage ich eajy should dwob dead, dadoo-!
 			<damage>
 				Ich shchingsh doo~...
 				poo-poo shchingsh doo~...
 			</damage>
 			<ununSlave>
 				Ich shchingsh~~~
-				I don'ch wanch cho shee poo-poo anymore~~~
+				I don'ch wanch cho shee poo-poo anymowe~~~
 				I hache poo-poo~~~
 			</ununSlave>
 		</baby>
 		<child>
 			Uu~ I wanch you cho glean ub de poo-poo doo!
 			Uu~~ Why ich shchingsh doo~?
-			SHhichchy barench who won'ch lech %name chage ich eajy shhould drob dead, dadoo-!
+			Shiddy bawench who won'ch lech %name chage ich eajy should dwob dead, dadoo-!
 			<damage>
 				Ich shchingsh doo~...
 				poo-poo shchingsh doo~...
 			</damage>
 			<ununSlave>
 				Ich shmellsh bad, gan'ch chage ich eajy....
-				I don'ch wanch cho shee poo-poo anymore....
+				I don'ch wanch cho shee poo-poo anymowe....
 				I hache poo-poo....
 			</ununSlave>
 		</child>
@@ -1978,19 +1978,19 @@
 	<normal>
 		<baby>
 			Bufff！Bufff！！！
-			Mishcher poo-poo！Go ober dere！
-			Mishcher poo-poo！Go away！Buff dooo！
+			Mishcha poo-poo！Go oba dhewe！
+			Mishcha poo-poo！Go away！Buff dooo！
 			Uu！Uuu！！！
-			poo-poo, go ober dere dadoo！
-			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+			poo-poo, go oba dhewe dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dhingsh dadoo-!
 		</baby>
 		<child>
 			Bufff！Bufff！！！
-			Mishcher poo-poo！Go ober dere！
-			Mishcher poo-poo！Go away！Buff dooo！
+			Mishcha poo-poo！Go oba dhewe！
+			Mishcha poo-poo！Go away！Buff dooo！
 			Uu！Uuu！！！
-			poo-poo, go ober dere dadoo！
-			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+			poo-poo, go oba dhewe dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dhingsh dadoo-!
 		</child>
 		<adult>
 			%dummy
@@ -1999,21 +1999,21 @@
 	<rude>
 		<baby>
 			Bufff！Bufff！！！
-			%name will bunishh de chrashhy poo-poo doo-!
-			Mishcher poo-poo！Go ober dere！
-			Go away Mishcher poo-poo！Buff dooo！
+			%name will bunish de chwashy poo-poo doo-!
+			Mishcha poo-poo！Go oba dhewe！
+			Go away Mishcha poo-poo！Buff dooo！
 			Uu！Uuu！！！
-			poo-poo, go ober dere dadoo！
-			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+			poo-poo, go oba dhewe dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dhingsh dadoo-!
 		</baby>
 		<child>
 			Bufff！Bufff！！！
-			%name will bunishh de chrashhy poo-poo doo-!
-			Mishcher poo-poo！Go ober dere！
-			Go away Mishcher poo-poo！Buff dooo！
+			%name will bunish de chwashy poo-poo doo-!
+			Mishcha poo-poo！Go oba dhewe！
+			Go away Mishcha poo-poo！Buff dooo！
 			Uu！Uuu！！！
-			poo-poo, go ober dere dadoo！
-			%name doeshn'ch wanna shee anyding buch eleganch dingsh dadoo-!
+			poo-poo, go oba dhewe dadoo！
+			%name doeshn'ch wanna shee anyding buch eleganch dhingsh dadoo-!
 		</child>
 		<adult>
 			%dummy
@@ -2025,40 +2025,40 @@
 [Hungry]
 	<normal>
 		<baby>
-			Bleashe gibe me Mishcher food!
+			Bleashe gibe me Mishcha food!
 			Uu~~...
-			My chummy ish rumbling, dado~!
+			My chummy ish wumbling, dado~!
 			Uuu~~~ shweech-shweechsh~~~
-			SHaguyaa~~~ SHaguyaa~~~
+			Shaguyaa~~~ Shaguyaa~~~
 			<damage>
 				Uu~......
-				My chummy ish rumbling, dado~~!
+				My chummy ish wumbling, dado~~!
 				Uuu~~~, shweech-shweechsh~~~~~
 				Zaguyaa... zaguyaaaa~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan poo-poo,,,
+				I wanna each shomeding odhew dhan poo-poo,,,
 				I don'ch wanch cho each poo-poo...
-				I don'ch wanch poo-poo anymore...
-				Why are you being sho mean do...?
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean do...?
 			</ununSlave>
 		</baby>
 		<child>
-			Bleashe gibe Mishcher food cho %name!
-			My chummy ish rumbling dado~!
+			Bleashe gibe Mishcha food cho %name!
+			My chummy ish wumbling dado~!
 			U～,,.. shweech-shweechsh ..,
-			SHaguyaaa,,, SHaguyaaa,,,
+			Shaguyaaa,,, Shaguyaaa,,,
 			<damage>
 				Uu~......
-				My chummy ish rumbling, dado~~!
+				My chummy ish wumbling, dado~~!
 				Uuu~~~, shweech-shweechsh~~~~~
 				Zaguyaa... zaguyaaaa~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan poo-poo,,,
+				I wanna each shomeding odhew dhan poo-poo,,,
 				I don'ch wanch cho each poo-poo...
-				I don'ch wanch poo-poo anymore...
-				Why are you being sho mean do...?
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean do...?
 			</ununSlave>
 		</child>
 		<adult>
@@ -2083,41 +2083,41 @@
 	</normal>
 	<rude>
 		<baby>
-			Bring me shweech-shweechsh!
-			My chummy ish rumbling dado~!
+			Bwing me shweech-shweechsh!
+			My chummy ish wumbling dado~!
 			Uu~~~ shweech-shweechsh~~~
-			SHaguya... SHaguya......
+			Shaguya... Shaguya......
 			<damage>
-				Yu、Mishcher food,,,
+				Yu、Mishcha food,,,
 				Uu~~~
-				My chummy ish rumbling dado~!
+				My chummy ish wumbling dado~!
 				Uu~~..., shweech-shweechsh...
 				Zaguyaaa, zaguyaaa~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan poo-poo,,,
+				I wanna each shomeding odhew dhan poo-poo,,,
 				I don'ch wanch cho each poo-poo,...
-				I don'ch wanch poo-poo anymore...
-				Why are you being sho mean do...?
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean do...?
 			</ununSlave>
 		</baby>
 		<child>
-			Bring %name shweech-shweechsh!
-			My chummy ish rumbling dado~!
+			Bwing %name shweech-shweechsh!
+			My chummy ish wumbling dado~!
 			Uu~~~ shweech-shweechsh~~~
-			SHaguya... SHaguya...
+			Shaguya... Shaguya...
 			<damage>
-				I'm sho hungry doo~~~
+				I'm sho hungwy doo~~~
 				Uu~......
-				My chummy ish rumbling dado~!
+				My chummy ish wumbling dado~!
 				Uuu~~~ shweech-shweechsh......
 				Zaguya~~ Zaguya~~~
 			</damage>
 			<ununSlave>
-				I wanna each shomeding oder dan poo-poo,,,
+				I wanna each shomeding odhew dhan poo-poo,,,
 				I don'ch wanch cho each poo-poo,...
-				I don'ch wanch poo-poo anymore...
-				Why are you being sho mean do...?
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean do...?
 			</ununSlave>
 		</child>
 		<adult>
@@ -2148,22 +2148,22 @@
 		<baby>
 			Uu~! Uu~
 			Uu~! I wanch ich bagg! I wanch ich bagg!
-			Mishcher hach! Gibe me bagg %name'sh Mishcher hach!
+			Mishcha hach! Gibe me bagg %name'sh Mishcha hach!
 			Uu~? Uu~!!!
-			Gibe bagg %name'sh gharishma☆ Mishcher hach dadoo!
+			Gibe bagg %name'sh ghawishma☆ Mishcha hach dadoo!
 			Uu~! Gibe ich bagg dadoo!
-			Uu~! SHchob being sho mean dadoo!
-			Don'ch chage Mishcher Hach awayyy!
+			Uu~! Shchob being sho mean dadoo!
+			Don'ch chage Mishcha Hach awayyy!
 		</baby>
 		<child>
 			Uu~! Uu~
 			Uu~! I wanch ich bagg! I wanch ich bagg!
-			Mishcher hach! Gibe me bagg %name'sh Mishcher hach!
+			Mishcha hach! Gibe me bagg %name'sh Mishcha hach!
 			Uu~? Uu~!!!
-			Gibe bagg %name'sh gharishma☆ Mishcher hach dadoo!
+			Gibe bagg %name'sh ghawishma☆ Mishcha hach dadoo!
 			Uu~! Gibe ich bagg dadoo!
-			Uu~! SHchob being sho mean dadoo!
-			Don'ch chage Mishcher Hach awayyy!
+			Uu~! Shchob being sho mean dadoo!
+			Don'ch chage Mishcha Hach awayyy!
 		</child>
 		<adult>
 			Uu~~! Uu~~!
@@ -2182,11 +2182,11 @@
 [NoticeNoAccessory]
 	<normal>
 		<baby>
-			Yu~en! Where ish %name'sh aweshome Mishcher hach gone do!?
+			Yu~en! Whewe ish %name'sh aweshome Mishcha hach gone do!?
 			Yu~en!!! %name'sh guche hach ish gone doo~!?
 		</baby>
 		<child>
-			Yu~en! Where ish %name'sh aweshome Mishcher hach gone do!?
+			Yu~en! Whewe ish %name'sh aweshome Mishcha hach gone do!?
 			Yu~en!!! %name'sh guche hach ish gone doo~!?
 		</child>
 		<adult>
@@ -2200,10 +2200,10 @@
 [GetOtherAccessoryStealthily]
 	<normal>
 		<baby>
-			SHlooowly, shlooowly. %name will shegrechly chage Mishcher Hach
+			Shlooowly, shlooowly. %name will shegwechly chage Mishcha Hach
 		</baby>
 		<child>
-			SHlooowly, shlooowly. %name will shegrechly chage Mishcher Hach
+			Shlooowly, shlooowly. %name will shegwechly chage Mishcha Hach
 		</child>
 		<adult>
 			Slooowly, slooowly. %name will secretly take Mister Hat
@@ -2236,18 +2236,18 @@
 [SadnessForChild]
 	<normal>
 		<baby>
-			Uu~? %name'sh lichchle one oben your eyesh!
+			Uu~? %name'sh liddle one oben youw eyesh!
 			Uuu! Why iz da liddle one dead, dooooo!?
-			%name'sh lichchle one
-			Lichchle one! oben your eyesh dado~!
-			Whach'sh wrong wid %name'sh lichchle one dadooooo！？
+			%name'sh liddle one
+			Liddle one! oben youw eyesh dado~!
+			Whach'sh wwong wid %name'sh liddle one dadooooo！？
 		</baby>
 		<child>
-			Uu~? %name'sh lichchle one oben your eyesh!
+			Uu~? %name'sh liddle one oben youw eyesh!
 			Uuu! Why iz da liddle one dead, dooooo!?
-			%name'sh lichchle one
-			Lichchle one! oben your eyesh dado~!
-			Whach'sh wrong wid %name'sh lichchle one dadooooo！？
+			%name'sh liddle one
+			Liddle one! oben youw eyesh dado~!
+			Whach'sh wwong wid %name'sh liddle one dadooooo！？
 		</child>
 		<adult>
 			Uu~? %name's little one open your eyes!
@@ -2272,12 +2272,12 @@
 [SadnessForEldersister]
 	<normal>
 		<baby>
-			Big shishcher, oben your eyesh dado~!
-			Whach shhould %name do dado~?
+			Big shishdew, oben youw eyesh dado~!
+			Whach should %name do dado~?
 		</baby>
 		<child>
-			Big shishcher, oben your eyesh dado~!
-			Whach shhould %name do dado~?
+			Big shishdew, oben youw eyesh dado~!
+			Whach should %name do dado~?
 		</child>
 		<adult>
 			Big sister, open your eyes dado~!
@@ -2290,12 +2290,12 @@
 [SadnessForSister]
 	<normal>
 		<baby>
-			Lichchle shishcher, oben your eyesh dado~!
-			Whach shhould %name do dado~?
+			Liddle shishdew, oben youw eyesh dado~!
+			Whach should %name do dado~?
 		</baby>
 		<child>
-			Lichchle shishcher, oben your eyesh dado~!
-			Whach shhould %name do dado~?
+			Liddle shishdew, oben youw eyesh dado~!
+			Whach should %name do dado~?
 		</child>
 		<adult>
 			Little sister, open your eyes dado~!
@@ -2308,12 +2308,12 @@
 [BlockedByWall]
 	<normal>
 		<baby>
-			%name gan'ch mobe forwaaard, dadooo!?
+			%name gan'ch mobe fowwaaawd, dadooo!?
 			Don'd gech in %name'sh waaaay, dadooo!!!
 			Uuu-! Go awaaay!!!
 		</baby>
 		<child>
-			%name gan'ch mobe forwaaard, dadooo!?
+			%name gan'ch mobe fowwaaawd, dadooo!?
 			Don'd gech in %name'sh waaaay, dadooo!!!
 			Uuu-! Go awaaay!!!
 		</child>
@@ -2329,11 +2329,11 @@
 [GetTreasure]
 	<normal>
 		<baby>
-			%name will mage ich %name'sh chreashure, do~!
+			%name will mage ich %name'sh chweashuwe, do~!
 			I'm chaging ich home cho de Goumagan, dadoo~☆
 		</baby>
 		<child>
-			%name will mage ich %name'sh chreashure, do~!
+			%name will mage ich %name'sh chweashuwe, do~!
 			I'm chaging ich home cho de Goumagan, dadoo~☆
 		</child>
 		<adult>
@@ -2348,11 +2348,11 @@
 	<normal>
 		<baby>
 			Uu~! Uu~!
-			Gibe bagg %name'sh chreashure, dadoo-!
+			Gibe bagg %name'sh chweashuwe, dadoo-!
 		</baby>
 		<child>
 			Uu~! Uu~!
-			Gibe bagg %name'sh chreashure, dadoo-!
+			Gibe bagg %name'sh chweashuwe, dadoo-!
 		</child>
 		<adult>
 			Uu~! Uu~!
@@ -2365,19 +2365,19 @@
 [Inflation]
 	<normal>
 		<baby>
-			CHummy ish going cho exblodeeeee!
-			CHummy hurdchsh!
+			Chummy ish going cho exblodeeeee!
+			Chummy huwddsh!
 			Ich'sh bainfuuuuul!!!!
 			Zaguyaaaaaa helb meeeee!!!!
-			Ich hurchhhhhhhsh!!! Mishcher helb meee!!!!
+			Ich huwchhhhhhhsh!!! Mishcha helb meee!!!!
 			Helb meee! %name doeshn'ch wanch do dieee dadoo!!!!!!
 		</baby>
 		<child>
-			CHummy ish going cho exblodeeeee!
-			CHummy hurdchsh!
+			Chummy ish going cho exblodeeeee!
+			Chummy huwddsh!
 			Ich'sh bainfuuuuul!!!!
 			Zaguyaaaaaa helb meeeee!!!!
-			Ich hurchhhhhhhsh!!! Mishcher helb meee!!!!
+			Ich huwchhhhhhhsh!!! Mishcha helb meee!!!!
 			Helb meee! %name doeshn'ch wanch do dieee dadoo!!!!!!
 		</child>
 		<adult>
@@ -2391,20 +2391,20 @@
 	</normal>
 	<rude>
 		<baby>
-			CHummy ish going cho exblodeeeee!
-			CHummy hurchhhhhhhsh!
-			SHaguyaaaaa! Helb meeeee!!!
+			Chummy ish going cho exblodeeeee!
+			Chummy huwchhhhhhhsh!
+			Shaguyaaaaa! Helb meeeee!!!
 			Ich'sh bainfuuuuul!!!!
-			Ich hurchhhhhhhsh!!! SHhichchy old geezer, helb meee!!!!
-			Old geezer, helb meee! %name doeshn'ch wanch do dieee, dadooooo!!!!!!
+			Ich huwchhhhhhhsh!!! Shiddy old geezew, helb meee!!!!
+			Old geezew, helb meee! %name doeshn'ch wanch do dieee, dadooooo!!!!!!
 		</baby>
 		<child>
-			CHummy ish going cho exblodeeeee!
-			CHummy hurchhhhhhhsh!
-			SHaguyaaaaa! Helb meeeee!!!
+			Chummy ish going cho exblodeeeee!
+			Chummy huwchhhhhhhsh!
+			Shaguyaaaaa! Helb meeeee!!!
 			Ich'sh bainfuuuuul!!!!
-			Ich hurchhhhhhhsh!!! SHhichchy old geezer, helb meee!!!!
-			Old geezer, helb meee! %name doeshn'ch wanch do dieee, dadooooo!!!!!!
+			Ich huwchhhhhhhsh!!! Shiddy old geezew, helb meee!!!!
+			Old geezew, helb meee! %name doeshn'ch wanch do dieee, dadooooo!!!!!!
 		</child>
 		<adult>
 			Tummy is going to explodeeeee!
@@ -2422,11 +2422,11 @@
 	<normal>
 		<baby>
 			Uu~! Uu~!
-			Why are you doing dish, dadooo!!!
+			Why awe you doing dhishh, dadooo!!!
 		</baby>
 		<child>
 			Uu~! Uu~!
-			Why are you doing dish, dadooo!!!
+			Why awe you doing dhishh, dadooo!!!
 		</child>
 		<adult>
 			Uu~! Uu~!
@@ -2441,7 +2441,7 @@
 		<child>
 			Uu! Uu~!
 			Uu-! Don'ch bully de baby, dadoo-!
-			Why are you doing dish, dadooooo!!!
+			Why awe you doing dhishh, dadooooo!!!
 		</child>
 		<adult>
 			Uu~! Uu~!
@@ -2457,12 +2457,12 @@
 		<baby>
 			Uu! Uu!
 			Uuu-! Gibe de baby bagg, dadoo-!!!
-			Why are you doing dish, dadooo!!!
+			Why awe you doing dhishh, dadooo!!!
 		</baby>
 		<child>
 			Uu! Uu!
 			Uuu-! Gibe de baby bagg, dadoo-!!!
-			Why are you doing dish, dadooo!!!
+			Why awe you doing dhishh, dadooo!!!
 		</child>
 		<adult>
 			Uu! Uu!
@@ -2474,15 +2474,15 @@
 	<rude>
 		<baby>
 			Uu~! Uu~!
-			Why are you doing dish, dadooooo!!!
-			SHgum! Debil! I'll gill you, dadooooo!!!
-			SHchob ich! Gibe bagg %name'sh baby, dadooooo!!!
+			Why awe you doing dhishh, dadooooo!!!
+			Shgum! Debil! I'll gill you, dadooooo!!!
+			Shchob ich! Gibe bagg %name'sh baby, dadooooo!!!
 		</baby>
 		<child>
 			Uu~! Uu~!
-			Why are you doing dish, dadooooo!!!
-			SHgum! Debil! I'll gill you, dadooooo!!!
-			SHchob ich! Gibe bagg %name'sh baby, dadooooo!!!
+			Why awe you doing dhishh, dadooooo!!!
+			Shgum! Debil! I'll gill you, dadooooo!!!
+			Shchob ich! Gibe bagg %name'sh baby, dadooooo!!!
 		</child>
 		<adult>
 			Uu~! Uu~!
@@ -2498,12 +2498,12 @@
 	<normal>
 		<baby>
 			Uu~♪ Uu~♪
-			Uu~♪ shchrechghy~shchrechghy♪
+			Uu~♪ shchwechghy~shchwechghy♪
 			Uu~♪ uuu~♪
 		</baby>
 		<child>
 			Uu~♪ Uu~
-			Uu~♪ shchrechghy~shchrechghy♪
+			Uu~♪ shchwechghy~shchwechghy♪
 			Uu~♪ uuu~♪
 		</child>
 		<adult>
@@ -2519,18 +2519,18 @@
 [NearToBirth]
 		<normal>
 		<baby>
-			De babiesh are abouch cho be born dado~!
-			De babiesh are mobing healdily dado~! Bufff!
-			Mishcher bed, where are you dado~?
-			SHo guche sho guche de lichchle onesh are going cho be born dado~!
-			%name will begome a moder dado~!
+			De babiesh awe abouch cho be bown dado~!
+			De babiesh awe mobing healdily dado~! Bufff!
+			Mishcha bed, whewe awe you dado~?
+			Sho guche sho guche de liddle onesh awe going cho be bown dado~!
+			%name will begome a myamya dado~!
 		</baby>
 		<child>
-			De babiesh are abouch cho be born dado~!
-			De lichchle onesh are mobing healdily dado~! Bufff!
-			Mishcher bed, where are you dado~?
-			SHo guche sho guche de lichchle onesh are going cho be born dado~!
-			%name will begome a moder dado~!
+			De babiesh awe abouch cho be bown dado~!
+			De liddle onesh awe mobing healdily dado~! Bufff!
+			Mishcha bed, whewe awe you dado~?
+			Sho guche sho guche de liddle onesh awe going cho be bown dado~!
+			%name will begome a mommy dado~!
 		</child>
 		<adult>
 			%name's little one are about to be born dado~!
@@ -2546,19 +2546,19 @@
 [PoisonDamage]
 	<normal>
 		<baby>
-			Uu! Ich hurchhhhhhhsh!
+			Uu! Ich huwchhhhhhhsh!
 			Uu~~, Yu bii!!
 			Yuboo, yuboo~~
 			Zaguyaaaaa!!!
 			<damage>
-				Green onion...
+				Gween onion...
 				Helb gigigi...
 			</damage>
 		</baby>
 		<child>
 			Uu! Helb me~!
 			Uu,,, shomeone bleashe~~!
-			Uu? Ich hurchhhhhhhsh~~!
+			Uu? Ich huwchhhhhhhsh~~!
 			Zaguyaaaaaa!!!
 			<damage>
 				Gill me
@@ -2582,12 +2582,12 @@
 [CantShit]
 		<normal>
 		<baby>
-			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher poo-poo ish noch goming ouch doo!
+			Mishcha poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcha poo-poo ish noch goming ouch doo!
 		</baby>
 		<child>
-			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher poo-poo ish noch goming ouch doo!
+			Mishcha poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcha poo-poo ish noch goming ouch doo!
 		</child>
 		<adult>
 			Poo-poo won't come out, dadoo-!
@@ -2596,12 +2596,12 @@
 	</normal>
 	<rude>
 		<baby>
-			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher poo-poo ish noch goming ouch doo!
+			Mishcha poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcha poo-poo ish noch goming ouch doo!
 		</baby>
 		<child>
-			Mishcher poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
-			Mishcher poo-poo ish noch goming ouch doo!
+			Mishcha poo-poo ish noch goming ouch doo! Do ligg-ligg dadoo!
+			Mishcha poo-poo ish noch goming ouch doo!
 		</child>
 		<adult>
 			Poo-poo won't come out, dadoo-!
@@ -2615,11 +2615,11 @@
 	<normal>
 		<baby>
 		Uu~! I gan'ch gome ash a baby~?!
-		Where ish my baby%name? Where hash ich gone~?!
+		Whewe ish my baby%name? Whewe hash ich gone~?!
 		</baby>
 		<child>
 		Uu~! I gan'ch gome ash a baby~?!
-		Where ish my baby? Where hash ich gone~?!
+		Whewe ish my baby? Whewe hash ich gone~?!
 		</child>
 		<adult>
 			%name wants little ones dado....
@@ -2630,11 +2630,11 @@
 	<rude>
 		<baby>
 			Uu! %name gan'ch habe a baby doo~?!
-			Where ish my %name'sh baby dadoo?
+			Whewe ish my %name'sh baby dadoo?
 		</baby>
 		<child>
 			Uu! %name gan'ch habe a baby doo~?!
-			Where ish my %name'sh baby dadoo?
+			Whewe ish my %name'sh baby dadoo?
 		</child>
 		<adult>
 			%name wants little ones dado....
@@ -2649,19 +2649,19 @@
 	<normal>
 		<baby>
 			Uu! Uu!
-			SHaguyaaaaa!!!
+			Shaguyaaaaa!!!
 			<damage>
 				Uu~ Uu~
-				SHaguyaaa~~~
+				Shaguyaaa~~~
 				Myamyaaaaa~~~
 			</damage>
 		</baby>
 		<child>
 			Uu! Uu!
-			SHaaguyaaaaa!!!
+			Shaaguyaaaaa!!!
 			<damage>
 				Uu~~~ Uu~~~
-				SHaguyaa~~~
+				Shaguyaa~~~
 				Mommyyyy~~~
 			</damage>
 		</child>
@@ -2677,19 +2677,19 @@
 	<rude>
 		<baby>
 			Uu! Uu!
-			SHaguyaaaaa!!!
+			Shaguyaaaaa!!!
 			<damage>
 				Uu~ Uu~
-				SHagu-yaa~~~
+				Shagu-yaa~~~
 				Myamyaaaaa~~~
 			</damage>
 		</baby>
 		<child>
 			Uu! Uu!
-			SHaaguyaaaaa!!!
+			Shaaguyaaaaa!!!
 			<damage>
 				Uu~ Uu~
-				SHaguyaaaa~~~
+				Shaguyaaaa~~~
 				Mommyyyy~~~
 			</damage>
 		</child>
@@ -2710,25 +2710,25 @@
 		<baby>
 			Uu~!
 			Ich'sh hwoooooch dadoo!
-			SHaguya! Helb mee~☆
+			Shaguya! Helb mee~☆
 			Myamya! Ich'sh hwooch doo~!
 			<damage>
 				Uu~Uu~Uu~....
 				hwoch... helb me....
 				Nooo,,, nooo, dooo,,, %name doeshn'd wand do die, dooo,,,
-				%name wanched cho uauaa wid Mishcher, dooo,,,
+				%name wanched cho uauaa wid Mishcha, dooo,,,
 			</damage>
 		</baby>
 		<child>
 			Uu~!
 			Ich'sh hwoooooch dadoo!
-			SHaguya~! Helb mee~!
+			Shaguya~! Helb mee~!
 			Mommyyy! Ich'sh hwooch doo~!
 			<damage>
 				Uu~Uu~Uu~....
 				hwoch... helb me....
 				Nooo,,, nooo, dooo,,, %name doeshn'd wand do die, dooo,,,
-				%name wanched cho uauaa wid Mishcher, dooo,,,
+				%name wanched cho uauaa wid Mishcha, dooo,,,
 			</damage>
 		</child>
 		<adult>
@@ -2748,25 +2748,25 @@
 		<baby>
 			Uu~!
 			Ich'sh hwoooooch dadoo!
-			SHaguya! Helb mee~☆
+			Shaguya! Helb mee~☆
 			Myamya! Ich'sh hwooch doo~!
 			<damage>
 				Uu~Uu~Uu~....
 				hwoch... helb me....
 				Nooo,,, nooo, dooo,,, %name doeshn'ch wanch cho die, dooo,,,
-				gharishma How gould you do shugh a ding cho %name, dadooo,,,
+				ghawishma How gould you do shugh a ding cho %name, dadooo,,,
 			</damage>
 		</baby>
 		<child>
 			Uu~!
 			Ich'sh hwoooooch dadoo!
-			SHaguya~! Helb mee~!
+			Shaguya~! Helb mee~!
 			Mommyyy! Ich'sh hwooch doo~!
 			<damage>
 				Uu~Uu~Uu~....
 				hwoch... helb me....
 				Nooo,,, nooo, dooo,,, %name doeshn'ch wanch do die, dooo,,,
-				gharishma How gould you do shugh a ding cho %name, dadooo,,,
+				ghawishma How gould you do shugh a ding cho %name, dadooo,,,
 			</damage>
 		</child>
 		<adult>
@@ -2788,18 +2788,18 @@
 	<normal>
 		<baby>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</baby>
 		<child>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</child>
 		<adult>
@@ -2814,18 +2814,18 @@
 	<rude>
 		<baby>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</baby>
 		<child>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</child>
 		<adult>
@@ -2844,18 +2844,18 @@
 	<normal>
 		<baby>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</baby>
 		<child>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</child>
 		<adult>
@@ -2870,18 +2870,18 @@
 	<rude>
 		<baby>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</baby>
 		<child>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</child>
 		<adult>
@@ -2900,18 +2900,18 @@
 	<normal>
 		<baby>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</baby>
 		<child>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</child>
 		<adult>
@@ -2926,18 +2926,18 @@
 	<rude>
 		<baby>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</baby>
 		<child>
 			Ich'sh gwoldddd, dadoo-!
-			Mishcher Wacher gan'ch chage ich eajy, dadoo-!
+			Mishcha Wacha gan'ch chage ich eajy, dadoo-!
 			<damage>
 				Ich'sh gwoldddd, dadoo-,,,
-				%name'sh feech are melching, do,,,
+				%name'sh feech awe melching, do,,,
 			</damage>
 		</child>
 		<adult>
@@ -2991,14 +2991,14 @@
 			Bigii！？
 			Uu！？
 			Gibiii！
-			Id hurdsh, doo-!
+			Id huwdsh, doo-!
 			Uuu！Uuu！
 		</baby>
 		<child>
 			Bigii！？
 			Uu！？
 			Gibiii！
-			Id hurdsh, doo-!
+			Id huwdsh, doo-!
 			Uuu！Uuu！
 		</child>
 		<adult>
@@ -3012,11 +3012,11 @@
 [NeedleScream]
 	<normal>
 		<baby>
-			CHage dishshshshsh!!!
+			Chage dhishssssh!!!
 			Uwaaaaaaaah!!!
 		</baby>
 		<child>
-			CHage dishshshshsh!!!
+			Chage dhishssssh!!!
 			Uwaaaaaaaah!!!
 		</child>
 		<adult>
@@ -3030,14 +3030,14 @@
 [NeedleScreamInAnal]
 	<normal>
 		<baby>
-			CHage dish!!!
+			Chage dhishh!!!
 			Uwaaaaaaaah!!!
-			%name'sh Mishcher Anyaru Birginichyyyyy!
+			%name'sh Mishcha Anyawu Biwginichyyyyy!
 		</baby>
 		<child>
-			CHage dish!!!
+			Chage dhishh!!!
 			Uwaaaaaaaah!!!
-			%name'sh Mishcher Anyaru Birginichyyyyy!
+			%name'sh Mishcha Anyawu Biwginichyyyyy!
 		</child>
 		<adult>
 			Dake disssss!!!
@@ -3052,15 +3052,15 @@
 	<normal>
 		<baby>
 			Uu! I'll shabe you now, doo-!
-			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
-			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
-			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+			Uuu-! Mishcha needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcha needle won'ch gome ouch, dooooo!?
+			Whach awe you doing, dadoo~? Shchob ich, dadoo-!
 		</baby>
 		<child>
 			Uu! I'll shabe you now, doo-!
-			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
-			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
-			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+			Uuu-! Mishcha needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcha needle won'ch gome ouch, dooooo!?
+			Whach awe you doing, dadoo~? Shchob ich, dadoo-!
 		</child>
 		<adult>
 			Uuu-! %partner, I'll save you now, doo-!
@@ -3078,15 +3078,15 @@
 	<normal>
 		<baby>
 			Uu! I'll shabe you now, doo-!
-			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
-			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
-			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+			Uuu-! Mishcha needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcha needle won'ch gome ouch, dooooo!?
+			Whach awe you doing, dadoo~? Shchob ich, dadoo-!
 		</baby>
 		<child>
 			Uu! I'll shabe you now, doo-!
-			Uuu-! Mishcher needle, don'ch chage ich eajy and gome ouch quiggly-!
-			U~? U~? Why Mishcher needle won'ch gome ouch, dooooo!?
-			Whach are you doing, dadoo~? SHchob ich, dadoo-!
+			Uuu-! Mishcha needle, don'ch chage ich eajy and gome ouch quiggly-!
+			U~? U~? Why Mishcha needle won'ch gome ouch, dooooo!?
+			Whach awe you doing, dadoo~? Shchob ich, dadoo-!
 		</child>
 		<adult>
 			Uuu-! Little one, I'll save you now, doo-!
@@ -3103,18 +3103,18 @@
 [NeedlePain]
 	<normal>
 		<baby>
-			Uu~, SHchob ich!
-			Uuu~! Don'd grind ich!
+			Uu~, Shchob ich!
+			Uuu~! Don'd gwind ich!
 			Uu~, helb... Yugyaaahh!
-			SHchob ich dado~!
-			Ich hurchhhhhhhsh!!!
+			Shchob ich dado~!
+			Ich huwchhhhhhhsh!!!
 		</baby>
 		<child>
-			Uu~, SHchob ich!
-			Uuu~! Don'd grind ich!
+			Uu~, Shchob ich!
+			Uuu~! Don'd gwind ich!
 			Uu~, helb... Yugyaaahh!
-			SHchob ich dado~!
-			Ich hurchhhhhhhsh!!!
+			Shchob ich dado~!
+			Ich huwchhhhhhhsh!!!
 		</child>
 		<adult>
 			Uu~, Stob iddd!
@@ -3130,10 +3130,10 @@
 [NeedleRemove]
 	<normal>
 		<baby>
-			Uuu,, id hurchsh, doo,,,
+			Uuu,, id huwdsh, doo,,,
 		</baby>
 		<child>
-			Uuu,, id hurchsh, doo,,,
+			Uuu,, id huwdsh, doo,,,
 		</child>
 		<adult>
 			Uuu,, id hurdds, doo,,,
@@ -3145,17 +3145,17 @@
 [WantAmaama]
 	<normal>
 		<baby>
-			Mishcher shweech-shweechsh where are you ,,..
-			Mishcher shweech-shweechsh gome quiggly dado..,..
-			%name'sh Mishcher shweech-shweechsh where did you go !!
-			I wanch cho each Mishcher shweech-shweechsh dooo!!
+			Mishcha shweech-shweechsh whewe awe you ,,..
+			Mishcha shweech-shweechsh gome quiggly dado..,..
+			%name'sh Mishcha shweech-shweechsh whewe did you go !!
+			I wanch cho each Mishcha shweech-shweechsh dooo!!
 			%name wanchsh cho each shweech-shweechsh !
 		</baby>
 		<child>
-			Mishcher shweech-shweechsh where are you ,,..
-			Mishcher shweech-shweechsh gome quiggly dado..,..
-			%name'sh Mishcher shweech-shweechsh where did you go !!
-			I wanch cho each Mishcher shweech-shweechsh dooo!!
+			Mishcha shweech-shweechsh whewe awe you ,,..
+			Mishcha shweech-shweechsh gome quiggly dado..,..
+			%name'sh Mishcha shweech-shweechsh whewe did you go !!
+			I wanch cho each Mishcha shweech-shweechsh dooo!!
 			%name wanchsh cho each shweech-shweechsh !
 		</child>
 		<adult>
@@ -3169,12 +3169,12 @@
 	<rude>
 		<baby>
 			shweech-shweechsh~♪
-			Gibe shweech-shweechsh☆ cho gherishh %name dado~！
+			Gibe shweech-shweechsh☆ cho ghewish %name dado~！
 			buddin~♪
 		</baby>
 		<child>
 			shweech-shweechsh~♪
-			Gibe shweech-shweechsh☆ cho gherishh %name dado~！
+			Gibe shweech-shweechsh☆ cho ghewish %name dado~！
 			buddin~♪
 		</child>
 		<adult>
@@ -3189,16 +3189,16 @@
 [CantMove]
 	<normal>
 		<baby>
-			Uuu~? I gan'd mobe forward, dadoo~?
-			Uu~? Whad ish dish~?
-			Uu~? Mishcher Feech won'ch mobe do?
-			Uu~! Mishcher Feech mobe ub eajy dado~?
+			Uuu~? I gan'd mobe fowwawd, dadoo~?
+			Uu~? Whad ish dhishh~?
+			Uu~? Mishcha Feech won'ch mobe do?
+			Uu~! Mishcha Feech mobe ub eajy dado~?
 		</baby>
 		<child>
-			Uuu~? I gan'd mobe forward, dadoo~?
-			Uu~? Whad ish dish~?
-			Uu~? Mishcher Feech won'ch mobe do?
-			Uu~! Mishcher Feech mobe ub eajy dado~?
+			Uuu~? I gan'd mobe fowwawd, dadoo~?
+			Uu~? Whad ish dhishh~?
+			Uu~? Mishcha Feech won'ch mobe do?
+			Uu~! Mishcha Feech mobe ub eajy dado~?
 		</child>
 		<adult>
 			Uuu~? I can'd move forward, dadoo~?
@@ -3209,12 +3209,12 @@
 	</normal>
 	<rude>
 		<baby>
-			Uuu~? I gan'ch mobe forward, dadoo~?
-			Uuu~? Whach ish dish~?
+			Uuu~? I gan'ch mobe fowwawd, dadoo~?
+			Uuu~? Whach ish dhishh~?
 		</baby>
 		<child>
-			Uuu~? I gan'ch mobe forward, dadoo~?
-			Uuu~? Whach ish dish~?
+			Uuu~? I gan'ch mobe fowwawd, dadoo~?
+			Uuu~? Whach ish dhishh~?
 		</child>
 		<adult>
 			Uuu~? I can'd move forward, dadoo~?
@@ -3227,14 +3227,14 @@
 [CantMove2]
 	<normal>
 		<baby>
-			Whach'sh de machcher? I gan'ch mobe forward, dadoo~?
-			Uu~! I hache bershishchench dingsh-!
-			Uu! Uu! Mishcher Feech, why won'ch you mobe ach all!?
+			Whach'sh de maddew? I gan'ch mobe fowwawd, dadoo~?
+			Uu~! I hache bewshishdend thingsh-!
+			Uu! Uu! Mishcha Feech, why won'ch you mobe ach all!?
 		</baby>
 		<child>
-			Whach'sh de machcher? I gan'ch mobe forward, dadoo~?
-			Uu~! I hache bershishchench dingsh-!
-			Uu! Uu! Mishcher Feech, why won'ch you mobe ach all!?
+			Whach'sh de maddew? I gan'ch mobe fowwawd, dadoo~?
+			Uu~! I hache bewshishdend thingsh-!
+			Uu! Uu! Mishcha Feech, why won'ch you mobe ach all!?
 		</child>
 		<adult>
 			Uu! Uu! Mister Feet, why won't you move at all!?
@@ -3248,17 +3248,17 @@
 [BLINDING]
 	<normal>
 		<baby>
-			Braishe me!!!!
-			%name'sh big round eyesh, yangya~a~a~a!!!
-			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
-			SHchob ich!!!
+			Bwaishe me!!!!
+			%name'sh big wound eyesh, yangya~a~a~a!!!
+			Ich huwchhhhhhhsh!!! Ich'sh dawg doo!
+			Shchob ich!!!
 			Bigiii!!!!!!!!
 		</baby>
 		<child>
-			Braishe me!!!!
-			%name'sh big round eyesh, yangya~a~a~a!!!
-			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
-			SHchob ich!!! Bring dem bagg, bring dem baggggggg!!
+			Bwaishe me!!!!
+			%name'sh big wound eyesh, yangya~a~a~a!!!
+			Ich huwchhhhhhhsh!!! Ich'sh dawg doo!
+			Shchob ich!!! Bwing dem bagg, bwing dem baggggggg!!
 			Yuguuuuuuu！！
 		</child>
 		<adult>
@@ -3272,18 +3272,18 @@
 	</normal>
 	<rude>
 		<baby>
-			Braishe me!!!!
-			%name'sh big round eyesh, yangya~a~a~a!!!
-			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
-			SHchob ich!!!
+			Bwaishe me!!!!
+			%name'sh big wound eyesh, yangya~a~a~a!!!
+			Ich huwchhhhhhhsh!!! Ich'sh dawg doo!
+			Shchob ich!!!
 			Bigiii!!!!!!!!
 			Uwaaaaaaaa！！Do you ding ich'sh ogay cho do shugh a ding！？
 		</baby>
 		<child>
-			Braishe me!!!!
-			%name'sh big round eyesh, yangya~a~a~a!!!
-			Ich hurchhhhhhhsh!!! Ich'sh darg doo!
-			SHchob ich!!! Bring dem bagg, bring dem baggggggg!!
+			Bwaishe me!!!!
+			%name'sh big wound eyesh, yangya~a~a~a!!!
+			Ich huwchhhhhhhsh!!! Ich'sh dawg doo!
+			Shchob ich!!! Bwing dem bagg, bwing dem baggggggg!!
 			Uwaaaaaaaa!!!
 			Yugiiiii!! Do you ding ich'sh ogay cho do shugh a ding！？
 		</child>
@@ -3305,24 +3305,24 @@
 	<normal>
 		<baby>
 			Yu.....Yugii~...
-			Eberyone...where did you go dado...
-			Myamyaaaa!!! Where are youuuu~~?
-			Ich'sh darg... Ich'sh shgaryyyy...
-			SHaguyaaaa!!! Where are youuuu~~?
-			%name ish here do..? Where did eberyone go dado..?
-			Ich'sh darg... Ich'sh shgaryyyy...
-			Pacheeeee!!! Where are youuuu~~?
+			Ebewyone...whewe did you go dado...
+			Myamyaaaa!!! Whewe awe youuuu~~?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Shaguyaaaa!!! Whewe awe youuuu~~?
+			%name ish hewe do..? Whewe did ebewyone go dado..?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Pacheeeee!!! Whewe awe youuuu~~?
 		</baby>
 		<child>
 			Yu.....Yugii~...
-			Eberyone...where did you go dado...
-			Mommyyyyy!!! Where are youuuu~~?
-			Ich'sh darg... Ich'sh shgaryyyy...
-			SHaguyaaaa!!! Where are youuuu~~?
-			%name ish here do..? Where did eberyone go dado..?
+			Ebewyone...whewe did you go dado...
+			Mommyyyyy!!! Whewe awe youuuu~~?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Shaguyaaaa!!! Whewe awe youuuu~~?
+			%name ish hewe do..? Whewe did ebewyone go dado..?
 			Hi, hiiii...
-			Ich'sh darg... Ich'sh shgaryyyy...
-			Pacheeeee!!! Where are youuuu~~?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Pacheeeee!!! Whewe awe youuuu~~?
 		</child>
 		<adult>
 			Yuki.....Yuki~...
@@ -3338,24 +3338,24 @@
 	<rude>
 		<baby>
 			Yu.....Yugii~...
-			Eberyone...where did you go dado...
-			Myamyaaaa!!! Where are youuuu~~?
-			Ich'sh darg... Ich'sh shgaryyyy...
-			SHaguyaaaa!!! Where are youuuu~~?
-			%name ish here do..? Where did eberyone go dado..?
-			Ich'sh darg... Ich'sh shgaryyyy...
-			Pacheeeee!!! Where are youuuu~~?
+			Ebewyone...whewe did you go dado...
+			Myamyaaaa!!! Whewe awe youuuu~~?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Shaguyaaaa!!! Whewe awe youuuu~~?
+			%name ish hewe do..? Whewe did ebewyone go dado..?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Pacheeeee!!! Whewe awe youuuu~~?
 		</baby>
 		<child>
 			Yu.....Yugii~...
-			Eberyone...where did you go dado...
-			Mommyyyyy!!! Where are youuuu~~?
-			Ich'sh darg... Ich'sh shgaryyyy...
-			SHaguyaaaa!!! Where are youuuu~~?
-			%name ish here do..? Where did eberyone go dado..?
+			Ebewyone...whewe did you go dado...
+			Mommyyyyy!!! Whewe awe youuuu~~?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Shaguyaaaa!!! Whewe awe youuuu~~?
+			%name ish hewe do..? Whewe did ebewyone go dado..?
 			Hi, hiiii...
-			Ich'sh darg... Ich'sh shgaryyyy...
-			Pacheeeee!!! Where are youuuu~~?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Pacheeeee!!! Whewe awe youuuu~~?
 		</child>
 		<adult>
 			Yuh... Yuhi...
@@ -3374,16 +3374,16 @@
 [PLUNCKING]
 	<normal>
 		<baby>
-			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
-			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
-			Ich hurchhhhhhhsh! I gan'ch chage ich eajy~!!
+			Shchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Uwaaaaaaaah!! %name'sh Mishcha shilgy-shmood haiw ish gone uwaaaah!!
+			Ich huwchhhhhhhsh! I gan'ch chage ich eajy~!!
 			Uwaaaah!! I don'ch wanch cho be a bald manjuu~!!
 		</baby>
 		<child>
-			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
-			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
-			Uwaaaaaaaah!! Mishcher hair, where did you go yooooooooooo!!
-			Ich hurchhhhhhhsh! I gan'ch chage ich eajy doo~!!!
+			Shchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Uwaaaaaaaah!! %name'sh Mishcha shilgy-shmood haiw ish gone uwaaaah!!
+			Uwaaaaaaaah!! Mishcha haiw, whewe did you go yooooooooooo!!
+			Ich huwchhhhhhhsh! I gan'ch chage ich eajy doo~!!!
 			Yugyaaaaaaa!! I don'ch wanch cho be a bald manjuu!!
 		</child>
 		<adult>
@@ -3397,16 +3397,16 @@
 	</normal>
 	<rude>
 		<baby>
-			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
-			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
-			Ich hurchhhhhhhsh! I gan'ch chage ich eajy~!!
+			Shchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Uwaaaaaaaah!! %name'sh Mishcha shilgy-shmood haiw ish gone uwaaaah!!
+			Ich huwchhhhhhhsh! I gan'ch chage ich eajy~!!
 			Uwaaaah!! I don'ch wanch cho be a bald manjuu~!!
 		</baby>
 		<child>
-			Uwaaaaaaaah!! %name'sh Mishcher shilgy-shmood hair ish gone uwaaaah!!
-			SHchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
-			Yunyaaa~! Mishcher hair, where did you go yooooooooooo!!
-			Ich hurchhhhhhhsh! I gan'ch chage ich eajy~!!
+			Uwaaaaaaaah!! %name'sh Mishcha shilgy-shmood haiw ish gone uwaaaah!!
+			Shchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Yunyaaa~! Mishcha haiw, whewe did you go yooooooooooo!!
+			Ich huwchhhhhhhsh! I gan'ch chage ich eajy~!!
 			Uwaaaah!! I don'ch wanch cho be a bald manjuu~!!
 		</child>
 		<adult>
@@ -3426,25 +3426,25 @@
 [BaryInUnderGround]
 	<normal>
 		<baby>
-			Ich'sh agonizinggg!!,,, gech me ouch of hereee!,,,
-			Ich'sh darg, doo,,, ich'sh grambed, doo,,,
+			Ich'sh agonizinggg!!,,, gech me ouch of heweee!,,,
+			Ich'sh dawg, doo,,, ich'sh gwambed, doo,,,
 			If %name did a bad ding, I'll abologize,,,
-			I gan'd breadeee,,,
+			I gan'd bweadeee,,,
 			<damage>
-				Habe,,, mergy,,,,,,
+				Habe,,, mewcy,,,,,,
 				Jushch gill me,,,
-				I'm shorry,,, I'm shor,, ry,,,,
+				I'm showwy,,, I'm show,, wy,,,,
 			</damage>
 		</baby>
 		<child>
-			Ich'sh agonizinggg!!,,, gech me ouch of hereee!,,,
-			Ich'sh darg, doo,,, ich'sh grambed, doo,,,
+			Ich'sh agonizinggg!!,,, gech me ouch of heweee!,,,
+			Ich'sh dawg, doo,,, ich'sh gwambed, doo,,,
 			If %name did a bad ding, I'll abologize,,,
-			I gan'd breadeee,,,
+			I gan'd bweadeee,,,
 			<damage>
-				Habe,,, mergy,,,,,,
+				Habe,,, mewcy,,,,,,
 				Jushch gill me,,,
-				I'm shorry,,, I'm shor,, ry,,,,
+				I'm showwy,,, I'm show,, wy,,,,
 			</damage>
 		</child>
 		<adult>
@@ -3465,16 +3465,16 @@
 [Pull]
 	<normal>
 		<baby>
-			Uu~? Whach are you doing dado~?
-			Uu~? SHchregh-shchregh?
-			Uu-! SHchob ich righch now-! I gan'ch chage ich eajy, doo-!
-			Uu~? SHchregh-shchregh?
+			Uu~? Whach awe you doing dado~?
+			Uu~? Shchwegh-shchwegh?
+			Uu-! Shchob ich wighch now-! I gan'ch chage ich eajy, doo-!
+			Uu~? Shchwegh-shchwegh?
 		</baby>
 		<child>
-			Uu~? Whach are you doing dado~?
-			Uu~? SHchregh-shchregh?
-			Uu-! SHchob ich righch now-! I gan'ch chage ich eajy, doo-!
-			Uu~? SHchregh-shchregh?
+			Uu~? Whach awe you doing dado~?
+			Uu~? Shchwegh-shchwegh?
+			Uu-! Shchob ich wighch now-! I gan'ch chage ich eajy, doo-!
+			Uu~? Shchwegh-shchwegh?
 		</child>
 		<adult>
 			Uu~? What are you doing dado~?
@@ -3490,19 +3490,19 @@
 [Pull2]
 	<normal>
 		<baby>
-			Uu~!! Ich'sh ogay!! Don'ch shchrechgh anymore doo!!
-			Uu~!! Ich'll breag ub!!
-			Uu~!Uu~!! SHchob ich!!
-			Uu~? Ich hurchhhhhhhsh!!
-			Ich hurchhhhhhhsh!! SHchob ich dado!!
+			Uu~!! Ich'sh ogay!! Don'ch shchwechgh anymowe doo!!
+			Uu~!! Ich'll bweag ub!!
+			Uu~!Uu~!! Shchob ich!!
+			Uu~? Ich huwchhhhhhhsh!!
+			Ich huwchhhhhhhsh!! Shchob ich dado!!
 			Zaguya~!! Helb meeee!!!
 		</baby>
 		<child>
-			Uu~!! Ich'sh ogay!! Don'ch shchrechgh anymore doo!!
-			Uu~!! Ich'll breag ub!!
-			Uu~!Uu~!! SHchob ich!!
-			Uu~? Ich hurchhhhhhhsh!!
-			Ich hurchhhhhhhsh!! SHchob ich dado!!
+			Uu~!! Ich'sh ogay!! Don'ch shchwechgh anymowe doo!!
+			Uu~!! Ich'll bweag ub!!
+			Uu~!Uu~!! Shchob ich!!
+			Uu~? Ich huwchhhhhhhsh!!
+			Ich huwchhhhhhhsh!! Shchob ich dado!!
 			Zaguya~!! Helb meeee!!!
 		</child>
 		<adult>
@@ -3521,11 +3521,11 @@
 	<normal>
 		<baby>
 			Uu~?
-			Whach are you doing, dado~?
+			Whach awe you doing, dado~?
 		</baby>
 		<child>
 			Uu~?
-			Whach are you doing, dado~?
+			Whach awe you doing, dado~?
 		</child>
 		<adult>
 			Uu~?
@@ -3535,12 +3535,12 @@
 	<rude>
 		<baby>
 			Uu~?
-			Whach are you doing dado~?
+			Whach awe you doing dado~?
 			Don'd chough %name'sh head sho gashually, dadoo-!
 		</baby>
 		<child>
 			Uu~?
-			Whach are you doing dado~?
+			Whach awe you doing dado~?
 			Don'd chough %name'sh head sho gashually, dadoo-!
 		</child>
 		<adult>
@@ -3556,21 +3556,21 @@
 	<normal>
 		<baby>
 			Uu~! Uu~!
-			Being grushhed uuuu! SHchob ich dado~!
+			Being gwushed uuuu! Shchob ich dado~!
 			Zaguyaaaa!!!
-			Uu~! SHchob ich! Damn human!!!!
+			Uu~! Shchob ich! Damn human!!!!
 			Uu~! Uu~!
-			Uu~! Being grushhed uuu!
-			Uu~! Ich hurchhhhhhhsh!!!
+			Uu~! Being gwushed uuu!
+			Uu~! Ich huwchhhhhhhsh!!!
 		</baby>
 		<child>
 			Uu~! Uu~!
-			Being grushhed uuuu! SHchob ich dado~!
+			Being gwushed uuuu! Shchob ich dado~!
 			Zaguyaaaa!!!
-			Uu~! SHchob ich! Damn human!!!!
+			Uu~! Shchob ich! Damn human!!!!
 			Uu~! Uu~!
-			Uu~! Being grushhed uuu!
-			Uu~! Id hurchhhhhhhsh!!!
+			Uu~! Being gwushed uuu!
+			Uu~! Id huwchhhhhhhsh!!!
 		</child>
 		<adult>
 			Uu~! Uu~!
@@ -3593,33 +3593,33 @@
 			%name hashn'ch had a ghange cho chage ich eajy ach all yech doo!!
 			I wanch cho each shweechsh and be habby doo!!
 			Why gan'ch I chage ich eajy doo?!
-			%name and de odersh haben'ch done anyding, doo-!!
-			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
-			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
-			Mishcher human!! Bleashe helb %name!!
-			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			%name and de odhewsh haben'ch done anyding, doo-!!
+			Eben dough %name and de odhewsh haben'ch done anyding wwongggg!!!
+			Eben dough %name and de odhewsh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcha human!! Bleashe helb %name!!
+			I'll abologizeee!!! Sho bleashe fowgibe meee!!! I don'ch wanch cho dieee!!
 			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
 			Yugyaaaaaaaa!!!
-			Lech'sh chage ich eajy chogeder wid %name!!
+			Lech'sh chage ich eajy chogeda wid %name!!
 			Human-shamaaaaaa!!!
 			Zaguyaaaa!!!
-			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
+			I'll abologizeee!!! Sho bleashe don'ch gill meee!!!
 			Uwaaaaaaaa!!!!
-			I wanna go bagg cho de SHgarlech Debil Manshiooooon!!!
+			I wanna go bagg cho de Shgawlech Debil Manshiooooon!!!
 			No no noooooo!!!!
 			No no noooooo, shomeone helb meeee!!!!!
-			Ach leashch for de lashch chime!!!
+			Ach leashch fow de lashch chime!!!
 			eajy, eajyyyy~!!!
 			I don'ch wanch cho die!! Bleashe helb me!!
-			%name ish noch jushch shome ordinary manjuu~~
-			SHaguyaaaaaa!!!! Pacheeeeee!!
-			SHaguyaaaaaa, helb meee!!
+			%name ish noch jushch shome owdinawy manjuu~~
+			Shaguyaaaaaa!!!! Pacheeeeee!!
+			Shaguyaaaaaa, helb meee!!
 			Pacheeeeee!!!
-			I wanched cho gech married, doooo!!
-			I shchill haben'ch refreshhed, doooo!!!
-			I wanched lichchle onesh, doooo!!!
+			I wanched cho gech mawwied, doooo!!
+			I shchill haben'ch wefweshed, doooo!!!
+			I wanched liddle onesh, doooo!!!
 			I wanna mungh-mungh food wid my guche liddle onesh, doooo!!!
-			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+			I wanna bashg in de shun and shnuggle ub wid ebewyone~~
 		</baby>
 		<child>
 			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!!
@@ -3628,32 +3628,32 @@
 			Zaguyaaaa!!
 			I wanch cho each shweechsh and be habby doo!!
 			Why gan'ch I chage ich eajy doo?!
-			%name and de odersh haben'ch done anyding, doo-!!
-			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
-			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
-			Mishcher human!! Bleashe helb %name!!
-			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			%name and de ohewsh haben'ch done anyding, doo-!!
+			Eben dough %name and de odhewsh haben'ch done anyding wwongggg!!!
+			Eben dough %name and de odhewsh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcha human!! Bleashe helb %name!!
+			I'll abologizeee!!! Sho bleashe fowgibe meee!!! I don'ch wanch cho dieee!!
 			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
 			Yugyaaaaaaaa!!!
-			Lech'sh chage ich eajy chogeder wid %name!!
+			Lech'sh chage ich eajy chogeda wid %name!!
 			Human-shamaaaaaa!!!
-			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
+			I'll abologizeee!!! Sho bleashe don'ch gill meee!!!
 			Uwaaaaaa!!
-			I wanna go bagg cho de SHgarlech Debil Manshiooooon!!!
+			I wanna go bagg cho de Shgawlech Debil Manshiooooon!!!
 			No no noooooo!!!!
 			No no noooooo, shomeone helb meeee!!!!!
-			Ach leashch for de lashch chime!!!
+			Ach leashch fow de lashch chime!!!
 			eajy, eajyyyy~!!!
 			I don'ch wanch cho die!! Bleashe helb me!!
-			%name ish noch jushch shome ordinary manjuu~~
-			SHaguyaaaaaa!!
-			SHaguyaaaa, helb me!!!!
+			%name ish noch jushch shome owdinawy manjuu~~
+			Shaguyaaaaaa!!
+			Shaguyaaaa, helb me!!!!
 			Pacheeeeee!!
-			I wanched cho gech married, doooo!!
-			I shchill haben'ch refreshhed, doooo!!!
-			I wanched lichchle onesh, doooo!!!
+			I wanched cho gech mawwied, doooo!!
+			I shchill haben'ch wefweshed, doooo!!!
+			I wanched liddle onesh, doooo!!!
 			I wanna mungh-mungh food wid my guche liddle onesh, doooo!!!
-			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+			I wanna bashg in de shun and shnuggle ub wid ebewyone~~
 		</child>
 		<adult>
 			No No!!! I don't want to die!! I don't want to die!!!
@@ -3691,36 +3691,36 @@
 			%name hashn'ch had a ghange cho chage ich eajy ach all yech doo!!
 			I wanch cho each shweechsh and be habby doo!!
 			Why gan'ch I chage ich eajy doo?!
-			%name and de odersh haben'ch done anyding, doo-!!
-			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
+			%name and de odhewsh haben'ch done anyding, doo-!!
+			Eben dough %name and de odhewsh haben'ch done anyding wwongggg!!!
 			Helb guche %name!!! Lech me chage ich eajyyyy!!
-			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
-			Mishcher human!! Bleashe helb %name!!
-			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			Eben dough %name and de odhewsh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcha human!! Bleashe helb %name!!
+			I'll abologizeee!!! Sho bleashe fowgibe meee!!! I don'ch wanch cho dieee!!
 			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
-			%name ish noch a yugguri who shhould die in a blage lige dish, dooooo!!!
+			%name ish noch a yugguwi who should die in a blace lige dhishh, dooooo!!!
 			Yugyaaaaaaa! ! !
 			Zaguyaaaa!!!
-			I'll shchill lech you chage ich eajy wid %name, doo-!! SHo don'ch gill meee!!!
-			Whach do you shhichchy humansh ding life ish, dooooo!!
+			I'll shchill lech you chage ich eajy wid %name, doo-!! Sho don'ch gill meee!!!
+			Whach do you shiddy humansh ding life ish, dooooo!!
 			Human-shamaaaaaa!!!
-			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
-			Ash if I gould die in a blage lige dishshsh!!
+			I'll abologizeee!!! Sho bleashe don'ch gill meee!!!
+			Ash if I gould die in a blace lige dhishssh!!
 			Uwaaaaaaaa~!
 			No no noooooo!!!!
 			No no noooooo, shomeone helb meeee!!!!!
 			I don'ch wanch cho die!! Bleashe helb me!!
-			%name and de odersh are alibe choo, dadooooo!!!
+			%name and de odhewsh awe alibe choo, dadooooo!!!
 			Ich'sh a noble bloodline, dadooooo!!!
-			%name ish noch jushch shome ordinary manjuu~~
-			SHaguyaaaaaa!!!! Pacheeeeee!!
-			SHaguyaaaaaa, helb meee!!
+			%name ish noch jushch shome owdinawy manjuu~~
+			Shaguyaaaaaa!!!! Pacheeeeee!!
+			Shaguyaaaaaa, helb meee!!
 			Pacheeeeee!!!
-			I wanched cho gech married, doooo!!
-			I shchill haben'ch refreshhed, doooo!!!
-			I wanched lichchle onesh, doooo!!!
+			I wanched cho gech mawwied, doooo!!
+			I shchill haben'ch wefweshed, doooo!!!
+			I wanched liddle onesh, doooo!!!
 			I wanna mungh-mungh food wid my guche liddle onesh, doooo!!!
-			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+			I wanna bashg in de shun and shnuggle ub wid ebewyone~~
 		</baby>
 		<child>
 			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!!
@@ -3728,37 +3728,37 @@
 			%name hashn'ch had a ghange cho chage ich eajy ach all yech doo!!
 			I wanch cho each shweechsh and be habby doo!!
 			Why gan'ch I chage ich eajy doo?!
-			%name and de odersh haben'ch done anyding, doo-!!
-			Eben dough %name and de odersh haben'ch done anyding wrongggg!!!
+			%name and de odhewsh haben'ch done anyding, doo-!!
+			Eben dough %name and de odhewsh haben'ch done anyding wwongggg!!!
 			Helb guche %name!!! Lech me chage ich eajyyyy!!
-			Eben dough %name and de odersh jushch wanch cho chage ich eajyyyyy!!!
-			Mishcher human!! Bleashe helb %name!!
-			I'll abologizeee!!! SHo bleashe forgibe meee!!! I don'ch wanch cho dieee!!
+			Eben dough %name and de odhewsh jushch wanch cho chage ich eajyyyyy!!!
+			Mishcha human!! Bleashe helb %name!!
+			I'll abologizeee!!! Sho bleashe fowgibe meee!!! I don'ch wanch cho dieee!!
 			Yunyaaaaaaaa!! Yunyaaaaaaaa!!
-			%name ish noch a yugguri who shhould die in a blage lige dish, dooooo!!!
+			%name ish noch a yugguwi who should die in a blace lige dhishh, dooooo!!!
 			Yugyaaaaaaa! ! !
-			I'll shchill lech you chage ich eajy wid %name, doo-!! SHo don'ch gill meee!!!
-			Whach do you shhichchy humansh ding life ish, dooooo!!
+			I'll shchill lech you chage ich eajy wid %name, doo-!! Sho don'ch gill meee!!!
+			Whach do you shiddy humansh ding life ish, dooooo!!
 			Zaguyaaaa!!!
 			Human-shamaaaaaa!!!
-			I'll abologizeee!!! SHo bleashe don'ch gill meee!!!
-			Ash if I gould die in a blage lige dishshsh!!
+			I'll abologizeee!!! Sho bleashe don'ch gill meee!!!
+			Ash if I gould die in a blace lige dhishssh!!
 			Uwaaaaaaaa~!
 			No no noooooo!!!!
 			No no noooooo, shomeone helb meeee!!!!!
 			I don'ch wanch cho die!! Bleashe helb me!!
-			%name and de odersh are alibe choo, dadooooo!!!
+			%name and de odhewsh awe alibe choo, dadooooo!!!
 			Ich'sh a noble bloodline, dadooooo!!!
-			%name ish noch jushch shome ordinary manjuu~~
-			SHaguyaaaaaa!!!! Pacheeeeee!!
-			SHaguyaaaaaa, helb meee!!
+			%name ish noch jushch shome owdinawy manjuu~~
+			Shaguyaaaaaa!!!! Pacheeeeee!!
+			Shaguyaaaaaa, helb meee!!
 			Pacheeeeee!!!
-			%name wash gheegyyyy!! I'm shorryyy!! Helb meee!!
-			I wanched cho gech married, doooo!!
-			I shchill haben'ch refreshhed, doooo!!!
-			I wanched lichchle onesh, doooo!!!
+			%name wash gheegyyyy!! I'm showwyyy!! Helb meee!!
+			I wanched cho gech mawwied, doooo!!
+			I shchill haben'ch wefweshed, doooo!!!
+			I wanched liddle onesh, doooo!!!
 			I wand cho mungh-mungh food wid my gude babiesh, dooooo!!!
-			I wanna bashg in de shun and shnuggle ub wid eberyone~~
+			I wanna bashg in de shun and shnuggle ub wid ebewyone~~
 		</child>
 		<adult>
 			Nooooo!!! I don'd wand to die!! I don'd wand to dieee!!
@@ -3798,20 +3798,20 @@
 [FindAmaama]
 	<normal>
 		<baby>
-			SHweech-shweechsh dado~!
+			Shweech-shweechsh dado~!
 			buddin~♪
-			Uu~! SHweech-shweechsh!!!
-			Uu! SHweech-shweechsh dado~!
-			Uu! SHweech-shweechsh♪SHweech-shweechsh♪
-			UuUu! Mishcher, dang you for shweech-shweechsh dado~!
+			Uu~! Shweech-shweechsh!!!
+			Uu! Shweech-shweechsh dado~!
+			Uu! Shweech-shweechsh♪Shweech-shweechsh♪
+			UuUu! Mishcha, dang you fow shweech-shweechsh dado~!
 		</baby>
 		<child>
-			SHweech-shweechsh dado~!
+			Shweech-shweechsh dado~!
 			buddin~♪
-			Uu~! SHweech-shweechsh!!!
-			Uu! SHweech-shweechsh dado~!
-			Uu! SHweech-shweechsh♪SHweech-shweechsh♪
-			UuUu! Mishcher, dang you for shweech-shweechsh dado~!
+			Uu~! Shweech-shweechsh!!!
+			Uu! Shweech-shweechsh dado~!
+			Uu! Shweech-shweechsh♪Shweech-shweechsh♪
+			UuUu! Mishcha, dang you fow shweech-shweechsh dado~!
 		</child>
 		<adult>
 			Sweet-sweets dado~!
@@ -3828,16 +3828,16 @@
 [EatingAmaama]
 	<normal>
 		<baby>
-			Uu☆ SHweech-shweechsh♪
-			Gibe more shweech-shweechsh cho %name dado~!
+			Uu☆ Shweech-shweechsh♪
+			Gibe mowe shweech-shweechsh cho %name dado~!
 			Ich'sh an eleganch chashche! dado ☆~!
-			Bery shweech～♪
+			Bewy shweech～♪
 		</baby>
 		<child>
-			Uu☆ SHweech-shweechsh♪
-			Gibe more shweech-shweechsh cho %name dado~!
+			Uu☆ Shweech-shweechsh♪
+			Gibe mowe shweech-shweechsh cho %name dado~!
 			Ich'sh an eleganch chashche! dado ☆~!
-			Bery shweech～♪
+			Bewy shweech～♪
 		</child>
 		<adult>
 			Uu☆ Sweet-sweets♪
@@ -3852,12 +3852,12 @@
 [FindVegetable]
 	<normal>
 		<baby>
-			Yuwaaa,, ich'sh a bery eajy Mishcher begechable-!
-			While %name wash chaging ich eajy, Mishcher begechablesh shcharched growing on deir own dadoo!
+			Yuwaaa,, ich'sh a bewy eajy Mishcha begechable-!
+			While %name wash chaging ich eajy, Mishcha begechablesh shchawched gwowing on deiw own dadoo!
 		</baby>
 		<child>
-			Yuwaaa,, ich'sh a bery eajy Mishcher begechable-!
-			While %name wash chaging ich eajy, Mishcher begechablesh shcharched growing on deir own dadoo!
+			Yuwaaa,, ich'sh a bewy eajy Mishcha begechable-!
+			While %name wash chaging ich eajy, Mishcha begechablesh shchawched gwowing on deiw own dadoo!
 		</child>
 		<adult>
 			Yuwaaa,, id'z a bery eazy Mister Vegedable-!
@@ -3911,16 +3911,16 @@
 [Surprise]
 	<normal>
 		<baby>
-			Why ish dish habbening, dadooooo!?
+			Why ish dhishh habbening, dadooooo!?
 			Uu? Uuu~?
-			Uuu-? I hache dish-!
-			%name hashn'ch done anyding wrong, doo-?
+			Uuu-? I hache dhishh-!
+			%name hashn'ch done anyding wwong, doo-?
 		</baby>
 		<child>
-			Why ish dish habbening, dadooooo!?
+			Why ish dhishh habbening, dadooooo!?
 			Uu? Uuu~?
-			Uuu-? I hache dish-!
-			%name hashn'ch done anyding wrong, doo-?
+			Uuu-? I hache dhishh-!
+			%name hashn'ch done anyding wwong, doo-?
 		</child>
 		<adult>
 			Why is dis habbening, dadooooo!?
@@ -3936,38 +3936,38 @@
 	<normal>
 		<baby>
 			Uuuuu---!!! Don'ch beel-beel meee!!!
-			Bigii!! Don'ch do gruel dingsh cho %name'sh world-enbied flawleshsh shginnnn!!!
-			Yugyeeee!! SHchob ich! Why are you beel-beeling me, dooooo?!
-			Yugii!! SHaguyaaaa! Ich hurchhhhhhhsh doo!!!
+			Bigii!! Don'ch do gwuel dhingsh cho %name'sh wowld-enbied flawlessh shginnnn!!!
+			Yugyeeee!! Shchob ich! Why awe you beel-beeling me, dooooo?!
+			Yugii!! Shaguyaaaa! Ich huwchhhhhhhsh doo!!!
 		</baby>
 		<child>
 			Uuuuu---!!! Don'ch beel-beel meee!!!
-			Bigii!! Don'ch do gruel dingsh cho %name'sh world-enbied flawleshsh shginnnn!!!
-			Yugyeeee!! SHchob ich! Why are you beel-beeling me, dooooo?!
-			Yugii!! SHaguyaaaa! Beel-beel hurchhhhhhhsh doo!!!
+			Bigii!! Don'ch do gwuel dhingsh cho %name'sh wowld-enbied flawlessh shginnnn!!!
+			Yugyeeee!! Shchob ich! Why awe you beel-beeling me, dooooo?!
+			Yugii!! Shaguyaaaa! Beel-beel huwchhhhhhhsh doo!!!
 		</child>
 		<adult>
 			Uuuuu---!!! Don'd peel-peel meee!!!
 			Pigii!! Don'd do cruel dings to %name's world-envied flawless skinnnn!!!
 			Yugyeeee!! Sdob iddd! Why are you peel-peeling me, dooooo?!
 			Yugiiiii!! %partner-! Don'd worry aboud %name, zo hurry ub and run awayyy!!!
-			To %partner-! Blease don'd do cruel dings to %partnerrr!!!
+			To %partner-! Blease don'd do cruel dings to %partner!!!
 			Yugyoeeeeee!!!!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
 			Uuuuu---!!! Don'ch beel-beel meee!!!
-			Bigii!! Don'ch do gruel dingsh cho %name'sh world-enbied flawleshsh shginnnn!!!
-			Yugyeeee!! SHchob ich! Why are you beel-beeling me, dooooo?!
-			Yugyaaaa!! SHhichchy barench!! Helb meee!!!
+			Bigii!! Don'ch do gwuel dhingsh cho %name'sh wowld-enbied flawlessh shginnnn!!!
+			Yugyeeee!! Shchob ich! Why awe you beel-beeling me, dooooo?!
+			Yugyaaaa!! Shiddy bawench!! Helb meee!!!
 			Bigiiiiiiiiiiiiii~!!
 		</baby>
 		<child>
 			Uu! Uu!
-			Bigi! Bigi! %name'sh shhushhing ish sho meany~!!
-			Yugi! SHchob ich already! Ich'sh maging me shquishh-shquishh~!!
-			Yugyaaaa!! SHhichchy barench!! Helb meee!!!
+			Bigi! Bigi! %name'sh shushing ish sho meany~!!
+			Yugi! Shchob ich alweady! Ich'sh maging me shquish-shquish~!!
+			Yugyaaaa!! Shiddy bawench!! Helb meee!!!
 			Bigiiiiiiiiiiiiii~!!
 		</child>
 		<adult>
@@ -3988,14 +3988,14 @@
 			Lech me be eajy,,,
 			Why won'ch you lech me be eajy doo?
 			I wanch cho be eajy,,,
-			For shome reashon, I gan'ch chage ich eajy,,,
+			Fow shome weashon, I gan'ch chage ich eajy,,,
 		</baby>
 		<child>
 			I wanch cho be eajy dooo,,,
 			Lech me be eajy,,,
 			Why won'ch you lech me be eajy doo?
 			I wanch cho be eajy,,,
-			For shome reashon, I gan'ch chage ich eajy,,,
+			Fow shome weashon, I gan'ch chage ich eajy,,,
 		</child>
 		<adult>
 			I want to be easy dooo,,,
@@ -4039,19 +4039,19 @@
 [NonYukkuriDiseaseNear]
 	<normal>
 		<baby>
-			Why ish %name born,,，？
-			If I gan'ch chage ich eajy lige dhish, I didn'ch wanna be born,,,
-			Myamya, why did you gib birdh cho %name,,,?
-			I jushch wanch cho relax, cho chage ich eajy... I really wanch cho...~
+			Why ish %name bown,,，？
+			If I gan'ch chage ich eajy lige dhish, I didn'ch wanna be bown,,,
+			Myamya, why did you gib biwdh cho %name,,,?
+			I jushch wanch cho welax, cho chage ich eajy... I weally wanch cho...~
 			<damage>
 				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
 			</damage>
 		</baby>
 		<child>
-			Why ish %name born,,，？
-			If I gan'ch chage ich eajy lige dhish, I didn'ch wanna be born,,,
-			Mommy, why did you gib birdh cho %name,,,?
-			I jushch wanch cho relax... I really wanch cho relax...
+			Why ish %name bown,,，？
+			If I gan'ch chage ich eajy lige dhish, I didn'ch wanna be bown,,,
+			Mommy, why did you gib biwdh cho %name,,,?
+			I jushch wanch cho welax... I weally wanch cho welax...
 			<damage>
 				Yu~! Yu~! Yu~! Yu~! Yu~! Yu~!
 			</damage>
@@ -4095,15 +4095,15 @@
 	<rude>
 		<baby>
 			Uu~!
-			SHchob ich, dado~!
-			Whach are you doing cho %name, dadoo~?
-			Don'ch defy gharishma☆, dadoo-!
+			Shchob ich, dado~!
+			Whach awe you doing cho %name, dadoo~?
+			Don'ch defy ghawishma☆, dadoo-!
 		</baby>
 		<child>
 			Uu~!
-			SHchob ich, dado~!
-			Whach are you doing cho %name, dadoo~?
-			Don'ch defy gharishma☆, dadoo-!
+			Shchob ich, dado~!
+			Whach awe you doing cho %name, dadoo~?
+			Don'ch defy ghawishma☆, dadoo-!
 		</child>
 		<adult>
 			Uu!
@@ -4118,14 +4118,14 @@
 [BraidCut]
 	<normal>
 		<baby>
-			%name'sh braid ish gone!!!
-			Ich hurchhhhhhhsh!!!
-			Why are you doing dhish, doo?!
+			%name'sh bwaid ish gone!!!
+			Ich huwchhhhhhhsh!!!
+			Why awe you doing dhish, doo?!
 		</baby>
 		<child>
-			%name'sh braid ish gone!!!
-			Ich hurchhhhhhhsh!!!
-			Why are you doing dhish, doo?!
+			%name'sh bwaid ish gone!!!
+			Ich huwchhhhhhhsh!!!
+			Why awe you doing dhish, doo?!
 		</child>
 		<adult>
 			%name's braid is gone!!!
@@ -4139,13 +4139,13 @@
 [EatenByBody]
 	<normal>
 		<baby>
-			Ich hurchhhhhhhsh!!!!
+			Ich huwchhhhhhhsh!!!!
 			Helb meeee!!!
 			Uu~! Uuu-!!!
 			%name ish noch a shweech, dadoo-!
 		</baby>
 		<child>
-			Ich hurchhhhhhhsh!!!!
+			Ich huwchhhhhhhsh!!!!
 			Helb meeee!!!
 			Uu~! Uuu-!!!
 			%name ish noch a shweech, dadoo-!
@@ -4182,12 +4182,12 @@
 	<normal>
 		<baby>
 			Go awayyyy!!!!!
-			%name ish running away dado!!!!!!
+			%name ish wunning away dado!!!!!!
 			UuUu！uuu-!!!!!
 		</baby>
 		<child>
 			Go awayyyy!!!!!
-			%name ish running away dado!!!!!!
+			%name ish wunning away dado!!!!!!
 			UuUu！uuu-!!!!!
 		</child>
 		<adult>
@@ -4251,7 +4251,7 @@
 	<normal>
 		<baby>
 			Bieen, bieeen...
-			Uu~,, poo-poo feelsh groshsh,,,
+			Uu~,, poo-poo feelsh gwossh,,,
 			Uuu.. Ich shchingsh doo...
 			Myamya, bleashe do ligg-ligg,,,
 			Uu~,, mage me glean-glean,,,
@@ -4266,10 +4266,10 @@
 	<rude>
 		<baby>
 			Bieen! bieeen!!!
-			poo-poo feelsh groshsh!!!
+			poo-poo feelsh gwossh!!!
 			Uuu!! Ich shchingsh doo!!!
 			Uu~,, mage me glean-glean,,,
-			Uu~~！！SHhichchy barench! Hurry ub and do ligg-ligg,,,
+			Uu~~！！Shiddy bawench! Huwwy ub and do ligg-ligg,,,
 			Uu~~！Dhish ish neglegch, dadoooo!!!
 		</baby>
 		<child>
@@ -4277,7 +4277,7 @@
 			Uuu!! Ich shchingsh doo!!!
 			Uuu!! Ich shchingsh doo!!!
 			Uu~,, mage me glean-glean,,,
-			Uu~~！！SHhichchy barench! Hurry ub and do ligg-ligg,,,
+			Uu~~！！Shiddy bawench! Huwwy ub and do ligg-ligg,,,
 			Uu~~！Dhish ish neglegch, dadoooo!!!
 		</child>
 		<adult>
@@ -4292,9 +4292,9 @@
 		<baby>
 			Uu~...
 			Uu~~... Uu~~~
-			Mainly de whole body hurchsh doo...
+			Mainly de whole body huwdsh doo...
 			Uu, mainly de whole body ichhesh doo~....
-			Mishcher chummy don'ch be mean cho me doo......
+			Mishcha chummy don'ch be mean cho me doo......
 			I can'ch chage ich eajy....
 			Uu~~, shomehow my body doeshn'ch feel well...
 			Uu,, my chummy ish going wound and wound doo,,
@@ -4303,9 +4303,9 @@
 		<child>
 			Uu~...
 			Uu~~... Uu~~~
-			Mainly de whole body hurchsh doo...
+			Mainly de whole body huwdsh doo...
 			Uu, mainly de whole body ichhesh doo~....
-			Mishcher chummy don'ch be mean cho me doo......
+			Mishcha chummy don'ch be mean cho me doo......
 			I can'ch chage ich eajy....
 			Uu~~, shomehow my body doeshn'ch feel well...
 			Uu,, my chummy ish going wound and wound doo,,
@@ -4335,7 +4335,7 @@
 			Yuzugiziiiiiiiiii!!!!!
 			Pigiya~~~~~~~!
 			Yugiya~~~~~~~~~~~! Myamyaaaaa~~~~~~~~~~~!
-			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			Yugogeeeeee~~~! Shaguya~~~~~~~~~~~!
 			No, no, no, nooooo!!!
 		</baby>
 		<child>
@@ -4344,7 +4344,7 @@
 			Yuzugiziiiiiiiiii!!!!!
 			Nooo dooo!! %name doeshn'ch wanch cho die yech!!!!
 			Yugiya~~~~~~~~~~~! Mommyyyyy~~~~~~~~~~~!
-			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			Yugogeeeeee~~~! Shaguya~~~~~~~~~~~!
 			No, no, no, nooooo!!!
 		</child>
 		<adult>
@@ -4367,9 +4367,9 @@
 			Yuzugiziiiiiiiiii!!!!!
 			Pigiya~~~~~~~!
 			Yugiya~~~~~~~~~~~! Myamyaaaaa~~~~~~~~~~~!
-			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			Yugogeeeeee~~~! Shaguya~~~~~~~~~~~!
 			No, no, no, nooooo!!!
-			Yugyaaaa！！Shiddy barench！Helb meeeee！！！
+			Yugyaaaa！！Shiddy bawench！Helb meeeee！！！
 			Pigiiiiiiiiiiiiiiiiiiiiiii！！！！！！
 		</baby>
 		<child>
@@ -4379,9 +4379,9 @@
 			Yuzugiziiiiiiiiii!!!!!
 			Pigiya~~~~~~~!
 			Yugiya~~~~~~~~~~~! Myamyaaaaa~~~~~~~~~~~!
-			Yugogeeeeee~~~! SHaguya~~~~~~~~~~~!
+			Yugogeeeeee~~~! Shaguya~~~~~~~~~~~!
 			No, no, no, nooooo!!!
-			Yugyaaaa！！Shiddy barench！Helb meeeee！！！
+			Yugyaaaa！！Shiddy bawench！Helb meeeee！！！
 			Pigiiiiiiiiiiiiiiiiiiiiiii！！！！！！
 		</child>
 		<adult>
@@ -4409,13 +4409,13 @@
 			Eajy, Eajy~!!
 			I can'ch chage ich eajy ach aww....
 			Helb meeee, helb %name
-			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I hade huwdd-huwdddd,,, I don'd wand to dieee,,,
 			I wanch cho chage ich eajy.....
 			Lech me chage ich eajy.....
 			Myamyaaaaa~~~
 			Shagyuyaaaaaaa,...
-			Go away... don'ch come obew hewe...
-			I'm shorryyyy, I'm sho shorryyyy...
+			Go away... don'ch come oba hewe...
+			I'm showwyyyy, I'm sho showwyyyy...
 			Whyyy,... whyyy,...
 			Shagyuyaaaaaaa,...
 		</baby>
@@ -4427,13 +4427,13 @@
 			Eajy, Eajy~!!
 			I can'ch chage ich eajy ach aww....
 			Helb meeee, helb %name
-			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I hade huwdd-huwdddd,,, I don'd wand to dieee,,,
 			I wanch cho chage ich eajy.....
 			Lech me chage ich eajy.....
-			Fraaaan,,,
+			Fwaaaan,,,
 			Shagyuyaaaaaaa,...
-			Go away... don'ch come obew hewe...
-			I'm shorryyyy, I'm sho shorryyyy...
+			Go away... don'ch come oba hewe...
+			I'm showwyyyy, I'm sho showwyyyy...
 			Whyyy,... whyyy,...
 			Shagyuyaaaaaaa,...
 		</child>
@@ -4464,16 +4464,16 @@
 			Eajy, Eajy~!!
 			I can'ch chage ich eajy ach aww....
 			Helb meeee, helb %name
-			I hade hurdd-hurdddd,,, I don'd wand to dieee,,,
+			I hade huwdd-huwdddd,,, I don'd wand to dieee,,,
 			I wanch cho chage ich eajy.....
 			Lech me chage ich eajy.....
 			Myamyaaaaa~~~
 			Shagyuyaaaaaaa,...
-			Go away... don'ch come obew hewe...
+			Go away... don'ch come oba hewe...
 			Shichhy shlabe, huwwy ub and helb meeeee...
-			Why ish dish habbening to %name, doo,,, Id's unfaiw, dooooo,,,
+			Why ish dhishh habbening to %name, doo,,, Id's unfaiw, dooooo,,,
 			%name ish absholudely nod ad faulddddd,,,
-			I'm shorryyyy, I'm sho shorryyyy...
+			I'm showwyyyy, I'm sho showwyyyy...
 			Whyyy,... whyyy,...
 			%name was ad faulddddd,,, zo led me dake id easyyy,,,
 			How did this happen to %name...?
@@ -4487,16 +4487,16 @@
 			Eajy, Eajy~!!
 			I can'ch chage ich eajy ach aww....
 			Helb meeee, helb %name
-			Id hurddddddds,,, I don'ch wanch cho die...
+			Id huwddddddds,,, I don'ch wanch cho die...
 			I wanch cho chage ich eajy.....
 			Lech me chage ich eajy.....
-			Fraaaan~~~
+			Fwaaaan~~~
 			Shagyuyaaaaaaa~~~
-			Go away... don'ch come obew hewe...
+			Go away... don'ch come oba hewe...
 			Shichhy shlabe, huwwy ub and helb meeeee...
-			Why ish dish habbening to %name, doo,,, Id's unfaiw, dooooo,,,
+			Why ish dhishh habbening to %name, doo,,, Id's unfaiw, dooooo,,,
 			%name ish absholudely nod ad faulddddd,,,
-			I'm shorryyyy, I'm sho shorryyyy...
+			I'm showwyyyy, I'm sho showwyyyy...
 			Whyyy,... whyyy,...
 			%name was ad faulddddd,,, zo led me dake id easyyy,,,
 			How did this happen to %name...?
@@ -4532,12 +4532,12 @@
 		<baby>
 			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
 			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
-			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			%name can shchiww feel wefwesheeeed!!! Blease don'ch dhwow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
 			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
 			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
-			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mewcyyy!!! I hade dizbosawww!!!
 			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
 			Nooooo!!! I shchiww don'd wand to dieee!!!
 			I hade dizbosawww!!! Zave meee!!!
@@ -4547,12 +4547,12 @@
 		<child>
 			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
 			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
-			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			%name can shchiww feel wefwesheeeed!!! Blease don'ch dhwow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
 			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
 			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
-			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mewcyyy!!! I hade dizbosawww!!!
 			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
 			Nooooo!!! I shchiww don'd wand to dieee!!!
 			I hade dizbosawww!!! Zave meee!!!
@@ -4579,12 +4579,12 @@
 		<baby>
 			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
 			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
-			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			%name can shchiww feel wefwesheeeed!!! Blease don'ch dhwow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
 			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
 			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
-			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mewcyyy!!! I hade dizbosawww!!!
 			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
 			Nooooo!!! I shchiww don'd wand to dieee!!!
 			I hade dizbosawww!!! Zave meee!!!
@@ -4593,22 +4593,22 @@
 			%name can shchiww mage chiwdwennn!!! Zo I beg youuu!!! %name shchiww doeshn'ch wand cho dieee!!
 			%name can shchiww mage chiwdwennn!!! Zo blease don'd dizbose of meee!!! %name shchiww doeshn'ch wand cho dieee!!!
 			I-I'b fineee!!! %name can shchiww mage chiwdwennn!!! Zo don'd gill meeeeeee!!
-			%name can shchiww gibe birdh cho liddle onesh!!! Zo blease zave meee!!! Blease don'd gill meee!!!
-			I-I'b fineee!!! %name can shchiww gibe birdh to liddle onesh!!!
-			%name can shchiww gibe birdh to liddle onesh!!! Zo zave meee!! Zave %name!
-			%name can shchiww mage liddle onesh!!! Zo! Habe mewcyyy!! Habe mercyyyyy!!! Jusd nod dizbosallll!!!
+			%name can shchiww gibe biwdh cho liddle onesh!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			I-I'b fineee!!! %name can shchiww gibe biwdh to liddle onesh!!!
+			%name can shchiww gibe biwdh to liddle onesh!!! Zo zave meee!! Zave %name!
+			%name can shchiww mage liddle onesh!!! Zo! Habe mewcyyy!! Habe mewcyyyyy!!! Jusd nod dizbosallll!!!
 			I-I'b fineee!!! %name can shchiww mage liddle onesh!!!
 			%name can shchiww mage liddle onesh!!! Zo don'd dizbose of me yed!! Blease don'd gill meee!!
 		</baby>
 		<child>
 			%name can shchiww feew wefwesheeeed!!! Zo blease don'ch gill meee!!! I hade dizbosawww!!!
 			I-I'b fineee!!! %name can shchiww feew wefwesheeeed!!! Zo I beg youuu!!! %name shchiww doeshn'd wand cho dieee!!
-			%name can shchiww feel refresheeeed!!! Blease don'ch dhrow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
+			%name can shchiww feel wefwesheeeed!!! Blease don'ch dhwow me awayyy!! %name shchiww doeshn'd wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Nooooo!!! I hade dizbosawww!!!
 			%name is shchiww healdhyyy!!! Zo don'd dizbose of me yech!! Blease don'd gill meee!! I don'ch wand cho dieee!!!
 			I-I'b fineee!!! %name ish shchiww healdhyyy!!! Zo blease don'd gill meee!! I beg youuu!!
 			%name ish shchiww fineee!!! Nooooo!!! I hade dizbosawww!!!
-			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mercyyy!!! I hade dizbosawww!!!
+			%name ish shchiww fineee!!! Habe mewcyyy!! Blease habe mewcyyy!!! I hade dizbosawww!!!
 			%name ish shchiww fineee!!! Zo blease zave meee!!! Blease don'd gill meee!!!
 			Nooooo!!! I shchiww don'd wand to dieee!!!
 			I hade dizbosawww!!! Zave meee!!!
@@ -4617,10 +4617,10 @@
 			%name can shchiww mage chiwdwennn!!! Zo I beg youuu!!! %name shchiww doeshn'ch wand cho dieee!!
 			%name can shchiww mage chiwdwennn!!! Zo blease don'd dizbose of meee!!! %name shchiww doeshn'ch wand cho dieee!!!
 			I-I'b fineee!!! %name can shchiww mage chiwdwennn!!! Zo don'd gill meeeeeee!!
-			%name can shchiww gibe birdh cho liddle onesh!!! Zo blease zave meee!!! Blease don'd gill meee!!!
-			I-I'b fineee!!! %name can shchiww gibe birdh to liddle onesh!!!
-			%name can shchiww gibe birdh to liddle onesh!!! Zo zave meee!! Zave %name!
-			%name can shchiww mage liddle onesh!!! Zo! Habe mewcyyy!! Habe mercyyyyy!!! Jusd nod dizbosallll!!!
+			%name can shchiww gibe biwdh cho liddle onesh!!! Zo blease zave meee!!! Blease don'd gill meee!!!
+			I-I'b fineee!!! %name can shchiww gibe biwdh to liddle onesh!!!
+			%name can shchiww gibe biwdh to liddle onesh!!! Zo zave meee!! Zave %name!
+			%name can shchiww mage liddle onesh!!! Zo! Habe mewcyyy!! Habe mewcyyyyy!!! Jusd nod dizbosallll!!!
 			I-I'b fineee!!! %name can shchiww mage liddle onesh!!!
 			%name can shchiww mage liddle onesh!!! Zo don'd dizbose of me yed!! Blease don'd gill meee!!
 		</child>
