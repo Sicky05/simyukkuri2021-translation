@@ -2,83 +2,83 @@
 [WantFood]
 	<normal>
 		<baby>
-			Uu! Uu~
-			Ich'sh dinna chime dado~!
+			Uu! Uu!
+			Ich'sh dinnaa chime dado~!
 			I'm gonna each you~☆
 			Shweech-shweechsh~☆
-			Uu! Dinna-dinna♪
-			Buddiiin'♪
-			I wanch cho blay widh you chogeda dadoo~
-			Pach-pach me, bleashe~♪
-			Uu~ I'm gonna each you~!
-			Uu! Ich'sh hunching chime dadoo~!
-			Uu! Shchay shchill and lech %name each you!
+			Uu! Dinnaa-dinnaa♪
+			Puddiiin♪
+			I wanch cho play wif you chogedew dadooo!
+			I wanch pach-pach~♪
+			Uu! I'm gonna each you~!
+			Uu! Ich'sh hunching chime dadoo!
+			Uu! Shchay shchiww and wech %name each you!
 		</baby>
 		<child>
 			Uu! Uu!
-			Uu! Ich'sh dinna chime dadoo~☆
+			Uu! Ich'sh dinnaa chime dadooo~!
 			I'm gonna each you~☆
 			U~! Shweech-shweechsh~☆
-			Uu~! Dinna-dinna♪
-			Buddiiing~♪
-			I wanch cho blay widh you chogeda~☆
-			Pach-pach me, bleashe~♪
-			Uu~! I'm gonna each you~!
-			Uu~! Ich'sh hunching chime dadoo~☆
-			Uu! Shchay shchill and lech %name each you!
+			Uu! Dinnaa-dinnaa♪
+			Puddiiing~♪
+			I wanch cho play with you chogedew dadooo!
+			I wanch pach-pach~♪
+			Uu! I'm gonna each you~!
+			Uu! Ich'sh hunching chime dadoo!
+			Uu! Shtay shtill and lech %name each you!
 		</child>
 		<adult>
 			Uu!
-			Uu~♪ Uu~♪
-			Uu! It's Mister dinner dado~!
+			Uu♪ Uu♪
+			Uu! It's Mister dinner dadoo~!
 			I'm gonna eat you~☆
-			Uu~! dinner dinner ♪
+			Uu! Dinneer-dinneer♪
 			Pudding~♪
-			Uu~! I found sweet-sweets dado~☆
-			I want to play together dado~!
-			Uu~! I'm gonna eat you~!
-			Uu~ It's hunting time dado!!
-			Uu~! Stay still and let %name eat you!
+			U~! I found sweet-sweets dadoo~☆
+			I want to play together dadooo!
+			Uu! I'm gonna eat you~!
+			Uu! It's hunting time dadoo!
+			Uu! Stay still and let %name eat you!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Uu! Uu~
-			Ich'sh dinna chime dadoo~!
+			Uu! Uu!
+			Ich'sh dinnaa chime dadoo~!
 			I'm gonna each you~☆
-			Uu~ Ich'sh hunching chime dadoo!
-			Uu~ Shchay shchill and lech %name each you!
+			Uu! Ich'sh hunching chime dadoo!
+			Uu! Shchay shchiww and wech %name each you!
 			I'm gonna each you~☆
-			Buddiiin'♪
+			Puddiiin♪
 			U~! Shweech-shweechsh~☆
-			Uu~ Dinna-dinna~♪
-			%name ish sho bowed dadoo~!
+			Uu! Dinnaa-dinnaa♪
+			%name ish sho bowed dadooo!
 		</baby>
 		<child>
 			Uu!
 			Uu! Uu!
-			Uu! Ich'sh dinna chime dadoo~☆
-			Uu~ Ich'sh hunching chime dadoo~!
+			Uu! Ich'sh dinnaa chime dadoo~!
+			Uu! Ich'sh hunching chime dadoo!
 			I'm gonna each you~☆
-			Uu~ Shchay shchill and lech %name each you~!
-			Shaguyaaaa! Buddiiin'~♪
-			U~ Shweech-shweechsh~☆
-			Uu~ Dinna-dinna~♪
-			%name ish sho bowed dadoo~☆
+			Uu! Shtay shtill and lech %name each you!
+			Sakuyaaaa! Puddiiin♪
+			U~! Shweech-shweechsh~☆
+			Uu! Dinnaa-dinnaa♪
+			%name ish sho bowed dadooo!
 		</child>
 		<adult>
 			Uu!
 			Uu! Uu!
-			Uu~♪ Uu~♪
-			Uu! It's dinner time dado~!
+			Uu♪ Uu♪
+			Uu! It's dinnaa time dadoo~!
 			I'm gonna eat you~☆
-			Uu~! It's dinner time♪
-			Sakuyaーー！ Id's puddiiiiiing dime, dadoooo-♪
-			Uu～！I found a sweet-sweet dado~☆
-			%name is bored dado~！
-			Uu~ I'm gonna eat you~！
-			Uu~ It's hunting time dado!!
-			Uu~ Stay still and let %name eat you!!
+			Uu! Dinnaa-dinnaa♪
+			Sakuyaaa！ Id's buddiiiiiin time, dadooo♪
+			Uu~！I found a sweet-sweet dado~☆
+			%name is bored dadooo！
+			Uu! I'm gonna eat you~！
+			Uu! It's hunting time dadoo!
+			Uu! Stay still and let %name eat you!
 		</adult>
 	</rude>
 [/WantFood]
@@ -87,122 +87,122 @@
 [NoFood]
 	<normal>
 		<baby>
-			Uu~...
-			Shaguya~~ Shaguya~~
+			Uu...
+			Sakuyaa.. Sakuyaa..
 			I wanch cho each Mishcha food dadoo!
-			My chummy ish wumbling dadoo~!
-			Uu~~~ shweech-shweechsh~~...
-			Shaguya~~ Ich'sh dinna chime dadoo~~...
-			Uu! I'm sho hungwy~!
+			My chummy ish wumbwing dadoo~!
+			Uu~... Shweech-shweechsh...
+			Sakuyaa.. Ich'sh dinnaa chime dadoo...
+			Uu! I'm sho hungwy!
 			I wanch cho each Mishcha food doo!
 			<damage>
 				Uu~...
-				Zagu-ya-a... zagu-ya-a...
-				U~, Ich'sh dinna chime dadoo...
-				Zagu-ya-a... I'm hun-gwyyyy doo...
-				U~, Mishcha food bleashe gome...
-				Uuu~... I weally wanch cho each...
-				U~..., shweech-shweechsh...
-				My chummy ish wumbling dadoo~!
+				Zaguyaa.. Zaguyaa..
+				U~, Ich'sh dinnaa chime dadoo...
+				Zaguyaaaa... I'm hungwyyyy dadoo...
+				U~, Mishcha food pweashe...
+				Uuu~.. I weally wanch cho each...
+				U~... Shweech-shweechsh...
+				My chummy ish wumbling dado~!
 			</damage>
 		</baby>
 		<child>
 			I'm sho hungwy, dado~!
-			Mishcha food, gan you feed me?
+			I wanch cho each Mishcha food dadoo!
 			My chummy ish wumbling dadoo~!
-			Shagu-ya~~ Ich'sh dinna chime dadoo~~...
-			Uu... Mishcha food...
-			Uu,,,
-			Uu,, My chummy ish wumbling dadoo~!
+			Sakuyaa.. Ich'sh dinnaa chime dadoo...
+			U~... Mishcha food....
+			Uu...
+			U~.. My chummy ish wumbling~!
 			<damage>
-				Uu~... Ich'sh chime fow dinna, dado~~!
-				Zagu-ya-a... I'm sho hungwy dadoo...
-				Uu~~...
-				My chummy ish wumbling dadoo~!
-				Uu~~... shweech-shweechsh~~~
+				U~, Ich'sh chime fow dinnaa, dadoo...
+				Zaguyaaaa... I'm sho hungwy dadoo...
+				Uu...
+				My chummy ish wumbling dado~!
+				U~... Shweech-shweechsh...
 				Zaguyaa... Zaguyaa...
-				Uu~~... Bleashe gibe me shome Mishcha food~~~
-				Uuu~... My chummy ish wumbling dadoo...
+				U~, Pleashe give me Mishcha food...
+				Uuu~.. My chummy ish wumbling dadoo...
 			</damage>
 		</child>
 		<adult>
 			There's no Mister food dado~?
-			%name's hungry dado~...
+			%name's hungry dado...
 			I want to eat delicious Mister food dado
-			Sakuya~~ Mister food,...
+			Sakuya.. Mister food...
 			My tummy is rumbling dado~!
-			Sakuya~!! Mister dinner~~!!
+			Sakuyaa.. Mister food...
 			<damage>
-				Uu~~~
-				Uu～~, mister food please~~~
-				I'm so hungry dado~~~
+				Uu...
+				U~, Mister food pleasee...
+				I'm so hungry dado...
 				My tummy is rumbling dado~！
-				Uu～~~, shweech-shweechsh~~~
-				Sakuya~,, Sakuya~,
-				Uu~,, I'm so hungry,,
+				U~... Shweech-shweechsh...
+				Zaguyaa.. Zaguyaa..
+				Uu~.. I'm so hungry..
 			</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Uu~...
+			Uu...
 			%name wanchsh cho each Mishcha food dadoo!
-			Shaguyaa,, Ich'sh chime dinna chime dadoo~
-			Uu! I'm sho hungwy~!
-			My chummy ish wumbling dadoo~!
-			U~... Bleashe gibe me shome Mishcha food...
+			Sakuyaa.. Ich'sh dinnaa chime dadoo...
+			Uu! I'm sho hungwy!
+			My chummy ish wumbwing dado~!
+			U~... Give me Mishcha food...
 			U~... Shweech-shweechsh...
-			Shaguyaa~, Shaguyaa~
+			Sakuyaa.. Sakuyaa..
 			<damage>
-				Uu~......
-				Uu~, Mishcha food, gibe ich cho me~~~
-				Uu~, Mishcha food, bleashe gibe ich~~~
-				Zaguyaaa~~~ I'm sho hungwy dadoo~~~
-				My chummy ish wumbling dadoo~!
-				Uu~~~~ Shweech-shweechsh~~~~~~~~~
-				Zaguyaaa...... Zaguyaaa~~~
+				Uu...
+				U~, Give me Mishcha food...
+				U~, Mishcha food, pweashe...
+				Zaguyaaaa... I'm sho hungwy dado...
+				My chummy ish wumbwing dadoo~!
+				U~... Shweech-shweechsh...
+				Zaguyaa.. Zaguyaa..
 			</damage>
 		</baby>
 		<child>
-			Uu~...
+			Uu...
 			%name wanchsh cho each Mishcha food dadoo!
-			I'm sho hungwy~!
-			Shaguyaa,, Ich'sh chime dinna chime dadoo~...
+			I'm sho hungwy dadoo!
+			Sakuyaa.. Ich'sh chime dinnaa chime dadoo...
 			My chummy ish wumbling dadoo~!
-			Uu~~, shweech-shweechsh~~...
-			Shaguya... Shaguya~~...
-			Uu~~, gibe me Mishcha food bleashe~~...
+			U~~... Shweech-shweechsh...
+			Sakuyaa.. Sakuya..
+			U~, Give me Mishcha food...
 			<damage>
-				Uu~~~
-				Uu~, Mishcha food bleashe gibe ich cho me~~~
-				Uuu~... I'm sho hungwy~~~
-				Uu~, gibe me Mishcha food bleashe~~~
-				Zaguyaaaaa~~~ I'm sho hungwy dadoo~~~
-				Uu~~~
-				My chummy ish wumbling dadoo~~~!
-				Uu,,, shweech-shweechsh~~~
-				Zaguya~~ Zaguya~~~
+				Uu...
+				U~, Give me Mishcha food...
+				Uuu~.. I'm sho hungwy...
+				U~, Mishcha food pleashe...
+				Zaguyaaaa... I'm sho hungwy dado...
+				Uu...
+				My chummy ish wumbling dado~!
+				U~... Shweech-shweechsh...
+				Zaguyaa.. Zaguyaa..
 			</damage>
 		</child>
 		<adult>
 			There is no Mister food dado~?
 			%name's so hungry dado...
-			Uu~! Give me the yummy Mister food!
+			Uuu! Give me the yummy Mister food!
 			I want to eat the yummy Mister food dado
-			Sakuya~... Mister food ...
+			Sakuyaa.. Mister food...
 			My tummy's rumbling dado~!
-			Uu~~, Mister food give it here~
-			Uu~~, sweet sweets~
-			Sakuya~~, Sakuya~~
+			U~... Give me Mister food...
+			U~... Sweet-sweets...
+			Sakuyaa.. Sakuyaa..
 			<damage>
-				Uu~~~
-				U~! It's dinner time dado~~~
-				U~! It's dinner time dado~~~
-				I'm so hungry dado~~~
-				U~! Mister food, hand it over~~~
+				Uu...
+				U~, Mister food please...
+				U~.. Give me Mister food..
+				I'm so hungry dado...
+				U~... Hand over Mister food...
 				My tummy is rumbling dado~!
-				Uu~..... shweech-shweechsh.....
-				Sakuya~..... Sakuya~.....
+				U~... Shweech-shweechsh...
+				Zaguyaa.. Zaguyaa..
 			</damage>
 		</adult>
 	</rude>
