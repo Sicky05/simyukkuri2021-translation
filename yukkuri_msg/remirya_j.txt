@@ -218,10 +218,10 @@
 			%dummy
 		</child>
 		<adult>
-			Uuu, uuu! Quickly become %name's bride, doー!!
-			Uuu, uuu! %name wants a partner soon too, doー!
-			Uuu! %name wants a little ones, do...
-			Uuu... %name is at marriageable age too, do...
+			Uu Uu! Quickly become %name's bride, dadoo!
+			Uu Uu! %name wants a partner soon too, dadoo!
+			Uu! %name wants little ones, dado...
+			Uu, %name is at marriageable age too, dado...
 		</adult>
 	</normal>
 	<rude>
@@ -229,14 +229,14 @@
 			%dummy
 		</baby>
 		<child>
-			Uu! I wanch a weal bawchnew now~!
-			Uu~! %name, weally needsh guche liddle onesh~!
-			Uu-! %name wanchsh a ghawishmachig yugguwi ash a bawchnew, doo-!
+			Uu! I wanch a weal bawchnew now doo!
+			Uu Uu! %name weally needsh cute liddle onesh dadoo!
+			Uu! %name wanchsh a chawishmatic yukkuri ash a bawchnew, doo!
 		</child>
 		<adult>
-			Uuu, uuu! Hurry up and marry me, doー!
-			Uuu, uuu! %name wants a partner soon too, doー!
-			Uu-! %name wants a charismatic yukkuri as a partner, doo-!
+			Uu! Hurry up and marry me, doo!
+			Uu Uu! %name wants a partner soon too, dadoo!
+			Uu! %name wants a charismatic yukkuri as a partner, doo!
 		</adult>
 	</rude>
 [/WantPartner]
@@ -245,15 +245,15 @@
 [Excite]
 	<normal>
 		<baby>
-			Uu! Uu~
+			Uu! Uu!
 			Shuwwendew youwshelf cho %name dado~!
 		</baby>
 		<child>
-			Uu! Uu~
+			Uu! Uu!
 			Shuwwendew youwshelf cho %name dado~!
 		</child>
 		<adult>
-			Uu~! Uu~!
+			Uu! Uu!
 			Surrender yourself to %name dado~!
 		</adult>
 	</normal>
@@ -263,13 +263,13 @@
 [ExciteForRaper]
 	<normal>
 		<baby>
-			%name alsho wanchsh cho feel good choo, dooー!
+			%name alsho wanchsh cho feel good choo, doo!
 		</baby>
 		<child>
-			%name alsho wanchsh cho feel good choo, dooー!
+			%name wanchsh cho feel good choo, doo!
 		</child>
 		<adult>
-			%name also wants to feel good too, dooー!
+			%name wants to feel good too, doo!
 		</adult>
 	</normal>
 [/ExciteForRaper]
@@ -278,30 +278,30 @@
 [PenipeniCutting]
 	<normal>
 		<baby>
-			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhsh!
-			Mishcha ish mean, dooo! Gibe bagg %name'sh Mishcha Benibeni!!!
+			%name'sh Mishcha penipeni?! Ich huwchhhhhhhsh!
+			Mishcha ish mean, dooo! Give back %name'sh Mishcha penipeni!!!
 		</baby>
 		<child>
-			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhhsh!
-			Mishcha ish mean, dooo! Gibe bagg %name'sh Mishcha Benibeni!!!
+			%name'sh Mishcha penipeni?! Ich huwchhhhhhhhsh!
+			Mishcha ish mean, dooo! Give back %name'sh Mishcha penipeni!!!
 		</child>
 		<adult>
-			%name's easy Mister peni-peni...?! Stick back on! Stick back on!
-			Mister is so mean, do! Blease give bag %name's Mister peni-peni!!!
+			%name's easy Mister penipeni?! Stick back on! Stick back on!
+			Mister is so mean, do! Please give back %name's Mister penipeni!!!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhsh!
-			Ich huwchhhhhhhsh! Whach awe you doing cho %name'sh Mishcha Benibeni?
+			%name'sh Mishcha penipeni?! Ich huwchhhhhhhsh!
+			Ich huwchhhhhhhsh! Whach awe you doing cho %name'sh Mishcha penipeni?
 		</baby>
 		<child>
-			%name'sh Mishcha Benibeni?! Ich huwchhhhhhhsh!
-			Ich huwchhhhhhhsh! Whach awe you doing cho %name'sh Mishcha Benibeni?
+			%name'sh Mishcha penipeni?! Ich huwchhhhhhhsh!
+			Ich huwchhhhhhhsh! Whach awe you doing cho %name'sh Mishcha penipeni?
 		</child>
 		<adult>
-			Give %name's Mister peni-peni baaack!!!
-			Yunyaaa! Just because your own peni-peni is the size of a little one's, being jealous of %name is so mean, doー!
+			Give %name's Mister penipeni baaack!!!
+			Yunyaaa! Just because your own penipeni is the size of a little one's, being jealous of %name is so mean, doo!
 		</adult>
 	</rude>
 [/PenipeniCutting]
@@ -310,32 +310,32 @@
 [PenipeniCutted]
 	<normal>
 		<baby>
-			Uu~~
-			Mishcha benibeni~~~
+			Uu..
+			Mishcha penipeni...
 		</baby>
 		<child>
-			Uu~~
-			Mishcha benibeni~~~
-		</child>
-		<adult>
-			Uu~
-			Mister PeniPeni...
-			Mister PeniPeni is not here anymore... not anymore dado..
-		</adult>
-	</normal>
-	<rude>
-		<baby>
-			Uu~...
-			Mishcha benibeni~~~
-		</baby>
-		<child>
-			Uu~~
-			Mishcha benibeni~~~
+			Uu..
+			Mishcha penipeni...
 		</child>
 		<adult>
 			Uu..
 			Mister penipeni...
-			%name wanted to refresh more, dadoo...
+			Mister penipeni is not here anymore.. not anymore dado..
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Uu..
+			Mishcha penipeni...
+		</baby>
+		<child>
+			Uu..
+			Mishcha penipeni...
+		</child>
+		<adult>
+			Uu..
+			Mister penipeni...
+			%name wanted to refresh more dado!
 		</adult>
 	</rude>
 [/PenipeniCutted]
@@ -344,33 +344,33 @@
 [CantUsePenipeni]
 	<normal>
 		<baby>
-			Uu~~~
-			%name alsho wanched liddle onesh dadoo~~~
+			Uu..
+			%name alsho wanched liddle onesh dado...
 		</baby>
 		<child>
-			Uu~~~
-			%name alsho wanched liddle onesh dadoo~~~
+			Uu...
+			%name alsho wanched liddle onesh dado...
 		</child>
 		<adult>
-			Uu,...
+			Uu...
 			%name also wanted little ones, dadoo...
-			%name can't make little ones with something like this, do...
+			I can't make little ones with something like this, do...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Uu~...
-			%name alsho wanched liddle onesh~~...
+			Uu...
+			%name alsho wanched liddle onesh do...
 		</baby>
 		<child>
-			Uu~...
-			%name alsho wanched liddle onesh~~...
+			Uu...
+			%name alsho wanched liddle onesh...
 		</child>
 		<adult>
 			Uu,...
 			%name wanted little ones...
-			%name wanted to refresh more, do...
-			%name can't make little ones with something like this, do...
+			I wanted to refresh more, do...
+			I can't make little ones with something like this, do...
 		</adult>
 	</rude>
 [/CantUsePenipeni]
@@ -379,69 +379,69 @@
 [Relax]
 	<normal>
 		<baby>
-			Uu~!
-			Uu~♪ Uu~♪
-			Uu~♪ Mishcha choo hash cho chage ich eajy, dado~
-			Uu~? %name ish %name, dadoo!
-			Mama~ Mama~♪
-			Uu~? Uu~♪
-			Uu~! Ua~ua~♪
-			Uu~☆ Ua~ Ua~ Wemiwya~ u~!
-			Uu~? Shaguya~
+			Uu!
+			U~♪ U~♪
+			U~♪ Mishcha choo hash cho chage ich eajy, dado~
+			Uu? %name ish %name, dadoo!
+			Myamya~ Myamyaa~♪
+			U~? Uuu♪
+			Uu Uu! Ua Ua♪
+			Uuu~☆ Ua☆ Ua☆ Wemi☆wya☆ U~!
+			Uu? Shakyuya~
 		</baby>
 		<child>
-			Uu~!
-			Uu~♪ Uu~♪
-			Uu~♪ Mishcha choo hash cho chage ich eajy, dado~
-			Uu~? %name ish %name, dadoo!
-			Mama~ Mama~♪
-			Uu~? Uu~♪
-			Uu~! Ua~ Ua~♪
-			Uu~☆ Ua~ Ua~☆ Wemiwya~ u~!
-			Uu~? Shaguya~
+			Uu!
+			U~♪ U~♪
+			U~♪ Mishcha choo hash cho chage ich eajy, dado~
+			Uu? %name ish %name, dadoo!
+			Mommiee~ Mommiee~♪
+			U~? Uuu♪
+			Uu Uu! Ua ua♪
+			Uuu~☆ Ua☆ Ua☆ Wemi☆wya☆ U~!
+			Uu~? Sakyuya~
 		</child>
 		<adult>
-			Uu~!
-			Uuu~♪ Uuu~♪
-			Uuu~♪ Mister takes it easy too dado~
+			Uu!
+			U~♪ U~♪
+			U~♪ Mister takes it easy too dado~
 			Uu? %name is %name dadoo!
-			U-uu~☆ Ua☆ Ua☆ Remi☆rya☆ Uuu~!
-			Uu~? Sakuya~!
+			Uu U~☆ Ua☆ Ua☆ Remi☆rya☆ U~!
+			Uu? Sakuya~
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Uu~!
+			Uu!
 			Uu~♪ Uu~♪
-			Bubibi♪ Bubibibi♪
-			Uu~? %name ish %name, dadoo!
-			"%name ish Goumagan'sh %name, dadoo☆"
-			Uu~? Uu~♪
-			Uu! Uaua~♪
-			Uu~☆ Ua~☆ Ua~ ☆Wemi☆wya☆Uu~!
-			Uu~? Shaguya~
+			Bupi♪ Bupipi♪
+			%name ish %name, dadoo!
+			%name ish Scawwech Deviw Manshion'sh %name, dadoo☆
+			U~? Uuu♪
+			Uu Uu! Ua Ua♪
+			Uu U~☆ Ua☆ Ua☆ Wemi☆wya☆ U~!
+			Uu? Shakyuya~
 			Dwob dead eajy!
 		</baby>
 		<child>
-			Uu~!
-			Uu~♪ Uu~♪
-			Uu~? %name ish %name, dadoo!
-			"%name ish Goumagan'sh %name, dadoo☆"
-			Uu~? Uu~♪
-			Uu! Uaua~♪
-			Uu~☆ Ua~☆ Ua~ ☆Wemi☆wya☆Uu~!
-			Uu~? Shaguya~
+			Uu!
+			U~♪ U~♪
+			%name ish %name, dadoo!
+			%name ish Scawlech Devil Manshion'sh %name, dadoo☆
+			U~? Uuu♪
+			Uu Uu! Ua Ua♪
+			Uu U~☆ Ua☆ Ua☆ Wemi☆wya☆ U~!
+			Uu? Sakyuya~
 			Dwob dead eajy!
 		</child>
 		<adult>
-			Uuu!
-			Uuu~♪ Uuu~♪
+			Uu!
+			U~♪ U~♪
 			%name is %name, doo!
-			%name is the Scarlet Devil Mansion's %name, doo☆
-			U-uuーー☆ Ua-ua☆ Charisma, dooーーー♪
+			%name is the Scarlet Devil Mansion's %name, dadoo☆
+			Uu Uuu☆ Ua Ua☆ Charisma, dadooooo♪
 			Old geezer! %name will make you %name's servant, doo♪
-			U-uu~☆ Ua☆ Ua☆ Remi☆rya☆ Uuu~!
-			Uuu? Sakuya~
+			Uu U~☆ Ua☆ Ua☆ Remi☆rya☆ U~!
+			Uu? Sakuya~
 			Drop dead easy!
 		</adult>
 	</rude>
@@ -452,20 +452,20 @@
 	<normal>
 		<baby>
 			<pants>
-				Uu~♪ Uu~♪
-				Uu~♪Uu~♪ Mishcha Clodhes awe bewy eajy do!
+				U~♪ U~♪
+				U~♪ U~♪ Mishcha Cwodes awe vewy eajy doo!
 			</pants>
 		</baby>
 		<child>
 			<pants>
-				Uu~♪ Uu~♪
-				Uu~♪Uu~♪ Mishcha Clodhes awe bewy eajy do!
+				U~♪ U~♪
+				U~♪ U~♪ Mishcha Clodes awe vewy eajy doo!
 			</pants>
 		</child>
 		<adult>
 			<pants>
-				Uu~♪Uu~♪
-				Uu~♪Uu~♪ Mister Clothes is very easy do!
+				U~♪ U~♪
+				U~♪ U~♪ Mister Clothes are very easy doo!
 			</pants>
 		</adult>
 	</normal>
@@ -475,75 +475,75 @@
 [FuriFuri]
 	<normal>
 		<baby>
-			Uu~☆Ua~Ua~
-			Uu~☆Ua~Ua~ Uu~Ua~Ua☆~
-			Uu~ Ua~ua♪
-			Ua~? Ghawishma dange dadoo☆~
-			Mama~! Loog~☆ Ua~ua♪
-			I'll dange lige Mama, doo♪
-			Dange dadoo~
-			Shage Shage♪ Wemi☆wya☆Uu~!
-			Ich'll be a fun nighch! sheemsh lige ich dado~!
+			Uu U~☆ Ua☆ Ua☆
+			Uu U~☆ Ua☆ Ua☆ Uu U~☆ Ua☆ Ua☆
+			Uu Uu Ua Ua♪
+			Uaa? Chawishma danshe dadoo☆
+			Myamyaa! Wook☆ Ua Ua♪
+			I'ww danshe wike Myamya, doo♪
+			Danshe dadoo☆
+			Shake Shake♪ Wemi☆wya☆ U~!
+			Ich sheemsh wike ich'sh gonna be a fun nighch dado~!
 		</baby>
 		<child>
-			Uu~☆Ua~Ua~
-			Uu~☆Ua~Ua~ Uu~Ua~Ua☆~
-			Uu~ Ua~ua♪
-			Ua~? Ghawishma dange dadoo☆~
-			Mama~! Loog~☆ Ua~ua♪
-			I'll dange lige Mama, doo♪
-			Dange dadoo~
-			Shage Shage♪ Wemi☆wya☆Uu~!
-			Ich'll be a fun nighch! sheemsh lige ich dado~!
+			Uu U~☆ Ua☆ Ua☆
+			Uu U~☆ Ua☆ Ua☆ Uu U~☆ Ua☆ Ua☆
+			Uu Uu Ua Ua♪
+			Uaa? Chawishma danshe dadoo☆
+			Myamyaa! Look☆ Ua Ua♪
+			I'll danshe like Myamya, doo♪
+			Danshe dadoo☆
+			Shake Shake♪ Wemi☆wya☆ U~!
+			Ich sheemsh like ich'sh gonna be a fun nighch dado~!
 		</child>
 		<adult>
-			Uu~? wa wa ~☆
-			Uu~? wa wa ~☆ Uu~? wa wa ~☆
-			Uu  wa wa ~♪
-			Uuu? It's okay to be captivated, doo♪
-			%name's dance is~♪ the best in the world!☆
-			Little ones, look closely do! Uu☆waawa♪
-			Dance dado☆
-			Shake shake♪ Remi☆ri☆ya～!
-			It'll be a fun night! seems like it dado~!
+			Uu U~☆ Ua☆ Ua☆
+			Uu U~☆ Ua☆ Ua☆ Uu U~? Ua☆ Ua☆
+			Uu Uu Ua Ua♪
+			Uuu? It's okay to be captivated, dadoo♪
+			%name's dance is~♪ the best in the world☆
+			Little ones, look closely do! U Uu☆ Ua Ua♪
+			Dance dadoo☆
+			Shake shake♪ Remi☆ri☆ya U~!
+			It seems like it's gonna be a fun night dado!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Uu~☆Ua~Ua~
-			Uu~☆Ua~Ua~ Uu~☆Ua~Ua~
-			Bfffffwwwwch~! Mishcha fawch game ouch dadoo~
-			Uu~ Ua~ua~
-			Ua~? Ghawishma dange dadoo☆~
-			Mommy, loog~♪ Ua~ua~
-			I'll dange lige Mama, doo♪
-			Dange dadoo~
-			Shage Shage♪ Wemi☆wya☆Uu~!
-			Ich'll be a fun nighch! sheemsh lige ich dado~!
+			Uu U~☆ Ua☆ Ua☆
+			Uu U~☆ Ua☆ Ua☆ Uu U~☆ Ua☆ Ua☆
+			Pfft! Mishcha fawch came ouch dadoo☆
+			Uu UU Ua ua♪
+			Uaa? Chawishma danshe dadoo☆
+			Myamyma, wook☆ Ua Ua♪
+			I'ww danshe wike Myamya, doo♪
+			Danshe dadoo☆
+			Shake Shake♪ Wemi☆wya☆ U~!
+			Ich sheemsh wike ich'sh gonna be a fun nighch dado~!
 		</baby>
 		<child>
-			Uu~☆Ua~☆Ua~☆
-			Uu~☆Ua~☆Ua~☆ Uu~☆Ua~☆Ua~☆
-			Bfffffwwwwch~! Mishcha fawch game ouch dadoo~
-			Uu~ Ua~ua♪
-			Ua~? Ghawishma dange dadoo☆~
-			Mommy, loog~♪ Ua~ua~
-			I'll dange lige Mama, doo♪
-			Dange daado~☆
-			Shage Shage♪ Wemi☆wya☆Uu~!
-			Ich'll be a fun nighch! sheemsh lige ich dado~!
+			Uu U~☆ Ua☆ Ua☆
+			Uu U~☆ Ua☆ Ua☆ Uu U~☆ Ua☆ Ua☆
+			Pfft! Mishcha fawch came ouch dadoo☆
+			Uu UU Ua ua♪
+			Uaa? Chawishma danshe dadoo☆
+			Mommie, look☆ Ua Ua♪
+			I'll danshe like Mommie, doo♪
+			Danshe dadoo☆
+			Shake Shake♪ Wemi☆wya☆ U~!
+			Ich sheemsh like ich'sh gonna be a fun nighch dado~!
 		</child>
 		<adult>
-			Uu~? wa wa~
-			Uu~? wa wa~ uu~? wa wa~
-			bo bo! Did Mister fart dado~
-			Uuu? It's okay to be captivated, doo♪
-			%name's dance is~♪ the best in the world!☆
-			Little ones, look closely do~! Uu☆waawa♪
-			Elegant dado? Bring the pudding!
-			Dance dado☆
-			Shake shake♪ Remi☆ri☆ya~!
-			It seems like a fun night dado~!
+			Uu U~☆ Ua☆ Ua☆
+			Uu U~☆ Ua☆ Ua☆ Uu U~☆ Ua☆ Ua☆
+			Pfft! Mister fart came out dadoo♪
+			Uuu? It's okay to be captivated, dadoo♪
+			%name's dance is~♪ the best in the world☆
+			Little ones, look closely doo! U Uu☆ Ua Ua♪
+			Elegant dadoo? Hand over the pudding!
+			Dance dadoo☆
+			Shake shake♪ Remi☆rya☆ U~!
+			It seems like it's gonna be a fun night dado~!
 		</adult>
 	</rude>
 [/FuriFuri]
