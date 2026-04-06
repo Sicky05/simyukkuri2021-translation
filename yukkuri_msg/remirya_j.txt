@@ -552,19 +552,19 @@
 [BeVain]
 	<normal>
 		<baby>
-			Ghawishma dado~！
-			Uu~!
-			Uu~!
+			Chawishma☆ dadoo!
+			Uu!
+			Uuu!
 		</baby>
 		<child>
-			Ghawishma dado~！
-			Uu~!
-			Uu~~!
+			Chawishma☆ dadoo!
+			Uu!
+			Uuu!
 		</child>
 		<adult>
-			Charisma dado~！
-			Uu~!
-			Uu~!
+			Charisma☆ dado!
+			Uu!
+			Uuu!
 		</adult>
 	</normal>
 [/BeVain]
@@ -573,33 +573,33 @@
 [TakeItEasy]
 	<normal>
 		<baby>
-			Uu~! Chage ich eajy!
-			Lech'sh chage ich eajy dadoo!
+			Uu! Chake ich eajyy!
+			Wech'sh chake ich eajy dado~!
 		</baby>
 		<child>
-			Uu~! Chage ich eajy!
-			Lech'sh chage ich eajy dadoo!
+			Uu! Chake ich eajyy!
+			Lech'sh chake ich eajy dado~!
 		</child>
 		<adult>
-			Uu~! Take it easy!
-			Let's take it easy dadoo!
+			Uu! Take it easyy!
+			Let's take it easy dado~!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Lech'sh chage ich eajy dadoo!!!
-			Uu~! Chage ich eajy!!!
-			Uu~ Uu~!!!
+			Wech'sh chage ich eajy dado~!!!
+			Uu! Chage ich eajyy!!!
+			U~ U~!!!
 		</baby>
 		<child>
-			Lech'sh chage ich eajy dadoo!!!
-			Uu~! Chage ich eajy!!!
-			Uu~ Uu~!!!
+			Lech'sh chage ich eajy dado~!!!
+			Uu! Chage ich eajyy!!!
+			U~ U~!!!
 		</child>
 		<adult>
 			Take it easy dado~!!！
-			Uu~! Take it easy!ー！！！
-			Uu~ Uu~!!！
+			Uu~! Take it easyy！！！
+			U~ U~!!！
 		</adult>
 	</rude>
 [/TakeItEasy]
@@ -608,36 +608,36 @@
 [Wakeup]
 	<normal>
 		<baby>
-			%name woge ub dadoo~
-			Uu~! Uu~!
-			Lech'sh chage ich eajy dadoo~!
+			%name woke up dado~!
+			U~! U~!
+			Wech'sh chake ich eajy dado~!
 		</baby>
 		<child>
-			%name woge ub dadoo~
-			Uu~! Uu~!
-			Lech'sh chage ich eajy dadoo~!
+			%name woke up dado~!
+			U~! U~!
+			Lech'sh chage ich eajy dado~!
 		</child>
 		<adult>
 			%name woke up dado~!
-			Uu~! Uu~!
+			U~! U~!
 			Take it easy dado~!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%name woge ub dadoo~!!!
-			Uu~! Uu~!!!
-			Lech'sh chage ich eajy dadoo~!!!
+			%name woke up dado~!
+			U~! U~!
+			Wech'sh chake ich eajy dado~!
 		</baby>
 		<child>
-			%name woge ub dadoo~!!!
-			Uu~! Uu~!!!
-			Lech'sh chage ich eajy dadoo~!!!
+			%name woke up dado~!
+			U~! U~!
+			Lech'sh chage ich eajy dado~!
 		</child>
 		<adult>
-			%name woke up dado~!!!!
-			Uu~ Uu~!!!!!
-			Take it easy dado~!!!!
+			%name woke up dado~!
+			U~! U~!
+			Take it easy dado~!
 		</adult>
 	</rude>
 [/Wakeup]
@@ -646,31 +646,31 @@
 [Sleep]
 	<normal>
 		<baby>
-			Uu~ Uu~
-			Shaguya~~
+			Uu... Uu...
+			Sakuyaa...
 		</baby>
 		<child>
-			Uu~ Uu~
-			Shaguya~
+			Uu... Uu...
+			Sakuyaa...
 		</child>
 		<adult>
-			Uu~... Uu~...
-			Sakuya~...
+			Uu... Uu...
+			Sakuyaa...
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Uu~ Uu~
-			Shaguya~~
+			Uu... Uu...
+			Sakuyaa...
 		</baby>
 		<child>
-			Uu~ Uu~
-			Shaguya~~
-			
+			Uu... Uu...
+			Sakuyaa...
+
 		</child>
 		<adult>
-			Uu~... Uu~...
-			Sakuya~...
+			Uu... Uu...
+			Sakuyaa...
 		</adult>
 	</rude>
 [/Sleep]
@@ -679,96 +679,96 @@
 [Scream]
 	<normal>
 		<baby>
-			Uu~! Uu~
-			Shchob ich dadoo~!
+			Uuu!
+			Shchob ich dadoo!
 			Ich huwchhhhhhhsh doo!
-			Whach awe you doing cho %name, anyway?
-			Shaguya~!
-			Uuu~! I hache you sho mugh~~!
+			Whach awe you doing cho %name dadoo!
+			Sakuyaa!
+			Uu Uu! I hache you sho muuch!!!
 			Ich huwchhhhhhhsh!!!
 			<damage>
-				Uuu~...
-				Ich huwdsh, shchob ich.. bleashe..
-				Shchob, shchob ich alweady...
-				Shaguyaa.. Helb me..
+				Uuu...
+				Ich huwdsh.. shchob ich..
+				Shchob.. shchob ich awweady...
+				Sakuyaaa.. Hewp me..
 			</damage>
 		</baby>
 		<child>
-			Uu~! Uu~
-			Shchob ich dadoo~!
+			Uuu!
+			Shchob ich dadoo!
 			Ich huwchhhhhhhsh doo!
-			Whach awe you doing cho %name, anyway?
-			Shaguya~!
-			Uuu~! I hache you sho mugh~~!
+			Whach awe you doing cho %name dadoo!
+			Sakuyaa!
+			Uu Uu! I hache you sho muuch!!!
 			Ich huwchhhhhhhsh!!!
 			<damage>
-				Uuu~...
-				Ich huwdsh, shchob ich.. bleashe..
-				Shchob, shchob ich alweady...
-				Shaguyaa.. Helb me..
+				Uuu...
+				Ich huwdsh.. shchob ich..
+				Shchob.. shchob ich alweady...
+				Sakuyaaa.. Help me..
 			</damage>
 		</child>
 		<adult>
 			Uuu!
-			Stop it, doー!
-			What are you doing to %name, doー!
-			Zaguyaaa!!!
-			Uuu! I hate you!!!
+			Stop it, dadoo!
+			What are you doing to %name, dadoo!
+			Zaguyaaaa!!!
+			Uu Uu! I hate you!!!
 			It hurrrts!!! Don't hit %name!!!
 			Ittt huuurtsss!!!
 			<damage>
-				Uu~,...
-				It hurts, do... stop it...
-				Stob it... stob it already...			
+				Uu...
+				It hurts, do.. stop it..
+				Stop it.. stop it already...			
 				</damage>
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			Uu~! Uu~
-			Shchob ich dadoo~!
+			Uuu!
+			Shchob ich dadoo!
 			Ich huwchhhhhhhsh doo!
-			Whach awe you doing cho %name dadoo?
-			Shaguya~!
-			Uuu~! I hache you sho mugh~~!
+			Whach awe you doing cho %name dadoo!
+			Sakuyaa!
+			Uu Uu! I hache you sho muuch!!!
 			Ich huwchhhhhhhsh!!!
 			<damage>
-				Uu~ Uu~
-				Ich huwdsh, shchob ich.. bleashe..
-				Shchob, shchob ich alweady...
-				Shaguyaa.. Helb me..
-				I hache you.. ich huwchhhhhhhsh!
+				Uuu...
+				Ich huwdsh.. shchob ich..
+				Shchob.. shchob ich awweady...
+				Sakuyaaa.. Hewp me..
+				I hache you.. go awayyy!
 			</damage>
 		</baby>
 		<child>
-			Uu~! Uu~
-			Shchob ich dadoo~!
+			Uuu!
+			Shchob ich dadoo!
 			Ich huwchhhhhhhsh doo!
-			Whach awe you doing cho %name dadoo?
-			Shaguya~!
-			Uuu~! I hache you sho mugh~~!
+			Whach awe you doing cho %name dadoo!
+			Sakuyaa!
+			Uu Uu! I hache you sho muuch!!!
 			Ich huwchhhhhhhsh!!!
 			<damage>
-				Uuu~...
-				Ich huwdsh, shchob ich.. bleashe..
-				Shchob, shchob ich alweady...
-				Shaguyaa.. Helb me..
-				I hache you.. ich huwchhhhhhhsh!!
+				Uuu...
+				Ich huwdsh.. shchob ich..
+				Shchob.. shchob ich alweady...
+				Sakuyaaa.. Help me..
+				I hache you.. go awayyy!
 			</damage>
 		</child>
 		<adult>
 			Uuu!
-			Stop it, doー!
-			What are you doing to %name, doー!
-			Zaguyaaa!!!
-			Uuu! I hate you!!!
+			Stop it, dadoo!
+			What are you doing to %name, dadoo!
+			Zaguyaaaa!!!
+			Uu Uu! I hate you!!!
 			It hurrrts!!! Don't hit %name!!!
 			Ittt huuurtsss!!!
 			<damage>
-				Uuu...
-				It hurts, do... stop it...
-				Stob it... stob it already...
-				Sakuyaaa... helb me...
+				Uu...
+				It hurts, do.. stop it..
+				Stop it.. stop it already...
+				Sakuyaaa... help me...
 				I hate you... go awayyy...
 			</damage>
 		</adult>
@@ -797,39 +797,39 @@
 [Scare]
 	<normal>
 		<baby>
-			Uu~~~
-			I'm shgawed dadooo!
-			Shaguya~! Helb me dadoo!!
-			Uu~~~ Dhewe'sh a bad shmell shomewhewe......
+			Uu...
+			I'm shcawed dadoo!
+			Sakuyaa! Hewp me dadoo!!
+			Uu... Thewe'sh a bad shmeww shomewhewe do...
 			<damage>
-				Uu~~
-				I'm shgawed dado~~!
-				Zaguya... helb me~~~
-				Ich shchingsh,, I gan'ch chage ich eajy,,
+				Uu...
+				I'm shcawed dado...
+				Zakuyaa... Hewp me...
+				Ich shchinksh.. I can'ch chake ich eajyy..
 			</damage>
 		</baby>
 		<child>
-			Uu~...
-			I'm shgawed dado~!
-			Shaguya~! Helb me bleashe!!
-			Uu~~... Dhewe'sh a bad shmell hewe~~...
+			Uu...
+			I'm shcawed dadoo!
+			Sakuyaa! Help me dadoo!!
+			Uu... Thewe'sh a bad shmell shomewhewe do...
 			<damage>
-				Uu~...
-				I'm shgawed dado~~!
-				Shaguya...... helb me~~~
-				Ich shchingsh,, I gan'ch chage ich eajy,,
+				Uu...
+				I'm shcawed dado...
+				Zakuyaa... Help me...
+				Ich shchinksh.. I can'ch chake ich eajyy..
 			</damage>
 		</child>
 		<adult>
-			Uu,...
-			I'm scared dado~!
-			Sakuya~! Help me dado~!!
-			Uu,... It smells bad do...
+			Uu...
+			I'm scared dadoo!
+			Sakuyaa! Help me dadoo!!
+			Uu... It smells bad do...
 			<damage>
-				Uu~~!
-				%name is scaaared, do...
-				Zaguyaaa... helb me...
-				There's a bad smell, zo...
+				Uu...
+				I'm scaaared, dado...
+				Zakuyaa... help me...
+				There's a bad smell, zoo...
 			</damage>
 		</adult>
 	</normal>
