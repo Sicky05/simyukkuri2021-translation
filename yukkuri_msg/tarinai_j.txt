@@ -111,7 +111,7 @@
 [Sleep]
 	<normal>
 		YuuYuu
-		Yupipi・・Yupipi・・
+		Yupipi..Yupipi..
 	</normal>
 [/Sleep]
 
@@ -1095,13 +1095,13 @@
 [Vomit]
 	<normal>
 		<baby>
-			Yube・・・
+			Yube...
 		</baby>
 		<child>
-			Yubue・・・
+			Yubue...
 		</child>
 		<adult>
-			Yububu・・・
+			Yububu...
 		</adult>
 	</normal>
 [/Vomit]
@@ -1110,13 +1110,13 @@
 [Dying2]
 	<normal>
 		<baby>
-			Yu・・・Yupi・・・
+			Yu...Yupi...
 		</baby>
 		<child>
-			Yubi・・・Yugyu・・・
+			Yubi...Yugyu...
 		</child>
 		<adult>
-			Yugyu・・・Yubiya・・・
+			Yugyu...Yubiya...
 		</adult>
 	</normal>
 [/Dying2]
