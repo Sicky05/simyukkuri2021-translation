@@ -1,0 +1,1569 @@
+# レイパー怯え
+[ScareRapist]
+	<normal>
+		Yungiii!
+		Yuaaan!
+	</normal>
+[/ScareRapist]
+
+# レイパーに攻撃
+[AttackRapist]
+	<normal>
+		<baby>
+			Yunguooo!!!
+			Yuguoo!!!
+			Yubaa!!!
+			Gobaaaa!!!
+		</baby>
+		<child>
+			Yunguooo!!!
+			Yuguoo!!!
+			Yubaa!!!
+			Gobaaaa!!!
+		</child>
+		<adult>
+			Yunguooo!!!
+			Yuguoo!!!
+			Yubaa!!!
+			Gobaaaa!!!
+		</adult>
+	</normal>
+[/AttackRapist]
+
+# レイパーに反撃命令
+[CounterRapist]
+	<normal>
+		<baby>
+			Yu?
+		</baby>
+		<child>
+			Yu?
+		</child>
+		<adult>
+			Yu?
+		</adult>
+	</normal>
+[/CounterRapist]
+
+# おかざりのないゆっくり発見
+[HateYukkuri]
+	<normal>
+		Yugu?
+		Yugugugu...
+	</normal>
+[/HateYukkuri]
+
+# うんうん奴隷に認定する
+[EngageUnunSlave]
+	<normal>
+		Yupipii!
+	</normal>
+[/EngageUnunSlave]
+
+# つがいを気遣う
+[ConcernAboutPartner]
+	<normal>
+		<baby>
+			Yupii...
+		</baby>
+		<child>
+			Yupii...
+		</child>
+		<adult>
+			Yupii...
+		</adult>
+	</normal>
+
+[/ConcernAboutPartner]
+
+# 子を気遣う
+[ConcernAboutChild]
+	<normal>
+		<baby>
+			Yupii...
+		</baby>
+		<child>
+			Yupii...
+		</child>
+		<adult>
+			Yupii...
+		</adult>
+	</normal>
+[/ConcernAboutChild]
+
+# 父を気遣う
+[ConcernAboutFather]
+	<normal>
+		<baby>
+			Yupii?
+			Yuu...
+		</baby>
+		<child>
+			Yupii?
+			Yuu...
+		</child>
+		<adult>
+			Yupii?
+			Yuu...
+		</adult>
+	</normal>
+[/ConcernAboutFather]
+
+# 母を気遣う
+[ConcernAboutMother]
+	<normal>
+		<baby>
+			Yupii?
+			Yuu...
+		</baby>
+		<child>
+			Yupii?
+			Yuu...
+		</child>
+		<adult>
+			Yupii?
+			Yuu...
+		</adult>
+	</normal>
+[/ConcernAboutMother]
+
+# 姉を気遣う
+[ConcernAboutEldersister]
+	<normal>
+		<baby>
+			Yupii...
+		</baby>
+		<child>
+			Yupii...
+		</child>
+		<adult>
+			Yupii...
+		</adult>
+	</normal>
+[/ConcernAboutEldersister]
+
+# 妹を気遣う
+[ConcernAboutSister]
+	<normal>
+		<baby>
+			Yupii...
+		</baby>
+		<child>
+			Yupii...
+		</child>
+		<adult>
+			Yupii...
+		</adult>
+	</normal>
+[/ConcernAboutSisterr]
+
+#子供をなめて治そうとする
+[TreatChildByPeropero]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatChildByPeropero]
+
+#番をなめて治そうとする
+[TreatPartnerByPeropero]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatPartnerByPeropero]
+
+#父親をなめて治そうとする
+[TreatFatherByPeropero]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatFatherByPeropero]
+
+#母親をなめて治そうとする
+[TreatMotherByPeropero]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatMotherByPeropero]
+
+#姉をなめて治そうとする
+[TreatElderSisterByPeropero]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatElderSisterByPeropero]
+
+#妹をなめて治そうとする
+[TreatSisterByPeropero]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatSisterByPeropero]
+
+#子供をすりすりして治そうとする
+[TreatChildBySurisuri]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatChildBySurisuri]
+
+#番をすりすりして治そうとする
+[TreatPartnerBySurisuri]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatPartnerBySurisuri]
+
+#父親をすりすりして治そうとする
+[TreatFatherBySurisuri]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatFatherBySurisuri]
+
+#母親をすりすりして治そうとする
+[TreatMotherBySurisuri]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatMotherBySurisuri]
+
+#姉をすりすりして治そうとする
+[TreatElderSisterBySurisuri]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatElderSisterBySurisuri]
+
+#妹をすりすりして治そうとする
+[TreatSisterBySurisuri]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			Yupii..Yupii...
+		</adult>
+	</normal>
+[/TreatSisterBySurisuri]
+
+# 親を探す
+[LookForParents]
+	<normal>
+		<baby>
+			Yupii..Yupii...
+		</baby>
+		<child>
+			Yupii..Yupii...
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+[/LookForParents]
+
+# つがい出産時
+[RootForPartner]
+	<normal>
+		<baby>
+			Yuboo!Yuboo!
+			Yuooo〜♪
+		</baby>
+		<child>
+			Yuboo!Yuboo!
+			Yuooo〜♪
+		</child>
+		<adult>
+			Yuboo!Yuboo!
+			Yuooo〜♪
+		</adult>
+	</normal>
+[/RootForPartner]
+
+# 子への最初の挨拶
+[FirstGreeting]
+	<normal>
+		<baby>
+			Yuguooo!!!
+			Yungi〜♪
+		</baby>
+		<child>
+			Yuguooo!!!
+			Yungi〜♪
+		</child>
+		<adult>
+			Yuguooo!!!
+			Yungi〜♪
+		</adult>
+	</normal>
+[/FirstGreeting]
+
+# ゆっくりしているすぃーを見て
+[YukkuringSui]
+	<normal>
+		Yuoo!
+	</normal>
+[/YukkuringSui]
+
+# すぃーを欲しがる
+[WantingSui]
+	<normal>
+		Yuoo!Yuoo!
+	</normal>
+[/WantingSui]
+
+# すぃーを欲しがっているゆっくりのパートナー
+[WantingSuiPartner]
+	<normal>
+		Yuoo!Yuoo!
+	</normal>
+[/WantingSuiPartner]
+
+# すぃーを欲しがっているゆっくりの親
+[WantingSuiParent]
+	<normal>
+		Yuoo!Yuoo!
+	</normal>
+[/WantingSuiParent]
+
+# すぃーを見つける
+[FindSui]
+	<normal>
+		Yunguo〜!
+	</normal>
+[/FindSui]
+
+# すぃーを自分のものにする
+[GetSui]
+	<normal>
+		Yuoo!Yuoo!
+	</normal>
+[/GetSui]
+
+# 自分のすぃーにのりにいく
+[FindGetSui]
+	<normal>
+		Yuoo!
+	</normal>
+[/FindGetSui]
+
+# 自分以外のすぃーにのりにいく
+[FindGetSuiOtner]
+	<normal>
+		Yuoo!
+	</normal>
+[/FindGetSuiOtner]
+
+# 自分以外のすぃーにのりにいくときに呼ぶ
+[WantRideSuiOtner]
+	<normal>
+		Yuoo!Yuoo!
+	</normal>
+[/WantRideSuiOtner]
+
+# すぃーにのる
+[RideSui]
+	<normal>
+		Yuoo!
+	</normal>
+[/RideSui]
+
+# すぃーにのっている
+[RidingSui]
+	<normal>
+		Yuo!Yuo!Yuo!
+		Yuo~!
+	</normal>
+[/RidingSui]
+
+# すぃーを運転する
+[DrivingSui]
+	<normal>
+		Yuo~!
+	</normal>
+[/DrivingSui]
+
+# すぃーを運転するパートナーをみて（自分はのっていない）
+[DrivingSuiPartner]
+	<normal>
+		Yuhho!Yuhho!Yuhoho〜i!
+	</normal>
+[/DrivingSuiPartner]
+
+# すぃーを運転するこどもをみて（自分はのっていない）
+[DrivingSuiChild]
+	<normal>
+		Yuhho!Yuhho!Yuhoho〜i!
+	</normal>
+[/DrivingSuiChild]
+
+# すぃーを運転する父親をみて（自分はのっていない）
+[DrivingSuiPAPA]
+	<normal>
+		Yuhho!Yuhho!Yuhoho〜i!
+	</normal>
+[/DrivingSuiPAPA]
+
+# すぃーを運転する母親をみて（自分はのっていない）
+[DrivingSuiMAMA]
+	<normal>
+		Yuhho!Yuhho!Yuhoho〜i!
+	</normal>
+[/DrivingSuiMAMA]
+
+# すぃーを運転する姉をみて（自分はのっていない）
+[DrivingSuiOldSister]
+	<normal>
+		Yuhho!Yuhho!Yuhoho〜i!
+	</normal>
+[/DrivingSuiOldSister]
+
+# すぃーを運転する妹をみて（自分はのっていない）
+[DrivingSuiYoungSister]
+	<normal>
+		Yuhho!Yuhho!Yuhoho〜i!
+	</normal>
+[/DrivingSuiYoungSister]
+
+# すぃーから降りる
+[RideOffSui]
+	<normal>
+		Yugooo!
+	</normal>
+[/RideOffSui]
+
+# 持っているすぃーを自慢する
+[hasSui]
+	<normal>
+		Yuo~!
+	</normal>
+	<rude>
+		Yuo~!
+	</rude>
+[/hasSui]
+
+# 持っているすぃーを自慢されるパートナー
+[hasSuiPartner]
+	<normal>
+		Yuo~♪Yuo~♪
+	</normal>
+[/hasSuiPartner]
+
+# こどもの持っているすぃーを自慢される親
+[hasSuiChild]
+	<normal>
+		Yuo~♪Yuo~♪
+	</normal>
+[/hasSuiChild]
+
+# 父親の持っているすぃーを自慢されるこども
+[hasSuiPAPAChild]
+	<normal>
+		Yuo~♪Yuo~♪
+	</normal>
+[/hasSuiPAPAChild]
+
+# 母親の持っているすぃーを自慢されるこども
+[hasSuiMAMAChild]
+	<normal>
+		Yuo~♪Yuo~♪
+	</normal>
+[/hasSuiMAMAChild]
+
+# 姉の持っているすぃーを自慢される
+[hasSuiOldSister]
+	<normal>
+		Yuo~♪Yuo~♪
+	</normal>
+[/hasSuiOldSister]
+
+# 妹の持っているすぃーを自慢される
+[hasSuiYoungSister]
+	<normal>
+		Yuo~♪Yuo~♪
+	</normal>
+[/hasSuiYoungSister]
+
+# 子の状態を喜ぶ
+[GladAboutChild]
+	<normal>
+		<baby>
+			Yungii〜♪
+			Yuguo〜♪
+		</baby>
+		<child>
+			Yungii〜♪
+			Yuguo〜♪
+		</child>
+		<adult>
+			Yungii〜♪
+			Yuguo〜♪
+		</adult>
+	</normal>
+[/GladAboutChild]
+
+# つがいの状態を喜ぶ
+[GladAboutPartner]
+	<normal>
+		<baby>
+			Yungii〜♪
+			Yuguo〜♪
+		</baby>
+		<child>
+			Yungii〜♪
+			Yuguo〜♪
+		</child>
+		<adult>
+			Yungii〜♪
+			Yuguo〜♪
+		</adult>
+	</normal>
+[/GladAboutPartner]
+
+# 父の状態を喜ぶ
+[GladAboutFather]
+	<normal>
+		<baby>
+			Yungii〜♪
+			Yuguo〜♪
+		</baby>
+		<child>
+			Yungii〜♪
+			Yuguo〜♪
+		</child>
+		<adult>
+			Yungii〜♪
+			Yuguo〜♪
+		</adult>
+	</normal>
+[/GladAboutFather]
+
+# 母の状態を喜ぶ
+[GladAboutMother]
+	<normal>
+		<baby>
+			Yungii〜♪
+			Yuguo〜♪
+		</baby>
+		<child>
+			Yungii〜♪
+			Yuguo〜♪
+		</child>
+		<adult>
+			Yungii〜♪
+			Yuguo〜♪
+		</adult>
+	</normal>
+[/GladAboutMother]
+
+# 姉の状態を喜ぶ
+[GladAboutEldersister]
+	<normal>
+		<baby>
+			Yungii〜♪
+			Yuguo〜♪
+		</baby>
+		<child>
+			Yungii〜♪
+			Yuguo〜♪
+		</child>
+		<adult>
+			Yungii〜♪
+			Yuguo〜♪
+		</adult>
+	</normal>
+[/GladAboutEldersister]
+
+# 妹の状態を喜ぶ
+[GladAboutSister]
+	<normal>
+		<baby>
+			Yungii〜♪
+			Yuguo〜♪
+		</baby>
+		<child>
+			Yungii〜♪
+			Yuguo〜♪
+		</child>
+		<adult>
+			Yungii〜♪
+			Yuguo〜♪
+		</adult>
+	</normal>
+[/GladAboutSister]
+
+#---------------------------------------------
+# 姉の状態をうらやましがる
+[EnvyAboutElderSister]
+	<normal>
+		<baby>
+			Yugugu...
+			Yunguu〜...
+		</baby>
+		<child>
+			Yugugu...
+			Yunguu〜...
+		</child>
+		<adult>
+			Yugugu...
+			Yunguu〜...
+		</adult>
+	</normal>
+[/EnvyAboutElderSister]
+
+# 妹の状態をうらやましがる
+[EnvyAboutSister]
+	<normal>
+		<baby>
+			Yugugu...
+			Yunguu〜...
+		</baby>
+		<child>
+			Yugugu...
+			Yunguu〜...
+		</child>
+		<adult>
+			Yugugu...
+			Yunguu〜...
+		</adult>
+	</normal>
+[/EnvyAboutSister]
+
+# 他人の状態をうらやましがる
+[EnvyAboutOther]
+	<normal>
+		<baby>
+			Yugugu...
+			Yunguu〜...
+		</baby>
+		<child>
+			Yugugu...
+			Yunguu〜...
+		</child>
+		<adult>
+			Yugugu...
+			Yunguu〜...
+		</adult>
+	</normal>
+[/EnvyAboutOther]
+
+#---------------------------------------------
+# 姉の状態をうらやましがって泣く
+[EnvyCryAboutElderSister]
+	<normal>
+		<baby>
+			Yuguoo!
+			Yunguoooo!!!
+		</baby>
+		<child>
+			Yuguoo!
+			Yunguoooo!!!
+		</child>
+		<adult>
+			Yuguoo!
+			Yunguoooo!!!
+		</adult>
+	</normal>
+[/EnvyCryAboutElderSister]
+
+# 妹の状態をうらやましがって泣く
+[EnvyCryAboutSister]
+	<normal>
+		<baby>
+			Yuguoo!
+			Yunguoooo!!!
+		</baby>
+		<child>
+			Yuguoo!
+			Yunguoooo!!!
+		</child>
+		<adult>
+			Yuguoo!
+			Yunguoooo!!!
+		</adult>
+	</normal>
+[/EnvyCryAboutSister]
+
+# 他人の状態をうらやましがって泣く
+[EnvyCryAboutOther]
+	<normal>
+		<baby>
+			Yuguoo!
+			Yunguoooo!!!
+		</baby>
+		<child>
+			Yuguoo!
+			Yunguoooo!!!
+		</child>
+		<adult>
+			Yuguoo!
+			Yunguoooo!!!
+		</adult>
+	</normal>
+[/EnvyCryAboutOther]
+
+#---------------------------------------------
+# 子供の状態がうらやましすぎて憎む
+[HateWithEnvyAboutChild]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/HateWithEnvyAboutChild]
+
+# つがいの状態がうらやましすぎて憎む
+[HateWithEnvyAboutPartner]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/HateWithEnvyAboutPartner]
+
+# 父の状態がうらやましすぎて憎む
+[HateWithEnvyAboutFather]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/HateWithEnvyAboutFather]
+
+# 母の状態がうらやましすぎて憎む
+[HateWithEnvyAboutMother]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/HateWithEnvyAboutMother]
+
+# 姉の状態がうらやましすぎて憎む
+[HateWithEnvyAboutElderSister]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/HateWithEnvyAboutElderSister]
+
+# 妹の状態がうらやましすぎて憎む
+[HateWithEnvyAboutSister]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/HateWithEnvyAboutSister]
+
+# 他人の状態がうらやましすぎて憎む
+[HateWithEnvyAboutOther]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/HateWithEnvyAboutOther]
+
+# 他人を哀れに思う
+[MercyAboutOther]
+	<normal>
+		<baby>
+			Yugigi...
+			Yuggu Yuggu...
+		</baby>
+		<child>
+			Yugigi...
+			Yuggu Yuggu...
+		</child>
+		<adult>
+			Yugigi...
+			Yuggu Yuggu...
+		</adult>
+	</normal>
+[/MercyAboutOther]
+
+#---------------------------------------------
+# プレイヤーにすりすりされた時限定のメッセージ
+#---------------------------------------------
+# すりすりされている
+[SuriSuriByPlayer]
+	<normal>
+		<baby>
+			Yuguo〜♪Yuguo〜♪
+			Yuooo〜♪
+		</baby>
+		<child>
+			Yuguo〜♪Yuguo〜♪
+			Yuooo〜♪
+		</child>
+		<adult>
+			Yuguo〜♪Yuguo〜♪
+			Yuooo〜♪
+			Yuboo..Yuboooou..♥
+		</adult>
+	</normal>
+[/SuriSuriByPlayer]
+
+# 姉の状態をうらやましがる
+[EnvyAboutElderSisterInSurisuri]
+	<normal>
+		<baby>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</baby>
+		<child>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</child>
+		<adult>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</adult>
+	</normal>
+[/EnvyAboutElderSisterInSurisuri]
+
+# 妹の状態をうらやましがる
+[EnvyAboutSisterInSurisuri]
+	<normal>
+		<baby>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</baby>
+		<child>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</child>
+		<adult>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</adult>
+	</normal>
+[/EnvyAboutSisterInSurisuri]
+
+#---------------------------------------------
+# 姉の状態をうらやましがって泣く
+[EnvyCryAboutElderSisterInSurisuri]
+	<normal>
+		<baby>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</baby>
+		<child>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</child>
+		<adult>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</adult>
+	</normal>
+[/EnvyCryAboutElderSisterInSurisuri]
+
+# 妹の状態をうらやましがって泣く
+[EnvyCryAboutSisterInSurisuri]
+	<normal>
+		<baby>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</baby>
+		<child>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</child>
+		<adult>
+			Yungaaa!
+			Yugagagaaaa!!!
+		</adult>
+	</normal>
+[/EnvyCryAboutSisterInSurisuri]
+
+#---------------------------------------------
+# うんうん体操のメッセージ
+#---------------------------------------------
+# 声かけ(親側)
+[ShitExercisesGOFrom]
+	<normal>
+		Yuguoo!
+		Yugu!Yungu!
+	</normal>
+[/ShitExercisesGOFrom]
+
+# 待機(親側)
+[ShitExercisesWAITFrom]
+	<normal>
+		Yungu!Yugoo?
+	</normal>
+[/ShitExercisesWAITFrom]
+
+# イベント開始(親側)
+[ShitExercisesSTARTFrom]
+	<normal>
+		Yugoyugo,Yungoo~♪
+	</normal>
+[/ShitExercisesSTARTFrom]
+
+# ゆらゆら(親側)
+[ShitExercisesYURAYURAFrom]
+	<normal>
+		♪Yugoyugo Yuguyugu Yuo〜♪ Yuo〜♪
+	</normal>
+[/ShitExercisesYURAYURAFrom]
+
+# のびのび(親側)
+[ShitExercisesNOBINOBIFrom]
+	<normal>
+		♪Yugoyugo Yuguyugu n〜Gu♪ n〜Gu♪
+	</normal>
+[/ShitExercisesNOBINOBIFrom]
+
+# ぽかぽか(親側)
+[ShitExercisesPOKAPOKAFrom]
+	<normal>
+		♪Yuhoyuho Yuguyugu Yunguu〜♪
+	</normal>
+[/ShitExercisesPOKAPOKAFrom]
+
+# うんうん(親側)
+[ShitExercisesUNUNFrom]
+	<normal>
+		♪Yuguyugu Yuhoyuho Yubububu〜♪
+	</normal>
+[/ShitExercisesUNUNFrom]
+
+# イベント終了(親側)
+[ShitExercisesENDFrom]
+	<normal>
+		Yuguu!Yunguuu!
+	</normal>
+[/ShitExercisesENDFrom]
+#---------------------------
+# 声かけ(子側)
+[ShitExercisesGO]
+	<normal>
+		Yuguo〜♪
+		Yunguu~♪
+		Yuggu!Yuggu!
+	</normal>
+[/ShitExercisesGO]
+
+# 待機(子側)
+[ShitExercisesWAIT]
+	<normal>
+		Yugu♪
+		Yuoyyuo♪
+	</normal>
+[/ShitExercisesWAIT]
+
+# イベント開始(子側)
+[ShitExercisesSTART]
+	<normal>
+		Yuu!
+		Yuguyuguoo!
+	</normal>
+[/ShitExercisesSTART]
+
+# ゆらゆら(子側)
+[ShitExercisesYURAYURA]
+	<normal>
+		Yuguo
+		Yugu~
+	</normal>
+[/ShitExercisesYURAYURA]
+
+# のびのび(子側)
+[ShitExercisesNOBINOBI]
+	<normal>
+		Yuoo!
+		Yugugu~
+		Yungu~
+	</normal>
+[/ShitExercisesNOBINOBI]
+
+# ぽかぽか(子側)
+[ShitExercisesPOKAPOKA]
+	<normal>
+		Yuo〜
+		Yugu!Yugu!
+		Yunguo〜
+	</normal>
+[/ShitExercisesPOKAPOKA]
+
+# うんうん(子側)
+[ShitExercisesUNUN]
+	<normal>
+		Yuguoo!
+		Bupipii!
+		Bichibichibichii!
+	</normal>
+[/ShitExercisesUNUN]
+
+#---------------------------
+# 家族で食事をする
+[FamilyEatingTimeWait]
+	<normal>
+		Yuo〜
+		Yugu!Yugu!
+	</normal>
+[/FamilyEatingTimeWait]
+
+# すーぱーむーしゃむーしゃたiむ
+[SuperEatingTime]
+	<normal>
+		Yuo〜
+		Yugu!Yugu!
+	</normal>
+[/SuperEatingTime]
+
+# おちびちゃん運び
+[RideOnMe]
+	<normal>
+		<adult>
+			Yugugu!
+		</adult>
+	</normal>
+[/RideOnMe]
+
+#おちび自慢(歌)
+[ProudChildsSING]
+	<normal>
+		Yupi~Yupipi~♪
+	</normal>
+[/ProudChildsSING]
+
+#おちび自慢(親側)
+[ProudChildsGOFrom]
+	<normal>
+		Yupii!
+	</normal>
+[/ProudChildsGOFrom]
+
+#おちび自慢(親側)
+[ProudChildsSTARTFrom]
+	<normal>
+		Yubbibii!!
+	</normal>
+[/ProudChildsSTARTFrom]
+
+#おちび自慢(親側)
+[ProudChildsPROUDFrom]
+	<normal>
+		Yuppipii~~
+	</normal>
+[/ProudChildsPROUDFrom]
+
+#おちび自慢(親側)
+[ProudChildsENDFrom]
+	<normal>
+		Yubii!!
+	</normal>
+[/ProudChildsENDFrom]
+
+#おちび自慢(子供側)
+[ProudChildsGO]
+	<normal>
+		Yupi?
+	</normal>
+[/ProudChildsGO]
+
+#おちび自慢(子供側)
+[ProudChildsSTART]
+	<normal>
+		Yupi!
+	</normal>
+[/ProudChildsSTART]
+
+#おちび自慢(子供側)
+[ProudChildsPROUD]
+	<normal>
+		Yuppyaa~♪
+	</normal>
+[/ProudChildsPROUD]
+
+#おちび自慢(子供側)
+[ProudChildsEND]
+	<normal>
+		Yupi!!
+	</normal>
+[/ProudChildsEND]
+
+# 子供がかびた
+[SadnessForMoldyChild]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForMoldyChild]
+
+# つがいがかびた
+[SadnessForMoldyPartner]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForMoldyPartner]
+
+# 姉がかびた
+[SadnessForMoldyElderSister]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForMoldyElderSister]
+
+# 妹がかびた
+[SadnessForMoldySister]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForMoldySister]
+
+#子供に謝罪
+[ApologyToChild]
+	<normal>
+		Yupi...
+	</normal>
+[/ApologyToChild]
+
+#謝罪
+[ApologyToFamily]
+	<normal>
+		Yupi...
+	</normal>
+[/ApologyToFamily]
+
+#かびゆヘイト
+[HateMoldyYukkuri]
+	<normal>
+		Yupii!
+		Yupipi!
+	</normal>
+[/HateMoldyYukkuri]
+
+#おもちゃの悲鳴
+[DontPlayMe]
+	<normal>
+		Yupii!
+		Yupipi!
+	</normal>
+[/DontPlayMe]
+
+#プロポーズイベント関連
+#待ってください
+[PleaseWait]
+	<normal>
+		Yupii!
+		Yupipi!
+	</normal>
+[/PleaseWait]
+
+#プロポーズ
+[Propose]
+	<normal>
+		Yupii!
+		Yupipi!
+		Yupipi!Yukkuchi!Yukkuchi!
+		Yukuchi!Yukkuchi!!
+	</normal>
+[/Propose]
+
+#プロポーズ受諾
+[ProposeYes]
+	<normal>
+		Yupipi!
+	</normal>
+[/ProposeYes]
+
+#プロポーズ拒否
+[ProposeNo]
+	<normal>
+		Yupii!
+	</normal>
+[/ProposeNo]
+
+#やらないか
+[LetsPlay]
+	<normal>
+		Yupii...
+	</normal>
+[/LetsPlay]
+
+#いいよ、きて//
+[OKcome]
+	<normal>
+		Yupii..
+	</normal>
+[/OKcome]
+
+#失恋
+[Heartbreak]
+	<normal>
+		Yupiiiiii!
+		Yubiiiiiiii!!!
+	</normal>
+[/Heartbreak]
+
+#じゃましないでね！せいっさいするよ！
+[DontPreventUs]
+	<normal>
+		Yugupiiii!!
+		Yuguooo!Yuguooo!!
+	</normal>
+[/DontPreventUs]
+# 子供が捕食種に食われた際の反撃メッセージ
+[RevengeForChild]
+	<normal>
+		Yuppi!Yupiii!!!
+	</normal>
+[/RevengeForChild]
+
+#人間に謝罪
+[ApologyToHuman]
+	<normal>
+		<baby>
+			Yupiiiiiiiiiiiiii!!!!!!
+		</baby>
+		<child>
+			Yupiiiiiiiiiiiiii!!!!!!
+		</child>
+		<adult>
+			Yupiiiiiiiiiiiiii!!!!!!
+		</adult>
+	</normal>
+[/ApologyToHuman]
+
+#命乞い
+[BegForLife]
+	<normal>
+		<baby>
+			Yupiiiiiiiiiiiiii!!!!!!
+		</baby>
+		<child>
+			Yupiiiiiiiiiiiiii!!!!!!
+		</child>
+		<adult>
+			Yupiiiiiiiiiiiiii!!!!!!
+		</adult>
+	</normal>
+[/BegForLife]
+
+#人間に感謝
+[ThanksHuman]
+	<normal>
+		<baby>
+			Yu....?Yukuchi!Yukkuchi!!
+		</baby>
+		<child>
+			Yu....?Yukuchi!Yukkuchi!!
+		</child>
+		<adult>
+			Yu....?Yukuchi!Yukkuchi!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu....?Yuguooo!!
+		</baby>
+		<child>
+			Yu....?Yuguooo!!
+		</child>
+		<adult>
+			Yu....?Yuguooo!!
+		</adult>
+	</rude>
+[/ThanksHuman]
+
+#人間に感謝(ダメージ有)
+[ThanksHuman2]
+	<normal>
+		<baby>
+			Yu....?Yukuchi..Yukkuchi...
+		</baby>
+		<child>
+			Yu....?Yukuchi..Yukkuchi...
+		</child>
+		<adult>
+			Yu....?Yukuchi..Yukkuchi...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu....?Yuguo...
+		</baby>
+		<child>
+			Yu....?Yuguo...
+		</child>
+		<adult>
+			Yu....?Yuguo...
+		</adult>
+	</rude>
+[/ThanksHuman2]
+
+#独り言
+[Monologue]
+	<normal>
+		<baby>
+			Yuuu..Yupipi...
+			<damage>
+				Yugguchi...
+			</damage>
+		</baby>
+		<child>
+			Yuuu..Yupipi...
+			<damage>
+				Yugguchi...
+			</damage>
+		</child>
+		<adult>
+			Yuuu..Yupipi...
+			<damage>
+				Yugguchi...
+			</damage>
+		</adult>
+	</normal>
+[/Monologue]
+
+# おそうしきすたーと(親側)
+[FuneralSTARTFrom]
+	<normal>
+		Yukuchi...Yukkuchi!
+	</normal>
+[/FuneralSTARTFrom]
+
+# おそうしきすたーと(子側)
+[FuneralSTART]
+	<normal>
+		Yupi...?
+		Yuu...
+		...Yupii
+	</normal>
+[/FuneralSTART]
+
+# おそうしきの説明(親側)
+[FuneralIntroduceFrom]
+	<normal>
+		Yuppii!Yukkuchiii!
+	</normal>
+[/FuneralIntroduceFrom]
+
+# おそうしきの説明時の子の反応
+[FuneralIntroduce]
+	<normal>
+		Yuppii!
+	</normal>
+[/FuneralIntroduce]
+
+# ちんこんか
+[Requiem]
+	<normal>
+		Yuppi♪Yuppi♪Yuppi♪
+		Yu♪Yu♪Yuppi♪Yu~♪Yuppi♪
+		Yuppiyuppiyupipi~♪Yupiyupi~♪
+		Yukkuchi♪Yukkuchi♪
+		Yuppi~Yuppi~♪
+		Yuppii~♪
+	</normal>
+[/Requiem]
+
+# 雑談(親側)
+[FuneralTalkFrom]
+	<normal>
+		Yupipi~♪
+	</normal>
+[/FuneralTalkFrom]
+
+# 雑談(子側)
+[FuneralTalk]
+	<normal>
+		Yupi?
+		Yukkuchi~♪
+	</normal>
+[/FuneralTalk]
+
+# さようならっ！
+[GoodbyeForever]
+	<normal>
+		Yupiii!
+	</normal>
+[/GoodbyeForever]
+
+# 終了時(親側)
+[FuneralENDFrom]
+	<normal>
+		Yupipi!
+	</normal>
+[/FuneralENDFrom]
+
+# 終了時(子側)
+[FuneralEND]
+	<normal>
+		Yupipi!
+		Yukkuchi!
+	</normal>
+[/FuneralEND]
+
+
+# アリ
+[EatenByAnts]
+	<normal>
+		Yuppi!Yupiii!!!
+	</normal>
+[/EatenByAnts]
+
+[RevengeAnts]
+	<normal>
+		Yuguooo!!
+	</normal>
+[/RevengeAnts]
+
