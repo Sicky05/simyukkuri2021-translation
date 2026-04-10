@@ -1,0 +1,1492 @@
+# 餌発見
+[WantFood]
+	<normal>
+		Yuppii!
+		Yu!Yu!Yu!
+	</normal>
+[/WantFood]
+
+# 餌なし
+[NoFood]
+	<normal>
+		Yuuu...
+		Yuu?
+	</normal>
+[/NoFood]
+
+# 番要求
+[WantPartner]
+	<normal>
+		Yupi!Yubibi!
+		Yubibii!Yubii!
+	</normal>
+[/WantPartner]
+
+# 発情
+[Excite]
+	<normal>
+		Yupiii!
+		Yungii~♪
+	</normal>
+[/Excite]
+
+#れいぱー化して発情
+[ExciteForRaper]
+	<normal>
+		Yupiii!
+		Yungii~♪
+	</normal>
+[/ExciteForRaper]
+
+# ぺにぺに切断
+[PenipeniCutting]
+	<normal>
+		Yupi?!
+	</normal>
+[/PenipeniCutting]
+
+# ぺにぺに切断後
+[PenipeniCutted]
+	<normal>
+		Yuuu...
+	</normal>
+[/PenipeniCutted]
+
+# ぺにぺにを使えない
+[CantUsePenipeni]
+	<normal>
+		Yuuu...
+	</normal>
+[/CantUsePenipeni]
+
+# リラックス
+[Relax]
+	<normal>
+		Yu~Yu~♪
+		Yuguchii!
+		Yugu!Yugu!
+	</normal>
+[/Relax]
+
+# おくるみをはいてリラックス
+[RelaxOkurumi]
+	<normal>
+		Yu~Yu~♪
+		Yuguchii!
+		Yugu!Yugu!
+	</normal>
+[/RelaxOkurumi]
+
+# 尻振り
+[FuriFuri]
+	<normal>
+		YuYu
+		Yu~n Yu~n Yu~n!
+	</normal>
+[/FuriFuri]
+
+#キリッ
+[BeVain]
+	<normal>
+		Yupi!
+	</normal>
+[/BeVain]
+
+# ゆっくりしていってね！
+[TakeItEasy]
+	<normal>
+		Yuguchii!
+	</normal>
+[/TakeItEasy]
+
+# 起床
+[Wakeup]
+	<normal>
+		YuuuYuuu
+		Yuguchii!
+	</normal>
+[/Wakeup]
+
+# 睡眠
+[Sleep]
+	<normal>
+		YuuYuu
+		Yupipi・・Yupipi・・
+	</normal>
+[/Sleep]
+
+# 悲鳴
+[Scream]
+	<normal>
+		Yuppii!
+		Yubyaa!!!
+		Yupipii!
+	</normal>
+[/Scream]
+
+# 悲鳴2
+[Scream2]
+	<normal>
+		Yubiiiiiiiii!!
+		Yugipiiiiiiii!!!
+		Yupiiiiiiiii!!!
+		piiiiiiiiii!!
+		pigiiiiiiiii!!
+		Yuuuuuuuuuu!!!
+		gieeeeeeeee!!!
+	</normal>
+[/Scream2]
+
+# 怯え
+[Scare]
+	<normal>
+		Yuppii!
+		Yubyaa!!!
+		Yupipii!
+	</normal>
+[/Scare]
+
+# 警戒
+[Alarm]
+	<normal>
+		Yuuu...
+		Yu Yu Yu
+	</normal>
+[/Alarm]
+
+# 瀕死
+[Dying]
+	<normal>
+		Yupi!
+		Yupyaa!
+	</normal>
+[/Dying]
+
+# 死亡
+[Dead]
+	<normal>
+		Yu,Yu,Yu...
+		Yu...
+	</normal>
+[/Dead]
+
+# 食事
+[Eating]
+	<normal>
+		Nom Nom Nom Nom!
+		Nom Nom Nom Nom  Yu~!
+	</normal>
+[/Eating]
+
+# 食事(うんうん)
+[EatingShit]
+	<normal>
+		Nom Nom Nom Nom ♪
+		Nom Nom Nom Nom Nom Nom Nom Nom ♪
+	</normal>
+[/EatingShit]
+
+# 餌運び
+[TransportFood]
+	<normal>
+		YuYu
+	</normal>
+[/TransportFood]
+
+# うんうん運び
+[TransportShit]
+	<normal>
+		Yubyaa!!!
+	</normal>
+[/TransportShit]
+
+#アイテムを落とす
+[DropItem]
+	<normal>
+		YuYu!!
+	</normal>
+[/DropItem]
+
+# 食事(まずい)
+[EatingBadtasting]
+	<normal>
+		Nom Nom Nom Nom ...Yubii...
+		Nom Nom Nom Nom ...Yupii...
+		Nom Nom Nom Nom ...Yupi,Yupi...
+		Nom Nom Nom Nom ...Yupe...
+	</normal>
+	<rude>
+		Nom Nom Nom Nom ...Yubiiiii!!!
+		Nom Nom Nom Nom ...Yupiiiii!!!
+		Nom Nom Nom Nom ...Yupi,Yupi...
+		Nom Nom Nom Nom ...Yupe...
+	</rude>
+[/EatingBadtasting]
+
+# 食事(毒)
+[EatingBitter]
+	<normal>
+		Nom Nom Nom Nom ...Yupii!
+	</normal>
+[/EatingBitter]
+
+# 食事(嘔吐)
+[SpitFood]
+	<normal>
+		Yubeeeee...
+	</normal>
+[/SpitFood]
+
+# 満腹
+[Full]
+	<normal>
+		Yupi
+	</normal>
+[/Full]
+
+# 回復
+[Healing]
+	<normal>
+		Yuppii!
+	</normal>
+[/Healing]
+
+# 解放感を感じた時
+[ToFreedom]
+	<normal>
+		Yuppii!
+	</normal>
+[/ToFreedom]
+
+# 清掃された時
+[Cleaned]
+	<normal>
+		Yuppii!
+	</normal>
+[/Cleaned]
+
+# すっきり
+[Sukkiri]
+	<normal>
+		Yuppii!
+	</normal>
+[/Sukkiri]
+
+#れいぱー化してすっきりー！
+[SukkiriForRaper]
+	<normal>
+		Yupipii!
+	</normal>
+[/SukkiriForRaper]
+
+# レイパーとすっきり
+[RaperSukkiri]
+	<normal>
+		Yupiiiiii!
+	</normal>
+[/RaperSukkiri]
+
+# 養殖プールすっきり
+[PoolSukkiri]
+	<normal>
+		Yupiiiiii!
+	</normal>
+[/PoolSukkiri]
+
+# 誕生
+[Birth]
+	<normal>
+		YupiYupi!
+	</normal>
+[/Birth]
+
+# 排泄
+[Shit]
+	<normal>
+		Yupi~
+	</normal>
+[/Shit]
+
+# 排泄2
+[Shit2]
+	<normal>
+		Yupi~!
+	</normal>
+[/Shit2]
+
+# すりすり
+[SuriSuri]
+	<normal>
+		Yu~Yu~Yu~
+		Yu~n Yu~n
+	</normal>
+[/SuriSuri]
+
+# ぺろぺろ
+[PeroPero]
+	<normal>
+		YuupyaYuupya!
+		YuYu~!
+	</normal>
+[/PeroPero]
+
+# 出産
+[Breed]
+	<normal>
+		Yu,Yu...
+	</normal>
+[/Breed]
+
+# 産後
+[Breed2]
+	<normal>
+		Yuppii!
+	</normal>
+[/Breed2]
+
+# うんうん発見
+[HateShit]
+	<normal>
+		Yupii!
+	</normal>
+[/HateShit]
+
+#あほの子がうんうんを威嚇するセリフ
+[ShitIntimidation]
+	<normal>
+		Yupiiii!!Yupiiii!!
+	</normal>
+[/ShitIntimidation]
+
+# 空腹
+[Hungry]
+	<normal>
+		Yu,Yu,Yu
+		Yu~...
+	</normal>
+[/Hungry]
+
+# おかざり没収
+[NoAccessory]
+	<normal>
+		Yupi?Yupipi?
+	</normal>
+[/NoAccessory]
+
+# おかざりがなくなっていることに気がつく
+[NoticeNoAccessory]
+	<normal>
+		Yupi?Yupipi?
+	</normal>
+[/NoticeNoAccessory]
+
+# 他ゆんのおかざりをこっそり奪う
+[GetOtherAccessoryStealthily]
+	<normal>
+		Yupii
+	</normal>
+[/GetOtherAccessoryStealthily]
+
+# 持ち上げ
+[Flying]
+	<normal>
+		Yupyaa!
+	</normal>
+[/Flying]
+
+# 子供死亡
+[SadnessForChild]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForChild]
+
+# つがい死亡
+[SadnessForPartner]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForPartner]
+
+# 姉死亡
+[SadnessForEldersister]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForEldersister]
+
+# 妹死亡
+[SadnessForSister]
+	<normal>
+		Yupi?
+	</normal>
+[/SadnessForSister]
+
+# 壁発見
+[BlockedByWall]
+	<normal>
+		Yupi?
+	</normal>
+[/BlockedByWall]
+
+# おもちゃ発見
+[GetTreasure]
+	<normal>
+		<baby>
+			Yupi?
+		</baby>
+		<child>
+			Yuppii!
+		</child>
+		<adult>
+			Yuppii!
+		</adult>
+	</normal>
+[/GetTreasure]
+
+# おもちゃ紛失
+[LostTreasure]
+	<normal>
+		<baby>
+			Yuppii!
+		</baby>
+		<child>
+			Yuppii!
+		</child>
+		<adult>
+			Yuppii!
+		</adult>
+	</normal>
+[/LostTreasure]
+
+# 膨張
+[Inflation]
+	<normal>
+		<baby>
+			piiiii!
+		</baby>
+		<child>
+			piiiiiiii!
+		</child>
+		<adult>
+			pigiiiiiiiii!
+		</adult>
+	</normal>
+[/Inflation]
+
+# 子虐待
+[AbuseBaby]
+	<normal>
+		<baby>
+			Yupii?
+			Yupya!
+		</baby>
+		<child>
+			Yupii?
+			Yupya!
+		</child>
+		<adult>
+			Yupiiii?
+			Yubyaa!!!
+		</adult>
+	</normal>
+[/AbuseBaby]
+
+# 子虐待死
+[AbuseBabyKilled]
+	<normal>
+		<baby>
+			Yupii?
+			Yupya!
+		</baby>
+		<child>
+			Yupii?
+			Yupya!
+		</child>
+		<adult>
+			Yupiiii?
+			Yubyaa!!!
+		</adult>
+	</normal>
+[/AbuseBabyKilled]
+
+# のびのび
+[Nobinobi]
+	<normal>
+		<baby>
+			YuupiYuupi
+			Yu~♪Yu~♪
+		</baby>
+		<child>
+			YuupiYuupi
+			Yu~♪Yu~♪
+		</child>
+		<adult>
+			YuupiYuupi
+			Yu~♪Yu~♪
+		</adult>
+	</normal>
+[/Nobinobi]
+
+# 出産前
+[NearToBirth]
+	<normal>
+		<baby>
+			Yuppii!
+		</baby>
+		<child>
+			Yuppii!
+		</child>
+		<adult>
+			Yuppii!
+		</adult>
+	</normal>
+[/NearToBirth]
+
+# 毒
+[PoisonDamage]
+	<normal>
+		<baby>
+			Yubii!
+			<damage>
+				bikii
+			</damage>
+		</baby>
+		<child>
+			Yubii!
+			<damage>
+				bikii
+			</damage>
+		</child>
+		<adult>
+			Yubii!
+			<damage>
+				bikii
+			</damage>
+		</adult>
+	</normal>
+[/PoisonDamage]
+
+# 排泄不可
+[CantShit]
+	<normal>
+		<baby>
+			Yupii!?
+		</baby>
+		<child>
+			Yupii?
+		</child>
+		<adult>
+			Yupii!?
+		</adult>
+	</normal>
+[/CantShit]
+
+# 妊娠失敗
+[NoPregnancy]
+	<normal>
+		<baby>
+			Yupi?
+		</baby>
+		<child>
+			Yupi?
+		</child>
+		<adult>
+			Yupi?
+		</adult>
+	</normal>
+[/NoPregnancy]
+
+# 恐怖でパニック状態
+[Fear]
+	<normal>
+		<baby>
+			Yuppii!
+			Yupipipipipipipipipipipi
+		</baby>
+		<child>
+			Yuppii!
+			Yupipipipipipipipipipipi
+		</child>
+		<adult>
+			Yuppii!
+			Yupipipipipipipipipipipi
+		</adult>
+	</normal>
+[/Fear]
+
+# 火がついてる状態
+[Burning]
+	<normal>
+		<baby>
+			Yupii?Yupii!
+			Yuppii!
+		</baby>
+		<child>
+			Yupii?Yupii!
+			Yuppii!
+		</child>
+		<adult>
+			Yupii?Yupii!
+			Yuppii!
+		</adult>
+	</normal>
+[/Burning]
+
+# 水をかけられた
+[Wet]
+	<normal>
+		<baby>
+			Yuppii!
+		</baby>
+		<child>
+			Yuppii!
+		</child>
+		<adult>
+			Yuppii!
+		</adult>
+	</normal>
+[/Wet]
+
+# 水の中にいる(浅瀬)
+[WetInShallowWater]
+	<normal>
+		<baby>
+			Yuppii!
+		</baby>
+		<child>
+			Yuppii!
+		</child>
+		<adult>
+			Yuppii!
+		</adult>
+	</normal>
+[/WetInShallowWater]
+
+# 水の中にいる(深瀬)
+[WetInDeepwWater]
+	<normal>
+		<baby>
+			Yuppii!
+		</baby>
+		<child>
+			Yuppii!
+		</child>
+		<adult>
+			Yuppii!
+		</adult>
+	</normal>
+[/WetInDeepwWater]
+
+# あにゃる閉鎖
+[AnalSealed]
+	<normal>
+		<baby>
+			Yupipi?
+			Yuppii!
+		</baby>
+		<child>
+			Yupipi?
+			Yuppii!
+		</child>
+		<adult>
+			Yupipi?
+			Yuppii!
+		</adult>
+	</normal>
+	<normal>
+		<baby>
+			Yupipi?
+			Yuppii!
+		</baby>
+		<child>
+			Yupipi?
+			Yuppii!
+		</child>
+		<adult>
+			Yupipi?
+			Yuppii!
+		</adult>
+	</normal>
+[/AnalSealed]
+
+# 針が刺さった時
+[NeedleStick]
+	<normal>
+		<baby>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</baby>
+		<child>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</child>
+		<adult>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</adult>
+	</normal>
+[/NeedleStick]
+
+# 針が刺さっている時
+[NeedleScream]
+	<normal>
+		<baby>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</baby>
+		<child>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</child>
+		<adult>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</adult>
+	</normal>
+[/NeedleScream]
+
+# あにゃるに針が刺さっている時
+[NeedleScreamInAnal]
+	<normal>
+		<baby>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</baby>
+		<child>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</child>
+		<adult>
+			pigii!?
+			Yupii!?
+			gipiii!
+		</adult>
+	</normal>
+[/NeedleScreamInAnal]
+
+# つがいの針をぐーりぐりする
+[ExtractingNeedlePartner]
+	<normal>
+		<baby>
+			Yupi!Yupipi!
+		</baby>
+		<child>
+			Yupi!Yupipi!
+		</child>
+		<adult>
+			Yupi!Yupipi!
+		</adult>
+	</normal>
+[/ExtractingNeedlePartner]
+
+# 子の針をぐーりぐりする
+[ExtractingNeedleChild]
+	<normal>
+		<baby>
+			Yupi!Yupipi!
+		</baby>
+		<child>
+			Yupi!Yupipi!
+		</child>
+		<adult>
+			Yupi!Yupipi!
+		</adult>
+	</normal>
+[/ExtractingNeedleChild]
+
+# 被ぐーりぐり時
+[NeedlePain]
+	<normal>
+		<baby>
+			Yubiiiiiii!
+		</baby>
+		<child>
+			Yubiiiiiii!
+		</child>
+		<adult>
+			Yubiiiiiii!
+		</adult>
+	</normal>
+[/NeedlePain]
+
+# 針を抜いた時
+[NeedleRemove]
+	<normal>
+		<baby>
+			Yupii...
+		</baby>
+		<child>
+			Yupii...
+		</child>
+		<adult>
+			Yupii...
+		</adult>
+	</normal>
+[/NeedleRemove]
+
+# あまあま要求
+[WantAmaama]
+	<normal>
+		<baby>
+			Yuppii!
+		</baby>
+		<child>
+			Yuppii!
+		</child>
+		<adult>
+			Yuppii!
+		</adult>
+	</normal>
+[/WantAmaama]
+
+# 移動不能
+[CantMove]
+	<normal>
+		<baby>
+			Yu~...
+			YuYu~..Yu~..
+		</baby>
+		<child>
+			Yu~...
+			YuYu~..Yu~..
+		</child>
+		<adult>
+			Yu~...
+			YuYu~..Yu~..
+		</adult>
+	</normal>
+[/CantMove]
+
+# 移動不能2
+[CantMove2]
+	<normal>
+		<baby>
+			Yu~?
+			Yuu!Yuu!
+		</baby>
+		<child>
+			Yu~?
+			Yuu!Yuu!
+		</child>
+		<adult>
+			Yu~?
+			Yuu!Yuu!
+		</adult>
+	</normal>
+[/CantMove2]
+
+#目潰し
+[BLINDING]
+	<normal>
+		<baby>
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
+		</baby>
+		<child>
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
+		</child>
+		<adult>
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
+		</adult>
+	</normal>
+[/BLINDING]
+
+# みえない
+[CANTSEE]
+	<normal>
+		<baby>
+			Yubihiiiiiii..
+		</baby>
+		<child>
+			Yuhyuhiiiiiii..
+		</child>
+		<adult>
+			Yuhyuhiiiiiii..
+		</adult>
+	</normal>
+[/CANTSEE]
+
+# むしる
+[PLUNCKING]
+	<normal>
+		<baby>
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
+		</baby>
+		<child>
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
+		</child>
+		<adult>
+			Yuppii!
+			Yubyaa!!!
+			Yupipii!
+		</adult>
+	</normal>
+[/PLUNCKING]
+
+#つちのなかにいる
+[BaryInUnderGround]
+	<normal>
+		<baby>
+			Yupii!?
+		</baby>
+		<child>
+			Yupii!?
+		</child>
+		<adult>
+			Yupii!?
+		</adult>
+	</normal>
+[/BaryInUnderGround]
+
+# 引っ張る
+[Pull]
+	<normal>
+		<baby>
+			Yupi?
+			Yu~?
+		</baby>
+		<child>
+			Yupi?
+			Yu~?
+		</child>
+		<adult>
+			Yupi?
+			Yu~?
+		</adult>
+	</normal>
+[/Pull]
+
+# 引っ張る2
+[Pull2]
+	<normal>
+		<baby>
+			Yupyaa!
+			Yubebe!
+		</baby>
+		<child>
+			Yupyaa!
+			Yubebe!
+		</child>
+		<adult>
+			Yupyaa!
+			Yubebe!
+		</adult>
+	</normal>
+[/Pull2]
+
+# つぶす
+[Press]
+	<normal>
+		<baby>
+			Yupi?
+			Yu~?
+		</baby>
+		<child>
+			Yupi?
+			Yu~?
+		</child>
+		<adult>
+			Yupi?
+			Yu~?
+		</adult>
+	</normal>
+[/Press]
+
+# つぶす2
+[Press2]
+	<normal>
+		<baby>
+			Yupyaa!
+			Yubebe!
+		</baby>
+		<child>
+			Yupyaa!
+			Yubebe!
+		</child>
+		<adult>
+			Yupyaa!
+			Yubebe!
+		</adult>
+	</normal>
+[/Press2]
+
+#加工所でつぶされる
+[KilledInFactory]
+	<normal>
+		<baby>
+			Yupyaa!
+			Yubebe!
+		</baby>
+		<child>
+			Yupyaa!
+			Yubebe!
+		</child>
+		<adult>
+			Yupyaa!
+			Yubebe!
+		</adult>
+	</normal>
+[/KilledInFactory]
+
+# あまあま発見
+[FindAmaama]
+	<normal>
+		<baby>
+			Yupi!
+		</baby>
+		<child>
+			Yuchi!
+		</child>
+		<adult>
+			YuYukuchi!
+		</adult>
+	</normal>
+[/FindAmaama]
+
+# あまあま食事
+[EatingAmaama]
+	<normal>
+		<baby>
+			Yupipiiiii♪
+		</baby>
+		<child>
+			Yuchiiiii♪
+		</child>
+		<adult>
+			YuYuchiiiii♪
+		</adult>
+	</normal>
+[/EatingAmaama]
+
+# 野菜発見
+[FindVegetable]
+	<normal>
+		<baby>
+			Yupipiiiii♪
+		</baby>
+		<child>
+			Yuchiiiii♪
+		</child>
+		<adult>
+			YuYuchiiiii♪
+		</adult>
+	</normal>
+[/FindVegetable]
+
+# 吐餡
+[Vomit]
+	<normal>
+		<baby>
+			Yube・・・
+		</baby>
+		<child>
+			Yubue・・・
+		</child>
+		<adult>
+			Yububu・・・
+		</adult>
+	</normal>
+[/Vomit]
+
+# 汎用、瀕死継続
+[Dying2]
+	<normal>
+		<baby>
+			Yu・・・Yupi・・・
+		</baby>
+		<child>
+			Yubi・・・Yugyu・・・
+		</child>
+		<adult>
+			Yugyu・・・Yubiya・・・
+		</adult>
+	</normal>
+[/Dying2]
+
+# 汎用、驚き
+[Surprise]
+	<normal>
+		<baby>
+			Yupipiiiii!?
+		</baby>
+		<child>
+			Yupipiiiii!?
+		</child>
+		<adult>
+			Yupipiiiii!?
+		</adult>
+	</normal>
+[/Surprise]
+
+# 皮を剥かれる
+[PEALING]
+	<normal>
+		<baby>
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
+		</baby>
+		<child>
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
+		</child>
+		<adult>
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
+		</adult>
+	</normal>
+[/PEALING]
+
+# 汎用、ゆっくりできなくて嘆く(低)
+[LamentLowYukkuri]
+	<normal>
+		<normal>
+		<baby>
+			Yubihiiiiiii..
+		</baby>
+		<child>
+			Yuhyuhiiiiiii..
+		</child>
+		<adult>
+			Yuhyuhiiiiiii..
+		</adult>
+	</normal>
+[/LamentLowYukkuri]
+
+# 汎用、ゆっくりできなくて嘆く
+[LamentNoYukkuri]
+	<normal>
+		<baby>
+			Yubibiiiiiii!!
+		</baby>
+		<child>
+			Yubyubiiiiiii!!
+		</child>
+		<adult>
+			Yubbyubiiiiiii!!
+		</adult>
+	</normal>
+[/LamentNoYukkuri]
+
+#ゆんやああ
+[Yunnyaa]
+	<normal>
+		Yubiiiiiiiiiiii!!!!!
+	</normal>
+[/Yunnyaa]
+
+# 非ゆっくり症初期
+[NonYukkuriDiseaseNear]
+	<normal>
+		<baby>
+			Yubiya,Yubiya,Yubiya,Yubiya,Yubiya,
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</baby>
+		<child>
+			Yubiya,Yubiya,Yubiya,Yubiya,Yubiya,
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</child>
+		<adult>
+			Yubyubi,Yubyubi,Yubyubi,Yubyubi,Yubyubi,
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</adult>
+	</normal>
+[/NonYukkuriDiseaseNear]
+
+# 非ゆっくり症
+[NonYukkuriDisease]
+	<normal>
+		<baby>
+			Yubi!Yubi!Yubi!Yubi!Yubi!Yubi!
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</baby>
+		<child>
+			Yububi!Yububi!Yububi!Yububi!Yububi!Yububi!
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</child>
+		<adult>
+			Yububi!Yububi!Yububi!Yububi!Yububi!Yububi!
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</adult>
+	</normal>
+[/NonYukkuriDisease]
+
+# 汎用、他のゆっくりに何かされたときに対する攻撃、反撃
+[RevengeAttack]
+	<normal>
+		<baby>
+			Yukyaaaa!!!
+			ukyaaa!!!
+		</baby>
+		<child>
+			Yukyaaaa!!!
+			ukyaaa!!!
+		</child>
+		<adult>
+			Yungaaaa!!!
+			ugaaa!!!
+		</adult>
+	</normal>
+[/RevengeAttack]
+
+# おさげ、尻尾、羽をちぎる
+[BraidCut]
+	<normal>
+		<baby>
+			Yugya?
+			Yugii!
+		</baby>
+		<child>
+			Yugya?
+			Yugii!
+		</child>
+		<adult>
+			Yugya?
+			Yugii!
+		</adult>
+	</normal>
+[/BraidCut]
+
+# 汎用、他のゆっくりに生きたまま食べられる
+[EatenByBody]
+	<normal>
+		<baby>
+			Yu,Yu,Yu!!!
+			Yuu!Yuu!
+		</baby>
+		<child>
+			Yu,Yu,Yu!!!
+			Yuu!Yuu!
+		</child>
+		<adult>
+			Yu,Yu,Yu!!!
+			Yuu!Yuu!
+		</adult>
+	</normal>
+[/EatenByBody]
+
+# 汎用、他のゆっくりに生きたまま吸われる
+[EatenByBody2]
+	<normal>
+		<baby>
+			Yuhii?
+			Yupyaa!
+		</baby>
+		<child>
+			Yuhii?
+			Yupyaa!
+		</child>
+		<adult>
+			Yuhii?
+			Yupyaa!
+		</adult>
+	</normal>
+[/EatenByBody2]
+
+# れみりゃから逃げる
+[EscapeFromRemirya]
+	<normal>
+		<baby>
+			Yupiiiii!!!
+			Yugugugu!!!
+		</baby>
+		<child>
+			Yupiiiii!!!
+			Yugugugu!!!
+		</child>
+		<adult>
+			Yupiiiii!!!
+			Yugugugu!!!
+		</adult>
+	</normal>
+[/EscapeFromRemirya]
+
+# しゃべれない
+[CantTalk]
+	<normal>
+		<baby>
+			mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
+		</baby>
+		<child>
+			mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
+		</child>
+		<adult>
+			mu--!!
+			-----!!!
+			Yugu--!!Yumugu--!!
+		</adult>
+	</normal>
+[/CantTalk]
+
+# しゃべれない(非ゆっくり)
+[NYDCantTalk]
+	<normal>
+		<baby>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</baby>
+		<child>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</child>
+		<adult>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</adult>
+	</normal>
+[/NYDCantTalk]
+
+#静かにする
+[BeingQuiet]
+	<normal>
+		Yupipi...
+	</normal>
+[/BeingQuiet]
+
+# かびてる時の通常時
+[Moldy]
+	<normal>
+		Yuuuu?
+	</normal>
+[/Moldy]
+
+#汚い
+[Dirty]
+	<normal>
+		<baby>
+			Yupiiiii!!!
+			Yugyuuuu!!!
+		</baby>
+		<child>
+			Yupiiiii!!!
+			Yugyuuuu!!!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+[/Dirty]
+
+# 深刻なカビ
+[MoldySeriousry]
+	<normal>
+		<baby>
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
+		</baby>
+		<child>
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
+		</child>
+		<adult>
+			pigiiiiiiiiii!!
+			Yugiiiiiii!!
+		</adult>
+	</normal>
+[/MoldySeriousry]
+
+# 悪夢
+[Nightmare]
+	<normal>
+		<baby>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
+		</baby>
+		<child>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
+		</child>
+		<adult>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
+		</baby>
+		<child>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
+		</child>
+		<adult>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			Yupiiiii...
+			Yugugugu...
+			ukyaaa
+		</adult>
+	</rude>
+[/Nightmare]
+
+# 加工所で処分されると思ったとき
+[DontThrowMeAway]
+	<normal>
+		pigiiiiiiiiii!!
+	</normal>
+[/DontThrowMeAway]
+
