@@ -1,0 +1,1951 @@
+
+# レイパー怯え
+[ScareRapist]
+	<normal>
+		<baby>
+			Ja,Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</baby>
+		<child>
+			Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</child>
+		<adult>
+			Jaoo!
+			<damage>
+				Jao...Jaoo...
+			</damage>
+		</adult>
+	</normal>
+[/ScareRapist]
+
+# レイパーに攻撃
+[AttackRapist]
+	<normal>
+		<baby>
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
+		</baby>
+		<child>
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
+		</child>
+		<adult>
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
+		</adult>
+	</normal>
+[/AttackRapist]
+
+# レイパーに反撃命令
+[CounterRapist]
+	<normal>
+		<baby>
+			Jao~n!Jao~n!
+		</baby>
+		<child>
+			Jao~n!Jao~n!
+		</child>
+		<adult>
+			Jao~n!Jao~n!Jao~n!!!
+		</adult>
+	</normal>
+[/CounterRapist]
+
+# おかざりのないゆっくり発見
+[HateYukkuri]
+	<normal>
+		<baby>
+			Jao?JaoJao,Jaoon!?
+		</baby>
+		<child>
+			Jao?JaoJao,Jaoon!?
+		</child>
+		<adult>
+			Jao?JaoJao,Jaoon!?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao?JaoJao,Jaoon!
+		</baby>
+		<child>
+			Jao?JaoJao,Jaoon!
+		</child>
+		<adult>
+			Jao?JaoJao,Jaoon!
+		</adult>
+	</rude>
+[/HateYukkuri]
+
+# うんうん奴隷に認定する
+[EngageUnunSlave]
+	<normal>
+		<baby>
+			Jao~n!Jao~n!
+		</baby>
+		<child>
+			Jao~n!Jao~n!
+		</child>
+		<adult>
+			Jao~n!Jao~n!Jao~n!!!
+		</adult>
+	</normal>
+[/EngageUnunSlave]
+
+# つがいを気遣う
+[ConcernAboutPartner]
+	<normal>
+		<baby>
+			Jaaoo?
+			Jao Jao?
+		</baby>
+		<child>
+			Jaaoo?
+			Jao Jao?
+		</child>
+		<adult>
+			Jaaoo?
+			Jao Jao?
+			Jao!Jao!
+		</adult>
+	</normal>
+[/ConcernAboutPartner]
+
+# 子を気遣う
+[ConcernAboutChild]
+	<normal>
+		<baby>
+			Jaaoo?
+			Jao Jao?
+		</baby>
+		<child>
+			Jaaoo?
+			Jao Jao?
+		</child>
+		<adult>
+			Jaaoo?
+			Jao Jao?
+			Jao!Jao!
+		</adult>
+	</normal>
+[/ConcernAboutChild]
+
+# 父を気遣う
+[ConcernAboutFather]
+	<normal>
+		<baby>
+			JaaoJaao?
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao?
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/ConcernAboutFather]
+
+# 母を気遣う
+[ConcernAboutMother]
+	<normal>
+		<baby>
+			JaaoJaao?
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao?
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/ConcernAboutMother]
+
+# 姉を気遣う
+[ConcernAboutEldersister]
+	<normal>
+		<baby>
+			JaaoJaao?
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao?
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/ConcernAboutEldersister]
+
+# 妹を気遣う
+[ConcernAboutSister]
+	<normal>
+		<baby>
+			JaaoJaao?
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao?
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao?
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/ConcernAboutSisterr]
+
+#子供をなめて治そうとする
+[TreatChildByPeropero]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatChildByPeropero]
+
+#番をなめて治そうとする
+[TreatPartnerByPeropero]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatPartnerByPeropero]
+
+#父親をなめて治そうとする
+[TreatFatherByPeropero]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatFatherByPeropero]
+
+#母親をなめて治そうとする
+[TreatMotherByPeropero]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatMotherByPeropero]
+
+#姉をなめて治そうとする
+[TreatElderSisterByPeropero]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatElderSisterByPeropero]
+
+#妹をなめて治そうとする
+[TreatSisterByPeropero]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatSisterByPeropero]
+
+#子供をすりすりして治そうとする
+[TreatChildBySurisuri]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatChildBySurisuri]
+
+#番をすりすりして治そうとする
+[TreatPartnerBySurisuri]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatPartnerBySurisuri]
+
+#父親をすりすりして治そうとする
+[TreatFatherBySurisuri]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatFatherBySurisuri]
+
+#母親をすりすりして治そうとする
+[TreatMotherBySurisuri]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatMotherBySurisuri]
+
+#姉をすりすりして治そうとする
+[TreatElderSisterBySurisuri]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatElderSisterBySurisuri]
+
+#妹をすりすりして治そうとする
+[TreatSisterBySurisuri]
+	<normal>
+		<baby>
+			JaaoJaao...
+			Jaoon...
+		</baby>
+		<child>
+			JaaoJaao...
+			Jaoon...
+		</child>
+		<adult>
+			JaaoJaao...
+			Jaoon...
+			Jao!Jao!
+		</adult>
+	</normal>
+[/TreatSisterBySurisuri]
+
+# 親を探す
+[LookForParents]
+	<normal>
+		<baby>
+			Chao,chaouu...
+		</baby>
+		<child>
+			Jao,Jaouu...
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+[/LookForParents]
+
+# つがい出産時
+[RootForPartner]
+	<normal>
+		<baby>
+			Jaao!Jaao!
+			JaoonJaoonJaooon!!!
+		</baby>
+		<child>
+			Jaao!Jaao!
+			JaoonJaoonJaooon!!!
+		</child>
+		<adult>
+			Jaao!Jaao!
+			JaoonJaoonJaooon!!!
+			JaoJao,JaoonJaoon!Jaaooon!!!
+		</adult>
+	</normal>
+[/RootForPartner]
+
+# 子への最初の挨拶
+[FirstGreeting]
+	<normal>
+		<baby>
+			Little one! JaoJao!
+		</baby>
+		<child>
+			Little one! JaoJao!
+		</child>
+		<adult>
+			Little one! JaoJao!
+		</adult>
+	</normal>
+[/FirstGreeting]
+
+# ゆっくりしているすぃーを見て
+[YukkuringSui]
+	<normal>
+		Suii! Jao~n!
+	</normal>
+[/YukkuringSui]
+
+# すぃーを欲しがる
+[WantingSui]
+	<normal>
+		Suii! JaoJao♪
+	</normal>
+[/WantingSui]
+
+# すぃーを欲しがっているゆっくりのパートナー
+[WantingSuiPartner]
+	<normal>
+		Suii! JaoJao!
+	</normal>
+[/WantingSuiPartner]
+
+# すぃーを欲しがっているゆっくりの親
+[WantingSuiParent]
+	<normal>
+		Suii!Jao!Jao!
+	</normal>
+[/WantingSuiParent]
+
+# すぃーを見つける
+[FindSui]
+	<normal>
+		Suii! Jaoon!
+	</normal>
+[/FindSui]
+
+# すぃーを自分のものにする
+[GetSui]
+	<normal>
+		Suii! JaoJao!
+	</normal>
+[/GetSui]
+
+# 自分のすぃーにのりにいく
+[FindGetSui]
+	<normal>
+		Jao!
+	</normal>
+[/FindGetSui]
+
+# 自分以外のすぃーにのりにいく
+[FindGetSuiOtner]
+	<normal>
+		JaoJao!
+	</normal>
+[/FindGetSuiOtner]
+
+# 自分以外のすぃーにのりにいくときに呼ぶ
+[WantRideSuiOtner]
+	<normal>
+		Jao!Jao!
+	</normal>
+[/WantRideSuiOtner]
+
+# すぃーにのる
+[RideSui]
+	<normal>
+		JaoJao~!
+	</normal>
+[/RideSui]
+
+# すぃーにのっている
+[RidingSui]
+	<normal>
+		JaoJao♪
+		JaoJaoon♪
+	</normal>
+[/RidingSui]
+
+# すぃーを運転する
+[DrivingSui]
+	<normal>
+		Jao!Jao!
+	</normal>
+[/DrivingSui]
+
+# すぃーを運転するパートナーをみて（自分はのっていない）
+[DrivingSuiPartner]
+	<normal>
+		%partner!Jao!
+	</normal>
+[/DrivingSuiPartner]
+
+# すぃーを運転するこどもをみて（自分はのっていない）
+[DrivingSuiChild]
+	<normal>
+		Little one!Jao!
+	</normal>
+[/DrivingSuiChild]
+
+# すぃーを運転する父親をみて（自分はのっていない）
+[DrivingSuiPAPA]
+	<normal>
+		Papa!Jao!
+	</normal>
+[/DrivingSuiPAPA]
+
+# すぃーを運転する母親をみて（自分はのっていない）
+[DrivingSuiMAMA]
+	<normal>
+		Mama!Jao!
+	</normal>
+[/DrivingSuiMAMA]
+
+# すぃーを運転する姉をみて（自分はのっていない）
+[DrivingSuiOldSister]
+	<normal>
+		Big Sister!Jao!
+	</normal>
+[/DrivingSuiOldSister]
+
+# すぃーを運転する妹をみて（自分はのっていない）
+[DrivingSuiYoungSister]
+	<normal>
+		Little Sister!Jao!
+	</normal>
+[/DrivingSuiYoungSister]
+
+# すぃーから降りる
+[RideOffSui]
+	<normal>
+		Jao~n!Jao~n!
+	</normal>
+[/RideOffSui]
+
+# 持っているすぃーを自慢する
+[hasSui]
+	<normal>
+		JaoJao Jaoon!
+	</normal>
+	<rude>
+		JaoJao Jaoon!
+	</rude>
+[/hasSui]
+
+# 持っているすぃーを自慢されるパートナー
+[hasSuiPartner]
+	<normal>
+		%partner!JaoJao!
+	</normal>
+[/hasSuiPartner]
+
+# 子どもの持っているすぃーを自慢される親
+[hasSuiChild]
+	<normal>
+		Little one!JaoJao!
+	</normal>
+[/hasSuiChild]
+
+# 父親の持っているすぃーを自慢されるこども
+[hasSuiPAPAChild]
+	<normal>
+		Papa!JaoJao!
+	</normal>
+[/hasSuiPAPAChild]
+
+# 母親の持っているすぃーを自慢されるこども
+[hasSuiMAMAChild]
+	<normal>
+		Mama!JaoJao!
+	</normal>
+[/hasSuiMAMAChild]
+
+# 姉の持っているすぃーを自慢される
+[hasSuiOldSister]
+	<normal>
+		Big Sister!JaoJao!
+	</normal>
+[/hasSuiOldSister]
+
+# 妹の持っているすぃーを自慢される
+[hasSuiYoungSister]
+	<normal>
+		Little Sister!JaoJao!
+	</normal>
+[/hasSuiYoungSister]
+
+# 子の状態を喜ぶ
+[GladAboutChild]
+	<normal>
+		<baby>
+			Little one!Jaao!Jaao!
+		</baby>
+		<child>
+			Little one!Jaao!Jaao!
+		</child>
+		<adult>
+			Little one!Jaao!Jaao!
+		</adult>
+	</normal>
+[/GladAboutChild]
+
+# つがいの状態を喜ぶ
+[GladAboutPartner]
+	<normal>
+		<baby>
+			%partner!Jaao!Jaao!
+		</baby>
+		<child>
+			%partner!Jaao!Jaao!
+		</child>
+		<adult>
+			%partner!Jaao!Jaao!
+		</adult>
+	</normal>
+[/GladAboutPartner]
+
+# 父の状態を喜ぶ
+[GladAboutFather]
+	<normal>
+		<baby>
+			Pyapya!Jaao!Jaao!
+		</baby>
+		<child>
+			Dwaddie!Jaao!Jaao!
+		</child>
+		<adult>
+			Papa!Jaao!Jaao!
+		</adult>
+	</normal>
+[/GladAboutFather]
+
+# 母の状態を喜ぶ
+[GladAboutMother]
+	<normal>
+		<baby>
+			Myamya!Jaao!Jaao!
+		</baby>
+		<child>
+			Mommie!Jaao!Jaao!
+		</child>
+		<adult>
+			Mama!Jaao!Jaao!
+		</adult>
+	</normal>
+[/GladAboutMother]
+
+# 姉の状態を喜ぶ
+[GladAboutEldersister]
+	<normal>
+		<baby>
+			Big Shishder!Jaao!Jaao!
+		</baby>
+		<child>
+			Big Shishder!Jaao!Jaao!
+		</child>
+		<adult>
+			Big Sister!Jaao!Jaao!
+		</adult>
+	</normal>
+[/GladAboutEldersister]
+
+# 妹の状態を喜ぶ
+[GladAboutSister]
+	<normal>
+		<baby>
+			Liddle Shishder!Jaao!Jaao!
+		</baby>
+		<child>
+			Liddle Shishder!Jaao!Jaao!
+		</child>
+		<adult>
+			Little Sister!Jaao!Jaao!
+		</adult>
+	</normal>
+[/GladAboutSister]
+
+#---------------------------------------------
+# 姉の状態をうらやましがる
+[EnvyAboutElderSister]
+	<normal>
+		<baby>
+			Jao...
+		</baby>
+		<child>
+			Jao...
+		</child>
+		<adult>
+			Jao...
+		</adult>
+	</normal>
+[/EnvyAboutElderSister]
+
+# 妹の状態をうらやましがる
+[EnvyAboutSister]
+	<normal>
+		<baby>
+			Jao...
+		</baby>
+		<child>
+			Jao...
+		</child>
+		<adult>
+			Jao...
+		</adult>
+	</normal>
+[/EnvyAboutSister]
+
+# 他人の状態をうらやましがる
+[EnvyAboutOther]
+	<normal>
+		<baby>
+			Jao...
+		</baby>
+		<child>
+			Jao...
+		</child>
+		<adult>
+			Jao...
+		</adult>
+	</normal>
+[/EnvyAboutOther]
+
+#---------------------------------------------
+# 姉の状態をうらやましがって泣く
+[EnvyCryAboutElderSister]
+	<normal>
+		<baby>
+			Jaooon!Jaoooon!
+		</baby>
+		<child>
+			Jaooon!Jaoooon!
+		</child>
+		<adult>
+			Jaooon!Jaoooon!
+		</adult>
+	</normal>
+[/EnvyCryAboutElderSister]
+
+# 妹の状態をうらやましがって泣く
+[EnvyCryAboutSister]
+	<normal>
+		<baby>
+			Jaooon!Jaoooon!
+		</baby>
+		<child>
+			Jaooon!Jaoooon!
+		</child>
+		<adult>
+			Jaooon!Jaoooon!
+		</adult>
+	</normal>
+[/EnvyCryAboutSister]
+
+# 他人の状態をうらやましがって泣く
+[EnvyCryAboutOther]
+	<normal>
+		<baby>
+			Jaooooon!!!
+		</baby>
+		<child>
+			Jaooooon!!!
+		</child>
+		<adult>
+			Jaooooon!!!
+		</adult>
+	</normal>
+[/EnvyCryAboutOther]
+
+#---------------------------------------------
+# 子供の状態がうらやましすぎて憎む
+[HateWithEnvyAboutChild]
+	<normal>
+		<baby>
+			Little one..Jaoo..
+		</baby>
+		<child>
+			Little one..Jaoo..
+		</child>
+		<adult>
+			Little one..Jaoo..
+		</adult>
+	</normal>
+[/HateWithEnvyAboutChild]
+
+# つがいの状態がうらやましすぎて憎む
+[HateWithEnvyAboutPartner]
+	<normal>
+		<baby>
+			%partner..Jaoo..
+		</baby>
+		<child>
+			%partner..Jaoo..
+		</child>
+		<adult>
+			%partner..Jaoo..
+		</adult>
+	</normal>
+[/HateWithEnvyAboutPartner]
+
+# 父の状態がうらやましすぎて憎む
+[HateWithEnvyAboutFather]
+	<normal>
+		<baby>
+			Pyapya..Jaoo..
+		</baby>
+		<child>
+			Dwaddie..Jaoo..
+		</child>
+		<adult>
+			Papa..Jaoo..
+		</adult>
+	</normal>
+[/HateWithEnvyAboutFather]
+
+# 母の状態がうらやましすぎて憎む
+[HateWithEnvyAboutMother]
+	<normal>
+		<baby>
+			Myamya..Jaoo..
+		</baby>
+		<child>
+			Mommie..Jaoo..
+		</child>
+		<adult>
+			Mama..Jaoo..
+		</adult>
+	</normal>
+[/HateWithEnvyAboutMother]
+
+# 姉の状態がうらやましすぎて憎む
+[HateWithEnvyAboutElderSister]
+	<normal>
+		<baby>
+			Big Shishder..Jaoo..
+		</baby>
+		<child>
+			Big Shishder..Jaoo..
+		</child>
+		<adult>
+			Big Sister..Jaoo..
+		</adult>
+	</normal>
+[/HateWithEnvyAboutElderSister]
+
+# 妹の状態がうらやましすぎて憎む
+[HateWithEnvyAboutSister]
+	<normal>
+		<baby>
+			Liddle Shishder..Jaoo..
+		</baby>
+		<child>
+			Liddle Shishder..Jaoo..
+		</child>
+		<adult>
+			Little Sister..Jaoo..
+		</adult>
+	</normal>
+[/HateWithEnvyAboutSister]
+
+# 他人の状態がうらやましすぎて憎む
+[HateWithEnvyAboutOther]
+	<normal>
+		<baby>
+			Jaoo..Jaoo..
+		</baby>
+		<child>
+			Jaoo..Jaoo..
+		</child>
+		<adult>
+			Jaoo..Jaoo..
+		</adult>
+	</normal>
+[/HateWithEnvyAboutOther]
+
+# 他人を哀れに思う
+[MercyAboutOther]
+	<normal>
+		<baby>
+			Jaooooo...
+		</baby>
+		<child>
+			Jaooooo...
+		</child>
+		<adult>
+			Jaooooo...
+		</adult>
+	</normal>
+[/MercyAboutOther]
+
+#---------------------------------------------
+# プレイヤーにすりすりされた時限定のメッセージ
+#---------------------------------------------
+# すりすりされている
+[SuriSuriByPlayer]
+	<normal>
+		<baby>
+			JaoJao♪
+			Ja〜o〜♪
+		</baby>
+		<child>
+			JaoJao♪
+			Ja〜o〜♪
+		</child>
+		<adult>
+			JaoJao♪
+			Ja〜o〜♪
+			Jaooon♥
+		</adult>
+	</normal>
+[/SuriSuriByPlayer]
+
+# 姉の状態をうらやましがる
+[EnvyAboutElderSisterInSurisuri]
+	<normal>
+		<baby>
+			Big Shishder..Jaoo..
+		</baby>
+		<child>
+			Big Shishder..Jaoo..
+		</child>
+		<adult>
+			Big Sister..Jaoo..
+		</adult>
+	</normal>
+[/EnvyAboutElderSisterInSurisuri]
+
+# 妹の状態をうらやましがる
+[EnvyAboutSisterInSurisuri]
+	<normal>
+		<baby>
+			Liddle Shishder..Jaoo..
+		</baby>
+		<child>
+			Liddle Shishder..Jaoo..
+		</child>
+		<adult>
+			Little Sister..Jaoo..
+		</adult>
+	</normal>
+[/EnvyAboutSisterInSurisuri]
+
+
+#---------------------------------------------
+# 姉の状態をうらやましがって泣く
+[EnvyCryAboutElderSisterInSurisuri]
+	<normal>
+		<baby>
+			Jaooon!Jaoooon!
+		</baby>
+		<child>
+			Jaooon!Jaoooon!
+		</child>
+		<adult>
+			Jaooon!Jaoooon!
+		</adult>
+	</normal>
+[/EnvyCryAboutElderSisterInSurisuri]
+
+# 妹の状態をうらやましがって泣く
+[EnvyCryAboutSisterInSurisuri]
+	<normal>
+		<baby>
+			Jaooon!Jaoooon!
+		</baby>
+		<child>
+			Jaooon!Jaoooon!
+		</child>
+		<adult>
+			Jaooon!Jaoooon!
+		</adult>
+	</normal>
+[/EnvyCryAboutSisterInSurisuri]
+
+#---------------------------------------------
+# うんうん体操のメッセージ
+#---------------------------------------------
+# 声かけ(親側)
+[ShitExercisesGOFrom]
+	<normal>
+		JaoJao!
+		JaoJao!Jao〜n!
+	</normal>
+[/ShitExercisesGOFrom]
+
+# 待機(親側)
+[ShitExercisesWAITFrom]
+	<normal>
+		Jao!JaoJao?
+	</normal>
+[/ShitExercisesWAITFrom]
+
+# イベント開始(親側)
+[ShitExercisesSTARTFrom]
+	<normal>
+		JaoJao,Jao〜n♪
+	</normal>
+[/ShitExercisesSTARTFrom]
+
+# ゆらゆら(親側)
+[ShitExercisesYURAYURAFrom]
+	<normal>
+		♪JaoJao Ja〜o♪ Ja〜o♪
+	</normal>
+[/ShitExercisesYURAYURAFrom]
+
+# のびのび(親側)
+[ShitExercisesNOBINOBIFrom]
+	<normal>
+		♪JaoJao JaoJao Ja〜o♪ Ja〜o♪
+	</normal>
+[/ShitExercisesNOBINOBIFrom]
+
+# ぽかぽか(親側)
+[ShitExercisesPOKAPOKAFrom]
+	<normal>
+		♪JaoJao JaoJao Jaoo〜n♪
+	</normal>
+[/ShitExercisesPOKAPOKAFrom]
+
+# うんうん(親側)
+[ShitExercisesUNUNFrom]
+	<normal>
+		♪JaoJao JaoJao JaoJao♪
+	</normal>
+[/ShitExercisesUNUNFrom]
+
+# イベント終了(親側)
+[ShitExercisesENDFrom]
+	<normal>
+		Jao〜n!JaoJao!
+		Jao〜...Little one,JaoJao!
+	</normal>
+[/ShitExercisesENDFrom]
+#---------------------------
+# 声かけ(子側)
+[ShitExercisesGO]
+	<normal>
+		Jao〜n♪
+		Jaoo~♪
+		Jao!
+	</normal>
+[/ShitExercisesGO]
+
+# 待機(子側)
+[ShitExercisesWAIT]
+	<normal>
+		Jao♪
+		JaoJao♪
+	</normal>
+[/ShitExercisesWAIT]
+
+# イベント開始(子側)
+[ShitExercisesSTART]
+	<normal>
+		Jaoo!
+		JaoJaoo!
+	</normal>
+[/ShitExercisesSTART]
+
+# ゆらゆら(子側)
+[ShitExercisesYURAYURA]
+	<normal>
+		Jao
+		Jao〜
+		Ja〜oJa〜o
+	</normal>
+[/ShitExercisesYURAYURA]
+
+# のびのび(子側)
+[ShitExercisesNOBINOBI]
+	<normal>
+		Jaoo!
+		Jaoo〜
+		Jaoo〜n
+		Jaao Jaao
+	</normal>
+[/ShitExercisesNOBINOBI]
+
+# ぽかぽか(子側)
+[ShitExercisesPOKAPOKA]
+	<normal>
+		Jao〜
+		Jao!Jao!
+		Jaoo〜n
+	</normal>
+[/ShitExercisesPOKAPOKA]
+
+# うnうn(子側)
+[ShitExercisesUNUN]
+	<normal>
+		JaoJao!
+		Jao!
+		JaoJao Jao〜n!
+	</normal>
+[/ShitExercisesUNUN]
+
+#---------------------------
+# 家族で食事をする
+[FamilyEatingTimeWait]
+	<normal>
+		JaoJao!
+		Jao!
+		JaoJao Jao〜n!
+	</normal>
+[/FamilyEatingTimeWait]
+
+# すーぱーむーしゃむーしゃたいむ
+[SuperEatingTime]
+	<normal>
+		JaoJao!
+		Jao!
+		JaoJao Jao〜n!
+	</normal>
+[/SuperEatingTime]
+
+# おちびちゃん運び
+[RideOnMe]
+	<normal>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/RideOnMe]
+
+#おちびちゃん自慢(歌)
+[ProudChildsSING]
+	<normal>
+		<baby>
+			Chao~n,Chao~n♪
+		</baby>
+		<child>
+			Chao~n,Chao~n♪
+		</child>
+		<adult>
+			Jao~n,Jao~n♪
+		</adult>
+	</normal>
+
+[/ProudChildsSING]
+
+#おちびちゃん自慢(親側)
+[ProudChildsGOFrom]
+	<normal>
+		<baby>
+			Chao!
+		</baby>
+		<child>
+			Jao!
+		</child>
+		<adult>
+			Jao!
+		</adult>
+	</normal>
+[/ProudChildsGOFrom]
+
+#おちびちゃん自慢(親側)
+[ProudChildsSTARTFrom]
+	<normal>
+		<baby>
+			Chao!
+		</baby>
+		<child>
+			Jao!
+		</child>
+		<adult>
+			Jao!
+		</adult>
+	</normal>
+[/ProudChildsSTARTFrom]
+
+#おちびちゃん自慢(親側)
+[ProudChildsPROUDFrom]
+	<normal>
+		<baby>
+			Chaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/ProudChildsPROUDFrom]
+
+#おちびちゃん自慢(親側)
+[ProudChildsENDFrom]
+	<normal>
+		<baby>
+			Chaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/ProudChildsENDFrom]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsGO]
+	<normal>
+		<baby>
+			Chao!
+		</baby>
+		<child>
+			Jao!
+		</child>
+		<adult>
+			Jao!
+		</adult>
+	</normal>
+[/ProudChildsGO]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsSTART]
+	<normal>
+		<baby>
+			Chao!
+		</baby>
+		<child>
+			Jao!
+		</child>
+		<adult>
+			Jao!
+		</adult>
+	</normal>
+[/ProudChildsSTART]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsPROUD]
+	<normal>
+		<baby>
+			Chaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/ProudChildsPROUD]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsEND]
+	<normal>
+		<baby>
+			Chaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/ProudChildsEND]
+
+# 子供がかびた
+[SadnessForMoldyChild]
+	<normal>
+		Jaoo!
+	</normal>
+[/SadnessForMoldyChild]
+
+# つがいがかびた
+[SadnessForMoldyPartner]
+	<normal>
+		Jaoo!
+	</normal>
+[/SadnessForMoldyPartner]
+
+# 姉がかびた
+[SadnessForMoldyElderSister]
+	<normal>
+		Jaoo!
+	</normal>
+[/SadnessForMoldyElderSister]
+
+# 妹がかびた
+[SadnessForMoldySister]
+	<normal>
+		Jaoo!
+	</normal>
+[/SadnessForMoldySister]
+
+#子供に謝罪
+[ApologyToChild]
+	<normal>
+		Jaoo...
+	</normal>
+[/ApologyToChild]
+
+#謝罪
+[ApologyToFamily]
+	<normal>
+		Jaoo...
+	</normal>
+[/ApologyToFamily]
+
+#かびゆヘイト
+[HateMoldyYukkuri]
+	<normal>
+		Jaoo!
+	</normal>
+[/HateMoldyYukkuri]
+
+#おもちゃの悲鳴
+[DontPlayMe]
+	<normal>
+		%dummy
+	</normal>
+[/DontPlayMe]
+
+#人間に謝罪
+[ApologyToHuman]
+	<normal>
+		<baby>
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishcha Humaaaan!!Jaoooon!!
+		</baby>
+		<child>
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishta Humaaaan!!Jaoooon!!
+		</child>
+		<adult>
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mister Humaaan!!Jaoooon!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishcha Humaaaan!!Jaoooon!!
+		</baby>
+		<child>
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoooon!!!Mishta Humaaaan!!Jaoooon!!
+		</child>
+		<adult>
+			Jaooooooo!!!Jao!Jaooooo!!
+			Jaoo!!!Mister Humaaan!!Jaoooo!!
+		</adult>
+	</rude>
+[/ApologyToHuman]
+
+#命乞い
+[BegForLife]
+	<normal>
+		<baby>
+			Waiiich-Mishcha Humaaaan!!Jaooooo!!!Jaooooo!!!
+			Chao!!?Jaoooo!!Jaooooooo!!!
+		</baby>
+		<child>
+			Waiiich-Mishta Humaaaan!!Jaooooo!!!Jaooooo!!!
+			Chao!!?Jaoooo!!Jaooooooo!!!
+		</child>
+		<adult>
+			JaooMister Humaaan!!Jaooooo!!!Jaooooo!!!
+			Jao!!?Jao!!Jaooooooo!!!
+		</adult>
+	</normal>
+[/BegForLife]
+
+#人間に感謝
+[ThanksHuman]
+	<normal>
+		<baby>
+			Mishcha!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Chaooo Mishcha!!Eajy!!Eajy!!
+		</baby>
+		<child>
+			Mishta!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Jaoo Mishta!!Eajy!!Eajy!!
+		</child>
+		<adult>
+			Human!!Jaooo
+			Jaoooo!!Jaoooo!!
+			Jaoo Mister!!Easy!!Easy!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Mishcha!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Chaooo Mishcha!!Eajy!!Eajy!!
+		</baby>
+		<child>
+			Mishta!!Jaoooo!!
+			Jaoooo!!Jaoooo!!
+			Jaoo Mishta!!Eajy!!Eajy!!
+		</child>
+		<adult>
+			Human!!Jaooo
+			Jaoooo!!Jaoooo!!
+			Jaoo Mister!!Easy!!Easy!!
+		</adult>
+	</rude>
+[/ThanksHuman]
+
+#人間に感謝(ダメージ有)
+[ThanksHuman2]
+	<normal>
+		<baby>
+			Ja,Jaoo..Human..
+			Jao...
+		</baby>
+		<child>
+			Ja,Jaoo..Human..
+			Jao...
+		</child>
+		<adult>
+			Ja,Jaoo..Human..
+			Jao...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ja,Jaoo..Human..
+			Jao...Jao..?
+		</baby>
+		<child>
+			Ja,Jaoo..Human..
+			Jao...Jao?
+		</child>
+		<adult>
+			Ja,Jaoo..Human..
+			Jao...Jao?
+		</adult>
+	</rude>
+[/ThanksHuman2]
+
+#独り言
+[Monologue]
+	<normal>
+		<baby>
+			Jao..Mishcha Human...
+			<damage>
+				Yufuu..Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao..Mishta Human...
+			<damage>
+				Yufuu..Jao...
+			</damage>
+		</child>
+		<adult>
+			Jao..Mister Human...
+			<damage>
+				Yufuu..Jao...
+			</damage>
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao..Human...
+			Chaora...Human...
+			<damage>
+				Yufuu..Jao...
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao..Human...
+			Jaora...Human...
+			<damage>
+				Yufuu..Jao...
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			Jao..Human...
+			Jaora...Human...
+			<damage>
+				Yufuu..Jao...
+				
+			</damage>
+			</damage>
+		</adult>
+	</rude>
+[/Monologue]
+
+# おそうしきすたーと(親側)
+[FuneralSTARTFrom]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Little one,Jao...
+		</child>
+		<adult>
+			Jao...
+		</adult>
+	</normal>
+[/FuneralSTARTFrom]
+
+# おそうしきすたーと(子側)
+[FuneralSTART]
+	<normal>
+		...Jao
+	</normal>
+[/FuneralSTART]
+
+# おそうしきの説明(親側)
+[FuneralIntroduceFrom]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Jaoo~
+		</child>
+		<adult>
+			Jaoo~
+		</adult>
+	</normal>
+[/FuneralIntroduceFrom]
+
+# おそうしきの説明時の子の反応
+[FuneralIntroduce]
+	<normal>
+		<baby>
+			Yu!Jao!
+			Jao!!
+		</baby>
+		<child>
+			Yu!Jao!
+			Jao!!
+		</child>
+		<adult>
+			Yu!Jao!
+			Jao!!
+		</adult>
+	</normal>
+[/FuneralIntroduce]
+
+# ちんこんか
+[Requiem]
+	<normal>
+		<baby>
+			Eajy♪Eajy♪Eajy♪Eajy♪
+			Yu♪Yu♪Eajy♪Yu~♪Yu~♪ Eajy♪
+			Jao Jao Eajy,Jaao Jao~♪Jao Jao Eajy,Jaao Jao~~♪
+			Jao♪Eajy♪Jaao♪Jao~~
+			Jaao~♪ Eajy~♪Aa~♪ Big Shishder~♪
+			Ja~o~Ja~o~~~
+		</baby>
+		<child>
+			Eajy♪Eajy♪Eajy♪Eajy♪
+			Yu♪Yu♪Eajy♪Yu~♪Yu~♪ Eajy♪
+			Jao Jao Eajy,Jaao Jao~♪Jao Jao Eajy,Jaao Jao~~♪
+			Jao♪Eajy♪Jaao♪Jao~~
+			Jaao~♪ Eajy~♪Aa~♪ Liddle Shishder~♪
+			Ja~o~Ja~o~~~
+		</child>
+		<adult>
+			Eajy♪Eajy♪Eajy♪Eajy♪
+			Yu♪Yu♪Eajy♪Yu~♪Yu~♪ Eajy♪
+			Jao Jao Eajy,Jaao Jao~♪Jao Jao Eajy,Jaao Jao~~♪
+			Jao♪Eajy♪Jaao♪Jao~~
+			Jaao~♪ Eajy~♪Aa~♪ Little Sister~♪
+			Ja~o~Ja~o~~~
+		</adult>
+	</normal>
+[/Requiem]
+
+# 雑談(子側)
+[FuneralTalk]
+	<normal>
+		<baby>
+			Jao!
+			YuYu~n♪
+			Jaooo!
+			YuYu~n♪Jao!!
+		</baby>
+		<child>
+			Jao!
+			YuYu~n♪
+			Jaoo!
+			YuYu~n♪Jao!!
+		</child>
+		<adult>
+			Jao!
+			YuYu~n♪
+			Jaoo!
+			YuYu~n♪Jao!!
+		</adult>
+	</normal>
+[/FuneralTalk]
+
+# さようならっ！
+[GoodbyeForever]
+	<normal>
+		<baby>
+			Jao!!
+		</baby>
+		<child>
+			Jao!!
+		</child>
+		<adult>
+			Jao!!
+		</adult>
+	</normal>
+[/GoodbyeForever]
+
+# 終了時(親側)
+[FuneralENDFrom]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Jao~?
+		</child>
+		<adult>
+			Jao~?
+		</adult>
+	</normal>
+[/FuneralENDFrom]
+
+# 終了時(子側)
+[FuneralEND]
+	<normal>
+		<baby>
+			Jao!!
+		</baby>
+		<child>
+			Jao!!
+		</child>
+		<adult>
+			Jao!!
+		</adult>
+	</normal>
+[/FuneralEND]
+
+
+# アリ
+[EatenByAnts]
+	<normal>
+		<baby>
+			Chaooooon!!
+		</baby>
+		<child>
+			Jaooooon!!
+		</child>
+		<adult>
+			Jaooooon!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaooooon!!!
+		</baby>
+		<child>
+			Jaooooon!!!
+		</child>
+		<adult>
+			Jaooooon!!!
+		</adult>
+	</rude>
+[/EatenByAnts]
+
+[RevengeAnts]
+	<normal>
+		<baby>
+			Chaoryaaa!!
+		</baby>
+		<child>
+			Jaoraaa!!
+		</child>
+		<adult>
+			Jaoraaa!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaoryaaa!!!
+		</baby>
+		<child>
+			Jaoraaa!!!
+		</child>
+		<adult>
+			Jaoraaa!!!
+		</adult>
+	</rude>
+[/RevengeAnts]
+
+#プロポーズイベント関連
+#待ってください
+[PleaseWait]
+	<normal>
+		<baby>
+			JaoJao!!Jao~n!
+		</baby>
+		<child>
+			JaoJao!!Jao~n!
+		</child>
+		<adult>
+			JaoJao!!Jao~n!
+		</adult>
+	</normal>
+[/PleaseWait]
+
+#プロポーズ
+[Propose]
+	<normal>
+		<baby>
+			Jao!Jao!JaoJao!
+		</baby>
+		<child>
+			Jao!Jao!JaoJao!
+		</child>
+		<adult>
+			Jao!Jao!JaoJao!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!Jao!JaoJao!
+		</baby>
+		<child>
+			Jao!Jao!JaoJao!
+		</child>
+		<adult>
+			Jao!Jao!JaoJao!
+		</adult>
+	</rude>
+[/Propose]
+
+#プロポーズ受諾
+[ProposeYes]
+	<normal>
+		<baby>
+			Jao!JaoJaoon!!
+			Jao//Jao...JaoJaoo!
+		</baby>
+		<child>
+			Jao!JaoJaoon!!
+			Jao//Jao...JaoJaoo!
+		</child>
+		<adult>
+			Jao!JaoJaoon!!
+			Jao//Jao...JaoJaoo!
+		</adult>
+	</normal>
+[/ProposeYes]
+
+#プロポーズ拒否
+[ProposeNo]
+	<normal>
+		<baby>
+			chao...Jao,JaoJaoo...
+			Jao,JaoJao~...
+		</baby>
+		<child>
+			Jao...Jao,JaoJaoo...
+			Jao,JaoJao~...
+		</child>
+		<adult>
+			Jao...Jao,JaoJaoo...
+			Jao,JaoJao~...
+		</adult>
+	</normal>
+[/ProposeNo]
+
+#やらないか
+[LetsPlay]
+	<normal>
+		<baby>
+			Chao..//
+			Jao...JaoJaooo...
+			Jao..JaoJaoJaoo...
+		</baby>
+		<child>
+			Jao..//
+			Jao...JaoJaooo...
+			Jao..JaoJaoJaoo...
+		</child>
+		<adult>
+			Jao..//
+			Jao...JaoJaooo...
+			Jao..JaoJaoJaoo...
+		</adult>
+	</normal>
+[/LetsPlay]
+
+#いいよ、きて//
+[OKcome]
+	<normal>
+		<baby>
+			Jao,Jaon//
+		</baby>
+		<child>
+			Jao,Jaon//
+		</child>
+		<adult>
+			Jao,Jaon//
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao,Jaon//
+			Jaooon!
+		</baby>
+		<child>
+			Jao,Jaon//
+			Jaooon!
+		</child>
+		<adult>
+			Jao,Jaon//
+			Jaooon!
+		</adult>
+	</rude>
+[/OKcome]
+
+#失恋
+[Heartbreak]
+	<normal>
+		Jaooooooon!!
+		Jaoooooooo!?
+	</normal>
+[/Heartbreak]
+
+#じゃましないでね！せいっさいするよ！
+[DontPreventUs]
+	<normal>
+		<baby>
+			Chao!JaoJao!
+		</baby>
+		<child>
+			Jao!JaoJao!
+		</child>
+		<adult>
+			Jao!JaoJao!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaoraaa!JaoJaon!
+		</baby>
+		<child>
+			Jaoraaa!JaoJaon!
+		</child>
+		<adult>
+			Jaoraaa!JaoJaon!
+		</adult>
+	</rude>
+[/DontPreventUs]
