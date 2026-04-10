@@ -1,0 +1,2457 @@
+# 餌発見
+[WantFood]
+	<normal>
+		<baby>
+			Jaoon!
+			Jao♪
+		</baby>
+		<child>
+			Jaoon!
+			Jao♪
+		</child>
+		<adult>
+			Jaoon!
+			Jao♪
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			JaoJaoon!
+			Jao♪Jao♪
+		</baby>
+		<child>
+			JaoJaoon!
+			Jao♪Jao♪
+		</child>
+		<adult>
+			JaoJaoon!
+			Jao♪Jao♪
+		</adult>
+	</rude>
+[/WantFood]
+
+# 餌なし
+[NoFood]
+	<normal>
+		<baby>
+			Jao?
+			<damage>
+				Jaon...
+			</damage>
+		</baby>
+		<child>
+			Jao?
+			<damage>
+				Jaon...
+			</damage>
+		</child>
+		<adult>
+			Jao?
+			<damage>
+				Jaon...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao?!Jaoon!
+			<damage>
+				Jaon...
+			</damage>
+		</baby>
+		<child>
+			Jao?!Jaoon!
+			<damage>
+				Jaon...
+			</damage>
+		</child>
+		<adult>
+			Jao?!Jaoon!
+			<damage>
+				Jaon...
+			</damage>
+		</adult>
+	</rude>
+[/NoFood]
+
+# 番要求
+[WantPartner]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			Jao...
+			Jao,Jaon......
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Chao! ChaoChaoChao!
+		</child>
+		<adult>
+			Jao! JaoJaoJao!
+		</adult>
+	</rude>
+[/WantPartner]
+
+# 発情
+[Excite]
+	<normal>
+		Jao!
+	</normal>
+[/Excite]
+
+# れいぱー化して発情
+[ExciteForRaper]
+	<normal>
+		Jao!
+	</normal>
+[/ExciteForRaper]
+
+# ぺにぺに切断
+[PenipeniCutting]
+	<normal>
+		<baby>
+			Jaoon?!
+		</baby>
+		<child>
+			Jaoon?!
+		</child>
+		<adult>
+			Jaoon?!
+		</adult>
+	</normal>
+[/PenipeniCutting]
+
+# ぺにぺに切断後
+[PenipeniCutted]
+	<normal>
+		<baby>
+			Jaon...
+		</baby>
+		<child>
+			Jaon...
+		</child>
+		<adult>
+			Jaon...
+		</adult>
+	</normal>
+[/PenipeniCutted]
+
+# ぺにぺにを使えない
+[CantUsePenipeni]
+	<normal>
+		<baby>
+			Jaon...
+		</baby>
+		<child>
+			Jaon...
+		</child>
+		<adult>
+			Jaon...
+		</adult>
+	</normal>
+[/CantUsePenipeni]
+
+# リラックス
+[Relax]
+	<normal>
+		<baby>
+			Jaoon!
+			Jao~n♪
+			Mishcha!JaoJao!
+		</baby>
+		<child>
+			Jaoon!
+			Jao~n♪
+			JaoJao!
+		</child>
+		<adult>
+			Jaoon!
+			Jao~n♪
+			JaoJao!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!JaoJaoJaoon!Jao!
+			Jao~n♪Jao~n♪
+		</baby>
+		<child>
+			Jao!JaoJaoJaoon!Jao!
+			Jao~n♪Jao~n♪
+		</child>
+		<adult>
+			Jao!JaoJaoJaoon!Jao!
+			Jao~n♪Jao~n♪
+		</adult>
+	</rude>
+[/Relax]
+
+# おくるみをはいてリラックス
+[RelaxOkurumi]
+	<normal>
+		<baby>
+			<pants>
+				Jaao♪Jaao♪
+			</pants>
+		</baby>
+		<child>
+			<pants>
+				Jaao♪Jaao♪
+			</pants>
+		</child>
+		<adult>
+			<pants>
+				Jaao♪Jaao♪
+			</pants>
+		</adult>
+	</normal>
+[/RelaxOkurumi]
+
+# 尻振り
+[FuriFuri]
+	<normal>
+		<baby>
+			Jao!
+			Jaao♪Jaao♪
+		</baby>
+		<child>
+			Jao!
+			Jaao♪Jaao♪
+		</child>
+		<adult>
+			Jao!
+			Jaao♪Jaao♪
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			JaoJao!Jaoon!
+			Jaao♪Jaao♪
+		</baby>
+		<child>
+			JaoJao!Jaoon!
+			Jaao♪Jaao♪
+		</child>
+		<adult>
+			JaoJao!Jaoon!
+			Jaao♪Jaao♪
+		</adult>
+	</rude>
+[/FuriFuri]
+
+# キリッ
+[BeVain]
+	<normal>
+		<baby>
+			Chao!
+		</baby>
+		<child>
+			Jao!
+		</child>
+		<adult>
+			Jao!
+		</adult>
+	</normal>
+[/BeVain]
+
+# ゆっくりしていってね！
+[TakeItEasy]
+	<normal>
+		<baby>
+			Jaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jaoon!!!
+		</baby>
+		<child>
+			Jaoon!!!
+		</child>
+		<adult>
+			Jaoon!!!
+		</adult>
+	</rude>
+[/TakeItEasy]
+
+# 起床
+[Wakeup]
+	<normal>
+		<baby>
+			Jaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jaoon!!!
+		</baby>
+		<child>
+			Jaoon!!!
+		</child>
+		<adult>
+			Jaoon!!!
+		</adult>
+	</rude>
+[/Wakeup]
+
+# 睡眠
+[Sleep]
+	<normal>
+		Jao..Jao..
+		Jaoon...
+	</normal>
+[/Sleep]
+
+# 悲鳴
+[Scream]
+	<normal>
+		<baby>
+			Jao!!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!Jaoon?!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			JaoJao!Jaoon?!
+			<damage>
+				Jaoon...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!!!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			JaoJao!Jaoon!!
+			<damage>
+				JaoJao...
+			</damage>
+		</adult>
+	</rude>
+[/Scream]
+
+# 悲鳴2
+[Scream2]
+	<normal>
+		Jaoooooooo!!!
+	</normal>
+[/Scream2]
+
+# 怯え
+[Scare]
+	<normal>
+		<baby>
+			Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</baby>
+		<child>
+			Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</child>
+		<adult>
+			Jaoo!Jaoo!!
+			<damage>
+				Jao...Jaoo...
+			</damage>
+		</adult>
+	</normal>
+[/Scare]
+
+# 警戒
+[Alarm]
+	<normal>
+		<baby>
+			Ja,Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</baby>
+		<child>
+			Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</child>
+		<adult>
+			Jaoo!
+			<damage>
+				Jao...Jaoo...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ja,Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</baby>
+		<child>
+			Jaoo!
+			<damage>
+				Jaoo...
+			</damage>
+		</child>
+		<adult>
+			Jaoo!
+			<damage>
+				Jao...Jaoo...
+			</damage>
+		</adult>
+	</rude>
+[/Alarm]
+
+# 瀕死
+[Dying]
+	<normal>
+		<baby>
+			Jaoo!
+		</baby>
+		<child>
+			Jaoo!
+		</child>
+		<adult>
+			Jaoo!
+		</adult>
+	</normal>
+[/Dying]
+
+# 死亡
+[Dead]
+	<normal>
+		<baby>
+			Jaoo...
+		</baby>
+		<child>
+			Jaoo...
+		</child>
+		<adult>
+			Jaoo...
+		</adult>
+	</normal>
+[/Dead]
+
+# 食事
+[Eating]
+	<normal>
+		<baby>
+			Jao~,Jao~
+		</baby>
+		<child>
+			Jao~,Jao~
+		</child>
+		<adult>
+			Jao~,Jao~
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao~
+		</baby>
+		<child>
+			Jao~
+		</child>
+		<adult>
+			Jao~
+		</adult>
+	</rude>
+[/Eating]
+
+# 食事(うんうん)
+[EatingShit]
+	<normal>
+		<baby>
+			Jaoo...
+		</baby>
+		<child>
+			Jaoo...
+		</child>
+		<adult>
+			Jaoo...
+		</adult>
+	</normal>
+[/EatingShit]
+
+# 餌運び
+[TransportFood]
+	<normal>
+		Jao!
+	</normal>
+[/TransportFood]
+
+# うんうん運び
+[TransportShit]
+	<normal>
+		<baby>
+			Jaoo
+			<ununSlave>
+				Jaoo...
+			</ununSlave>
+		</baby>
+		<child>
+			Jaoo
+			<ununSlave>
+				Jaoo...
+			</ununSlave>
+		</child>
+		<adult>
+			Jaoo
+			<ununSlave>
+			Jaoo...
+			</ununSlave>
+		</adult>
+	</normal>
+[/TransportShit]
+
+# アイテムを落とす
+[DropItem]
+	<normal>
+		JaoJao!
+	</normal>
+[/DropItem]
+
+# 食事(まずい)
+[EatingBadtasting]
+	<normal>
+		JaoJao...
+	</normal>
+[/EatingBadtasting]
+
+# 食事(毒)
+[EatingBitter]
+	<normal>
+		<baby>
+			Jaoo!
+		</baby>
+		<child>
+			Jaoo!
+		</child>
+		<adult>
+			Jaoo!
+		</adult>
+	</normal>
+[/EatingBitter]
+
+# 満腹
+[SpitFood]
+	<normal>
+		<baby>
+			Jaoo...
+		</baby>
+		<child>
+			Jaoo...
+		</child>
+		<adult>
+			Jaooo...
+		</adult>
+	</normal>
+[/SpitFood]
+
+# 満腹
+[Full]
+	<normal>
+		<baby>
+			Jao...
+		</baby>
+		<child>
+			Jao...
+		</child>
+		<adult>
+			Jao...
+		</adult>
+	</normal>
+[/Full]
+
+# 回復
+[Healing]
+	<normal>
+		<baby>
+			Jao!
+			<damage>
+				Jao!
+			</damage>
+		</baby>
+		<child>
+			Jao!
+			<damage>
+				Jao!
+			</damage>
+		</child>
+		<adult>
+			Jao!
+			<damage>
+				Jao!
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!
+			<damage>
+				Jao!
+			</damage>
+		</baby>
+		<child>
+			Jao!
+			<damage>
+				Jao!
+			</damage>
+		</child>
+		<adult>
+			Jao!
+			<damage>
+				Jao!
+			</damage>
+		</adult>
+	</rude>
+[/Healing]
+
+# 解放感を感じた時
+[ToFreedom]
+	<normal>
+		<baby>
+			Jaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/ToFreedom]
+
+# 清掃された時
+[Cleaned]
+	<normal>
+		<baby>
+			Jaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/Cleaned]
+
+# すっきり
+[Sukkiri]
+	<normal>
+		<baby>
+			Jaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/Sukkiri]
+
+# れいぱー化してすっきりー！
+[SukkiriForRaper]
+	<normal>
+		JaoJaoon!
+	</normal>
+[/SukkiriForRaper]
+
+# レイパーとすっきり
+[RaperSukkiri]
+	<normal>
+		<baby>
+			Jaoo!!!
+			Ja~o~n!!!
+		</baby>
+		<child>
+			Jaoo!!!
+			Ja~o~n!!!
+		</child>
+		<adult>
+			Jaoo!!!
+			Ja~o~n!!!
+		</adult>
+	</normal>
+[/RaperSukkiri]
+
+# 養殖プールすっきり
+[PoolSukkiri]
+	<normal>
+		<baby>
+			Jaoo!!!
+			Ja~o~n!!!
+		</baby>
+		<child>
+			Jaoo!!!
+			Ja~o~n!!!
+		</child>
+		<adult>
+			Jaoo!!!
+			Ja~o~n!!!
+		</adult>
+	</normal>
+[/PoolSukkiri]
+
+# 誕生
+[Birth]
+	<normal>
+		Jao~n!
+	</normal>
+[/Birth]
+
+# 排泄
+[Shit]
+	<normal>
+		<baby>
+			Jao!
+			<pants>
+				Jao?Jaoo?!
+			</pants>
+		</baby>
+		<child>
+			Jao!
+			<pants>
+				Jao?Jaoo?!
+			</pants>
+		</child>
+		<adult>
+			Jao!
+			<pants>
+				Jao?Jaoo?!
+			</pants>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!
+			<pants>
+				Jao?Jaoo?!
+			</pants>
+		</baby>
+		<child>
+			Jao!
+			<pants>
+				Jao?Jaoo?!
+			</pants>
+		</child>
+		<adult>
+			Jao!
+			<pants>
+				Jao?Jaoo?!
+			</pants>
+		</adult>
+	</rude>
+[/Shit]
+
+# 排泄2
+[Shit2]
+	<normal>
+		<baby>
+			Jaoon!
+			<pants>
+				Jaoo...
+			</pants>
+		</baby>
+		<child>
+			Jaoon!
+			<pants>
+				Jaoo...
+			</pants>
+		</child>
+		<adult>
+			Jaoon!
+			<pants>
+				Jaoo...
+			</pants>
+		</adult>
+	</normal>
+[/Shit2]
+
+# すりすり
+[SuriSuri]
+	<normal>
+		<baby>
+			Jao!Jaoon!
+			Jao Jao♪
+		</baby>
+		<child>
+			Jao!Jaoon!
+			Jao Jao♪
+		</child>
+		<adult>
+			Jao!Jaoon!
+			Jao Jao♪
+		</adult>
+	</normal>
+[/SuriSuri]
+
+# ぺろぺろ
+[PeroPero]
+	<normal>
+		<baby>
+			JaoJao
+			Jaao Jaao♪
+		</baby>
+		<child>
+			JaoJao
+			Jaao Jaao♪
+		</child>
+		<adult>
+			JaoJao
+			Jaao Jaao♪
+		</adult>
+	</normal>
+[/PeroPero]
+
+# 出産
+[Breed]
+	<normal>
+		Ja,Jaoo...
+	</normal>
+[/Breed]
+
+# 産後
+[Breed2]
+	<normal>
+		Little one! JaoJao!
+		<pants>
+			Jaooo...!
+		</pants>
+	</normal>
+[/Breed2]
+
+# うんうん発見
+[HateShit]
+	<normal>
+		<baby>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</adult>
+	</rude>
+[/HateShit]
+
+# あほの子がうんうんを威嚇するセリフ
+[ShitIntimidation]
+	<normal>
+		<baby>
+			Chaooo!!Chaooo!!
+		</baby>
+		<child>
+			Jaoo!Jaooo!!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+[/ShitIntimidation]
+
+# 空腹
+[Hungry]
+	<normal>
+		<baby>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			Jao!
+			<damage>
+				Jao...
+			</damage>
+		</adult>
+	</rude>
+[/Hungry]
+
+# おかざり没収
+[NoAccessory]
+	<normal>
+		<baby>
+			Jao?!JaoJaoJaoon!
+		</baby>
+		<child>
+			Jao?!JaoJaoJaoon!
+		</child>
+		<adult>
+			Jao?!JaoJaoJaoon!
+		</adult>
+	</normal>
+[/NoAccessory]
+
+# おかざりがなくなっていることに気がつく
+[NoticeNoAccessory]
+	<normal>
+		<baby>
+			Jao?!JaoJaoJaoon!?
+		</baby>
+		<child>
+			Jao?!JaoJaoJaoon!?
+		</child>
+		<adult>
+			Jao?!JaoJaoJaoon!?
+		</adult>
+	</normal>
+[/NoticeNoAccessory]
+
+# 他ゆんのおかざりをこっそり奪う
+[GetOtherAccessoryStealthily]
+	<normal>
+		Jao!
+	</normal>
+[/GetOtherAccessoryStealthily]
+
+# おかざりのないゆっくり発見
+[HateYukkuri]
+	<normal>
+		<baby>
+			Jao?JaoJao,Jaoon?!
+		</baby>
+		<child>
+			Jao?JaoJao,Jaoon?!
+		</child>
+		<adult>
+			Jao?JaoJao,Jaoon?!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao?JaoJao,Jaoon!
+		</baby>
+		<child>
+			Jao?JaoJao,Jaoon!
+		</child>
+		<adult>
+			Jao?JaoJao,Jaoon!
+		</adult>
+	</rude>
+[/HateYukkuri]
+
+# 持ち上げ
+[Flying]
+	<normal>
+		<baby>
+			Jaoon!
+		</baby>
+		<child>
+			Jaoon!
+		</child>
+		<adult>
+			Jaoon!
+		</adult>
+	</normal>
+[/Flying]
+
+# 子供死亡
+[SadnessForChild]
+	<normal>
+		Jaoooo...
+	</normal>
+[/SadnessForChild]
+
+# つがい死亡
+[SadnessForPartner]
+	<normal>
+		Jaoo!
+	</normal>
+[/SadnessForPartner]
+
+# 姉死亡
+[SadnessForEldersister]
+	<normal>
+		Jaoo!
+	</normal>
+[/SadnessForEldersister]
+
+# 妹死亡
+[SadnessForSister]
+	<normal>
+		Jaoo!
+	</normal>
+[/SadnessForSister]
+
+# 壁発見
+[BlockedByWall]
+	<normal>
+		<baby>
+			Jaooo?!
+		</baby>
+		<child>
+			Jaooo?!
+		</child>
+		<adult>
+			Jaooo?!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jaooo?!JaoJao!!
+		</baby>
+		<child>
+			Jaooo?!JaJaoJao!!
+		</child>
+		<adult>
+			Jaooo?!Jao!Jao!!
+		</adult>
+	</rude>
+[/BlockedByWall]
+
+# おもちゃ発見
+[GetTreasure]
+	<normal>
+		<baby>
+			Jao!
+		</baby>
+		<child>
+			Jao!
+		</child>
+		<adult>
+			Jao!
+		</adult>
+	</normal>
+[/GetTreasure]
+
+# おもちゃ紛失
+[LostTreasure]
+	<normal>
+		<baby>
+			Jao?!
+		</baby>
+		<child>
+			Jao?!
+		</child>
+		<adult>
+			Jao?!
+		</adult>
+	</normal>
+[/LostTreasure]
+
+# 膨張
+[Inflation]
+	<normal>
+		<baby>
+			Jaoooooo!
+		</baby>
+		<child>
+			Jaoooooo!
+		</child>
+		<adult>
+			Jaoooooo!
+		</adult>
+	</normal>
+[/Inflation]
+
+# 子虐待
+[AbuseBaby]
+	<normal>
+		<baby>
+			Jaoooooo!
+		</baby>
+		<child>
+			Jaoooooo!
+		</child>
+		<adult>
+			Jaoooooo!
+		</adult>
+	</normal>
+[/AbuseBaby]
+
+# 子虐待死
+[AbuseBabyKilled]
+	<normal>
+		<baby>
+			Jaoooooo!
+		</baby>
+		<child>
+			Jaoooooo!
+		</child>
+		<adult>
+			Jaoooooo!
+		</adult>
+	</normal>
+[/AbuseBabyKilled]
+
+# のびのび
+[Nobinobi]
+	<normal>
+		<baby>
+			JaaoJaao
+			Ja~o~♪
+		</baby>
+		<child>
+			JaaoJaao
+			Ja~o~♪
+		</child>
+		<adult>
+			JaaoJaao
+			Ja~o~♪
+		</adult>
+	</normal>
+[/Nobinobi]
+
+# 出産前
+[NearToBirth]
+	<normal>
+		<baby>
+			Jao!
+		</baby>
+		<child>
+			Jao!
+		</child>
+		<adult>
+			Jao!
+		</adult>
+	</normal>
+[/NearToBirth]
+
+# 毒
+[PoisonDamage]
+	<normal>
+		<baby>
+			Jaoo!
+			<damage>
+				Dao
+			</damage>
+		</baby>
+		<child>
+			Jaoo!
+			<damage>
+				Dao
+			</damage>
+		</child>
+		<adult>
+			Jaoo!
+			<damage>
+				Dao
+			</damage>
+		</adult>
+	</normal>
+[/PoisonDamage]
+
+# 排泄不可
+[CantShit]
+	<normal>
+		<baby>
+			Jaoo!
+		</baby>
+		<child>
+			Jaoo!
+		</child>
+		<adult>
+			Jaoo!
+		</adult>
+	</normal>
+[/CantShit]
+
+# 妊娠失敗
+[NoPregnancy]
+	<normal>
+		<baby>
+			Jaoo!
+		</baby>
+		<child>
+			Jaoo!
+		</child>
+		<adult>
+			Jaon...
+		Jaoo!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jaoo!
+		</baby>
+		<child>
+			Jaoo!
+		</child>
+		<adult>
+			Jaon...
+		Jaoo!
+		</adult>
+	</rude>
+[/NoPregnancy]
+
+# 恐怖でパニック状態
+[Fear]
+	<normal>
+		<baby>
+			Jaooo!!!
+		</baby>
+		<child>
+			Jaooo!!!
+		</child>
+		<adult>
+			Jaooo!!!
+		</adult>
+	</normal>
+[/Fear]
+
+# 火がついてる状態
+[Burning]
+	<normal>
+		<baby>
+			JaoJaoJaooon!!!
+		</baby>
+		<child>
+			JaoJaoJaooon!!!
+		</child>
+		<adult>
+			JaoJaoJaooon!!!
+			Jaoo!Jaoo!Jaooo!!!
+		</adult>
+	</normal>
+[/Burning]
+
+# 水をかけられた
+[Wet]
+	<normal>
+		<baby>
+			Jaooo...
+		</baby>
+		<child>
+			Jaooo...
+		</child>
+		<adult>
+			Jaooo...
+		</adult>
+	</normal>
+[/Wet]
+
+# 水の中にいる(浅瀬)
+[WetInShallowWater]
+	<normal>
+		<baby>
+			Jaooo...
+		</baby>
+		<child>
+			Jaooo...
+		</child>
+		<adult>
+			Jaooo...
+		</adult>
+	</normal>
+[/WetInShallowWater]
+
+# 水の中にいる(深瀬)
+[WetInDeepwWater]
+	<normal>
+		<baby>
+			Jaooo...
+		</baby>
+		<child>
+			Jaooo...
+		</child>
+		<adult>
+			Jaooo...
+		</adult>
+	</normal>
+[/WetInDeepwWater]
+
+# あにゃる閉鎖
+[AnalSealed]
+	<normal>
+		<baby>
+			Jao Jao!
+			Ja,Jao~!..
+		</baby>
+		<child>
+			Jao Jao!
+			Ja,Jao~!..
+		</child>
+		<adult>
+			Jao Jao!
+			Ja,Jao~!..
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao Jao!
+			Ja,Jao~!..
+		</baby>
+		<child>
+			Jao Jao!
+			Ja,Jao~!..
+		</child>
+		<adult>
+			Jao Jao!
+			Ja,Jao~!..
+		</adult>
+	</rude>
+[/AnalSealed]
+
+# 針が刺さった時
+[NeedleStick]
+	<normal>
+		<baby>
+			Jaooooon!
+			Jao?
+			Jao?Jao?
+		</baby>
+		<child>
+			Jaooooon!
+			Jao?
+			Jao?Jao?
+		</child>
+		<adult>
+			Jaooooon!
+			Jao?
+			Jao?Jao?
+		</adult>
+	</normal>
+[/NeedleStick]
+
+# 針が刺さっている時
+[NeedleScream]
+	<normal>
+		<baby>
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
+		</baby>
+		<child>
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
+		</child>
+		<adult>
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
+		</adult>
+	</normal>
+[/NeedleScream]
+
+# あにゃるに針が刺さっている時
+[NeedleScreamInAnal]
+	<normal>
+		<baby>
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
+		</baby>
+		<child>
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
+		</child>
+		<adult>
+			Jaaoo!
+			Jaoo!Jaoo!Jaoo!
+			Jaooo...
+		</adult>
+	</normal>
+[/NeedleScreamInAnal]
+
+# つがいの針をぐーりぐりする
+[ExtractingNeedlePartner]
+	<normal>
+		<baby>
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
+		</baby>
+		<child>
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
+		</child>
+		<adult>
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
+		</adult>
+	</normal>
+[/ExtractingNeedlePartner]
+
+# 子の針をぐーりぐりする
+[ExtractingNeedleChild]
+	<normal>
+		<baby>
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
+		</baby>
+		<child>
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
+		</child>
+		<adult>
+			Jaao!Jaao!
+			JaooJaoo!
+			Jaooo!Jaooo!!!
+		</adult>
+	</normal>
+[/ExtractingNeedleChild]
+
+# 被ぐーりぐり時
+[NeedlePain]
+	<normal>
+		<baby>
+			Jaon?Jaoooo!!!
+			Jaon?Jaon?Jaaoo!!!
+			Jaooo...Pigiiiiiiii!
+		</baby>
+		<child>
+			Jaon?Jaoooo!!!
+			Jaon?Jaon?Jaaoo!!!
+			Jaooo...Pigiiiiiiii!
+		</child>
+		<adult>
+			Jaon?Jaoooo!!!
+			Jaon?Jaon?Jaaoo!!!
+			Jao...Jaoooooo!
+		</adult>
+	</normal>
+[/NeedlePain]
+
+# 針を抜いた時
+[NeedleRemove]
+	<normal>
+		<baby>
+			JaoJao,Jaoon...
+			Jaoon...
+		</baby>
+		<child>
+			JaoJao,Jaoon...
+			Jaoon...
+		</child>
+		<adult>
+			JaoJao,Jaoon...
+			Jaoon...
+		</adult>
+	</normal>
+[/NeedleRemove]
+
+# あまあま要求
+[WantAmaama]
+	<normal>
+		<baby>
+			Jao!Jao!Jaoon!!!
+		</baby>
+		<child>
+			Jao!Jao!Jaoon!!!
+		</child>
+		<adult>
+			Jao!Jao!Jaoon!!!
+		</adult>
+	</normal>
+[/WantAmaama]
+
+# 移動不能
+[CantMove]
+	<normal>
+		<baby>
+			Jao?
+		</baby>
+		<child>
+			Jao?
+		</child>
+		<adult>
+			Jao?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao?
+		</baby>
+		<child>
+			Jao?
+		</child>
+		<adult>
+			Jao?
+		</adult>
+	</rude>
+[/CantMove]
+
+# 移動不能2
+[CantMove2]
+	<normal>
+		<baby>
+			Jao?Jao~n!
+		</baby>
+		<child>
+			Jao?Jao~n!
+		</child>
+		<adult>
+			Jao?Jao~n!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao?Jao~n!
+		</baby>
+		<child>
+			Jao?Jao~n!
+		</child>
+		<adult>
+			Jao?Jao~n!
+		</adult>
+	</rude>
+[/CantMove2]
+
+# 目潰し
+[BLINDING]
+	<normal>
+		<baby>
+			Jao!!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!Jaoon?!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			JaoJao!Jaoon?!
+			<damage>
+				Jaoon...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!!!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			JaoJao!Jaoon!!
+			<damage>
+				JaoJao...
+			</damage>
+		</adult>
+	</rude>
+[/BLINDING]
+
+# 見えない
+[CANTSEE]
+	<normal>
+		<baby>
+			Chaoo...
+		</baby>
+		<child>
+			Jao...
+		</child>
+		<adult>
+			Jao...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaoo...
+		</baby>
+		<child>
+			Jao...
+		</child>
+		<adult>
+			Jao...
+	</rude>
+[/CANTSEE]
+
+# むしる
+[PLUNCKING]
+	<normal>
+		<baby>
+			Jao!!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!Jaoon?!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			JaoJao!Jaoon?!
+			<damage>
+				Jaoon...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!!
+			<damage>
+				Jao...
+			</damage>
+		</baby>
+		<child>
+			Jao!!!
+			<damage>
+				Jao...
+			</damage>
+		</child>
+		<adult>
+			JaoJao!Jaoon!!
+			<damage>
+				JaoJao...
+			</damage>
+		</adult>
+	</rude>
+[/PLUNCKING]
+
+# つちのなかにいる
+[BaryInUnderGround]
+	<normal>
+		<baby>
+			Jaoo...Jaoo...
+		</baby>
+		<child>
+			Jaoo...Jaoo...
+		</child>
+		<adult>
+			Jaoo...Jaoo...
+		</adult>
+	</normal>
+[/BaryInUnderGround]
+
+# 引っ張る
+[Pull]
+	<normal>
+		<baby>
+			Jao?
+		</baby>
+		<child>
+			Jao?
+		</child>
+		<adult>
+			Jao?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao?
+		</baby>
+		<child>
+			Jao?
+		</child>
+		<adult>
+			Jao?
+		</adult>
+	</rude>
+[/Pull]
+
+# 引っ張る2
+[Pull2]
+	<normal>
+		<baby>
+			Jaoooo!!!
+			Jao!Jao!!!!
+		</baby>
+		<child>
+			Jaoooo!!!
+			Jao!Jao!!!!
+		</child>
+		<adult>
+			Jaoooo!!!
+			Jao!Jao!!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jaoooo!!!
+			Jao!Jao!!!!
+		</baby>
+		<child>
+			Jaoooo!!!
+			Jao!Jao!!!!
+		</child>
+		<adult>
+			Jaoooo!!!
+			Jao!Jao!!!!
+		</adult>
+	</rude>
+[/Pull2]
+
+# つぶす
+[Press]
+	<normal>
+		<baby>
+			Jao?
+		</baby>
+		<child>
+			Jao?
+		</child>
+		<adult>
+			Jao?Jao?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao?
+		</baby>
+		<child>
+			Jao?
+		</child>
+		<adult>
+			Jao?Jao?
+		</adult>
+	</rude>
+[/Press]
+
+# つぶす2
+[Press2]
+	<normal>
+		<baby>
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
+		</baby>
+		<child>
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
+		</child>
+		<adult>
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
+		</adult>
+	</normal>
+[/Press2]
+
+# 加工所でつぶされる
+[KilledInFactory]
+	<normal>
+		<baby>
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
+		</baby>
+		<child>
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
+		</child>
+		<adult>
+			Jao?Jaoooo!!!
+			Jaaoooooo!!!
+		</adult>
+	</normal>
+[/KilledInFactory]
+
+# あまあま発見
+[FindAmaama]
+	<normal>
+		<baby>
+			Jao Jao♪
+		</baby>
+		<child>
+			Jao Jao♪
+		</child>
+		<adult>
+			Jao Jao♪
+		</adult>
+	</normal>
+[/FindAmaama]
+
+# あまあま食事
+[EatingAmaama]
+	<normal>
+		<baby>
+			Jaaoo♪
+			JaoJao Jaoon♪
+		</baby>
+		<child>
+			Jaaoo♪
+			JaoJao Jaoon♪
+		</child>
+		<adult>
+			Jaaoo♪
+			JaoJao Jaoon♪
+		</adult>
+	</normal>
+[/EatingAmaama]
+
+# 野菜発見
+[FindVegetable]
+	<normal>
+		<baby>
+			Jaaoo♪
+		</baby>
+		<child>
+			Jaaoo♪
+		</child>
+		<adult>
+			Jaaoo♪
+		</adult>
+	</normal>
+[/FindVegetable]
+
+# 吐餡
+[Vomit]
+	<normal>
+		<baby>
+			Jaooo!!!
+			Gubee!
+		</baby>
+		<child>
+			Jaooo!!!
+			Gubee!
+		</child>
+		<adult>
+			Jaooo!!!
+			Gubee!
+		</adult>
+	</normal>
+[/Vomit]
+
+# 汎用、瀕死継続
+[Dying2]
+	<normal>
+		<baby>
+			Ja...Jao...
+		</baby>
+		<child>
+			Ja...Jao...
+		</child>
+		<adult>
+			Ja...Jao...
+		</adult>
+	</normal>
+[/Dying2]
+
+# 汎用、驚き
+[Surprise]
+	<normal>
+		<baby>
+			Jaooon?!
+		</baby>
+		<child>
+			Jaooon?!
+		</child>
+		<adult>
+			Jaooon?!
+		</adult>
+	</normal>
+[/Surprise]
+
+# 皮を剥かれる
+[PEALING]
+	<normal>
+		<baby>
+			Chaooooooo!!!
+		</baby>
+		<child>
+			Jaooooooo!!!
+		</child>
+		<adult>
+			Jaooooooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaooooooo!!!
+		</baby>
+		<child>
+			Jaooooooo!!!
+		</child>
+		<adult>
+			Jaooooooo!!!
+		</adult>
+	</rude>
+[/PEALING]
+
+# 汎用、ゆっくりできなくて嘆く(低)
+[LamentLowYukkuri]
+	<normal>
+		<baby>
+			Chaoo...
+		</baby>
+		<child>
+			Jaoo...
+		</child>
+		<adult>
+			Jao...
+		</adult>
+	</normal>
+[/LamentLowYukkuri]
+
+# 汎用、ゆっくりできなくて嘆く
+[LamentNoYukkuri]
+	<normal>
+		<baby>
+			Chaoooo!
+			Chaoooo?!!
+		</baby>
+		<child>
+			Jaoooo!
+			Jaooooo?!!
+		</child>
+		<adult>
+			Jaoooo!
+			Jaooooo?!!
+		</adult>
+	</normal>
+[/LamentNoYukkuri]
+
+# ゆんやああ
+[Yunnyaa]
+	<normal>
+		Jaooooooooooo!!!!!
+	</normal>
+[/Yunnyaa]
+
+# 非ゆっくり症初期
+[NonYukkuriDiseaseNear]
+	<normal>
+		･････････
+		Jao.....
+	</normal>
+[/NonYukkuriDiseaseNear]
+
+# 非ゆっくり症
+[NonYukkuriDisease]
+	<normal>
+		Jao!!Jao!!Jao!!Jao!!Jao!!Jao!!
+	</normal>
+[/NonYukkuriDisease]
+
+# 汎用、他のゆっくりに何かされたときに対する攻撃、反撃
+[RevengeAttack]
+	<normal>
+		<baby>
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
+		</baby>
+		<child>
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
+		</child>
+		<adult>
+			Ja!
+			Jao!
+			Jaora!!!
+			Jaorararaa!!!
+		</adult>
+	</normal>
+[/RevengeAttack]
+
+# おさげ、尻尾、羽をちぎる
+[BraidCut]
+	<normal>
+		<baby>
+			JaoJao?!
+		</baby>
+		<child>
+			JaoJao?!
+		</child>
+		<adult>
+			JaoJao?!
+		</adult>
+	</normal>
+[/BraidCut]
+
+# 汎用、他のゆっくりに生きたまま食べられる
+[EatenByBody]
+	<normal>
+		<baby>
+			Jaooo!Jaooo!
+		</baby>
+		<child>
+			Jaooo!Jaooo!
+		</child>
+		<adult>
+			Jaooo!Jaooo!
+		</adult>
+	</normal>
+[/EatenByBody]
+
+# 汎用、他のゆっくりに生きたまま吸われる
+[EatenByBody2]
+	<normal>
+		<baby>
+			Jaooo...
+		</baby>
+		<child>
+			Jaooo...
+		</child>
+		<adult>
+			Jaooo...
+		</adult>
+	</normal>
+[/EatenByBody2]
+
+# れみりゃから逃げる
+[EscapeFromRemirya]
+	<normal>
+		<baby>
+			Jaooooo!!!
+			Jao?Jao?Jao~n!!!
+		</baby>
+		<child>
+			Jaooooo!!!
+			Jao?Jao?Jao~n!!!
+		</child>
+		<adult>
+			Jaooooo!!!
+			Jao?Jao?Jao~n!!!
+		</adult>
+	</normal>
+[/EscapeFromRemirya]
+
+# しゃべれない
+[CantTalk]
+	<normal>
+		<baby>
+			Mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
+		</baby>
+		<child>
+			Mu--!!
+			-----!!!
+			Yumu--!!Yumumu--!!
+		</child>
+		<adult>
+			Mu--!!
+			-----!!!
+			Yuguuu!!Yumuguuu!!
+		</adult>
+	</normal>
+[/CantTalk]
+
+# しゃべれない(非ゆっくり)
+[NYDCantTalk]
+	<normal>
+		<baby>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</baby>
+		<child>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</child>
+		<adult>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</adult>
+	</normal>
+[/NYDCantTalk]
+
+# 汚い
+[Dirty]
+	<normal>
+		<baby>
+			Chaoo...
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaooooooo!!!
+		</baby>
+		<child>
+			Jaooooooo!!!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/Dirty]
+
+# かびてる時の通常時
+[Moldy]
+	<normal>
+		<baby>
+			Jaon...
+		</baby>
+		<child>
+			Jaon...
+		</child>
+		<adult>
+			Jaon...
+		</adult>
+	</normal>
+[/Moldy]
+
+# 皮を剥かれる
+[MoldrySeriousry]
+	<normal>
+		<baby>
+			Chaooooooo!!!
+		</baby>
+		<child>
+			Jaooooooo!!!
+		</child>
+		<adult>
+			Jaooooooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaooooooo!!!
+		</baby>
+		<child>
+			Jaooooooo!!!
+		</child>
+		<adult>
+			Jaooooooo!!!
+		</adult>
+	</rude>
+[/MoldrySeriousry]
+
+
+# 悪夢
+[Nightmare]
+	<normal>
+		<baby>
+			Chaoooooo....
+			Chaaaaaaaaa...
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
+		</baby>
+		<child>
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
+		</child>
+		<adult>
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Chaoooooo....
+			Chaaaaaaaaa...
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
+		</baby>
+		<child>
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
+		</child>
+		<adult>
+			Jaooooo...
+			JaoJaoJaoJaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooooo,Jaooooo...
+			JaoJaoJaoooo..JaoJaoooo..
+			Chaoooooo....
+			Chaaaaaaa...
+			Jaooo~~...
+			JaoJaoJaoooooo...
+			Jaoo,Jaoooooo...
+			JaonJaoooooo...
+			Jaoooo~~,Jaooo~~...
+			JaoJaoooo..JaoJaoooo..
+		</adult>
+	</rude>
+[/Nightmare]
+
+# 加工所で処分されると思ったとき
+[DontThrowMeAway]
+	<normal>
+		<baby>
+			Chao!?Jao...Jaooooon!!!
+		</baby>
+		<child>
+			Jao!?Jao...Jaooooon!!!
+		</child>
+		<adult>
+			Jao!?Jao...Jaooooon!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Jao!?Jao...Jaooooo!!!
+		</baby>
+		<child>
+			Jao!?Jao...Jaooooo!!!
+		</child>
+		<adult>
+			Jao!?Jao...Jaooooon!!!
+		</adult>
+	</rude>
+[/DontThrowMeAway]
+
+# 加工所でつぶされる
+[KilledInFactory]
+	<normal>
+		<baby>
+			Humaaaaaaaaan!!!
+			Pyapyaaaaaaaa!!!!Myamyaaaaaaaa!!
+			PyapyaaaaaaaaaaaJaooooo!!
+			Myamyaaaaaaaa!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
+		</baby>
+		<child>
+			Humaaaaaaaaan!!!
+			Dwaddieeeeeeee!!!!Mommieeeeeeee!!
+			Dwaddieeeeeeee!!! Jaooooo!!
+			Mommieeeeeeee!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
+		</child>
+		<adult>
+			Humaaaaaaaaan!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Humaaaaaaaaan!!!
+			Pyapyaaaaaaaa!!!!Myamyaaaaaaaa!!
+			PyapyaaaaaaaaaaaJaooooo!!
+			Myamyaaaaaaaa!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
+		</baby>
+		<child>
+			Humaaaaaaaaan!!!
+			Dwaddieeeeeeee!!!!Mommieeeeeeee!!
+			Dwaddieeeeeeee!!! Jaooooo!!
+			Mommieeeeeeee!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
+		</child>
+		<adult>
+			Humaaaaaaaaan!!!
+			Jao!Jao!Jao!JaoJaoJaoooooo!!!
+		</adult>
+	</rude>
+[/KilledInFactory]
+
+# 静かにする
+[BeingQuiet]
+	<normal>
+		<baby>
+			Yuu..Jaao...
+			Yumumu...
+			Yuu,J-,JaoJao...
+			YuYuu..
+		</baby>
+		<child>
+			Yuu..Jaao...
+			Yumumu...
+			Yuu,J-,JaoJao...
+			YuYuu..
+		</child>
+		<adult>
+			Yuu..Jaao...
+			Yumumu...
+			Yuu,J-,JaoJao...
+			YuYuu..
+		</adult>
+	</normal>
+[/BeingQuiet]
+
+
+# 食事(嘔吐)
+[SpitFood]
+	<normal>
+		<baby>
+			Yueeeee..
+			Yugeeeee...
+			Yugeeeee...
+			Yubeeee...
+			Yuorororororororo...
+			Yubyubyubyubyu...
+			Jaoooo...
+		</baby>
+		<child>
+			Yueeeee..
+			Yugeeeee...
+			Yugeeeee...
+			Yubeeeee...
+			Yuorororororororo...
+			Yububububu...
+			Jaoooo...
+		</child>
+		<adult>
+			Yueeeee..
+			Yugeeeee...
+			Yugeeeee...
+			Yubeeeee...
+			Yuorororororororo...
+			Yububububu...
+			Jaoooo...
+		</adult>
+	</normal>
+
