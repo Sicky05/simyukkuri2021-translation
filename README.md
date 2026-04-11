@@ -47,8 +47,8 @@ with the translated versions from this repository and run build.bat.
 🔴 marisareimu_j.txt
 🔴 marisatsumuri_ev_j.txt
 🔴 marisatsumuri_j.txt
-🔴 meirin_ev_j.txt
-🔴 meirin_j.txt
+🟢 meirin_ev_j.txt
+🟢 meirin_j.txt
 🔴 myon_ev_j.txt
 🔴 myon_j.txt
 🔴 nitori_ev_j.txt
@@ -67,10 +67,10 @@ with the translated versions from this repository and run build.bat.
 🔴 sakuya_j.txt
 🔴 suwako_ev_j.txt
 🔴 suwako_j.txt
-🔴 tarinai_ev_j.txt
-🔴 tarinai_j.txt
-🔴 tarinai_reimu_ev_j.txt
-🔴 tarinai_reimu_j.txt
+🟢 tarinai_ev_j.txt
+🟢 tarinai_j.txt
+🟢 tarinai_reimu_ev_j.txt
+🟢 tarinai_reimu_j.txt
 🔴 tenko_ev_j.txt
 🔴 tenko_j.txt
 🔴 udonge_ev_j.txt
