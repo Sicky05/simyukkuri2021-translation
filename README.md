@@ -3,6 +3,11 @@
 An English translation project for [SimYukkuri2021](https://github.com/sin-orb/Simyukkuri2021),
 a simulation game featuring Yukkuri characters from the Touhou fandom.
 
+### A Note on the Translations
+Just a heads up: to handle the sheer volume of text, I used a couple of local AI models (`unsloth/gemma-4-31B-it-GGUF` and `tencent/HY-MT1.5-7B`) to do the heavy lifting for the initial translations. 
+
+I have gone through and hand-edited the output to make sure the specific Yukkuri speech patterns, lisps, and catchphrases are as accurate as possible. However, because it's AI-assisted, you might still spot an occasional weird sentence, dropped context, or machine translation quirk. If you run into anything totally broken, feel free to let me know!
+
 ## How to use
 
 Replace the original `.txt` files in `/data/yukkuri_msg` and `/data/yukkuri_msg_nora`
