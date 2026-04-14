@@ -1,3 +1,9 @@
+# ==============================================================================
+# WARNING: AI TRANSLATION NOTICE
+# This file was translated using a Local AI model (tencent/HY-MT1.5-7B) and 
+# hand-edited for translation inaccuracies and formatting.
+# ==============================================================================
+
 # 餌発見
 [WantFood]
 	<normal>
