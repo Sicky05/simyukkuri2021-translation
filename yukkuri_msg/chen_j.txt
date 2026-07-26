@@ -1,6 +1,8 @@
 # ==============================================================================
 # WARNING: AI TRANSLATION NOTICE
-# This file was translated using a Local AI model (unsloth/gemma-4-31B-it-GGUF).
+# This file was translated using a Local AI model (unsloth/gemma-4-31B-it-GGUF)
+# and a cloud model (google/gemini-3.1-pro).
+# It has been manually reviewed and corrected.
 # ==============================================================================
 
 # 餌発見
@@ -73,7 +75,7 @@
 			<damage>
 				Can't find Mishtew Fwood~,,,
 			    Don't know whewe Mishtew Fwood is~,,,
-			    Don't know whewe Mishtew Fwood is~,,,
+			    Mishtew Fwood, get it, nya~,,,
 				Mishtew Tummy is wumbwy-empty~,,,
 				Mishtew, don't be a meanie~,,,
 				Wan-shama~,, whewe awe you~?
@@ -89,7 +91,7 @@
 			<damage>
 				Can't find Mishtew Fwood...
 			    Don't know whewe Mishtew Fwood is...
-			    Mishtew Fwood doesn't get it, nya...
+			    Mishtew Fwood, get it, nya~...
 				%name's Mishtew Tummy is wumbwy-empty...
 				Mishtew, don't be a meanie...
 				Wan-shama... whewe awe you~?
@@ -120,7 +122,7 @@
 				Mishtew Fwood, you bettew get it, nya~,,,
 				%name's Mishtew Tummy is wumbwy-empty, you bettew get it, nya~,,,
 				Dish is an outwage, nya~,, you bettew get it, nya~,,
-				Yukkuri-can't-take-it-easy shitty pewson shouwd eat poo-poo, nya~!
+				%name-can't-take-it-easy shitty pawent shouwd eat poo-poo, nya~!
 				Wan-shama~,, whewe awe you~?
 			</damage>
 		</baby>
@@ -267,7 +269,7 @@
 		</child>
 		<adult>
 			Give %name's Mister Penipeni back!!!
-			Yunyaa! Just because your own Mister Penipeni is like a tiny baby's, it's cruel to do this to %name~!
+			Yunyaa! Just because your own Mister Penipeni is like a little one's, it's cruel to do this to %name~!
 		</adult>
 	</rude>
 [/PenipeniCutting]
@@ -423,7 +425,7 @@
 			*Wiggwe-wiggwe*! It's wawm-up exewcises~!
 			*Woww woww*♪
 			*Woww woww*♪
-			Mishtew Nod-nod! %name is getting soft-soft~!
+			Mishtew Poo-poo! %name is getting soft-soft~!
 		</child>
 		<adult>
 			You can admire %name's little Mister Legs~!
@@ -1008,7 +1010,7 @@
 	<rude>
 		<baby>
 			Why does %name have to eat dish stuff~,,,
-			No no, won't eat it~,,,
+			Poo-poo, won't eat it~,,,
 			Why awe you being a meanie to %name~,,,
 			It's yucky~, you bettew get it, nya~,,,
 			<dislikeplayer>
@@ -1019,7 +1021,7 @@
 		</baby>
 		<child>
 			Why does %name have to eat dish kind of thing~...
-			No no, %name doesn't want to eat it~...
+			Poo-poo, %name doesn't want to eat it~...
 			Why awe you being mean to %name~...
 			It tastes bad, you bettew get it, nya~...
 			<dislikeplayer>
@@ -1062,8 +1064,8 @@
 [TransportShit]
 	<normal>
 		<baby>
-			Un-un, it's today~
-			Un-un, %name's gonna cwean up~
+			Poo-poo, %name wiww cawwy it~
+			Poo-poo, %name's gonna cwean up~
 			<ununSlave>
 				Cawwing poo-poo to Mishtew Toiwet~...
 				It's time to cawwy poo-poo~...
@@ -1629,12 +1631,12 @@
 			Mishtew Poo-poo, it's an easy hewwo~!
 			Yu-nyaa~n... *pwoop pwoop*♪
 			<pants>
-				Uuu unnn mowe-ryuuuu!!!
+				Poo-poo is weaking~!!!
 				Mishtew Swaddwe doesn't get it, nya!
 			</pants>
 			<ununSlave>
-				Uuu~ comin' out...
-				Don't do Mishtew Push...
+				Poo-poo is comin' out...
+				Mishtew Poo-poo, don't come out...
 			</ununSlave>
 		</baby>
 		<child>
@@ -1644,7 +1646,7 @@
 			Mishtew Poo-poo yukkuri, hewwwo~!
 			Yu-nyaa~n... *pwoop pwoop*♪
 			<pants>
-				Uu-uu... it's weaking~!!!
+				Poo-poo... it's weaking~!!!
 				Mishtew Swaddwing Cwoth doesn't get it, nya!
 			</pants>
 			<ununSlave>
@@ -1662,7 +1664,7 @@
 				Take off Mister Pants~! You better get it, nya~!!!
 			</pants>
 			<ununSlave>
-				Uuu... uuuu...
+				Poo-poo is comin' out...
 				Mister Poo-poo, don't come out...
 			</ununSlave>
 		</adult>
@@ -1676,12 +1678,12 @@
 			Shwow yukkuwi eat %name's poo-poo~!
 			Whenever %name wants to poo-poo, that's Mishtew Toiwet~!
 			<pants>
-				Uu, uu, %name gets it, nyaaa!
+				Poo-poo, %name gets it, nyaaa!
 				Shave meeee!!!
 			</pants>
 			<ununSlave>
-				Uu... uu...
-				Mishtew Un-un, don't... nya...
+				Poo-poo is comin' out...
+				Mishtew Poo-poo, don't come out... nya...
 			</ununSlave>
 		</baby>
 		<child>
@@ -1712,7 +1714,7 @@
 				Take off Mister Pants~! You better get it at least that much, nya~!!!
 			</pants>
 			<ununSlave>
-				Pushing~...
+				Poo-poo is comin' out~...
 				Mister Poo-poo, don't come out...
 			</ununSlave>
 		</adult>
@@ -1773,7 +1775,7 @@
 	<rude>
 		<baby>
 			Wefwesh, %name gets it, nya~!
-			Mm-hmm, shitty swave, huwwy up and cwean it up~!
+			Poo-poo swave, huwwy up and cwean it up~!
 			Shitty human! Don't stawe, nya~!
 			<pants>
 				Smewwy... You bettew get it, nya...
@@ -1788,7 +1790,7 @@
 		</baby>
 		<child>
 			Wefwesh, %name gets it, nya~!
-			Mm-hmm, Mishtew Swave, huwwy up and cwean it up~!
+			Poo-poo swave, huwwy up and cwean it up~!
 			Shitty human! Don't stawie, nya~!
 			<pants>
 				It's sme wwy... you bettew get it, nya...
@@ -1803,8 +1805,8 @@
 		</child>
 		<adult>
 			Lots came out~!
-			Mmhmm, refresh~!
-			Mmhmm, shitty slave, hurry up and clean it up~!
+			Poo-poo, refresh~!
+			Poo-poo slave, hurry up and clean it up~!
 			Shitty human! Stop staring~!
 			<pants>
 				It's stinky~... %name doesn't get it, nya...
@@ -1841,7 +1843,7 @@
 			*Nuzzle~nuzzle*♪
 			You're so happy~! %name gets it, nya~!
 			You feel the family bond~! %name gets it, nya~!
-			Nuzzling lets you take it easy~! %name gets it, nya~!
+			Rub-rub lets you take it easy~! %name gets it, nya~!
 			Let's take it easy together forever~!
 		</adult>
 	</normal>
@@ -1906,8 +1908,8 @@
 [HateShit]
 	<normal>
 		<baby>
-			Mm-hmm!
-			Poopy-poo's hewe, nya!
+			Poo-poo!
+			Poo-poo is diwty!
 			<damage>
 				It's diwty~!
 				Mishtew Poo-poo, go away~...
@@ -1919,8 +1921,8 @@
 			</ununSlave>
 		</baby>
 		<child>
-			Wun away fwom Mishtew Un-un~ you get it, nya~!
-			Mishtew Un-un is hewe, nya, you get it, nya~?
+			Wun away fwom Mishtew Poo-poo~ you get it, nya~!
+			Poo-poo is diwty, you get it, nya~?
 			<damage>
 				Shtinky~, %name can't take it easy~...
 				Cwean up da poo-poo...
@@ -1932,8 +1934,8 @@
 			</ununSlave>
 		</child>
 		<adult>
-			You want Mister Un-un to go away~
-			Mister Un-un is dirty~! He doesn't get it, nya!
+			You want Mister Poo-poo to go away~
+			Mister Poo-poo is dirty~! You better get it, nya!
 			<damage>
 				It stinks~, you can't take it easy, can you... nya...
 				It's the smell of not being able to take it easy... nya...
@@ -1948,7 +1950,7 @@
 	<rude>
 		<baby>
 			Shtinky~!
-			Move it, move it! Go away~!
+			Poo-poo, go away~!
 			<damage>
 				Huwts...
 				Huwts, nyaa...
@@ -1961,10 +1963,10 @@
 		</baby>
 		<child>
 			Smewwy~! Cwean it up immediatewy~!
-			Yeah yeah, don't be shwow and go away~!
+			Poo-poo shouldn't take it easy and go away~!
 			<damage>
 				Smewwy~, %name doesn't get it, nya~,,,
-				Yeah, yeah, it's sho smewwy~,,,
+				Poo-poo is sho smewwy~,,,
 			</damage>
 			<ununSlave>
 				Shtinky~, can't take it easy, nya~...
@@ -2008,13 +2010,13 @@
 	<rude>
 		<baby>
 			*Pwoop*! *Pwoop*!!!
-			Shitty poo-poo is %name's victory! You bettew get it, nya~!
+			Shitty poo-poo is going to be %name's pu-nish! You bettew get it, nya~!
 			Poo-poo, go away-way~!
 			Poo-poo, get lost-lost! It's a pwoop-pwoop~!
 		</baby>
 		<child>
 			Pukkyu~! Pukkyu~!!!
-			Shitty poo-poo is %name's punishwment~! %name's gonna do it, nya~!
+			Shitty poo-poo is going to be %name's pu-nish! %name's gonna do it, nya~!
 			Poo-poo, go awayyy~!
 			Poo-poo, huwwy up and get lost~! Pukkyu~!
 		</child>
@@ -2601,8 +2603,8 @@
 			Mishtew Tummy huwts~!! %name can't take it easy~!!
 		</child>
 		<adult>
-			Mister Poo-push! %name doesn't get it, nya~!
-			Mister Poo-push, don't be shy and come out, nya~!
+			Mister Poo-poo! %name doesn't get it, nya~!
+			Mister Poo-poo, don't be shy and come out, nya~!
 			Mister Tummy, it hurts, doesn't it~! %name can't take it easy, nya~!
 		</adult>
 	</normal>
@@ -4525,7 +4527,7 @@
 	<normal>
 		<baby>
 			*Pwee-eeen*, *pwee-eeen*...
-			Uu-uu, it feels yucky...
+			Poo-poo feews yucky...
 			%name doesn't get it, nya...
 			Yu-pyah! It stwinks...
 			Mishtew, lick-lick it...
@@ -4542,7 +4544,7 @@
 		<baby>
 			Bieeeeen! Bieeeeen!!!
 			%name doesn't get it, nyaaa!!
-			Uuu uuu, it feews gwooss!!!
+			Poo-poo feews gwooss!!!
 			Yu-pyaa!! It's stinkies~!!!
 			Make %name cwean-cwean!!!
 			You shitty pawent!! Huwwy up and lick-lick %name!!!
@@ -4551,7 +4553,7 @@
 		<child>
 			Bieeeen! Bieeeen!!!
 			%name doesn't get it, nyaaa!!
-			Uu~ it feels yucky!!!
+			Poo-poo feels yucky!!!
 			Yu-pyaaa! It's stinkyyy!!!
 			Make %name cwean-cwean!!!
 			You shitty pawent! Huwwy up and lick-lick %name!!!
