@@ -29,7 +29,7 @@ with the translated versions from this repository and run build.bat.
 🔴 ayaya_ev_j.txt
 🔴 ayaya_j.txt
 🟡 chen_ev_j.txt
-🟡 chen_j.txt
+🟢 chen_j.txt
 🔴 chiruno_ev_j.txt
 🔴 chiruno_j.txt
 🔴 deibu_ev_j.txt
