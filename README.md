@@ -4,7 +4,8 @@ An English translation project for [SimYukkuri2021](https://github.com/sin-orb/S
 a simulation game featuring Yukkuri characters from the Touhou fandom.
 
 ### A Note on the Translations
-Just a heads up: to handle the sheer volume of text, I used a couple of local AI models (`unsloth/gemma-4-31B-it-GGUF` and `tencent/HY-MT1.5-7B`) to do the heavy lifting for the initial translations. 
+Just a heads up: to handle the sheer volume of text, I used a couple of local AI models (`unsloth/gemma-4-31B-it-GGUF` and `tencent/HY-MT1.5-7B`) to do the heavy lifting for the initial translations. I'm also using a cloud AI model (`google/gemini-3.1-pro`) to assist
+me in the review.  
 
 I have gone through and hand-edited the output to make sure the specific Yukkuri speech patterns, lisps, and catchphrases are as accurate as possible. However, because it's AI-assisted, you might still spot an occasional weird sentence, dropped context, or machine translation quirk. If you run into anything totally broken, feel free to let me know!
 
@@ -28,7 +29,7 @@ with the translated versions from this repository and run build.bat.
 🔴 alice_j.txt
 🔴 ayaya_ev_j.txt
 🔴 ayaya_j.txt
-🟡 chen_ev_j.txt
+🟢 chen_ev_j.txt
 🟢 chen_j.txt
 🔴 chiruno_ev_j.txt
 🔴 chiruno_j.txt

@@ -1,6 +1,8 @@
 # ==============================================================================
 # WARNING: AI TRANSLATION NOTICE
-# This file was translated using a Local AI model (unsloth/gemma-4-31B-it-GGUF).
+# This file was translated using a Local AI model (unsloth/gemma-4-31B-it-GGUF)
+# and a cloud model (google/gemini-3.1-pro).
+# It has been manually reviewed and corrected.
 # ==============================================================================
 
 # レイパー怯え
@@ -148,13 +150,13 @@
 [EngageUnunSlave]
 	<normal>
 		<baby>
-			Yukkuwi who can't take it easy gonna be an unun-swave, you bettew get it, nya~!
+			Yukkuwi who can't take it easy gonna be an poo-poo-swave, you bettew get it, nya~!
 		</baby>
 		<child>
-			Yukkuwi who can't take it easy is gonna be a nodding swave~!
+			Yukkuwi who can't take it easy is gonna be a poo-poo swave~!
 		</child>
 		<adult>
-			A yukkuri who can't take it easy will be made into an unun-slave, nya~!
+			A yukkuri who can't take it easy will be made into an poo-poo-slave, nya~!
 		</adult>
 	</normal>
 [/EngageUnunSlave]
@@ -216,9 +218,9 @@
 			Mishtew Fathew, Mishtew Bean Pashte mustn't come out~!!
 		</child>
 		<adult>
-			Mister Father, are you okay?
-			Mister Father, pull yourself together~!
-			Mister Father, Mister Choko can't go in~!
+			Mister Papa, are you okay?
+			Mister Papa, pull yourself together~!
+			Mister Papa, Mister Choko can't go in~!
 		</adult>
 	</normal>
 [/ConcernAboutFather]
@@ -828,7 +830,7 @@
 	<normal>
 		<baby>
 			Taking it eafy~!! %name gets it, nya~!!
-			It's eafy-chi~!!
+			It's Suii~!!
 			Who's fashtew, %name or you~?
 		</baby>
 		<child>
@@ -838,7 +840,7 @@
 		</child>
 		<adult>
 			Taking it easy~! %name gets it, nya~!
-			You're such a relaxed Sui~!
+			You're such a relaxed Suii~!
 			I wonder who's faster, %name or you~?
 		</adult>
 	</normal>
@@ -848,26 +850,26 @@
 [WantingSui]
 	<normal>
 		<baby>
-			%name wants Shui too, nya!
+			%name wants Suiii too, nya!
 		</baby>
 		<child>
-			%name wants a Shui too, nya~!
+			%name wants a Suiii too, nya~!
 		</child>
 		<adult>
-			%name wants Mister Sui, huh~! nya!
-			%name wants Mister Sui too, huh~! nya!
+			%name wants Mister Suii, huh~! nya!
+			%name wants Mister Suii too, huh~! nya!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%name wants Sui too, you bettew get it, nya~!
+			%name wants Suii too, you bettew get it, nya~!
 		</baby>
 		<child>
-			%name wants a Sui too, you bettew get it, nya~!
+			%name wants a Suii too, you bettew get it, nya~!
 		</child>
 		<adult>
-			%name wants Sui, you better get it, nya~!
-			%name wants Sui too, you better get it, nya~!
+			%name wants Suii, you better get it, nya~!
+			%name wants Suii too, you better get it, nya~!
 		</adult>
 	</rude>
 [/WantingSui]
@@ -923,9 +925,9 @@
 			%dummy
 		</child>
 		<adult>
-			Get Mister Sui ready for %name's little one~!
-			Without Mister Sui, %name's little one can't take it easy~! You better get it, nya!
-			Shitty slave, get Mister Sui ready for %name's little one~!
+			Get Mister Suii ready for %name's little one~!
+			Without Mister Suii, %name's little one can't take it easy~! You better get it, nya!
+			Shitty slave, get Mister Suii ready for %name's little one~!
 		</adult>
 	</rude>
 [/WantingSuiParent]
@@ -934,16 +936,16 @@
 [FindSui]
 	<normal>
 		<baby>
-			Yay! It's Mishtew Sui, nya~!
-			Mishtew Sui gets it, nya~!
+			Yay! It's Mishtew Suii, nya~!
+			Mishtew Suii gets it, nya~!
 		</baby>
 		<child>
-			Yay~! It's Shui~!
-			Mishtew Shui gets it, nya~!
+			Yay~! It's Suiii~!
+			Mishtew Suiii gets it, nya~!
 		</child>
 		<adult>
-			That's Sui, nya~!
-			So it's Sui~ %name gets it, nya~!
+			That's Suii, nya~!
+			So it's Suii~ %name gets it, nya~!
 		</adult>
 	</normal>
 [/FindSui]
@@ -1002,13 +1004,13 @@
 [FindGetSuiOtner]
 	<normal>
 		<baby>
-			Put %name on da Sui too, nya~!
+			Put %name on da Suii too, nya~!
 		</baby>
 		<child>
-			Put %name on Mishtew Sui too, nya!
+			Put %name on Mishtew Suii too, nya!
 		</child>
 		<adult>
-			Let %name ride Mister Sui too, nya!
+			Let %name ride Mister Suii too, nya!
 		</adult>
 	</normal>
 	<rude>
@@ -1016,10 +1018,10 @@
 			%name wants to wide the swide too, you bettew get it, nya~!
 		</baby>
 		<child>
-			%name also wants to wide Mishtew Sui, you bettew get it, nya~!
+			%name also wants to wide Mishtew Suii, you bettew get it, nya~!
 		</child>
 		<adult>
-			%name wants to ride Sui too, you better get it, nya!
+			%name wants to ride Suii too, you better get it, nya!
 		</adult>
 	</rude>
 [/FindGetSuiOtner]
@@ -1028,24 +1030,24 @@
 [WantRideSuiOtner]
 	<normal>
 		<baby>
-			%name wants a wide on Sui too, nya~!
+			%name wants a wide on Suii too, nya~!
 		</baby>
 		<child>
-			Let %name wide on Sui too, nya!
+			Let %name wide on Suii too, nya!
 		</child>
 		<adult>
-			Let %name ride on Sui too, nya~!
+			Let %name ride on Suii too, nya~!
 		</adult>
 	</normal>
 	<rude>
 		<baby>
-			%name too wants to wide Sui, you bettew get it, nya~!
+			%name too wants to wide Suii, you bettew get it, nya~!
 		</baby>
 		<child>
-			%name also wants to wide Sui-ni, you bettew get it, nya~!
+			%name also wants to wide Suii-ni, you bettew get it, nya~!
 		</child>
 		<adult>
-			%name wants to ride Mister Sui too, you better get it, nya~!
+			%name wants to ride Mister Suii too, you better get it, nya~!
 		</adult>
 	</rude>
 [/WantRideSuiOtner]
@@ -1194,17 +1196,17 @@
 [hasSui]
 	<normal>
 		<baby>
-			%name haz Mishtew Sui~, nya!
-			%name ashked Mishtew Big Shishtew to buy Mishtew Sui~, nya!
+			%name haz Mishtew Suii~, nya!
+			%name ashked Mishtew Big Shishtew to buy Mishtew Suii~, nya!
 		</baby>
 		<child>
-			%name has a Sui, nya!
-			Mishtew Big Shishew bought %name a Sui because %name ashked, nya!
+			%name has a Suii, nya!
+			Mishtew Big Shishew bought %name a Suii because %name ashked, nya!
 		</child>
 		<adult>
-			%name has a Sui, nya~!
-			%name asked Mister Older Sister to buy a Sui, nya~!
-			%name is truly happy to be Sui's Mister Owner, nya~!
+			%name has a Suii, nya~!
+			%name asked Mister Older Sister to buy a Suii, nya~!
+			%name is truly happy to be Suii's Mister Owner, nya~!
 		</adult>
 	</normal>
 	<rude>
@@ -1213,13 +1215,13 @@
 			%name ashed Mishtew Shishtew to buy Mishtew Shweet-shweets! She's so easy, nya!
 		</baby>
 		<child>
-			%name has Mishtew Sui, nya!
-			%name ashked Mishtew Big Shishtew to buy Mishtew Sui! Sho eashy, nya!
+			%name has Mishtew Suii, nya!
+			%name ashked Mishtew Big Shishtew to buy Mishtew Suii! Sho eashy, nya!
 		</child>
 		<adult>
-			%name has a Sui, nya!
-			%name asked Mister Older Sister to buy a Sui, nya! What a push-over, nya!
-			Sui... that's an adult's luxury, nya...
+			%name has a Suii, nya!
+			%name asked Mister Older Sister to buy a Suii, nya! What a push-over, nya!
+			Suii... that's an adult's luxury, nya...
 		</adult>
 	</rude>
 [/hasSui]
@@ -1366,8 +1368,8 @@
 			Daddy! Take it easy~!
 		</child>
 		<adult>
-			%name's Mister Father! You're taking it easy, nya~!
-			Mister Father! Please take it easy, nya~!
+			%name's Mister Papa! You're taking it easy, nya~!
+			Mister Papa! Please take it easy, nya~!
 		</adult>
 	</normal>
 	<rude>
@@ -1380,8 +1382,8 @@
 			Mishtew Father! Take it easy~!
 		</child>
 		<adult>
-			%name's Mister Father! Taking it easy, nya~!
-			Mister Father! Take it easy and stay, nya~!
+			%name's Mister Papa! Taking it easy, nya~!
+			Mister Papa! Take it easy and stay, nya~!
 		</adult>
 	</rude>
 [/GladAboutFather]
@@ -1398,8 +1400,8 @@
 			Mistew Fathew! Take it easy~!
 		</child>
 		<adult>
-			%name's father! You're taking it easy, nya~!
-			Father! Please take it easy, nya~!
+			%name's papa! You're taking it easy, nya~!
+			Papa! Please take it easy, nya~!
 		</adult>
 	</normal>
 	<rude>
@@ -1412,8 +1414,8 @@
 			Mishtew Fathew! Take it easy~!
 		</child>
 		<adult>
-			%name's Mister Father! You're taking it easy, huh~!
-			Mister Father! Take it easy and stay~!
+			%name's Mister Papa! You're taking it easy, huh~!
+			Mister Papa! Take it easy and stay~!
 		</adult>
 	</rude>
 [/GladAboutMother]
@@ -1773,9 +1775,9 @@
 			%name is being such a gwud giww... why won't Mishtew Daddy let %name take it easy, nya~?
 		</child>
 		<adult>
-			%name is envious of Mister Father...
-			Mister Father... %name wants to take it easy too...
-			%name is being such a good girl... why won't Mister Father let %name take it easy~?
+			%name is envious of Mister Papa...
+			Mister Papa... %name wants to take it easy too...
+			%name is being such a good girl... why won't Mister Papa let %name take it easy~?
 		</adult>
 	</normal>
 	<rude>
@@ -1788,8 +1790,8 @@
 			Mishtew Father who won't let %name take it easy is a shitty Mishtew Father~...
 		</child>
 		<adult>
-			Mister Father is so unfair, nya~...
-			Mister Father won't let %name take it easy, so he's a shitty Mister Father, nya~...
+			Mister Papa is so unfair, nya~...
+			Mister Papa won't let %name take it easy, so he's a shitty Mister Papa, nya~...
 		</adult>
 	</rude>
 [/HateWithEnvyAboutFather]
@@ -1823,8 +1825,8 @@
 			Mama who won't let %name take it easy is a shitty mama...
 		</child>
 		<adult>
-			Mother is just being unfair~,,, nya!
-			Mother, who won't let %name take it easy, is a shitty mother~,,, nya!
+			Mama is just being unfair~,,, nya!
+			Mama, who won't let %name take it easy, is a shitty mama~,,, nya!
 		</adult>
 	</rude>
 [/HateWithEnvyAboutMother]
@@ -2007,7 +2009,7 @@
 			Hehe, even though you'we just a shitty swave, it feels pwetty good~
 		</child>
 		<adult>
-			*Nuzzle-nuzzle*♪ Shitty geezer, give %name more rewards!
+			*Rub-rub-rub-rub*♪ Shitty geezer, give %name more rewards!
 			Ufufu, this feels pretty good for a shitty slave.
 			Mister Big Brother... this feels too good for a slave!
 		</adult>
@@ -2096,7 +2098,7 @@
 		<adult>
 			Yuwaaaaaan!! %name is so jealous of big sister!!
 			Yuuu... even though we're the same yukkuri, why is it big sister~?
-			Yuuu... %name wants to nuzzle Mister Brother too~!!!
+			Yuuu... %name wants to rub-rub Mister Brother too~!!!
 		</adult>
 	</normal>
 	<rude>
@@ -2131,7 +2133,7 @@
 		<adult>
 			Yuwaaaaaan!! %name is so jealous of little sister~!
 			Yuuu... even though we're the same yukkuri... why is it little sister~?
-			Yuuu... %name wants to nuzzle-nuzzle with Mister Brother too~!!!
+			Yuuu... %name wants to rub-rub with Mister Brother too~!!!
 		</adult>
 	</normal>
 	<rude>
@@ -2199,14 +2201,14 @@
 # うんうん(親側)
 [ShitExercisesUNUNFrom]
 	<normal>
-		♪ Mishtew Un-un is goin' out too~ ♪
+		♪ Mishtew Poo-poo is goin' out too~ ♪
 	</normal>
 [/ShitExercisesUNUNFrom]
 
 # イベント終了(親側)
 [ShitExercisesENDFrom]
 	<normal>
-		Yu-nyaa~n! You'we a heawthy wittwe Mister Un-un today too~!
+		Yu-nyaa~n! You'we a heawthy wittwe Mister Poo-poo today too~!
 		Yuwaaa~... wittwe one, you'we so cute!
 	</normal>
 [/ShitExercisesENDFrom]
@@ -2997,10 +2999,10 @@
 			%name is an endless nuisance and trash of the world~!!! I'm so sowwy~!!!
 			%name is an endless nuisance and trash of the world~!!! I'm sowwy~!! Please forgive %name~!!!
 			%name is an endless nuisance and trash of the world~!!! I apologize!! %name repents~!!!
-			%name is nothing but raw garbage~!!! I'm sowwy! I'm so sowwy~!!!
-			%name is nothing but raw garbage~!!! Please forgive %name~!!!
-			%name is nothing but raw garbage~!!! I apologize!! I apologize~!!!
-			%name is nothing but raw garbage~!!! I'm so sowwy~!!!
+			%name is nothing but poo-poo~!!! I'm sowwy! I'm so sowwy~!!!
+			%name is nothing but poo-poo~!!! Please forgive %name~!!!
+			%name is nothing but poo-poo~!!! I apologize!! I apologize~!!!
+			%name is nothing but poo-poo~!!! I'm so sowwy~!!!
 			%name was way too arrogant! Please forgive %name~!!! Please, I beg you~!!
 			%name was way too arrogant! I apologize!! I apologize~!!!
 			%name was way too arrogant! I'm sowwy! I'm so sowwy~!!!
@@ -3180,10 +3182,10 @@
 			%name is a piece of trash of the world~!!! %name is so sowwy~!!!
 			%name is a piece of trash of the world~!!! I'm sowwy~!! Please forgive %name~!!!
 			%name is a piece of trash of the world~!!! %name apologizes!! %name will reflect on it~!!!
-			%name is just raw trashy waste~!!! I'm sowwy! I'm sowwy~!!
-			%name is just raw trashy waste~!!! Please forgive %name~!!!
-			%name is just raw trashy waste~!!! %name apologizes!! %name apologizes~!!!
-			%name is just raw trashy waste~!!! %name is so sowwy~!!!
+			%name is just poo-poo~!!! I'm sowwy! I'm sowwy~!!
+			%name is just poo-poo~!!! Please forgive %name~!!!
+			%name is just poo-poo~!!! %name apologizes!! %name apologizes~!!!
+			%name is just poo-poo~!!! %name is so sowwy~!!!
 			%name admits defeat~!!! So please! Stop it now~!!! Please...!!
 			%name admits defeat~!!! So please! Stop it now~!!! %name can't take it easy~!!!
 			%name is completely defeated...!! I'm sowwy~!!!
@@ -3656,7 +3658,7 @@
 			%name is a lowlife!! A useless slow-poke!! %name admits it! Twash of the wowld!! So I beg youuuu!!! %name doesn't want to die yetttt!!!
 			%name is a lowlife!! A useless slow-poke!! Twash of the wowld!! %name admits it! So just this once, pwease spare %nameeeee!!!
 			%name is a lowlife!! A useless slow-poke!! Twash of the wowld!!
-			Yuuuuuu!!! %name surwenders!! %name will nod and obey!! %name will become a nod-nod swave!! Soooo!!!
+			Yuuuuuu!!! %name surwenders!! %name will poo-poo and obey!! %name will become a poo-poo swave!! Soooo!!!
 			%name surwenders!! Pwease believe %name!!! So don't kiww %nameeeee!!!
 			%name surwenders!! %name is gonna dieeee!! %name's gonna dieeeeeeee!!! Mowcy!! Pwease give %name mowcyyyyy!!!
 			%name surwenders!! Shave %nameeee!! Shave %nameeeee! Pwease forgive twash-scum %nameeeee!!!
@@ -3783,7 +3785,7 @@
 			%name too... is alive... is alive~!!
 			%name is very cute, right? %name can sing songs too~~? Yu~n yuyu~~n!!
 			%name can stretch~? Cute, right~!!??
-			%name can do the nod-nod exercise~!! %name is a very good girl, right~!!!
+			%name can do the poo-poo exercise~!! %name is a very good girl, right~!!!
 			Yuuuuu!!! Why~!! Why is this happening~!!!
 			Even though %name didn't do anything wrong...
 			Iiiiii!!! Why~!!!
@@ -3797,7 +3799,7 @@
 			%name is very cute, right? %name can sing songs too~~? Yu~n yuyu~~n!! So please forgive %name~!!! Please, I beg you~!!
 			%name is very cute, right? %name can sing songs too~~? Yu~n yuyu~~n!! Just please spare %name's Mister Life~!!!
 			%name can stretch~? Cute, right~!!??
-			%name can do the nod-nod exercise~!! %name is a very good girl, right~!!! So please spare %name's Mister Life~!!!
+			%name can do the poo-poo exercise~!! %name is a very good girl, right~!!! So please spare %name's Mister Life~!!!
 			Yuuuuu!!! Why~!! Why is this happening~!!!
 			Yunyaaaaa!!! Please spare %name~!!! Even though %name didn't do anything wrong, why is this happening~!!!
 			Iiiiii!!! Why~!! Why~!!!
@@ -3867,7 +3869,7 @@
 			Yuyu!! %name's compwete victowy!! Don't just give a tiny bit of shweet-shweets!! A tiny bit wiww do!!
 			Shitty Mister Human, you'we looking down on %name!! Shitty Mister Human, you'we tweating %name wike a baby!! %name is fowious!!
 			Yuyu!! Shitty Mister Human, you'we looking down on %name!!
-			Yupupupupu! Shitty Mister Human wost!! Now what!! Sowwy fow being so cute!!
+			Yupupupupu! Shitty Mister Human wost!! Now what!! Sowwy fow being so cute!! %name
 			Yu... Yufufu... Shitty Mister Human wost!! Now what!! Bwing shweet-shweets!! A tiny bit is fine!!
 			You! Woser dog!! Now what!! Bwing shweet-shweets!! A tiny bit is fine!! %name is gonna weave you awone!! Are you scawed of %name?
 			You! Woser dog!! Now what!! Bwing shweet-shweets!! A tiny bit is fine!! %name is gonna weave you awone!!
