@@ -67,7 +67,7 @@ with the translated versions from this repository and run build.bat.
 🔴 reimu_j.txt
 🔴 reimumarisa_ev_j.txt
 🔴 reimumarisa_j.txt
-🟡 remirya_ev_j.txt
+🟢 remirya_ev_j.txt
 🟢 remirya_j.txt
 🔴 sakuya_ev_j.txt
 🔴 sakuya_j.txt
