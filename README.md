@@ -81,8 +81,8 @@ with the translated versions from this repository and run build.bat.
 🔴 tenko_j.txt
 🔴 udonge_ev_j.txt
 🔴 udonge_j.txt
-🔴 yurusanae_ev_j.txt
-🔴 yurusanae_j.txt
+🟡 yurusanae_ev_j.txt
+🟢 yurusanae_j.txt
 🔴 yuuka_ev_j.txt
 🔴 yuuka_j.txt
 🔴 yuyuko_ev_j.txt
