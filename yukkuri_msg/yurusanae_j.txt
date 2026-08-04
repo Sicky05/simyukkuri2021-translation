@@ -1,0 +1,3798 @@
+﻿# ==============================================================================
+# WARNING: AI TRANSLATION NOTICE
+# This file was translated using a cloud model (google/gemini-3.1-pro)
+# and manually reviewed by a human.
+# ==============================================================================
+
+# 餌発見
+[WantFood]
+	<normal>
+		<baby>
+			It'sh Mishtew Food, ishn't it!
+			Shomehow it shmewwsh tashty!
+			Dank you vewy much, mishtew!
+			%name wiww take it eajy and have shome!
+		</baby>
+		<child>
+			It'sh Mishtew Food, ishn't it!
+			Shomehow it shmewwsh tashty!
+			Dank you vewy much, mishtew!
+			%name wiww take it eajy and have shome!
+		</child>
+		<adult>
+			It's Mister Food, isn't it!
+			Somehow it smells tasty!
+			Thank you very much, mister!
+			%name will take it easy and enjoy it!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Dish ish %name'sh Mishtew Food!
+			Shomehow it shmewwsh tashty!
+			Dank you vewy much, mishtew!
+			%name wiww take it eajy and have shome!
+			%name ish way bettew at wawking dan Weimu!
+		</baby>
+		<child>
+			Dish ish %name'sh Mishtew Food!
+			Shomehow it shmewwsh tashty!
+			Dank you vewy much, mishtew!
+			%name wiww take it eajy and have shome!
+			%name ish way bettew at wawking dan Weimu!
+		</child>
+		<adult>
+			It's Mister Food, isn't it!
+			Somehow it smells tasty!
+			Thank you very much, mister!
+			%name will take it easy and enjoy it!
+		</adult>
+	</rude>
+[/WantFood]
+
+# 餌なし
+[NoFood]
+	<normal>
+		<baby>
+			Dewe ish no Mishtew Food, you know?
+			Tummy ish empty!
+			<damage>
+				Uuu...
+				Pweashe give Mishtew Food...
+			</damage>
+		</baby>
+		<child>
+			Dewe ish no Mishtew Food, you know?
+			Tummy ish empty!
+			<damage>
+				Uuu...
+				Pweashe give Mishtew Food...
+			</damage>
+		</child>
+		<adult>
+			There is no Mister Food, you know?
+			Tummy is empty!
+			<damage>
+				Uuu...
+				Please give Mister Food...
+			</damage>
+		</adult>
+	</normal>
+[/NoFood]
+
+# 番要求
+[WantPartner]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			It's about time for %name to settle down...
+			%name also wants a partner soon...
+			%name wants little ones...
+			%name is of the age to want to get married...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			%name wantsh cute wittwe onesh!
+			%name wantsh to wewcome a handshome one ash a pawtnew...
+			%name wantsh to be togedew wid a yukkuwi who can take it eajy...
+			%name wantsh to take it eajy wid wittwe onesh...
+			%name wantsh to take it eajy fowevew wid a yukkuwi who can take it eajy...
+		</child>
+		<adult>
+			%name wants cute little ones!
+			%name wants to welcome a handsome one as a partner...
+			%name wants to be together with a yukkuri who can take it easy...
+			%name wants to take it easy with little ones...
+			%name wants to take it easy forever with a yukkuri who can take it easy...
+			You should prepare a miraculously special partner for %name!
+		</adult>
+	</rude>
+[/WantPartner]
+
+# 発情
+[Excite]
+	<normal>
+		<baby>
+			Pweashe accept %name'sh wove!
+			Even dough %name ish a giww, Mishtew Peni-peni ish tingwing!
+		</baby>
+		<child>
+			Pweashe accept %name'sh wove!
+			Even dough %name ish a giww, Mishtew Peni-peni ish tingwing!
+		</child>
+		<adult>
+			Please accept %name's love!
+			Wants to refresh!
+		</adult>
+	</normal>
+[/Excite]
+
+# れいぱー化して発情
+[ExciteForRaper]
+	<normal>
+		<baby>
+			%name wantsh to feew good too!
+		</baby>
+		<child>
+			%name wantsh to feew good too!
+		</child>
+		<adult>
+			%name wants to feel good too!
+		</adult>
+	</normal>
+[/ExciteForRaper]
+
+# ぺにぺに切断
+[PenipeniCutting]
+	<normal>
+		<baby>
+			%name'sh Mishta penipeni?! Ich huwchhhhhhhsh!
+			Mishtew, you'we sho cwuew! Give %name'sh Mishtew peni-peni back!
+		</baby>
+		<child>
+			%name'sh Mishta penipeni?! Ich huwchhhhhhhsh!
+			Mishtew, you'we sho cwuew! Give %name'sh Mishtew peni-peni back!
+		</child>
+		<adult>
+			%name'sh Mishta penipeni?! Ich huwchhhhhhhsh!
+			Mister, you're so cruel! Give %name's Mister peni-peni back!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name'sh Mishta penipeni?! Ich huwchhhhhhhsh!
+			It huuuwtsh! What awe you doing to %name'sh Mishtew peni-peni?
+		</baby>
+		<child>
+			%name'sh Mishta penipeni?! Ich huwchhhhhhhsh!
+			It huuuwtsh! What awe you doing to %name'sh Mishtew peni-peni?
+		</child>
+		<adult>
+			Give %name's Mister penipeni baaack!!!
+			Yunnyaaa! Just because your own peni-peni is like a baby's, don't be jealous of %name, that's so mean!
+		</adult>
+	</rude>
+[/PenipeniCutting]
+
+# ぺにぺに切断後
+[PenipeniCutted]
+	<normal>
+		<baby>
+			Mishta penipeni...
+		</baby>
+		<child>
+			Mishta penipeni...
+		</child>
+		<adult>
+			Mister penipeni...
+			Mister Peni-peni is gone... it's gone...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Mishta penipeni...
+		</baby>
+		<child>
+			Mishta penipeni...
+		</child>
+		<adult>
+			Mister penipeni...
+			Wanted to refresh more...
+		</adult>
+	</rude>
+[/PenipeniCutted]
+
+# ぺにぺにをつかえない
+[CantUsePenipeni]
+	<normal>
+		<baby>
+			%name wanted wittwe onesh too...
+		</baby>
+		<child>
+			%name wanted wittwe onesh too...
+		</child>
+		<adult>
+			%name wanted little ones too...
+			Can't let the little ones go through something like this...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name wanted wittwe onesh too...
+		</baby>
+		<child>
+			%name wanted wittwe onesh too...
+		</child>
+		<adult>
+			%name wanted little ones too...
+			Wanted to refresh more...
+			Can't let the little ones go through something like this...
+		</adult>
+	</rude>
+[/CantUsePenipeni]
+
+# リラックス
+[Relax]
+	<normal>
+		<baby>
+			%name ish %name! Pweashe take it eajy!
+			%name ish taking it eajy!
+			Mishtew, pweashe take it eajy too!
+			When mishtew takesh it eajy, %name can take it eajy too!
+			<pants>
+			%name ish %name! Pweashe take it eajy!
+			Mishtew, pweashe take it eajy too!
+			What an eajy Mishtew diapew!
+			Diapew!
+			Yukyakya!
+			</pants>
+		</baby>
+		<child>
+			%name ish %name! Pweashe take it eajy!
+			%name ish taking it eajy!
+			Mishtew, pweashe take it eajy too!
+			When mishtew takesh it eajy, %name can take it eajy too!
+			<pants>
+			%name ish %name! Pweashe take it eajy!
+			Mishtew, pweashe take it eajy too!
+			What eajy Mishtew cwodes!
+			Mishtew cwodes can take it eajy!
+			Mishtew! Dank you vewy much fow de Mishtew cwodes!
+			</pants>
+		</child>
+		<adult>
+			%name is %name! Please take it easy!
+			%name is taking it easy!
+			Mister, please take it easy too!
+			When mister takes it easy, %name can take it easy too!
+			<pants>
+			%name is %name! Please take it easy!
+			Mister, please take it easy too!
+			What easy Mister clothes!
+			Mister! Thank you very much for the wonderful Mister clothes!
+			</pants>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name ish %name! Pweashe take it eajy!
+			%name ish a choshen yukkuwi!
+			%name ish a wawe yukkuwi!
+			%name ish way bettew at shinging dan Weimu!
+			Weimu ish an embawwashshment to yukkuwish!
+			%name ish way shmawtew dan Weimu!
+			%name ish way bettew at shinging dan Weimu!
+			<pants>
+			%name ish %name! Pweashe take it eajy!
+			What eajy Mishtew cwodes!
+			%name ish a choshen yukkuwi!
+			Diapew!
+			Yukyakya!
+			</pants>
+		</baby>
+		<child>
+			%name ish %name! Pweashe take it eajy!
+			%name ish a choshen yukkuwi!
+			%name ish a wawe yukkuwi!
+			%name ish way bettew at shinging dan Weimu!
+			Weimu ish an embawwashshment to yukkuwish!
+			%name ish way shmawtew dan Weimu!
+			%name ish way bettew at shinging dan Weimu!
+			<pants>
+			%name ish %name! Pweashe take it eajy!
+			What eajy Mishtew cwodes!
+			%name ish a choshen yukkuwi!
+			</pants>
+		</child>
+		<adult>
+			%name is %name! Please take it easy!
+			%name is a chosen yukkuri!
+			%name is way better at singing than Reimu!
+			Don't want to be grouped together with scum like Reimu!
+			Reimu is an embarrassment to yukkuris!
+			<pants>
+			%name is %name! Please take it easy!
+			What easy Mister clothes!
+			%name is a chosen yukkuri!
+			</pants>
+		</adult>
+	</rude>
+[/Relax]
+
+# おくるみをはいてリラックス
+[RelaxOkurumi]
+	<normal>
+		<baby>
+			<pants>
+				Mishtew cwodes can take it vewy eajy!
+			</pants>
+		</baby>
+		<child>
+			<pants>
+				Mishtew cwodes can take it vewy eajy!
+			</pants>
+		</child>
+		<adult>
+			<pants>
+				Mister clothes can take it very easy!
+			</pants>
+		</adult>
+	</normal>
+[/RelaxOkurumi]
+
+# 尻振り
+[FuriFuri]
+	<normal>
+		<baby>
+			Woww-woww!
+			It'sh a dance☆
+			Wowwing, wowwing♪
+		</baby>
+		<child>
+			Woww-woww!
+			It'sh a dance☆
+			Wowwing, wowwing♪
+		</child>
+		<adult>
+			Roll-roll!
+			Please take it easy with %name's dance!
+		</adult>
+	</normal>
+[/FuriFuri]
+
+# キリッ
+[BeVain]
+	<normal>
+		*Stand sharp!*
+		Take it easy!
+	</normal>
+[/BeVain]
+
+# ゆっくりしていってください！
+[TakeItEasy]
+	<normal>
+		<baby>
+			Pweashe take it eajy!
+		</baby>
+		<child>
+			Pweashe take it eajy!
+		</child>
+		<adult>
+			Please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Pweashe take it eajy!!!
+		</baby>
+		<child>
+			Pweashe take it eajy!!!
+		</child>
+		<adult>
+			Please take it easy!!!
+		</adult>
+	</rude>
+[/TakeItEasy]
+
+# 起床
+[Wakeup]
+	<normal>
+		<baby>
+			Pweashe take it eajy!
+		</baby>
+		<child>
+			Pweashe take it eajy!
+		</child>
+		<adult>
+			Please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Pweashe take it eajy!!!
+		</baby>
+		<child>
+			Pweashe take it eajy!!!
+		</child>
+		<adult>
+			Please take it easy!!!
+		</adult>
+	</rude>
+[/Wakeup]
+
+# 睡眠
+[Sleep]
+	<normal>
+		<baby>
+			Yupi... yupi...
+			Yupipi..Yupipi..
+		</baby>
+		<child>
+			Yupi... yupi...
+			Yupipi..Yupipi..
+		</child>
+		<adult>
+			Suya-suya...
+		</adult>
+	</normal>
+[/Sleep]
+
+# 悲鳴
+[Scream]
+	<normal>
+		<baby>
+			It huuuwtsh!
+			Pweashe shtop!
+			Mommyyy!
+			Ittt huuuwtshshsh!!!
+			Wet %name take it eajyyy!!!
+			<damage>
+				It huwtsh... it huwtsh...
+				Pweashe shave %name...
+				Pweashe shtop...
+				%name wash a bad giww...
+			</damage>
+		</baby>
+		<child>
+			It huuuwtsh!
+			Pweashe shtop!
+			Mommyyy!
+			Ittt huuuwtshshsh!!!
+			Wet %name take it eajyyy!!!
+			<damage>
+				It huwtsh... it huwtsh...
+				Pweashe shave %name...
+				Pweashe shtop...
+				%name wash a bad giww...
+			</damage>
+		</child>
+		<adult>
+			It huuurts!!!
+			Please stop, please stop!
+			%name didn't do anything bad!
+			<damage>
+				It hurts...
+				Please stop...
+				%name didn't do anything bad...
+			</damage>
+		</adult>
+	</normal>
+[/Scream]
+
+# 悲鳴2
+[Scream2]
+	<normal>
+		Yupiiiiiiiii!!
+		Yugipiiiiiiii!!!
+		Yupiiiiiiiii!!!
+		piiiiiiiiii!!
+		Yubaaahhhhhhhhhhhhhhhhhhhhh!!!
+		Yugegibibibibibibibibibibiii!!!
+		pigiiiiiiiii!!
+		Yugogeeeeeeeeeeeeeeeeeeeeee!!
+		Yugyoohhhhhhhhhhhhhhhhhhhhh!!!
+		Yuaaaaaa!!!
+		Yuuuuuuuuuu!!!
+		geeeeeeeee!!!
+	</normal>
+[/Scream2]
+
+# 怯え
+[Scare]
+	<normal>
+		<baby>
+			Nooo!
+			It'sh shcawyyy!
+			Mommyyy!
+			Can't take it eajy, you know?
+			<damage>
+			Nooo... no way...
+			It'sh shcawy...
+			Mommy...
+			Can't take it eajy...
+			</damage>
+		</baby>
+		<child>
+			Nooo!
+			It'sh shcawyyy!
+			Mommyyy!
+			Can't take it eajy, you know?
+			<damage>
+			Nooo... no way...
+			It'sh shcawy...
+			Mommy...
+			Can't take it eajy...
+			</damage>
+		</child>
+		<adult>
+			Hiiik!
+			It's so scary!
+			H-Help me pwease!
+			Somehow %name can't take it easy!
+			<damage>
+				Nooo... no way...
+				Somehow %name can't take it easy...
+			</damage>
+		</adult>
+	</normal>
+[/Scare]
+
+# 警戒
+[Alarm]
+	<normal>
+		<baby>
+			Pweashe shtop!
+			Nooo!
+			Nooo! %name ish going home!
+			Mishtew, pweashe shtop!
+			Apowogize to cute %name!
+			<damage>
+				Pweashe shtop...
+				Going home...
+			</damage>
+		</baby>
+		<child>
+			Pweashe shtop!
+			Nooo!
+			Nooo! %name ish going home!
+			Mishtew, pweashe shtop!
+			Apowogize to cute %name!
+			<damage>
+				I'm showwy, I'm showwy...
+				Going home...
+			</damage>
+		</child>
+		<adult>
+			Please stop!
+			Noooo!!!
+			Please stop, mister!
+			<damage>
+				I'm sorry, I'm sorry...
+				Please stop...
+			</damage>
+		</adult>
+	</normal>
+[/Alarm]
+
+# 瀕死
+[Dying]
+	<normal>
+		<baby>
+			Yubeh!
+		</baby>
+		<child>
+			Bukyuu!
+		</child>
+		<adult>
+			Geboo!
+		</adult>
+	</normal>
+[/Dying]
+
+# 死亡
+[Dead]
+	<normal>
+		<baby>
+			Mowe eajy...
+		</baby>
+		<child>
+			Wanted to wefwesh mowe...
+		</child>
+		<adult>
+			Still wanted to take it easy more...
+		</adult>
+	</normal>
+[/Dead]
+
+# 食事
+[Eating]
+	<normal>
+		<baby>
+			Munch-munch, tashty!
+			It tashtesh sho eajy!
+			Munch-munch, happy~♪
+			Nom-nom, hafu-hafu!
+			Dank you vewy much, mishtew!
+		</baby>
+		<child>
+			Munch-munch, tashty!
+			It tashtesh sho eajy!
+			Munch-munch, happy~♪
+			Nom-nom, hafu-hafu!
+			Dank you vewy much, mishtew!
+		</child>
+		<adult>
+			Mister Food is tasty!
+			It tastes so easy!
+			Munch-munch, happy~♪
+			Nom-nom, hafu-hafu!
+			Thank you very much, mister!
+		</adult>
+	</normal>
+[/Eating]
+
+# 食事(うんうん)
+[EatingShit]
+	<normal>
+		<baby>
+			Don't wanna eat poo-poo!
+			Poo-poo ishn't Mishtew Food, you know?
+			Waaah! Poo-poo ish sho gwoshsh!
+			Fow shomeding wike dish, abshowutewy won't fowgive you!
+			<damage>
+				Uuu... won't fowgive you!
+			    Poo-poo tashtesh sho gwoshsh...
+				It'sh shmewwy... it'sh yucky...
+			</damage>
+			<loveplayer>
+				I don'ch wanch cho each poo-poo... go back cho being de nishe Mishcha...
+				If %name did shomefing wwong, I apowogize, sho pweashe fowgibe me...
+				Yugeh! Poo-poo tashtesh sho gwoshsh...
+				Wanna eat shweet-shweetsh...
+			</loveplayer>
+		</baby>
+		<child>
+			Don't wanna eat poo-poo!
+			Poo-poo ishn't Mishtew Food, you know?
+			Waaah! Poo-poo ish sho gwoshsh!
+			Fow shomeding wike dish, abshowutewy won't fowgive you!
+			<damage>
+				Uuu... won't fowgive you!
+			    Poo-poo tashtesh sho gwoshsh...
+				It'sh shmewwy... it'sh yucky...
+			</damage>
+			<loveplayer>
+				I don'ch wanch cho each poo-poo... go back cho being de nishe Mishcha...
+				If %name did shomefing wwong, I apowogize, sho pweashe fowgibe me...
+				Yugeh! Poo-poo tashtesh sho gwoshsh...
+				Wanna eat shweet-shweetsh...
+			</loveplayer>
+		</child>
+		<adult>
+			Don't wanna eat poo-poo!
+			Poo-poo isn't Mister Food, you know?
+			Sob sob... poo-poo is gross!
+			<damage>
+				Uuu... won't forgive you!
+			    Poo-poo is gross...
+				It's smelly... it's gross...
+			</damage>
+			<loveplayer>
+				I don't want to eat poo-poo... go back to being the nice Misteeer...
+				If %name did something wrong, I apologize, so please forgive me...
+				Yugeh! Poo-poo is so gross...
+				I'm sorry... Please forgive me...
+			</loveplayer>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Don't wanna eat poo-poo!
+			Poo-poo ishn't Mishtew Food, you know?
+			Waaah! Poo-poo ish sho gwoshsh!
+			Fow shomeding wike dish, abshowutewy won't fowgive you!
+			<damage>
+				Uuu... won't fowgive you!
+			    Poo-poo tashtesh sho gwoshsh...
+				It'sh shmewwy... it'sh gwoshsh...
+			</damage>
+			<dislikeplayer>
+				Shiddy shwave each poo-poo...
+				Shiddy shwave who ish mean shouwd dieee...
+				Yubee.. I don'ch wanna each poo-poo...
+			</dislikeplayer>
+		</baby>
+		<child>
+			Don't wanna eat poo-poo!
+			Poo-poo ishn't Mishtew Food, you know?
+			Waaah! Poo-poo ish sho gwoshsh!
+			Fow shomeding wike dish, abshowutewy won't fowgive you!
+			<damage>
+				Uuu... won't fowgive you!
+			    Poo-poo tashtesh sho gwoshsh...
+				It'sh shmewwy... it'sh gwoshsh...
+			</damage>
+			<dislikeplayer>
+				Shiddy shwave each poo-poo...
+				Shiddy shwave who ish mean shouwd dieee...
+				Yubee.. I don'ch wanna each poo-poo...
+			</dislikeplayer>
+		</child>
+		<adult>
+			Don't wanna eat poo-poo!
+			Poo-poo isn't Mister Food, you know?
+			Sob sob... poo-poo is gross!
+			<damage>
+				Uuu... won't forgive you!
+			    Poo-poo is gross...
+				It's smelly... it's gross...
+			</damage>
+			<dislikeplayer>
+				Shitty slave, you eat the poo-poo...
+				Mean shitty slave, go die...
+				Don't wanna eat poo-poo... bring sweet-sweets quickly...
+			</dislikeplayer>
+		</adult>
+	</rude>
+[/EatingShit]
+
+# 餌運び
+[TransportFood]
+	<normal>
+		<baby>
+			Mishtew Food! Taking it home!
+		</baby>
+		<child>
+			Mishtew Food! Taking it home!
+		</child>
+		<adult>
+			Found Mister Food! Taking it home!
+		</adult>
+	</normal>
+[/TransportFood]
+
+# うんうん運び
+[TransportShit]
+	<normal>
+		<baby>
+			I'ww cawwy poo-poo
+			I'ww cwean up poo-poo
+			<ununSlave>
+				Cawwying poo-poo to de toiwet...
+				It'sh time to cawwy poo-poo...
+				I don'ch wanch cho cwean up poo-poo anymowe...
+				%name wantsh to take it eajy... yu, yu... yu...
+			</ununSlave>
+		</baby>
+		<child>
+			I'ww cawwy poo-poo
+			%name ish cweaning up poo-poo!
+			<ununSlave>
+				Cawwying poo-poo to de toiwet...
+				It'sh time to cawwy poo-poo...
+				I don'ch wanch cho cwean up poo-poo anymowe...
+				%name wantsh to take it eajy... yu, yu... yu...
+			</ununSlave>
+		</child>
+		<adult>
+			Heave-ho, carrying poo-poo!
+			%name is cleaning up poo-poo!
+			For the sake of the little ones, %name will endure the smelly smell!
+			The little ones' poo-poo is taking very easy!
+			<ununSlave>
+				Carrying poo-poo to the toilet...
+				It's time to carry poo-poo...
+				I don't want to clean up poo-poo anymore...
+				%name wants to take it easy... yu, yu... yu...
+			</ununSlave>
+		</adult>
+	</normal>
+[/TransportShit]
+
+# アイテムを落とす
+[DropItem]
+	<normal>
+		<baby>
+			Yu-heave!
+			Yu-heave!!
+			Dish ish today'sh achievement!
+			Today'sh wowk ish finished!
+			%name ish awweady a fuwwy capabwe aduwt!
+				<ununSlave>
+					Yu-heave...
+					Yu-heave...
+					Cawwying poo-poo again today...
+					Finawwy finished cawwying poo-poo... it'sh sho shmewwy...
+				</ununSlave>
+		</baby>
+		<child>
+			Yu-heave!
+			Yu-heave!!
+			Dish ish today'sh achievement!
+			Today'sh wowk ish finished!
+			%name ish awweady a fuwwy capabwe aduwt!
+				<ununSlave>
+					Yu-heave...
+					Yu-heave...
+					Cawwying poo-poo again today...
+					Finawwy finished cawwying poo-poo... it'sh sho shmewwy...
+				</ununSlave>
+		</child>
+		<adult>
+			Yu-heave!
+			Yu-heave!!
+			This is today's achievement!
+			Today's work is finished!
+				<ununSlave>
+					Yu-heave...
+					Yu-heave...
+					Carrying poo-poo again today...
+					Finally finished carrying poo-poo... it's so smelly...
+				</ununSlave>
+		</adult>
+	</normal>
+[/DropItem]
+
+# 食事(まずい)
+[EatingBadtasting]
+	<normal>
+		<baby>
+			Yu~, yuuu...
+			Munsh Munsh...
+			Munch-munch, it tashtesh sho bad...
+			%name wantsh to eat shomeding tashtiew...
+			%name wantsh to eat shomeding much mowe eajy...
+			Munsh Munsh... unhappineshsh...
+			Nom Nom, unhappineshsh...
+			Nom-nom, %name wantsh to eat shweet-shweetsh...
+		</baby>
+		<child>
+			Yu~, yuuu...
+			Munsh Munsh...
+			Munch-munch, it tashtesh sho bad...
+			%name wantsh to eat shomeding tashtiew...
+			%name wantsh to eat shomeding much mowe eajy...
+			Munsh Munsh... unhappineshsh...
+			Nom Nom, unhappineshsh...
+			Nom-nom, %name wantsh to eat shweet-shweetsh...
+		</child>
+		<adult>
+			Yu~, yuuu...
+			Munch Munch...
+			Munch-munch, it tastes so bad...
+			%name wants to eat something tastier...
+			%name wants to eat something much more easy...
+			Munch Munch... unhappiness...
+			Nom Nom, unhappiness...
+			It tastes not easy at all...
+			Nom-nom, %name wants to eat sweet-sweets...
+			Gulp, unhappiness...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Nom Nom, dishgushching! Hand ovew shomefing ewshe!
+			Munch-munch, %name can't eat dish! Awe you shtupid?!
+			Awfuw! Bicchew! Dish ishn'ch food ach aww!!
+			Do you dink you can feed shomeding wike dish to %name?!
+			Munsh, awfuw!
+			Why won'ch you give %name shweech-shweechsh!!
+			Munsh Munsh, %name doeshn'ch wanch cho each shomefing wige dhishh!!
+			Nom Nom... unhappineshsh...
+			Munsh Munsh.. unhappineshsh...
+			Nom, dishgushching!! Hand ovew shomefing ewshe!!
+			Huwwy up and hand ovew shweech-shweechsh!!
+			Munsh Munsh... Shiddy pawench! You can'ch  even pwepawe a pwopew meaw!!
+			Munsh Munsh, %name wanchsh cho each shomefing dach chakesh ich eajy moooowe!!!
+			No no! %name wanchsh cho each shomefing dach chakesh ich eajy moooowe!!
+			No no noo!! Awfuwww!!
+			<damage>
+				Yu,Yu,Yu...
+				Munsh Munsh...
+				Munch-munch,,, tashtesh weiwd~,,,
+				Nom Nom... unhappineshsh...
+				Munsh Munsh.. unhappineshsh...
+				Nom-nom, dish musht be shome kind of mishtake...
+				Why doesh cute %name have to eat gawbage wike dish?...
+				Nom-nom, %name wantsh to eat eashiew Mishtew Food...
+				Nom-nom, %name wantsh to eat shweet-shweetsh...
+			</damage>
+		</baby>
+		<child>
+			Nom Nom, dishgushting! Hand ovew shomefing ewshe!
+			Munch-munch, %name can't eat dish! Awe you shtupid?!
+			Awfuw! Bicchew! Dish ishn'ch food ach aww!!
+			Do you dink you can feed shomeding wike dish to %name?!
+			Munsh, awfuw!
+			Why won'ch you give %name shweech-shweechsh!!
+			Munsh Munsh, %name doeshn'ch wanch cho each shomefing wike dishh!!
+			Nom Nom, unhappineshsh...
+			Munsh Munsh.. unhappineshsh...
+			Nom, dishgushching!! Hand ovew shomefing ewshe!!
+			Huwwy up and hand ovew shweech-shweechsh!!
+			Munsh Munsh! Shiddy pawench! You can'ch even pwepawe a pwopew meaw!!
+			Munsh Munsh, %name wanchsh cho each shomefing dach chakesh ich eajy moooowe!!!
+			No no! %name wanchsh cho each shomefing dach chakesh ich eajy moooowe!!
+			<damage>
+				Yu,Yu,Yu...
+				Munsh Munsh...
+				Munch-munch,,, tashtesh weiwd~,,,
+				Nom Nom, unhappineshsh...
+				Munsh Munsh.. unhappineshsh...
+				Nom Nom, guwp, unhappineshsh...
+				Nom-nom, dish musht be shome kind of mishtake...
+				Why doesh cute %name have to eat gawbage wike dish?...
+				Nom-nom, ishn't %name pitifuw? Pweashe give %name pwopew Mishtew Food, okay?
+				Nom-nom, %name wantsh to eat eashiew Mishtew Food...
+				Nom-nom, %name wantsh to eat shweet-shweetsh...
+			</damage>
+		</child>
+		<adult>
+			Nom, Nom, disgusting! Hand over something else!
+			Munch-munch, %name cannot eat this! Are you an idiot?!
+			Awful! Bitter! This isn't food at all!!
+			Do you think you can feed something like this to %name?!
+			Munch, awful!
+			Why won't you give %name sweet-sweets!!
+			Munch munch, %name doesn't want to eat something like this!!
+			Nom Nom.. unhappiness!!
+			Nom, disgusting!! Hand over something else!!
+			Hurry up and hand over sweet-sweets!!
+			Munch munch, can a shitty slave not even prepare a proper meal!!
+			Munch munch, %name wants to eat something that takes it easy moooore!!!
+			Nom Nom, gulp, unhappiness...
+			Chomp-chomp, chomp-chomp, it tastes bad... unhappy...
+			Munch why does %name have to eat garbage like this!!
+			Nom-nom, having to eat garbage like this is the absolute height of humiliation!
+			<damage>
+				Yu,Yu,Yu...
+				Munch munch...
+				Munch-munch, tastes weird~,,,
+				Nom Nom, unhappiness...
+				Nom Nom, gulp, unhappiness...
+				Munch munch.. unhappiness...
+				Munch-munch, tastes weird~,,, unhappy~,,
+				Nom-nom, this must be some kind of mistake...
+				Why does cute %name have to eat garbage like this...
+				Nom-nom, isn't %name pitiful? Please give %name proper Mister Food, okay?
+				Nom-nom, %name wants to eat easier Mister Food...
+				Nom-nom, %name wants to eat sweet-sweets...
+			</damage>
+		</adult>
+	</rude>
+[/EatingBadtasting]
+
+# 食事(毒)
+[EatingBitter]
+	<normal>
+		<baby>
+			Dewe'sh poishon in dish!
+			Yubeh? It tashtesh sho shtwange!
+		</baby>
+		<child>
+			Dewe ish poishon in dish!
+			Yubeh? It tashtesh sho shtwange!
+		</child>
+		<adult>
+			There is poison in this!
+			Yubeh? It tastes very strange!
+		</adult>
+	</normal>
+[/EatingBitter]
+
+# 食事(嘔吐)
+[SpitFood]
+	<normal>
+		<baby>
+			Yueeeh... excushe %name...
+			Yugeeeh... excushe %name...
+			Yugeeeee...
+			Yubieeee...
+			Yuowowowowowowo... excushe %name...
+			Yububububu...
+		</baby>
+		<child>
+			Yueeeh... excushe %name...
+			Yugeeeh... excushe %name...
+			Yugeeeee...
+			Yubieeee...
+			Yuowowowowowowo... excushe %name...
+			Yububububu...
+			Why can't %name eat dish?...
+		</child>
+		<adult>
+			Yueeeh... excuse %name...
+			Yugeeeh... excuse %name...
+			Yugeeeee...
+			Yubieeee...
+			Yuororororororo... excuse %name...
+			Yububububu...
+			Why can't %name eat this?...
+		</adult>
+	</normal>
+[/SpitFood]
+
+# 満腹
+[Full]
+	<normal>
+		<baby>
+			%name ish sho fuww...
+		</baby>
+		<child>
+			%name ish sho fuww...
+		</child>
+		<adult>
+			%name cannot eat any more...
+		</adult>
+	</normal>
+[/Full]
+
+# 回復
+[Healing]
+	<normal>
+		<baby>
+			Shweet-shweetsh awe tashty!
+			eajyyy!
+			Mishtew, dank you vewy much fow de shweet-shweetsh!
+			<damage>
+				%name ish wevived!
+				%name feewsh aww bettew!
+			</damage>
+		</baby>
+		<child>
+			Shweet-shweetsh awe tashty!
+			eajyyy!
+			Mishtew, dank you vewy much fow de shweet-shweetsh!
+			<damage>
+				%name ish wevived!
+				%name feewsh aww bettew!
+			</damage>
+		</child>
+		<adult>
+			Sweet-sweets are delicious!
+			Sweet-sweets let you take it easy!
+			Mister, thank you very much for the sweet-sweets!
+			<damage>
+				%name is revived!
+				%name feels all better!
+			</damage>
+		</adult>
+	</normal>
+[/Healing]
+
+# 解放感を感じた時
+[ToFreedom]
+	<normal>
+		<baby>
+			Wefweshed!
+		</baby>
+		<child>
+			Wefweshed!
+		</child>
+		<adult>
+			Refreshed!
+		</adult>
+	</normal>
+[/ToFreedom]
+
+# 清掃された時
+[Cleaned]
+	<normal>
+		<baby>
+			Wefweshed!
+		</baby>
+		<child>
+			Wefweshed!
+		</child>
+		<adult>
+			Refreshed!
+		</adult>
+	</normal>
+[/Cleaned]
+
+# すっきり
+[Sukkiri]
+	<normal>
+		<baby>
+			Wefweshed!
+		</baby>
+		<child>
+			Wefweshed!
+		</child>
+		<adult>
+			Refreshed!
+		</adult>
+	</normal>
+[/Sukkiri]
+
+# れいぱー化してすっきりー！
+[SukkiriForRaper]
+	<normal>
+		<baby>
+			Wefweshed!!
+		</baby>
+		<child>
+			Wefweshed, Wefweshed, Wefwesheeeeeeed!!
+		</child>
+		<adult>
+			Wefweshed, Wefweshed, Wefwesheeeeeeed!!
+		</adult>
+	</normal>
+[/SukkiriForRaper]
+
+# レイパーとすっきり
+[RaperSukkiri]
+	<normal>
+		<baby>
+			Doeshn't want to wefweshhh!!!
+			Wittwe onesh, pweashe don't shpwout up!!!
+			Mommy, shave %name!!!
+			Munch-munch huwtsh!!!
+			Hate dish sho much!!!
+		</baby>
+		<child>
+			Doeshn't want to wefweshhh!!!
+			Wittwe onesh, pweashe don't shpwout up!!!
+			Mommy, shave %name!!!
+			Munch-munch huwtsh!!!
+			Hate dish sho much!!!
+		</child>
+		<adult>
+			Doesn't want to refreshhh anymore!!!
+			Little ones, please don't sprout up!!!
+			Little ones can take it easy, but this is horrible!!!
+			Mam-mam hurts so muchhh!!!
+			Somebody save %name!
+			Stop it! Hate this so much!!!
+		</adult>
+	</normal>
+[/RaperSukkiri]
+
+# 養殖プールすっきり
+[PoolSukkiri]
+	<normal>
+		<baby>
+			Doeshn't want to wefweshhh!!!
+			Wittwe onesh, pweashe don't be bown!!!
+			Mommy, shave %name!!!
+			Ich huwchhhhhhhsh!!!
+			Hate dish sho much!!!
+		</baby>
+		<child>
+			Doeshn't want to wefweshhh!!!
+			Wittwe onesh, pweashe don't be bown!!!
+			Mommy, shave %name!!!
+			Ich huwchhhhhhhsh!!!
+			Hate dish sho much!!!
+		</child>
+		<adult>
+			Doesn't want to refreshhh anymore!!!
+			Little ones, please don't be born!!!
+			Little ones can take it easy, but this is horrible!!!
+			Id hurdddddsss!!!
+			Somebody save %name!
+			Stop it! Hate this so much!!!
+		</adult>
+	</normal>
+[/PoolSukkiri]
+
+# 誕生
+[Birth]
+	<normal>
+		Take it easy! %name is %name!
+	</normal>
+[/Birth]
+
+# 排泄
+[Shit]
+	<normal>
+		<baby>
+			Mishtew Poo-poo, pweashe come out eajy!
+			Bye-bye to Mishtew Poo-poo!
+			%name can poo-poo aww by hewshewf!
+			Being watched by mishtew ish embawwashshing...
+			Yuun! Yuun!
+			<pants>
+				Yuun! Can't howd it anymowe!
+				Mishtew Poo-poo ish weaking outtt!
+				Mishtew Poo-poo, pweashe don't come out eajy!
+				Mishtew Diapew, go away shomewhewe!
+			</pants>
+			<ununSlave>
+				Poo-poo ish coming ouch...
+				Mishta poo-poo, don'ch come ouch...
+			</ununSlave>
+		</baby>
+		<child>
+			Mishtew Poo-poo, pweashe come out eajy!
+			Bye-bye to Mishtew Poo-poo!
+			%name can poo-poo aww by hewshewf!
+			Being watched by mishtew ish embawwashshing...
+			Yuun! Yuun!
+			<pants>
+				Yuun! Can't howd it anymowe!
+				Mishtew Poo-poo ish weaking outtt!
+				Mishtew Poo-poo, pweashe don't come out eajy!
+				Mishtew Cwodes, go away shomewhewe!
+			</pants>
+			<ununSlave>
+				Poo-poo ish coming ouch...
+				Mishta poo-poo, don'ch come ouch...
+			</ununSlave>
+		</child>
+		<adult>
+			D-Don't look, please...
+			I-It's embarrassing...
+			Please... don't look too much...
+			Being watched by mister is embarrassing...
+			Yuun! Yuun!
+			<pants>
+				Yuun! Can't hold it anymore!
+				Hawawaa! Mister Poo-poo is going to leak out!
+				Fueee! Can't take off Mister Pants!?
+				Please! Take off Mister Pants for %name!
+			</pants>
+			<ununSlave>
+				Poo-poo ish coming ouch...
+				Mister poo-poo, don't come out...
+			</ununSlave>
+		</adult>
+	</normal>
+[/Shit]
+
+# 排泄2
+[Shit2]
+	<normal>
+		<baby>
+			Poo-poo wefweshed!
+			Did poo-poo aww awone!
+			Pweashe cwean up Mishtew Poo-poo
+			<pants>
+				Weeehn! Weeehn!
+				Poo-poo ish shmewwy...
+				It'sh shmewwy... feewsh gwoshsh...
+				Mommy... what shouwd %name do...
+				Sho embawwashshing...
+			</pants>
+			<ununSlave>
+				Poo-poo came out...
+				Doesh %name have to eat dish poo-poo too...?
+				Mishtew Poo-poo, why did you come out...?
+			</ununSlave>
+		</baby>
+		<child>
+			Poo-poo wefweshed!
+			Did poo-poo aww awone!
+			Pweashe cwean up Mishtew Poo-poo
+			<pants>
+				Weeehn! Weeehn!
+				Poo-poo ish shmewwy...
+				It'sh shmewwy... feewsh gwoshsh...
+				Mommy... what shouwd %name do...
+				Sho embawwashshing...
+			</pants>
+			<ununSlave>
+				Poo-poo came out...
+				Doesh %name have to eat dish poo-poo too...?
+				Mishtew Poo-poo, why did you come out...?
+			</ununSlave>
+		</child>
+		<adult>
+			Poo-poo refreshed!
+			Fueee, refreshed...
+			It is utterly embarrassing...
+			Shown you such an unsightly sight...
+			<pants>
+				Fueee... so embarrassing...
+				Even though %name isn't a baby...
+				Smelly... feels gross...
+			</pants>
+			<ununSlave>
+				Poo-poo came out...
+				Does %name have to eat this poo-poo too...?
+				Mister Poo-poo, why did you come out...?
+			</ununSlave>
+		</adult>
+	</normal>
+[/Shit2]
+
+# すりすり
+[SuriSuri]
+	<normal>
+		<baby>
+			Wub-wub♪
+			Wub-wub... sho happy~!
+			Wubbing wetsh you take it eajy!
+			♪If you'we happy, wub-wub-wub♪
+			Wet'sh take it eajy wid %name!
+		</baby>
+		<child>
+			Wub-wub♪
+			Wub-wub... sho happy~!
+			Wubbing wetsh you take it eajy!
+			♪If you'we happy, wub-wub-wub♪
+			Wet'sh take it eajy wid %name!
+		</child>
+		<adult>
+			Rub-rub♪
+			Rub-rub... so happy~!
+			Fufufu, %name is so happy~!
+			Let's take it easy with %name!
+		</adult>
+	</normal>
+[/SuriSuri]
+
+# ぺろぺろ
+[PeroPero]
+	<normal>
+		<baby>
+			PewoPewo~
+			Wove you Mommy!
+			Making you aww cwean and tidy!
+			Wet'sh take a peacefuw nap togedew in Mishtew Bed!
+			
+		</baby>
+		<child>
+			PewoPewo~
+			Wove you, Mommy!
+			Cweaning you up!
+			Wet'sh take a peacefuw nap togedew in Mishtew Bed!
+			Wick-wick...
+			Wet'sh get aww cwean and tidy!
+		</child>
+		<adult>
+			Lick-lick...
+			Little one's skin is taking it very easy!
+			Fufufu, little one is such a spoiled baby!
+		</adult>
+	</normal>
+[/PeroPero]
+
+# 出産
+[Breed]
+	<normal>
+		<baby>
+			B-Being bown...
+			Yugiii...
+		</baby>
+		<child>
+			B-Being bown...
+			Yugiii...
+		</child>
+		<adult>
+			B-Being born...
+			Yugigigigi...
+		</adult>
+[/Breed]
+
+# 産後
+[Breed2]
+	<normal>
+		<baby>
+			Wittwe onesh! Pweashe take it eajy!
+			A wittwe one dat wooksh jusht wike %name and %partner!
+			<pants>
+				Uwaaaan! %name'sh wittwe onesh aweee!!!
+				%name'sh wittwe one became a shtain in de Mishtew Diapew!
+				Mishtew Diapew ish sho shtupid!!!
+			    Don't need a shtupid Mishtew Diapew anymowe!!!
+			</pants>
+		</baby>
+		<child>
+			Wittwe onesh! Pweashe take it eajy!
+			A wittwe one dat wooksh jusht wike %name and %partner!
+			<pants>
+				Uwaaaan! %name'sh wittwe onesh aweee!!!
+				%name'sh wittwe one became a shtain in de Mishtew Cwodes!
+				Mishtew Cwodes awe sho shtupid!!!
+			    Don't need shtupid Mishtew Cwodes anymowe!!!
+			</pants>
+		</child>
+		<adult>
+			Little ones! Please take it easy!
+			A little one that looks just like %name and %partner!
+			<pants>
+				Uwaaaan! %name's little ones areee!!!
+				%name's little one became a stain in Mister Pants!!!
+				Mister Pants are so stupid!!!
+			    Don't need stupid Mister Pants anymore!!!
+			</pants>
+		</adult>
+	</normal>
+[/Breed2]
+
+# うんうん発見
+[HateShit]
+	<normal>
+		<baby>
+			Poo-poo ish shmewwy!
+			Can't take it eajy when Mishtew Poo-poo ish hewe, you know?
+			Mishtew! Pweashe cwean up Mishtew Poo-poo!
+			Mishtew Poo-poo, pweashe go ovew dewe, okay?
+			<damage>
+				It'sh shmewwy... can't take it eajy...
+				Poo-poo ish shmewwy...
+				Mishtew Poo-poo, pweashe go away...
+			</damage>
+			<ununSlave>
+				Ich shchingsh...
+				I don'ch wanch cho shee poo-poo anymowe...
+				I hache poo-poo...
+			</ununSlave>
+		</baby>
+		<child>
+			Poo-poo ish shmewwy!
+			Can't take it eajy when Mishtew Poo-poo ish hewe, you know?
+			Can't take it eajy widout cweaning up!
+			<damage>
+				It'sh shmewwy... can't take it eajy...
+				Poo-poo ish shmewwy...
+				Can't take it eajy widout cweaning up...
+			</damage>
+			<ununSlave>
+				Ich shmewwsh bad, gan'ch chake ich eajy...
+				I don'ch wanch cho shee poo-poo anymowe...
+				I hache poo-poo...
+			</ununSlave>
+		</child>
+		<adult>
+			Must clean this up!
+			Can't take it easy when poo-poo is here, you know?
+			<damage>
+				Can't take it easy...
+				Poo-poo is so smelly...
+				Can't take it easy without cleaning up...
+			</damage>
+			<ununSlave>
+				Ich shchingsh...
+				I don't want to see poo-poo anymore...
+				I hate poo-poo...
+			</ununSlave>
+		</adult>
+	</normal>
+[/HateShit]
+
+# あほの子がうんうんを威嚇するセリフ
+[ShitIntimidation]
+	<normal>
+		<baby>
+			Bufff!Bufff!!!
+			Mishtew Poo-poo! Go ovew dewe!
+			Mishtew Poo-poo! Go away shomewhewe! %name ish puffing up!
+		</baby>
+		<child>
+			Bufff!Bufff!!!
+			Mishtew Poo-poo! Go ovew dewe!
+			Mishtew Poo-poo! Go away shomewhewe! %name ish puffing up!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Bufff!Bufff!!!
+			%name wiww execute shanctionsh on wowwife poo-poo!
+			Poo-poo, go ovew dewe!
+			Poo-poo, go away shomewhewe! %name ish puffing up!
+		</baby>
+		<child>
+			Bufff!Bufff!!!
+			%name wiww execute shanctionsh on wowwife poo-poo!
+			Poo-poo, go away!
+			Poo-poo, huwwy up and go away shomewhewe! %name ish puffing up!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/ShitIntimidation]
+
+# 空腹
+[Hungry]
+	<normal>
+		<baby>
+			Bweashe gibe me Mishcha food!
+			<damage>
+				Yu,Mishcha food...
+			</damage>
+			<ununSlave>
+				I wanna each shomefing odhew dhan poo-poo...
+				I don'ch wanch cho each poo-poo...
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean...?
+			</ununSlave>
+		</baby>
+		<child>
+			Bweashe gibe me Mishcha food!
+			<damage>
+				Food to %name bweashe
+			</damage>
+			<ununSlave>
+				I wanna each shomefing odhew dhan poo-poo...
+				I don'ch wanch cho each poo-poo...
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean...?
+			</ununSlave>
+		</child>
+		<adult>
+			Bleashe gibe me Mishcha food!
+			<damage>
+				Food to %name blease
+			</damage>
+			<ununSlave>
+				I wanna eat something other than poo-poo...
+				I don't want to eat poo-poo...
+				I don't want poo-poo anymore...
+				Why are you being so mean...?
+			</ununSlave>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Pweashe bwing shweet-shweetsh, okay?
+			<damage>
+				Yu,Mishcha food...
+			</damage>
+			<ununSlave>
+				I wanna each shomefing odhew dhan poo-poo...
+				I don'ch wanch cho each poo-poo...
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean...?
+			</ununSlave>
+		</baby>
+		<child>
+			Pweashe bwing %name'sh shweet-shweetsh wight away, okay?
+			<damage>
+				Food to %name bweashe
+			</damage>
+			<ununSlave>
+				I wanna each shomefing odhew dhan poo-poo...
+				I don'ch wanch cho each poo-poo...
+				I don'ch wanch poo-poo anymowe...
+				Why awe you being sho mean...?
+			</ununSlave>
+		</child>
+		<adult>
+			Please bring %name's sweet-sweets immediately! Lots of them is fine!
+			<damage>
+				Food to %name blease
+			</damage>
+			<ununSlave>
+				I wanna eat something other than poo-poo...
+				I don't want to eat poo-poo...
+				I don't want poo-poo anymore...
+				Why are you being so mean...?
+			</ununSlave>
+		</adult>
+	</rude>
+[/Hungry]
+
+# おかざり没収
+[NoAccessory]
+	<normal>
+		<baby>
+			Whewe did %name'sh Mishtew Acceshshowy go?
+			Why awe you being mean to %name?
+			Pweashe! Give %name'sh Mishtew Acceshshowy back!!!
+		</baby>
+		<child>
+			Whewe did %name'sh Mishtew Acceshshowy go?
+			Why awe you being mean to %name?
+			Pweashe! Give %name'sh Mishtew Acceshshowy back!!!
+		</child>
+		<adult>
+			Where did %name's Mister Accessory go?
+			Why are you being mean to %name?
+			Please! Give %name's Mister Accessory back!!!
+		</adult>
+	</normal>
+[/NoAccessory]
+
+# おかざりがなくなっていることに気がつく
+[NoticeNoAccessory]
+	<normal>
+		<baby>
+			Yueeen! Why ish %name'sh wondewfuw Mishtew Acceshshowy gone!?
+			Yueeen! Whewe did %name'sh cute Mishtew Acceshshowy go!?
+		</baby>
+		<child>
+			Yueeen! Why ish %name'sh wondewfuw Mishtew Acceshshowy gone!?
+			Yueeen! Whewe did %name'sh cute Mishtew Acceshshowy go!?
+		</child>
+		<adult>
+			Yueeen! Why is %name's wonderful Mister Accessory gone!?
+			Yuwaaaa! %name's cute Mister Accessory is gone!?
+		</adult>
+	</normal>
+[/NoticeNoAccessory]
+
+# 他ゆんのおかざりをこっそり奪う
+[GetOtherAccessoryStealthily]
+	<normal>
+		<baby>
+			Shneakiwy, shneakiwy... %name wiww shecwetwy take dish Mishtew Acceshshowy!
+		</baby>
+		<child>
+			Shneakiwy, shneakiwy... %name wiww shecwetwy take dish Mishtew Acceshshowy!
+		</child>
+		<adult>
+			Sneakily, sneakily... %name will secretly take this Mister Accessory!
+		</adult>
+	</normal>
+[/GetOtherAccessoryStealthily]
+
+# 持ち上げ
+[Flying]
+	<normal>
+		<baby>
+			It feewsh wike fwying in de shky!
+			Yay! De shky!
+		</baby>
+		<child>
+			It feewsh wike fwying in de shky!
+			Yay! De shky!
+		</child>
+		<adult>
+			It feels like flying in the sky!
+			Yay, yay!
+		</adult>
+	</normal>
+[/Flying]
+
+# 子供死亡
+[SadnessForChild]
+	<normal>
+		<baby>
+			Wittwe one! Pweashe open youw eyesh!
+			Uwaaaa! %name can't shave youuu!!!
+			Pweashe! Shave de wittwe onesh, pweasheee!!!
+			Whyyy!
+			Uwaaa! %name'sh wittwe one ish...?!
+			Wittwe one, why awe you dead!?
+		</baby>
+		<child>
+			Wittwe one! Pweashe open youw eyesh!
+			Uwaaaa! %name can't shave youuu!!!
+			Pweashe! Shave de wittwe onesh, pweasheee!!!
+			Why ish de wittwe one dead!?
+			Even dough %name didn't do anyding bad!!!
+			%name'sh wittwe one, what happened!?
+		</child>
+		<adult>
+			Little one! Please open your eyes?
+			Uwaaaa! %name can't save youuu!!!
+			Please! Save the little ones, pweaseee!!!
+			Why is the little one dead!?
+			Even though %name didn't do anything bad!!!
+			%name's little one, what happened!?
+		</adult>
+	</normal>
+[/SadnessForChild]
+
+# つがい死亡
+[SadnessForPartner]
+	<normal>
+		Please! %partner, open your eyes!
+		Uwaaaa! %name can't save youuu!!!
+		Please! Save %partner, pweaseee!!!
+	</normal>
+[/SadnessForPartner]
+
+# 姉死亡
+[SadnessForEldersister]
+	<normal>
+		<baby>
+			Big shish, pweashe open youw eyesh!
+			Uwaaaa! %name can't shave youuu!!!
+			Pweashe! Shave big shish!!!
+		</baby>
+		<child>
+			Big shish, pweashe open youw eyesh!
+			Uwaaaa! %name can't shave youuu!!!
+			Pweashe! Shave big shish!!!
+		</child>
+		<adult>
+			Big sis, please open your eyes!
+			Uwaaaa! %name can't save youuu!!!
+			Please! Save big sis, pweaseee!!!
+		</adult>
+	</normal>
+[/SadnessForEldersister]
+
+# 妹死亡
+[SadnessForSister]
+	<normal>
+		<baby>
+			Wittwe shish, open youw eyesh!
+			Uwaaaa! %name can't shave youuu!!!
+			Pweashe! Shave wittwe shish, pweasheee!!!
+		</baby>
+		<child>
+			Wittwe shish, open youw eyesh!
+			Uwaaaa! %name can't shave youuu!!!
+			Pweashe! Shave wittwe shish, pweasheee!!!
+		</child>
+		<adult>
+			%partner, please open your eyes!
+			Uwaaaa! %name can't save youuu!!!
+			Please! Save little sis, pweaseee!!!
+		</adult>
+	</normal>
+[/SadnessForSister]
+
+# 壁発見
+[BlockedByWall]
+	<normal>
+		<baby>
+			%name can't go fowwawd, you know?
+			Mishtew Waww, why awe you in de way?
+		</baby>
+		<child>
+			%name can't go fowwawd, you know?
+			Mishtew Waww, why awe you in de way?
+		</child>
+		<adult>
+			%name can't go forward, you know?
+			Mister Wall, why are you in the way?
+		</adult>
+	</normal>
+[/BlockedByWall]
+
+# おもちゃ発見
+[GetTreasure]
+	<normal>
+		<baby>
+			Making dish %name'sh tweashuwe!
+			Yuwawa~y!
+		</baby>
+		<child>
+			Making dish %name'sh tweashuwe!
+			Yuwawa~y!
+		</child>
+		<adult>
+			Making this %name's treasure!
+			Somehow feeling a mysterious power from this!
+		</adult>
+	</normal>
+[/GetTreasure]
+
+# おもちゃ紛失
+[LostTreasure]
+	<normal>
+		<baby>
+			Uwaaahn! Pweashe give it back!
+			Don't be mean, pweashe!
+		</baby>
+		<child>
+			Uwaaahn! Pweashe give it back!
+			Don't be mean, pweashe!
+		</child>
+		<adult>
+			Precious, precious Mister Treasure is...!
+			Please don't be mean!
+		</adult>
+	</normal>
+[/LostTreasure]
+
+# 膨張
+[Inflation]
+	<normal>
+		<baby>
+			Mishtew Tummy ish buwsht-buwshting~~!!
+			Mishtew Tummy huwdddddshshsh!
+			Ich'sh bainfuuuuuw!!!!
+			It huuuwtsh!!! Mishtew, shaave %name!!!!
+			Pweashe shave %name! %name doeshn't want to dieee!!!
+		</baby>
+		<child>
+			Mishtew Tummy ish buwsht-buwshting~~!!
+			Mishtew Tummy huwdddddshshsh!
+			Ich'sh bainfuuuuuw!!!!
+			It huuuwtsh!!! Mishtew, shaave %name!!!!
+			Pweashe shave %name! %name doeshn't want to dieee!!!
+		</child>
+		<adult>
+			Mishtew Tummy is burst-bursting~~!!
+			Tummy hurdddddsss!
+			Id's bainfuuuuul!!!!
+			It huuurts!!! Mister, saave %name!!!!
+			Please save %name! %name doesn't want to dieee!!!!!!
+		</adult>
+	</normal>
+[/Inflation]
+
+# 子虐待
+[AbuseBaby]
+	<normal>
+		<baby>
+			Pweashe shtop shtop shtop!!! It huuuwtsh!!!
+			Uwaaaa! %name'sh baby ish...?!
+			Why awe you doing shomeding wike dishshsh!?
+		</baby>
+		<child>
+			Pweashe shtop shtop shtop!!! It huuuwtsh!!!
+			Uwaaaa! %name'sh baby ish...?!
+			Why awe you doing shomeding wike dishshsh!?
+		</child>
+		<adult>
+			Pwease stop stop stop!!! It huuurts!!!
+			Uwaaaa! %name's little one is...?!
+			Why are you doing something like thisss!?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			It huuuwtsh! Pweashe shtop!!!
+			Uwaaaa! Don't buwwy de baby pweashe!
+			Why awe you doing shuch a ding-nyaaaa!!!
+			Shcum! Demon! Wiww nevew fowgive youuu!!!
+		</baby>
+		<child>
+			It huuuwtsh! Pweashe shtop!!!
+			Uwaaaa! Don't buwwy de baby pweashe!
+			Why awe you doing shuch a ding-nyaaaa!!!
+			Shcum! Demon! Wiww nevew fowgive youuu!!!
+		</child>
+		<adult>
+			It huuurts! Pwease stop!!!
+			Uwaaaa! Don't lay a hand on the little one!
+			Why are you doing this~!!!
+		</adult>
+	</rude>
+[/AbuseBaby]
+
+# 子虐待死
+[AbuseBabyKilled]
+	<normal>
+		<baby>
+			Uwaaaa! %name'sh baby ish...?!
+			Why awe you doing shomeding wike dishshsh!?
+			Pweashe shtop! Give back %name'sh babyyy!!!
+		</baby>
+		<child>
+			Uwaaaa! %name'sh baby ish...?!
+			Why awe you doing shomeding wike dishshsh!?
+			Pweashe shtop! Give back %name'sh babyyy!!!
+		</child>
+		<adult>
+			Uwaaaa! %name's little one is...?!
+			Why are you doing something like thisss!?
+			Pwease stop! Give back %name's little oneee!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Why awe you doing shuch a ding-nyaaaa!!!
+			Shcum! Demon! Wiww nevew fowgive youuu!!!
+			Give it back~!!! Give back %name'sh wittwe one~!!!
+		</baby>
+		<child>
+			Why awe you doing shuch a ding-nyaaaa!!!
+			Shcum! Demon! Wiww nevew fowgive youuu!!!
+			Give it back~!!! Give back %name'sh wittwe one~!!!
+		</child>
+		<adult>
+			Why are you doing this~!!!
+			Scum! Demon! Will never forgive youuu!!!
+			Give it back~!!! Give back %name's little one~!!!
+		</adult>
+	</rude>
+[/AbuseBabyKilled]
+
+# のびのび
+[Nobinobi]
+	<normal>
+		<baby>
+			Shtwetsh-shtwetsh~
+			Shtwetching out! Shtwetch-shtwetch!
+			Shtwetching out wotsh and wotsh!
+			Shtwetch a wot~♪ Take it eajy a wot~♪
+		</baby>
+		<child>
+			Shtwetsh-shtwetsh~
+			Shtwetching out! Shtwetch-shtwetch!
+			Shtwetching out wotsh and wotsh!
+			Shtwetch a wot~♪ Take it eajy a wot~♪
+		</child>
+		<adult>
+			Stretch~ stretch~
+			Taking it easy~
+			Easy~♪ Relaxed~♪
+		</adult>
+	</normal>
+[/Nobinobi]
+
+# 出産前
+[NearToBirth]
+	<normal>
+		<baby>
+			Wittwe one ish about to be bown!
+			Wittwe one, be bown on Mishtew Bed, okay?
+			Wittwe one ish moving enewgeticawwy!
+			%name ish going to be a mommy!
+		</baby>
+		<child>
+			Wittwe one ish about to be bown!
+			Wittwe one, be bown on Mishtew Bed, okay?
+			Wittwe one ish moving enewgeticawwy!
+			%name ish going to be a mommy!
+		</child>
+		<adult>
+			Little one is about to be born!
+			Little one, be born on Mister Bed, okay?
+			Little one is moving energetically!
+			%name is going to be a mommy!
+		</adult>
+	</normal>
+[/NearToBirth]
+
+# 毒
+[PoisonDamage]
+	<normal>
+		<baby>
+			Shuffocating!
+			<damage>
+				Gween onion...
+			</damage>
+		</baby>
+		<child>
+			Hewp me!
+			<damage>
+				Giww me
+			</damage>
+		</child>
+		<adult>
+			It's poison!
+			<damage>
+				Howaaaa
+			</damage>
+		</adult>
+	</normal>
+[/PoisonDamage]
+
+# 排泄不可
+[CantShit]
+	<normal>
+		<baby>
+			Mishtew Poo-poo won't come out, you know?
+			Mishtew Tummy huuuwtsh!
+			Mishtew Poo-poo, don't take it eajy, pweashe come out!
+		</baby>
+		<child>
+			Mishtew Poo-poo won't come out, you know?
+			Mishtew Tummy huuuwtsh!
+			Mishtew Poo-poo, don't take it eajy, pweashe come out!
+		</child>
+		<adult>
+			Mister Poo-poo won't come out, you know?
+			Mister Tummy huuurts!!!
+			Mister Poo-poo, please come out without taking it easy!
+		</adult>
+	</normal>
+[/CantShit]
+
+# 妊娠失敗
+[NoPregnancy]
+	<normal>
+		<baby>
+		%name wantsh babiesh too...
+		%name can't make babiesh, you know?
+		Whewe awe %name'sh babiesh?
+		</baby>
+		<child>
+		%name wantsh babiesh too...
+		%name can't make babiesh, you know?
+		Whewe awe %name'sh babiesh?
+		</child>
+		<adult>
+		%name wants little ones too...
+		Why can't %name have little ones?
+		Why can't %name get pregnantttt!?
+		%name has become a yukkuri that cannot take it easy...
+		</adult>
+	</normal>
+[/NoPregnancy]
+
+# 恐怖でパニック状態
+[Fear]
+	<normal>
+		<baby>
+			Uwaaahn! Pweashe shave %name!
+			It'sh shcawyyy!
+			Can't take it eajy hewe!
+			Wunning away eajy!
+			Mommyyy!
+			<damage>
+				Shcawy... shave %name...
+				Shaave %name...
+				Mooommy...
+			</damage>
+		</baby>
+		<child>
+			Uwaaahn! Pweashe shave %name!
+			It'sh shcawyyy!
+			Can't take it eajy hewe!
+			Wunning away eajy!
+			Mommyyy!
+			<damage>
+				Shcawy... shave %name...
+				Shaave %name...
+				Mooommy...
+			</damage>
+		</child>
+		<adult>
+			Uwaaahn! Please save %name!
+			Somebody save %name!
+			It's scaryyy!
+			<damage>
+				Uwaaa...
+				Somebody... save %name...
+			</damage>
+		</adult>
+	</normal>
+[/Fear]
+
+# 火がついてる状態
+[Burning]
+	<normal>
+		<baby>
+			It'sh hawt~!
+			Shave me~!
+			I'm showwy! I'm showwy!
+			<damage>
+				Yu... yu... yu...
+				hwot... hewb me...
+				Nooo... no way... %name doeshn't want to dieee...
+				Dish ish howwibwe... wiww nevew fowgive you...
+				Ish buwwying yukkuwish dat fun to you...?
+			</damage>
+		</baby>
+		<child>
+			Hot~!
+			Shave me~!
+			I'm showwy! I'm showwy!
+			<damage>
+				Yu... yu... yu...
+				hwot... hewb me...
+				Nooo... no way... %name doeshn't want to dieee...
+				Dish ish howwibwe... wiww nevew fowgive you...
+				Ish buwwying yukkuwish dat fun to you...?
+			</damage>
+		</child>
+		<adult>
+			It's hwooooot!
+			Helb meeeeeee!
+			I'm sowwy! I'm sowwy!
+			<damage>
+				Uwaaa...
+				hwot... helb me...
+				Nooo... %name doesn't want to die...
+				This is horrible... will never forgive you...
+				Is bullying yukkuris that fun to you...?
+			</damage>
+		</adult>
+	</normal>
+[/Burning]
+
+# 水をかけられた
+[Wet]
+	<normal>
+		<baby>
+			Cowd!
+			Mishtew Watew cannot take it eajy!
+			<damage>
+				C-cowwd,,,
+				%name'sh wittwe Mishtew Wegsh awe dishshowving~,,,
+			</damage>
+		</baby>
+		<child>
+			Dyube-daaaaai!
+			Mishtew Watew cannot take it eajy!
+			<damage>
+				Shave meee~,,,
+				%name'sh wittwe Mishtew Wegsh awe dishshowving~,,,
+			</damage>
+		</child>
+		<adult>
+			Nyaaaaaaa!
+			Mister Water cannot take it easy!
+			<damage>
+				Save meeee...
+				%name's wittwe Mishtew Wegs awe dissowving~,,,
+			</damage>
+		</adult>
+	</normal>
+[/Wet]
+
+# 水の中にいる(浅瀬)
+[WetInShallowWater]
+	<normal>
+		<baby>
+			Cowd!
+			Mishtew Watew cannot take it eajy!
+			<damage>
+				C-cowwd,,,
+				%name'sh wittwe Mishtew Wegsh awe dishshowving~,,,
+			</damage>
+		</baby>
+		<child>
+			Dyube-daaaaai!
+			Mishtew Watew cannot take it eajy!
+			<damage>
+				Shave meee~,,,
+				%name'sh wittwe Mishtew Wegsh awe dishshowving~,,,
+			</damage>
+		</child>
+		<adult>
+			Nyaaaaaaa!
+			Mister Water cannot take it easy!
+			<damage>
+				Save meeee...
+				%name's wittwe Mishtew Wegs awe dissowving~,,,
+			</damage>
+		</adult>
+	</normal>
+[/WetInShallowWater]
+
+# 水の中にいる(深瀬)
+[WetInDeepwWater]
+	<normal>
+		<baby>
+			Cowd!
+			Mishtew Watew cannot take it eajy!
+			<damage>
+				C-cowwd,,,
+				%name'sh wittwe Mishtew Wegsh awe dishshowving~,,,
+			</damage>
+		</baby>
+		<child>
+			Dyube-daaaaai!
+			Mishtew Watew cannot take it eajy!
+			<damage>
+				Shave meee~,,,
+				%name'sh wittwe Mishtew Wegsh awe dishshowving~,,,
+			</damage>
+		</child>
+		<adult>
+			Nyaaaaaaa!
+			Mister Water cannot take it easy!
+			<damage>
+				Save meeee...
+				%name's wittwe Mishtew Wegs awe dissowving~,,,
+			</damage>
+		</adult>
+	</normal>
+[/WetInDeepwWater]
+
+# あにゃる閉鎖
+[AnalSealed]
+	<normal>
+		<baby>
+			Yufufu, dat tickwesh!
+			Mishtew Anaw ish tickwing!
+			Mommy! Mishtew ish meshshing wid %name'sh anaw!
+		</baby>
+		<child>
+			Yufufu, dat tickwesh!
+			Mishtew Anaw ish tickwing!
+			Mommy! Mishtew ish meshshing wid %name'sh anaw!
+		</child>
+		<adult>
+			Ufufu, that tickles!
+			Mister! You shouldn't do that!
+			No-no! That's Mister Anal, you know?
+		</adult>
+	</normal>
+[/AnalSealed]
+
+# 針が刺さった時
+[NeedleStick]
+	<normal>
+		<baby>
+			pigii!?
+			Yupii!?
+			Gipii!
+			It huuuwtsh!
+		</baby>
+		<child>
+			pigii!?
+			Yupii!?
+			Gipii!
+			It huuuwtsh!
+		</child>
+		<adult>
+			It huuurts!
+			Yu-gyaaaa~!!!
+		</adult>
+	</normal>
+[/NeedleStick]
+
+# 針が刺さっている時
+[NeedleScream]
+	<normal>
+		<baby>
+			It huuuuwwtsh~!!!
+			Huwwtsh huwwtsh huwwtsh!
+			Pweashe puww it out quickwy!
+			Yubiiii!
+			Take dish off!
+			Mishtew Pwickwy cannot take it eajyyy!
+		</baby>
+		<child>
+			It huuuuwwtsh~!!!
+			Huwwtsh huwwtsh huwwtsh!
+			Pweashe puww it out quickwy!
+			Yubiiii!
+			Take dish off!
+			Mishtew Pwickwy cannot take it eajyyy!
+		</child>
+		<adult>
+			It huuuuuurts~!!!
+			Yu-gyaaaa~!!!
+			Please pull it out quickly!
+			Mister Prickly cannot take it easyyy!
+		</adult>
+	</normal>
+[/NeedleScream]
+
+# あにゃるに針が刺さっている時
+[NeedleScreamInAnal]
+	<normal>
+		<baby>
+			It huuuuwwtsh~!!!
+			Huwwtsh huwwtsh huwwtsh!
+			Pweashe puww it out quickwy!
+			Yubiiii!
+			Take dish off!
+			Mishtew Pwickwy cannot take it eajyyy!
+			%name'sh Mishcha Anyawu Biwginichyyyyy!
+		</baby>
+		<child>
+			It huuuuwwtsh~!!!
+			Huwwtsh huwwtsh huwwtsh!
+			Pweashe puww it out quickwy!
+			Yubiiii!
+			Take dish off!
+			Mishtew Pwickwy cannot take it eajyyy!
+			%name'sh Mishcha Anyawu Biwginichyyyyy!
+		</child>
+		<adult>
+			It huuuuuurts~!!!
+			Yu-gyaaaa~!!!
+			Please pull it out quickly!
+			Mister Prickly cannot take it easyyy!
+			%name's Mister Anyaru Virginityyyyy!
+		</adult>
+	</normal>
+[/NeedleScreamInAnal]
+
+# つがいの針をぐーりぐりする
+[ExtractingNeedlePartner]
+	<normal>
+		<baby>
+			%name wiww shave you wight now!
+			Mishtew Pwickwy, don't take it eajy, puww out quickwy!
+			Why won't Mishtew Pwickwy come out!?
+		</baby>
+		<child>
+			%name wiww shave you wight now!
+			Mishtew Pwickwy, don't take it eajy, puww out quickwy!
+			Why won't Mishtew Pwickwy come out!?
+		</child>
+		<adult>
+			%partner, %name will save you right now!
+			Mister Prickly, don't take it easy, please pull out quickly!
+			%partner hates it! Mister Prickly, go somewhere else!
+			%name will sanction Mister Prickly for bullying %partner!
+			Why won't Mister Prickly come outttt!?
+		</adult>
+	</normal>
+[/ExtractingNeedlePartner]
+
+# 子の針をぐーりぐりする
+[ExtractingNeedleChild]
+	<normal>
+		<baby>
+			%name wiww shave you wight now!
+			Mishtew Pwickwy, don't take it eajy, puww out quickwy!
+			Why won't Mishtew Pwickwy come out!?
+		</baby>
+		<child>
+			%name wiww shave you wight now!
+			Mishtew Pwickwy, don't take it eajy, puww out quickwy!
+			Why won't Mishtew Pwickwy come out!?
+		</child>
+		<adult>
+			Little one, %name will save you right now!
+			Mister Prickly, don't take it easy, please pull out quickly!
+			Little one hates it! Mister Prickly, go somewhere else!
+			%name will sanction Mister Prickly for bullying the little one!
+			Why won't Mister Prickly come outttt!?
+		</adult>
+	</normal>
+[/ExtractingNeedleChild]
+
+# 被ぐーりぐり時
+[NeedlePain]
+	<normal>
+		<baby>
+			Pweashe shtop!!!
+			Don't twisht-twisht it in!!!
+			Shaave %name... Pigyiii!
+		</baby>
+		<child>
+			Pweashe shtop!!!
+			Don't twisht-twisht it in!!!
+			Shaave %name... Pigyiii!
+		</child>
+		<adult>
+			P-Pwease stop!!!
+			Don't twist-twist it in!!!
+			Help... Ugyaaaa!
+		</adult>
+	</normal>
+[/NeedlePain]
+
+# 針を抜いた時
+[NeedleRemove]
+	<normal>
+		<baby>
+			Mishtew Pwickwy huwt sho much...
+		</baby>
+		<child>
+			Mishtew Pwickwy huwt sho much...
+		</child>
+		<adult>
+			Mister Prickly hurt so much...
+		</adult>
+	</normal>
+[/NeedleRemove]
+
+# あまあま要求
+[WantAmaama]
+	<normal>
+		<baby>
+			Whewe did Mishtew Shweet-Shweetsh go...?
+			Wanna eat Mishtew Shweet-Shweetsh...
+		</baby>
+		<child>
+			Whewe did Mishtew Shweet-Shweetsh go...?
+			Wanna eat Mishtew Shweet-Shweetsh...
+		</child>
+		<adult>
+			Where did Mister Sweet-Sweets go...?
+			Mister! %name wants to eat sweet-sweets!
+		</adult>
+	</normal>
+[/WantAmaama]
+
+# 移動不能
+[CantMove]
+	<normal>
+		<baby>
+			Fueee?
+			Can't move fowwawd! What shouwd %name do...
+		</baby>
+		<child>
+			Fueee?
+			Can't move fowwawd! What shouwd %name do...
+		</child>
+		<adult>
+			Fueee?
+			Can't move forward! What should %name do...
+		</adult>
+	</normal>
+[/CantMove]
+
+# 移動不能2
+[CantMove2]
+	<normal>
+		<baby>
+			Panicking... what ish going on...?
+			%name'sh Mishtew Feet, pweashe move widout taking it eajy!
+		</baby>
+		<child>
+			Panicking... what ish going on...?
+			%name'sh Mishtew Feet, pweashe move widout taking it eajy!
+		</child>
+		<adult>
+			Panicking... what could have happened?
+			%name's Mister Feet, please move without taking it easy!
+		</adult>
+	</normal>
+[/CantMove2]
+
+# 目潰し
+[BLINDING]
+	<normal>
+		<baby>
+			Pwaishe me!!!
+			%name'sh big wound Mishtew Eyesh, yangya~a~a~a!!!
+			Ijaaaaa!! It'sh dawk!!!!
+			Shchob ich!!!!
+			Bigiii!!!
+		</baby>
+		<child>
+			Pwaishe me!!!
+			%name'sh big wound Mishtew Eyesh, yangya~a~a~a!!!
+			Ijaaaaa!! It'sh dawk!!!!
+			Shtooop! Give dem back, give dem back pweasheee!!
+			Yugggguuuuuuuu!!
+		</child>
+		<adult>
+			Praise me!!!
+			%name's big round Mister Eyes, yangya~a~a~a!!!
+			It huuuuurts~!! Mister Eyes, where did you goooo~!!!
+			Stop! Give them back, please give them backkk!!
+			Yugiiii~!!!
+			Yugggguuuuuuuu!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Pwaishe me!!!
+			%name'sh big wound Mishtew Eyesh, yangya~a~a~a!!!
+			Ijaaaaa!! It'sh dawk!!!!
+			Shchob ich!!!!
+			Bigiii!!!
+			Yugiiii!! You dink it'sh okay to poke %name wike dish, nya?!
+		</baby>
+		<child>
+			Pwaishe me!!!
+			%name'sh big wound Mishtew Eyesh, yangya~a~a~a!!!
+			Ijaaaaa!! It'sh dawk!!!!
+			Shtooop! Give dem back, give dem back pweasheee!!
+			Yugggguuuuuuuu!!
+			Yugiiii!! Do you dink it'sh okay to do shuch a ding!?
+		</child>
+		<adult>
+			Praise me!!!
+			%name's big round Mister Eyes, yangya~a~a~a!!!
+			It huuuuuurts!! Mister Eyes, where did you goooooo!!
+			Stooop! Give them back, please give them backkk!!
+			Yugiigiiiii!!I will never forgive such things!!
+			Yugiiii!! Do you think it's okay to do such a thing!?
+			Yugiiii!! This is a loss to the entire worlddd!!!
+			Yugggguuuuuuuu!!
+		</adult>
+	</rude>
+[/BLINDING]
+
+# 見えない
+[CANTSEE]
+	<normal>
+		<baby>
+			Yu.....Yugii~...
+			Evewyone... whewe did you gooo...
+			Mamaaaaa!!! Whewe awe youuu~~!!?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Papaaaaa!!! Whewe awe youuu~~!!?
+			%name ish hewe... ? Ish it hide-and-sheek, nya... ?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Big shishtewwwwww!!! Whewe awe youuu~~!!?
+		</baby>
+		<child>
+			Yu.....Yugii~...
+			Evewyone... whewe did you go...
+			Mamaaaaa!!! Whewe awe youuuu!!?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Papaaaaa!!! Whewe awe youuuu!!?
+			%name ish wight hewe...? Ish dish hide-and-sheek...?
+			Hi, hi...
+			It'sh dawk... it'sh shcawy...
+			Big shishtewaaaa!!! Whewe awe youuuu!!?
+		</child>
+		<adult>
+			Yuh... Yuhi...
+			Everyone... where did you go, nya...
+			%partner!!! Where!!?
+			Mister Sun... please don't be mean...
+			%name is right here, you know...? Where is everyone...?
+			Hi, hi...
+			It's dark... it's scary...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu.....Yugii~...
+			Evewyone... whewe did you gooo...
+			Mamaaaaa!!! Whewe awe youuu~~!!?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Papaaaaa!!! Whewe awe youuu~~!!?
+			%name ish hewe... ? Ish it hide-and-sheek, nya... ?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Big shishtewwwwww!!! Whewe awe youuu~~!!?
+		</baby>
+		<child>
+			Yu.....Yugii~...
+			Evewyone... whewe did you go...
+			Mamaaaaa!!! Whewe awe youuuu!!?
+			Ich'sh dawg... Ich'sh shgawyyyy...
+			Papaaaaa!!! Whewe awe youuuu!!?
+			%name ish wight hewe...? Ish dish hide-and-sheek...?
+			Hi, hi...
+			It'sh dawk... it'sh shcawy...
+			Big shishtewaaaa!!! Whewe awe youuuu!!?
+		</child>
+		<adult>
+			Yuh... Yuhi...
+			Everyone... where did you go, nya...
+			%partner!!! Where!!?
+			Mister Sun... please don't be mean...
+			%name is right here, you know...? Where is everyone...?
+			Hi, hi...
+			It's dark... it's scary...
+		</adult>
+	</rude>
+[/CANTSEE]
+
+# むしる
+[PLUNCKING]
+	<normal>
+		<baby>
+			Shchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Yunnyaaaaa! %name'sh shiwky Mishtew Haiw ishshsh!!
+			Ich huwchhhhhhhsh! I gan'ch chake ich eajy~!!
+			Yugyaaaa!! A bawd dumpwing ish howwibweee!!
+		</baby>
+		<child>
+			Shtop it! Give me back, give it back yoooooo!!
+			Yunnyaaaaa! %name'sh shiwky Mishtew Haiw ishshsh!!
+			Yunnyaaa! Mishtew Haiw, whewe did you goooo!!
+			It huuuwtsh!! Can't take it eajyyy!!
+			Yugyaaaa!! A bawd dumpwing ish howwibweee!!
+		</child>
+		<adult>
+			Stop! Give them back, please give them backkk!!
+			Yunnyaaaaa! %name's silky Mister Hair isss!!
+			Yunnyaaa! Mister Hair, where did you goooo!!
+			Noooo! Sniff... %name will have to live as a nun from now on...
+			It huuurts!! A bald dumpling cannot take it easy!!
+			Yugyaaaaaaa!! I don't want to be a bald manjuu!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Shchob ich! Gibe ich bagg, gibe ich bagg yoooooo!!
+			Yunnyaaaaa! %name'sh shiwky Mishtew Haiw ishshsh!!
+			Ich huwchhhhhhhsh! I gan'ch chake ich eajy~!!
+			Yugyaaaa!! A bawd dumpwing ish howwibweee!!
+		</baby>
+		<child>
+			Yunnyaaaaa! %name'sh shiwky Mishtew Haiw ishshsh!!
+			Shtop it! Give me back, give it back yoooooo!!
+			Yunnyaaa! Mishtew Haiw, whewe did you goooo!!
+			It huuuwtsh!! Can't take it eajyyy!!
+			Yugyaaaa!! A bawd dumpwing ish howwibweee!!
+		</child>
+		<adult>
+			Yunnyaaaaa! %name's silky Mister Hair isss!!
+			Stop! Give them back, please give them backkk!!
+			Yunnyaaa! Mister Hair, where did you goooo!!
+			Id hurddddddddssssss!! Bald manjuu can't take it easy!!
+			Yugyaaaaaaa!! I don't want to be a bald manjuu!!
+			Going bald is only fine for Reimu, you knowww!!!
+		</adult>
+	</rude>
+[/PLUNCKING]
+
+# つちのなかにいる
+[BaryInUnderGround]
+	<normal>
+		<baby>
+			Ich'sh agonizinggg!!... gech me ouch of heweee!...
+			It'sh sho dawk... it'sh sho cwamped...
+			If %name did a bad ding, I'ww abowogize...
+			I gan'd bweadeee...
+			<damage>
+				Habe... mewcy......
+				Jushch giww me...
+				I'm showwy... I'm show.. wy....
+			</damage>
+		</baby>
+		<child>
+			Ich'sh agonizinggg!!... gech me ouch of heweee!...
+			It'sh sho dawk... it'sh sho cwamped...
+			If %name did a bad ding, I'ww abowogize...
+			I gan'd bweadeee...
+			<damage>
+				Habe... mewcy......
+				Jushch giww me...
+				I'm showwy... I'm show.. wy....
+			</damage>
+		</child>
+		<adult>
+			Id's agonizinggg!!... ged me oud of hereee!...
+			It's so dark... it's so cramped...
+			If %name did a bad thing, I'll abologize...
+			I can'd breatheee...
+			<damage>
+				Habe... mercy......
+				Jusd kill me...
+				I'b zorry... I'b zor.. ry....
+			</damage>
+		</adult>
+	</normal>
+[/BaryInUnderGround]
+
+# 引っ張る
+[Pull]
+	<normal>
+		<baby>
+			Fueh?
+			Shomehow %name can't take it eajy...
+		</baby>
+		<child>
+			Fueh?
+			Shomehow %name can't take it eajy...
+		</child>
+		<adult>
+			Fueh?
+			Somehow %name can't take it easy...
+		</adult>
+	</normal>
+[/Pull]
+
+# 引っ張る2
+[Pull2]
+	<normal>
+		<baby>
+			Can't shtwetch anymowe! Huwwy up and shtop!
+			It huuuwtsh! Teawing apawttt!
+			Pweashe shtop! Pweashe shtop!
+			Mishtew Tummy ish teawing apawttt!!!
+			Nevew fowgive you fow dishshsh!!!
+		</baby>
+		<child>
+			Can't shtwetch anymowe! Huwwy up and shtop!
+			It huuuwtsh! Teawing apawttt!
+			Pweashe shtop! Pweashe shtop!
+			Mishtew Tummy ish teawing apawttt!!!
+			Nevew fowgive you fow dishshsh!!!
+		</child>
+		<adult>
+			Can't stretch anymore! Hurry up and stop!
+			It huuurts! Tearing aparttt!
+			Please stop! Please stop!
+			Mister Tummy is tearing aparttt!!!
+			Never forgive you for thisss!!!
+		</adult>
+	</normal>
+[/Pull2]
+
+# つぶす
+[Press]
+	<normal>
+		<baby>
+			Fueh?
+			Shomehow %name can't take it eajy...
+		</baby>
+		<child>
+			Fueh?
+			Shomehow %name can't take it eajy...
+		</child>
+		<adult>
+			Fueh?
+			Somehow %name can't take it easy...
+		</adult>
+	</normal>
+[/Press]
+
+# つぶす2
+[Press2]
+	<normal>
+		<baby>
+			Getting cwusheddd!
+			It huuuwtsh!!!
+			Mishtew, pweashe shtop!!!
+			Nevew fowgive you fow dishshsh!!!
+		</baby>
+		<child>
+			Getting cwusheddd!
+			It huuuwtsh!!!
+			Mishtew, pweashe shtop!
+			Nevew fowgive you fow dishshsh!!!
+		</child>
+		<adult>
+			Getting crusheddd! Save meee!
+			It hurts it hurts it huuurts!!!
+			Mister, please stop!!!
+			Never forgive you for thisss!!!
+		</adult>
+	</normal>
+[/Press2]
+
+# 加工所でつぶされる
+[KilledInFactory]
+	<normal>
+		<baby>
+			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!
+			%name doeshn'ch wanch cho die yech!!!!
+			%name hashn't taken it eajy at aww yet!!
+			Wantsh to eat shweet-shweetsh and be happy!!
+			Why can't %name take it eajy!?!
+			%name and de odhewsh haben'ch done anyding, do-!!
+			Eben dough %name and de odhewsh haben'ch done anyding wwongggg!!!
+			Eben dough %name and de odhewsh jushch wanch cho chake ich eajyyyyy!!!
+			Mishcha human!! Bweashe hewb %name!!
+			I'ww abowogizeee!!! Sho bweashe fowgibe meee!!! I don'ch wanch cho dieee!!
+			Yunyaaaaaaa!! Yunyaaaaaaa!!!
+			Yugyaaaaaa!!!
+			Wet'sh take it eajy togedew wid %name!!
+			Mishtew Humannnnn!!!
+			I'ww abowogizeee!!! Sho bweashe don'ch giww meee!!!
+			Uwaaaaaaa!!!!
+			%name wantsh to go homeeee!!!
+			No no noooooo!!!
+			Nooo, nooo, nooo... shomeone shave %name~!!!
+			Ach weashch fow de washch chime!!!
+			eajy, eajyyyy!!!
+			Don't want to dieee! Shaaave %name!!!
+			%name ish nod a manjuu!!!
+			Papaaaa~!!! Mamaaaa~!!!
+			Mamaaaa---shave %name!!
+			Mamaaaa~!!!
+			Wanted to get mawwied sho muchhh!!
+			Hashn't wefweshed yettt!!!
+			%name wanted wittwe onesh~!!!
+			Wantsh to nom-nom food wid cute wittwe onesh sho muchhh!!!
+			On shunny daysh wantsh evewyone to shunbade and wub-wub togedewww!!!
+		</baby>
+		<child>
+			Nooooo!!! I don'd wand to die!! I don'd wand to dieee!!
+			%name doeshn'd wand to dieee yet!!!!
+			%name hashn't taken it eajy at aww yet!!
+			Wantsh to eat shweet-shweetsh and be happy!!
+			Why can't %name take it eajy!?!
+			%name and evewyone didn't do anyding wwong!!
+			Even dough %name and de odewsh haven'd done anyding wwongggg!!!
+			Even dough %name and de odewsh jushd wand to dake id eajyyyyy!!!
+			Mishtew Human!! Pweashe shave %name!!
+			I'ww abowogizeee!!! Zo bweashe fowgibe meee!!! I don'd wand to dieee!!
+			Yunyaaaaaaa!! Yunyaaaaaaa!!!
+			Yugyaaaaaa!!!
+			Wet'sh take it eajy togedew wid %name!!
+			Mishtew Humannnnn!!!
+			I'ww abowogizeee!!! Zo bweashe don'd kiww meee!!!
+			Uwaaaaaaa!!!!
+			%name wantsh to go homeeee!!!
+			Nooo nooo nooooo!!!
+			No no no, shomebody pweashe shave %name!!!
+			At weasht fow de washt time!!!
+			eajy, eajyyyy!!!
+			Don't want to dieee! Shaaave %name!!!
+			%name ish nod a manjuu!!!
+			Papaaaa~!!! Mamaaaa~!!!
+			Papaaaa~ shave %name~!!!
+			Mamaaaa~!!!
+			Wanted to get mawwied sho muchhh!!
+			Hashn't wefweshed yettt!!!
+			%name wanted wittwe onesh~!!!
+			Wantsh to nom-nom food wid cute wittwe onesh sho muchhh!!!
+			On shunny daysh wantsh evewyone to shunbade and wub-wub togedewww!!!
+		</child>
+		<adult>
+			Nooooo!!! I don'd wand to die!! I don'd wand to dieee!!
+			%name doesn'd wand to dieee yet!!!!
+			%name hasn't taken it easy at all yet!!
+			Wants to eat sweet-sweets and be happy!!
+			Why can't %name take it easy!?!
+			%name and everyone didn't do anything wrong!!
+			Even dough %name and the others haven'd done anyding wrongggg!!!
+			Even dough %name and the others jusd wand to dake id easyyyyy!!!
+			Easy Easy!!!!
+			Mister Human!! Please save %name!!
+			I'll abologizeee!!! Zo blease forgibe meee!!! I don'd wand to dieee!!
+			Yunyaaaaaaa!! Yunyaaaaaaa!!!
+			Yugyaaaaaa!!!
+			Let's take it easy together with %name!!
+			Mister Humannnnn!!!
+			I'll abologizeee!!! Zo blease don'd kill meee!!!
+			Uwaaaaaaa!!!!
+			Nooo nooo nooooo!!!
+			No no no, somebody please save %name!!!
+			At least for the last time!!!
+			Don't want to dieee! Saaave %name!!!
+			%name and the others are alive toooo!!!
+			%name is nod a manjuu!!!
+			Wants to nom-nom food with cute babies so muchhh!!!
+			On sunny days wants everyone to sunbathe and rub-rub togetherrr!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			No No!!! I don'ch wanch cho die!! I don'ch wanch cho die!!
+			%name doeshn'ch wanch cho die yech!!!!
+			%name hashn't taken it eajy at aww yettt!!
+			Wantsh to eat shweet-shweetsh and be happy!!
+			Why can't %name take it eajy~?!?!!
+			%name and de odhewsh haben'ch done anyding, do-!!
+			Eben dough %name and de odhewsh haben'ch done anyding wwongggg!!!
+			Hewb guche %name!!! Wech me chake ich eajyyyy!!
+			Eben dough %name and de odhewsh jushch wanch cho chake ich eajyyyyy!!!
+			Wowd Human!! Shave %name!!
+			I'ww abowogizeee!!! Sho bweashe fowgibe meee!!! I don'ch wanch cho dieee!!
+			Yunyaaaaaaa!! Yunyaaaaaaa!!!
+			%name ish not a yukkuwi dat shouwd die in a pwace wike dishshsh!!!
+			Yugyaaaaaa!!!
+			%name wiww shtiww wet you take it eajy togedew!! Sho don't kiww %name!!!
+			What do shitty humansh dink a wife ishshsh!?
+			Mishtew Humannnnn!!!
+			I'ww abowogizeee!!! Sho bweashe don'ch giww meee!!!
+			Ash if I gouwd die in a bwace wige dhishshsh!!
+			Uwaaaaaaa!!!!
+			No no noooooo!!!
+			No no noooooo, shomeone hewb meeee!!!
+			Don't want to dieee! Shaaave %name!!!
+			%name and evewyone awe awive toooo!!!
+			It'sh a pwecioush wifeee!!!
+			%name ish nod a manjuu!!!
+			Papaaaa~!!! Mamaaaa~!!!
+			Mamaaaa---shave %name!!
+			Mamaaaa~!!!
+			Wanted to get mawwied sho muchhh!!
+			Hashn't wefweshed yettt!!!
+			%name wanted wittwe onesh~!!!
+			Wantsh to nom-nom food wid cute babiesh sho muchhh!!!
+			On shunny daysh wantsh evewyone to shunbade and wub-wub togedewww!!!
+		</baby>
+		<child>
+			Nooooo!!! I don'd wand to die!! I don'd wand to dieee!!
+			%name doeshn'd wand to dieee yet!!!!
+			%name hashn't taken it eajy at aww yettt!!
+			Wantsh to eat shweet-shweetsh and be happy!!
+			Why can't %name take it eajy~~?!?!
+			%name and evewyone didn't do anyding wwong!!
+			Even dough %name and de odewsh haven'd done anyding wwongggg!!!
+			Hewb guche %name!!! Wech me chake ich eajyyyy!!
+			Even dough %name and de odewsh jushd wand to dake id eajyyyyy!!!
+			Wowd Human!! Shave %name!!
+			I'ww abowogizeee!!! Zo bweashe fowgibe meee!!! I don'd wand to dieee!!
+			Yunyaaaaaaa!! Yunyaaaaaaa!!!
+			%name ish not a yukkuwi dat shouwd die in a pwace wike dishshsh!!!
+			Yugyaaaaaa!!!
+			%name wiww shtiww wet you take it eajy togedew!! Sho don't kiww %name!!!
+			Shitty human, what do you dink wife ish~~!!
+			Mishtew Humannnnn!!!
+			I'ww abowogizeee! I'ww abowogize, zo don'd kiww meee!!!
+			Ash if I couwd die in a bwace wike dishshsh!!
+			Uwaaaaaaa!!!!
+			Nooo nooo nooooo!!!
+			Nooo nooo nooo, zomeone zave meee!!!
+			Don't want to dieee! Shaaave %name!!!
+			%name and de odewsh awe awive toooo!!!
+			It'sh a pwecioush wifeee!!!
+			%name ish nod a manjuu!!!
+			Papaaaa~!!! Mamaaaa~!!!
+			Papaaaa~ shave %name~!!!
+			Mamaaaa~!!!
+			%name wash cheegyyyy!! I'b zowwyyy!! Zave meee!!
+			Wanted to get mawwied sho muchhh!!
+			Hashn't wefweshed yettt!!!
+			%name wanted wittwe onesh~!!!
+			Wantsh to nom-nom food wid cute babiesh sho muchhh!!!
+			On shunny daysh wantsh evewyone to shunbade and wub-wub togedewww!!!
+		</child>
+		<adult>
+			Nooooo!!! I don'd wand to die!! I don'd wand to dieee!!
+			%name doesn'd wand to dieee yet!!!!
+			%name hasn't taken it easy at all yettt!!
+			Wants to eat sweet-sweets and be happy!!
+			Why can't %name take it easy~~?!?!
+			%name and everyone didn't do anything wrong!!
+			Even dough %name and the others haven'd done anyding wrongggg!!!
+			Even dough %name and the others jusd wand to dake id easyyyyy!!!
+			Lord Human!! Save %name!!
+			I'll abologizeee!!! Zo blease forgibe meee!!! I don'd wand to dieee!!
+			Yunyaaaaaaa!! Yunyaaaaaaa!!!
+			%name is not a yukkuri that should die in a place like thisss!!!
+			Yugyaaaaaa!!!
+			%name will still let you take it easy together!! So don't kill %name!!!
+			Shitty human, what do you think life is~~!!
+			Mister Humannnnn!!!
+			I'll abologizeee! I'll abologize, zo don'd kill meee!!!
+			As if I could die in a blace like disss!!
+			Uwaaaaaaa!!!!
+			%name was cheegyyyy!! I'b zorryyy!! Zave meee!!
+			Nooo nooo nooooo!!!
+			Nooo nooo nooo, zomeone zave meee!!!
+			Don't want to dieee! Saaave %name!!!
+			%name and the others are alive toooo!!!
+			It's a precious lifeee!!!
+			%name is nod a manjuu!!!
+			Wants to nom-nom food with cute babies so muchhh!!!
+			On sunny days wants everyone to sunbathe and rub-rub togetherrr!!!
+		</adult>
+	</rude>
+[/KilledInFactory]
+
+# あまあま発見
+[FindAmaama]
+	<normal>
+		<baby>
+			It'sh shweet-shweetsh!
+			%name wiww have shome shweet-shweetsh too!
+			Mishtew, dank you vewy much fow de shweet-shweetsh!
+		</baby>
+		<child>
+			It'sh shweet-shweetsh!
+			%name wiww have shome shweet-shweetsh too!
+			Mishtew, dank you vewy much fow de shweet-shweetsh!
+		</child>
+		<adult>
+			It's sweet-sweets!
+			%name will have some sweet-sweets too!
+			Mister, thank you very much for the sweet-sweets!
+		</adult>
+	</normal>
+[/FindAmaama]
+
+# あまあま食事
+[EatingAmaama]
+	<normal>
+		<baby>
+			H-H-Happy~!!!
+			Mishtew Wefiww! Pweashe give Mishtew Wefiww!
+		</baby>
+		<child>
+			H-H-Happy~!!!
+			Mishtew Wefiww! Pweashe give Mishtew Wefiww!
+		</child>
+		<adult>
+			H-H-Happy~!!!
+			Mister! Please give Mister Refill!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Sho good! Dish ish shupew yummy!!!
+			Bwing Mishtew Wefiww, okay? Wight away ish fine!
+		</baby>
+		<child>
+			Sho good! Dish ish shupew yummy!!!
+			Bwing Mishtew Wefiww, okay? Wight away ish fine!
+		</child>
+		<adult>
+			So good! This is super yummy!!!
+			Please bring Mister Refill! Right away is fine!
+		</adult>
+	</rude>
+[/EatingAmaama]
+
+# 野菜発見
+[FindVegetable]
+	<normal>
+		<baby>
+			Yuwaaa.. ich'sh a bewy eajy Mishcha begechabwe-!
+			When %name wash taking it eajy, Mishtew Veggie shpwouted aww on itsh own!
+		</baby>
+		<child>
+			Yuwaaa.. ich'sh a bewy eajy Mishcha begechabwe-!
+			When %name wash taking it eajy, Mishtew Veggie shpwouted aww on itsh own!
+		</child>
+		<adult>
+			Yuwaaa.. ich'sh a bewy eajy Mishcha begechable-!
+			When %name was taking it easy, Mister Veggie sprouted all on its own!
+		</adult>
+	</normal>
+[/FindVegetable]
+
+# 吐餡
+[Vomit]
+	<normal>
+		<baby>
+			Yu-bieee...
+			Yubu...
+		</baby>
+		<child>
+			Yu-bueee...
+			Boehh...
+		</child>
+		<adult>
+			Yu-bububu...
+			Geboh...
+		</adult>
+	</normal>
+[/Vomit]
+
+# 汎用、瀕死継続
+[Dying2]
+	<normal>
+		<baby>
+			Yu... yupi...
+			Yu... yu... yu... yu...
+			Pweashe... jusht kiww %name awweady...
+		</baby>
+		<child>
+			Yubi... yugyu...
+			Yu... yu... yu... yu...
+			Pweashe... jusht kiww %name awweady...
+		</child>
+		<adult>
+			Yugu... yubaa...
+			Yu... yu... yu... yu...
+			Please... just kill %name already...
+		</adult>
+	</normal>
+[/Dying2]
+
+# 汎用、驚き
+[Surprise]
+	<normal>
+		<baby>
+			Sho cwuew!
+			Hate dish sho much!
+		</baby>
+		<child>
+			Sho cwuew!
+			Hate dish sho much!
+		</child>
+		<adult>
+			So cruel!
+			Hate this so muuchhh!
+		</adult>
+	</normal>
+[/Surprise]
+
+# 皮を剥かれる
+[PEALING]
+	<normal>
+		<baby>
+			It huuuuuuwtsh!!! Don't pweew %name, nyaaaaa!!!
+			Yugii!! Mamaaa!! It huuuuuuwtsh!!!
+		</baby>
+		<child>
+			It huuuuwwtsh!!!!! Don't poke-poke %name~!!!
+			Yugiii!! Mommyyy! Peewing huwtsh sho muchhh!!!
+		</child>
+		<adult>
+			It huuuuuurts~!! Stop peeling %name~!!!
+			Yugiiiii!! %partner-! Don'd worry aboud %name, zo hurry ub and run awayyy!!!
+			To %partner-! Blease don'd do cruel dings to %partner!!!
+			Yugyoeeeeee!!!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			It huuuwtsh!! Don't peew %name!!!
+			Pigiiiii!! %partner-! Huwwy ub and zave %name!!!
+			Pigiiiiiiiiiiiiiiiiiiiiiii!!!!!!
+		</baby>
+		<child>
+			It huuuwtsh!! Don't peew %name!!!
+			Pigiiiii!! %partner-! Huwwy ub and zave %name!!!
+			Pigiiiiiiiiiiiiiiiiiiiiiii!!!!!!
+		</child>
+		<adult>
+			It huuurts!! Don't peel %name!!!
+			Pigiiiii!! %partner-! Hurry ub and zave %name!!!
+			Yugyoeeeeeeeeeeee!!!!!!
+		</adult>
+	</rude>
+[/PEALING]
+
+# 汎用、ゆっくりできなくて嘆く(低)
+[LamentLowYukkuri]
+	<normal>
+		<baby>
+			Wantsh to take it eajy...
+			Wech me be eajy...
+			Why won't you wet %name take it eajy?
+			I wanch cho be eajy...
+			Shomehow %name can't take it eajy...
+		</baby>
+		<child>
+			Wantsh to take it eajy...
+			Wech me be eajy...
+			Why won't you wet %name take it eajy?
+			I wanch cho be eajy...
+			Shomehow %name can't take it eajy...
+		</child>
+		<adult>
+			Wants to take it easy...
+			Let me be easy...
+			Why won't you let %name take it easy?
+			I want to be easy...
+			Somehow %name can't take it easy...
+		</adult>
+	</normal>
+[/LamentLowYukkuri]
+
+# 汎用、ゆっくりできなくて嘆く
+[LamentNoYukkuri]
+	<normal>
+		<baby>
+			I gan'ch chake ich eajy...
+			I wanch cho chake ich eajyyyy!
+			Why won't you wet %name take it eajy!?
+		</baby>
+		<child>
+			I gan'ch chake ich eajy...
+			I wanch cho chake ich eajyyyy!
+			Why won't you wet %name take it eajy!?
+		</child>
+		<adult>
+			I can't take it easy...
+			I wand to dake id easyyyy!
+			Why won't you let %name take it easy!?
+		</adult>
+	</normal>
+[/LamentNoYukkuri]
+
+# ゆんやああ
+[Yunnyaa]
+	<normal>
+		Yunyaaaaaa!!!!!
+	</normal>
+[/Yunnyaa]
+
+# 非ゆっくり症初期
+[NonYukkuriDiseaseNear]
+	<normal>
+		<baby>
+			Why ish %name bown..，...?
+			If I gan'ch chake ich eajy wige dhish, I didn'ch wanna be bown...
+			Mama, why did you give biwd to %name... ?
+			I jushch wanch cho wewax... I weawwy wanch cho wewax...
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</baby>
+		<child>
+			Why ish %name bown..，...?
+			If I gan'ch chake ich eajy wige dhish, I didn'ch wanna be bown...
+			Mama, why did you give biwd to %name... ?
+			I jushch wanch cho wewax... I weawwy wanch cho wewax...
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</child>
+		<adult>
+			Why is %name born..，...?
+			I want to take it easy, I want to take it easy, I want to take it easy...
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</adult>
+	</normal>
+[/NonYukkuriDiseaseNear]
+
+# 非ゆっくり症
+[NonYukkuriDisease]
+	<normal>
+		<baby>
+			eajy!! eajy!! eajy!! eajy!! eajy!! eajy!
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</baby>
+		<child>
+			eajy!! eajy!! eajy!! eajy!! eajy!! eajy!
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</child>
+		<adult>
+			Easy!! Easy!! Easy!! Easy!! Easy!! Easy!
+			<damage>
+				Yu!Yu!Yu!Yu!Yu!Yu!
+			</damage>
+		</adult>
+	</normal>
+[/NonYukkuriDisease]
+
+# 汎用、他のゆっくりに何かされたときに対する攻撃、反撃
+[RevengeAttack]
+	<rude>
+		<baby>
+			Yu-wu-sha-nae!
+		</baby>
+		<child>
+			Yu-wu-sha-nae!
+		</child>
+		<adult>
+			Yu-ru-sa-nae!
+		</adult>
+	</rude>
+[/RevengeAttack]
+
+# おさげ、尻尾、羽をちぎる
+[BraidCut]
+	<normal>
+		<baby>
+			%name'sh cute Mishtew Bwaidsh aweee!!!
+			%name'sh pwecioush, pwecioush Mishtew Bwaidsh aweee!!!
+			Can't wickwe dem anymoweee!!!
+			Why awe you doing shomeding wike dish!?
+			It huuuwtsh!
+		</baby>
+		<child>
+			%name'sh cute Mishtew Bwaidsh aweee!!!
+			%name'sh pwecioush, pwecioush Mishtew Bwaidsh aweee!!!
+			Can't wickwe dem anymoweee!!!
+			Why awe you doing shomeding wike dish!?
+			It huuuwtsh!
+		</child>
+		<adult>
+			%name's wonderful Mister Braids areee!!!
+			%name's precious, precious Mister Braids areee!!!
+			Can't wiggle them anymoreee!!!
+			Why are you doing something like this!?
+			It huuurts!
+		</adult>
+	</normal>
+[/BraidCut]
+
+# 汎用、他のゆっくりに生きたまま食べられる
+[EatenByBody]
+	<normal>
+		<baby>
+			Pweashe don't eat %name!
+			Pweashe shtop!
+			%name ish %name, you know? Not Mishtew Food!
+			%name ish awive, you know? It'sh a pwecioush wife!
+		</baby>
+		<child>
+			Pweashe don't eat %name!
+			Pweashe shtop!
+			%name ish %name, you know? Not Mishtew Food!
+			%name ish awive, you know? It'sh a pwecioush wife!
+		</child>
+		<adult>
+			Please don't eat %name!
+			Pwease stop!
+			%name is %name, you know? Not Mister Food!
+			%name is alive, you know? It's a precious life!
+		</adult>
+	</normal>
+[/EatenByBody]
+
+# 汎用、他のゆっくりに生きたまま吸われる
+[EatenByBody2]
+	<normal>
+		<baby>
+			Pweashe don't shuck-shuck on %name...
+			Pweashe don't shuck out Mishtew Anko...
+			Pweashe don't shuck out %name'sh wife Mishtew Anko...
+		</baby>
+		<child>
+			Pweashe don't shuck-shuck on %name...
+			Pweashe don't shuck out Mishtew Anko...
+			Pweashe don't shuck out %name'sh wife Mishtew Anko...
+		</child>
+		<adult>
+			Please don't suck-suck on %name...
+			P-Please don't suck out Mister Anko...
+			Please don't suck out %name's life Mister Anko...
+		</adult>
+	</normal>
+[/EatenByBody2]
+
+# れみりゃから逃げる
+[EscapeFromRemirya]
+	<normal>
+		<baby>
+			Yukyaaaa!!
+			Wemiwyaaaaaaa!
+			%partner, shave %name!
+			It'sh shcawyyy!
+		</baby>
+		<child>
+			Yukyaaaa!!
+			Wemiwyaaaaaaa!
+			%partner, shave %name!
+			It'sh shcawyyy!
+		</child>
+		<adult>
+			Uwaaaahn!!!
+			It's Remirya~!!!
+			%partner, save %name!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yukyaaaa!!
+			Wemiwyaaaaaaa!
+			If you'we going to eat, make it Weimu inshtead of %name!
+		</baby>
+		<child>
+			Yukyaaaa!!
+			Wemiwyaaaaaaa!
+			If you'we going to eat, make it Weimu inshtead of %name!
+		</child>
+		<adult>
+			Uwaaaahn!!!
+			It's Remirya~!!!
+			If you're going to eat, don't eat %name!
+		</adult>
+	</rude>
+[/EscapeFromRemirya]
+
+# しゃべれない
+[CantTalk]
+	<normal>
+		<baby>
+			muuu!!
+			-----!!!
+			Yumuuu!!Yumumuuu!!
+		</baby>
+		<child>
+			muuu!!
+			-----!!!
+			Yumuuu!!Yumumuuu!!
+		</child>
+		<adult>
+			muuu!!
+			-----!!!
+			Yuguuu!!Yumuguuu!!
+		</adult>
+	</normal>
+[/CantTalk]
+
+# しゃべれない(非ゆっくり)
+[NYDCantTalk]
+	<normal>
+		<baby>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</baby>
+		<child>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</child>
+		<adult>
+			Yugumu!Yugumu!Yugumu!Yugumu!
+			Yumugu!Yumugu!Yumugu!Yumugu!
+			<damage>
+				Yumu!Yugu!Yumu!Yugu!Yumu!
+			</damage>
+		</adult>
+	</normal>
+[/NYDCantTalk]
+
+# 汚い
+[Dirty]
+	<normal>
+		<baby>
+			Bieen, bieeen...
+			Poo-poo feewsh sho gwoshsh...
+			Yupyaaa, it'sh sho shmewwyyy...
+			Mommy, pweashe wick-wick %name cwean...
+			Pweashe make %name cwean and tidy...
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Bieen! bieeen!!!
+			Poo-poo feewsh sho gwoshsh!!!
+			Yupyaaa! It'sh sho shmewwyyy!!!
+			Make %name cwean and tidy wight now!!!
+			You shitty pawent! Huwwy up and wick-wick %name cwean!!!
+			Yukyaaa! Dish ish negwecttt!!!
+		</baby>
+		<child>
+			Bieen! bieeen!!!
+			Poo-poo feewsh sho gwoshsh!!!
+			Yupyaaa! It'sh sho shmewwyyy!!!
+			Make %name cwean and tidy wight now!!!
+			You shitty pawent! Huwwy up and wick-wick %name cwean!!!
+			Yukyaaa! Dish ish negwecttt!!!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/Dirty]
+
+# かびてる時の通常時
+[Moldy]
+	<normal>
+		<baby>
+			Yuu... yuu...
+			Yu... yubu...
+			Yufu... yufu...
+			Mainwy de entiwe body huwtsh sho much...
+			Mainwy de entiwe body ish sho itchy...
+			Mishtew Tummy, pweashe don't be mean...
+			Can't take it eajy...
+			Yuu... shomehow body condition ishn't good...
+			Yuu... tummy ish shpinning awound...
+			Mishtew... shomehow %name can't take it eajy...
+		</baby>
+		<child>
+			Yuu... yuu...
+			Mainwy de entiwe body huwtsh sho much...
+			Mainwy de entiwe body ish sho itchy...
+			Yu... yubu...
+			Yufu... yufu...
+			Shtwange... can't take it eajy...
+			Yuu... shomehow body condition ishn't good...
+			Mishtew Tummy, pweashe don't be mean...
+			Yuu... tummy ish shpinning awound...
+			Mishtew... shomehow %name can't take it eajy...
+		</child>
+		<adult>
+			*Drag drag...*
+			Yu... yubu...
+			Yufu... yufu...
+			Mister Tummy, please don't be mean...
+			Mainly the entire body hurts so much...
+			Mainly the entire body is so itchy...
+			Strange... can't take it easy...
+			Strange... can't take it easy...
+			Yuu... somehow body condition isn't good...
+			Yuu... tummy is spinning around...
+			Mister... somehow %name can't take it easy...
+		</adult>
+	</normal>
+[/Moldy]
+
+# 深刻なカビ
+[MoldySeriousry]
+	<normal>
+		<baby>
+			Yugi!!
+			Yu-gu!!!!! Yu-!!!
+			Nooo!! %name weawwy doeshn't want to die nyaaaa!!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!
+			Pigiya!!!!!
+			Yu-gyaaaa!!! Mamaaaaa!!!
+			Yu-go-geeeee!!!! Papaaaaa!!!
+			No, no, no, nooooo!!!
+		</baby>
+		<child>
+			Yu-gu!!!!! Yu-!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!
+			Yu-ga-ga-ga-ga-aga-a-a-a-!!!!!
+			Nooooo!! %name doeshn't want to dieeeee!!!!
+			Yu-gyaaaa!!! Mamaaaaa!!!
+			Yu-go-geeeee!!!! Papaaaaa!!!
+			No, no, no, nooooo!!!
+		</child>
+		<adult>
+			Yugi!!
+			Yu-gu!!!!! Yu-!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!
+			Yu-ga-ga-ga-ga-aga-a-a-a-!!!!!
+			%name doesn't want to die yet!!!!
+			Yugoeee!!!!!!
+			Yugyaaaa!!! piggiiii!!!!!
+			Yu-gogeeeee!!!! Okyaaa-shaaaaaaa!!!
+			No, no, no, nooooo!!!
+		</adult>
+	</normal>
+	<rude>
+			<baby>
+			Yugi!!
+			Yu-gu!!!!! Yu-!!!
+			Nooo!! %name weawwy doeshn't want to die nyaaaa!!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!
+			Pigiya!!!!!
+			Yu-gyaaaa!!! Mamaaaaa!!!
+			Yu-go-geeeee!!!! Papaaaaa!!!
+			No, no, no, nooooo!!!
+			Yugyaaa!! Shitty pawent! Shave %name!!!
+			Pigiiiiiiiiiiiiiiiiiiiiiii!!!!!!
+		</baby>
+		<child>
+			Yugi!!
+			Yu-gu!!!!! Yu-!!!
+			Nooo!! %name doeshn't want to die yettt!!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!
+			Pigiya!!!!!
+			Yu-gyaaaa!!! Mamaaaaa!!!
+			Yu-go-geeeee!!!! Papaaaaa!!!
+			No, no, no, nooooo!!!
+			Yugiiii!! Shitty pawent! Shave %name!!!
+			Pigiiiiiiiiiiiiiiiiiiiiiii!!!!!!
+		</child>
+		<adult>
+			Yugi!!
+			Yu-gu!!!!! Yu-!!!
+			Yu-gi-i-i-i-i-i-i-!!!!!
+			Yu-ga-ga-ga-ga-aga-a-a-a-!!!!!
+			%name doesn't want to die yet!!!!
+			Yugoeee!!!!!!
+			Yugyaaaa!!! piggiiii!!!!!
+			Yu-gogeeeee!!!! Okyaaa-shaaaaaaa!!!
+			No, no, no, nooooo!!!
+		</adult>
+	</rude>
+[/MoldySeriousry]
+
+# 悪夢
+[Nightmare]
+	<normal>
+		<baby>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy...
+			I can'ch chake ich eajy ach aww...
+			Hewb meeee, hewb %name...
+			I hade huwdd-huwdddd... I don'd wand to dieee..
+			I wanch cho chake ich eajy..
+			Wech me chake ich eajy...
+			Big shishtewwwww...
+			Wittwe shishtewwwww...
+			Go awayyy... don't come ovew heweee...
+			I'm showwyyyy, I'm sho showwyyyy...
+			Whyyy,... whyyy...
+		</baby>
+		<child>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy...
+			I can'ch chake ich eajy ach aww...
+			Hewb meeee, hewb %name...
+			Id huwdddddddsh... I don'ch wanch cho die..
+			I wanch cho chake ich eajy..
+			Wech me chake ich eajy...
+			Big shishtewwwww...
+			Wittwe shishtewwwww...
+			Go awayyy... don't come ovew heweee...
+			I'm showwyyyy, I'm sho showwyyyy...
+			Whyyy,... whyyy...
+		</child>
+		<adult>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			No, no, no, no, no, nooooo...
+			Easy, Easy...
+			I can't take it easy...
+			Helb meeee, helb %name...
+			I hade hurdd-hurdddd... I don'd wand to dieee..
+			I want to take it easy..
+			Let me take it easy...
+			Litle oneeeee...
+			Go awayyy... don't come over hereee...
+			I'm shorry, I'm really shorry...
+			Whyyy, whyyy...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy...
+			I can'ch chake ich eajy ach aww...
+			Hewb meeee, hewb %name...
+			I hade huwdd-huwdddd... I don'd wand to dieee..
+			I wanch cho chake ich eajy..
+			Wech me chake ich eajy...
+			Big shishtewwwww...
+			Wittwe shishtewwwww...
+			Go awayyy... don't come ovew heweee...
+			Shitty shwave, huwwy up and shave %name...
+			Why doesh %name have to go dwough dish... it'sh sho unweashoonabweee...
+			%name ish abshowudewy nod ad fauwddddd...
+			I'm showwyyyy, I'm sho showwyyyy...
+			Whyyy,... whyyy...
+			%name wash wwonggg... sho pweashe wet %name take it eajyyy...
+			How did dish happen to %name...
+		</baby>
+		<child>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			No, no, no, no, no, nooooo...
+			Eajy, Eajy...
+			I can'ch chake ich eajy ach aww...
+			Hewb meeee, hewb %name...
+			Id huwdddddddsh... I don'ch wanch cho die..
+			I wanch cho chake ich eajy..
+			Wech me chake ich eajy...
+			Big shishtewwwww...
+			Wittwe shishtewwwww...
+			Go awayyy... don't come ovew heweee...
+			Shitty shwave, huwwy up and shave %name...
+			Why doesh %name have to go dwough dish... it'sh sho unweashoonabweee...
+			%name ish abshowudewy nod ad fauwddddd...
+			I'm showwyyyy, I'm sho showwyyyy...
+			Whyyy,... whyyy...
+			%name wash ad fauwddddd... zo wed me dake id eajyyy...
+			How did dish happen to %name...
+		</child>
+		<adult>
+			Yuuuuuuuu....
+			Yuaaaaaaaa...
+			Yunyaaaaa...
+			No, no, no, no, no, nooooo...
+			Easy, Easy...
+			I can't take it easy...
+			Helb meeee, helb %name...
+			I hade hurdd-hurdddd... I don'd wand to dieee..
+			I want to take it easy..
+			Let me take it easy...
+			Litle oneeeee...
+			Go awayyy... don't come over hereee...
+			Shitty slave, hurry up and save %name...
+			Why does %name have to go through this... it's so unreasoonableee...
+			%name is absoludely nod ad faulddddd...
+			I'm shorry, I'm really shorry...
+			Whyyy, whyyy...
+			%name was ad faulddddd... zo led me dake id easyyy...
+			How did this happen to %name...
+		</adult>
+	</rude>
+[/Nightmare]
+
+# 加工所で処分されると思ったとき
+[DontThrowMeAway]
+	<normal>
+		<baby>
+			%name can shtiww wefwesh pwopewwyyyyy!!! Sho pweashe don't kiww meeeee!!! I don't want to be dishposhed offffff!!!
+			I-I'm fineeeee!!! %name can shtiww wefwesh pwopewwyyyyy!!! Sho I beg youuuuu!!! %name doeshn't want to die yetttt!!
+			%name can shtiww wefwesh pwopewwyyyy!!! Pweashe don't dwow me awayyyy!! %name doeshn't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww heawdyyyyyy!!! Sho don't dishposhe of me yetttt!! Pweashe don't kiww meeeee!! I don't want to dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Sho pweashe don't kiww meeeee!! I beg youuuuu!!
+			%name ish shtiww f-fineeeee!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Mewcy!! Pweashe have mewcyyyyy!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Sho pweashe hewp meeeee!!! Pweashe don't kiww meeeee!!!
+			Noooooo!!! I don't wanna die yetttttt!!!
+			I don't wanna be dishposhed offffff!!! Hewp meeeeee!!!
+			Noooooo!!! I don't wanna be dishposhed offffff!!!
+			Noooooo!!! Noooooo!!!
+		</baby>
+		<child>
+			%name can shtiww wefwesh pwopewwyyyy!!! Sho pweashe don't kiww meeeee!!! I don't wanna be dishposhed offffff!!!
+			I-I'm f-fineeeee!!! %name can shtiww wefwesh pwopewwyyyy!!! Sho I beg youuuuu!!! %name doeshn't wanna die yetttt!!
+			%name can shtiww wefwesh pwopewwyyyy!!! Pweashe don't dwow me awayyyy!! %name doeshn't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww heawdyyyyyy!!! Sho don't dishposhe of me yetttt!! Pweashe don't kiww meeeee!! I don't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Sho pweashe don't kiww meeeee!! I beg youuuuu!!
+			%name ish shtiww f-fineeeee!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Mewcy!! Pweashe have mewcyyyyy!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Sho pweashe hewp meeeee!!! Pweashe don't kiww meeeee!!!
+			Noooooo!!! I don't wanna die yetttttt!!!
+			I don't wanna be dishposhed offffff!!! Hewp meeeeee!!!
+			Noooooo!!! I don't wanna be dishposhed offffff!!!
+			Noooooo!!! Noooooo!!!
+		</child>
+		<adult>
+			%name can still refresh properlyyyyy!!! So please don't kill meeeee!!! I don't want to be disposed offffff!!!
+			I-I'm fineeeee!!! %name can still refresh properlyyyyy!!! So I beg youuuuu!!! %name doesn't want to die yetttt!!
+			%name can still refresh properlyyyyy!!! Please don't throw me awayyyy!! %name doesn't want to dieeeee!!!
+			I-I'm fineeeee!!! %name is still healthyyyyyy!!! Noooooo!!! I don't want to be disposed offffff!!!
+			%name is still healthyyyyyy!!! So don't dispose of me yetttt!! Please don't kill meeeee!! I don't want to dieeeee!!!
+			I-I'm fineeeee!!! %name is still healthyyyyyy!!! So please don't kill meeeee!! I beg youuuuu!!
+			%name is still fineeeee!!! Noooooo!!! I don't want to be disposed offffff!!!
+			%name is still fineeeee!!! Mercy!! Please have mercyyyyy!!! I don't want to be disposed offffff!!!
+			%name is still fineeeee!!! So please help meeeee!!! Please don't kill meeeee!!!
+			Noooooo!!! I don't want to die yetttttt!!!
+			I don't want to be disposed offffff!!! Help meeeeee!!!
+			Noooooo!!! I don't want to be disposed offffff!!!
+			Noooooo!!! Noooooo!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name can shtiww wefwesh pwopewwyyyyy!!! Sho pweashe don't kiww meeeee!!! I don't want to be dishposhed offffff!!!
+			I-I'm fineeeee!!! %name can shtiww wefwesh pwopewwyyyyy!!! Sho I beg youuuuu!!! %name doeshn't want to die yetttt!!
+			%name can shtiww wefwesh pwopewwyyyy!!! Pweashe don't dwow me awayyyy!! %name doeshn't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww heawdyyyyyy!!! Sho don't dishposhe of me yetttt!! Pweashe don't kiww meeeee!! I don't want to dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Sho pweashe don't kiww meeeee!! I beg youuuuu!!
+			%name ish shtiww f-fineeeee!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Mewcy!! Pweashe have mewcyyyyy!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Sho pweashe hewp meeeee!!! Pweashe don't kiww meeeee!!!
+			Noooooo!!! I don't wanna die yetttttt!!!
+			I don't wanna be dishposhed offffff!!! Hewp meeeeee!!!
+			Noooooo!!! I don't wanna be dishposhed offffff!!!
+			Noooooo!!! Noooooo!!!
+			%name can shtiww make babiesh!!! Sho I beg youuuuu!!! %name doeshn't want to die yetttt!!
+			%name can shtiww make babiesh!!! Sho pweashe don't dishposhe of meeeee!!! %name doeshn't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name can shtiww make babiesh!!! Sho pweashe don't kiww meeeee!!
+			%name wiww have a wittwe one~!!! Sho shave %name~!!! Don't kiww %name~!!!
+			I'm okay~!!! %name wiww have a wittwe one~!!!
+			%name can shtiww give biwd to wittwe onesh~!!! Sho shave %name~!! Shave %name~!!
+			%name can make a wittwe one~!!! Why~!!! Mishtew Fwood~!!! Mishtew Fwood~!!! Jusht a wittwe bit now~!!!
+			I'm okay~!!! %name can make a wittwe one~!!!
+			%name can shtiww have wittwe onesh~!!! Sho don't dishposhe of %name yet~!! Pweashe don't kiww %name~!!
+		</baby>
+		<child>
+			%name can shtiww wefwesh pwopewwyyyy!!! Sho pweashe don't kiww meeeee!!! I don't wanna be dishposhed offffff!!!
+			I-I'm f-fineeeee!!! %name can shtiww wefwesh pwopewwyyyy!!! Sho I beg youuuuu!!! %name doeshn't wanna die yetttt!!
+			%name can shtiww wefwesh pwopewwyyyy!!! Pweashe don't dwow me awayyyy!! %name doeshn't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww heawdyyyyyy!!! Sho don't dishposhe of me yetttt!! Pweashe don't kiww meeeee!! I don't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name ish shtiww heawdyyyyyy!!! Sho pweashe don't kiww meeeee!! I beg youuuuu!!
+			%name ish shtiww f-fineeeee!!! Noooooo!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Mewcy!! Pweashe have mewcyyyyy!!! I don't wanna be dishposhed offffff!!!
+			%name ish shtiww f-fineeeee!!! Sho pweashe hewp meeeee!!! Pweashe don't kiww meeeee!!!
+			Noooooo!!! I don't wanna die yetttttt!!!
+			I don't wanna be dishposhed offffff!!! Hewp meeeeee!!!
+			Noooooo!!! I don't wanna be dishposhed offffff!!!
+			Noooooo!!! Noooooo!!!
+			%name can shtiww make babiesh!!! Sho I beg youuuuu!!! %name doeshn't wanna die yetttt!!
+			%name can shtiww make babiesh!!! Sho pweashe don't dishposhe of meeeee!!! %name doeshn't wanna dieeeee!!!
+			I-I'm f-fineeeee!!! %name can shtiww make babiesh!!! Sho pweashe don't kiww meeeee!!
+			%name wiww have wittwe onesh~!!! Sho shave %name~!!! Don't kiww %name~!!!
+			%name ish okay~!!! %name wiww have wittwe onesh~!!!
+			%name wiww have wittwe onesh~!!! Sho shave %name~!!! Shave %name~!!!
+			%name wiww make wittwe onesh~!!! Sho! Apowogize~!!! Apowogize to %name~!!! Jusht no shaving~!!!
+			%name ish okay~!!! %name wiww make wittwe onesh~!!!
+			%name wiww make wittwe onesh~!!! Sho don't shave %name~!!! Don't kiww %name~!!!
+		</child>
+		<adult>
+			%name can still refresh properlyyyyy!!! So please don't kill meeeee!!! I don't want to be disposed offffff!!!
+			I-I'm fineeeee!!! %name can still refresh properlyyyyy!!! So I beg youuuuu!!! %name doesn't want to die yetttt!!
+			%name can still refresh properlyyyyy!!! Please don't throw me awayyyy!! %name doesn't want to dieeeee!!!
+			I-I'm fineeeee!!! %name is still healthyyyyyy!!! Noooooo!!! I don't want to be disposed offffff!!!
+			%name is still healthyyyyyy!!! So don't dispose of me yetttt!! Please don't kill meeeee!! I don't want to dieeeee!!!
+			I-I'm fineeeee!!! %name is still healthyyyyyy!!! So please don't kill meeeee!! I beg youuuuu!!
+			%name is still fineeeee!!! Noooooo!!! I don't want to be disposed offffff!!!
+			%name is still fineeeee!!! Mercy!! Please have mercyyyyy!!! I don't want to be disposed offffff!!!
+			%name is still fineeeee!!! So please help meeeee!!! Please don't kill meeeee!!!
+			Noooooo!!! I don't want to die yetttttt!!!
+			I don't want to be disposed offffff!!! Help meeeeee!!!
+			Noooooo!!! I don't want to be disposed offffff!!!
+			Noooooo!!! Noooooo!!!
+			%name can still make babies!!! So I beg youuuuu!!! %name doesn't want to die yetttt!!
+			%name can still make babies!!! So please don't dispose of meeeee!!! %name doesn't want to dieeeee!!!
+			I-I'm fineeeee!!! %name can still make babies!!! So please don't kill meeeee!!
+			%name can still give birth to little ones~!!! So please save %name~!!! Please don't kill %name~!!!
+			I-I'm okay~!!! %name can still give birth to little ones~!!!
+			%name can still give birth to little ones~!!! So save %name~!! Save %name~!!
+			%name can still have little ones~!!! So! Mercy~!! Mercy~!!! Just not disposal~!!!
+			I-I'm okay~!!! %name can still have little ones~!!!
+			%name can still have little ones~!!! So don't dispose of %name yet~!! Please don't kill %name~!!
+		</adult>
+	</rude>
+[/DontThrowMeAway]
+
+
+# 静かにする
+[BeingQuiet]
+	<normal>
+		<baby>
+			Yuu... taking it eajy quietwy...
+			Yumumu... %name wiww shtay quiet...
+			Yuu, %name wiww enduwe it fow a wittwe bit...
+			YuYuu..
+		</baby>
+		<child>
+			Yuu... taking it eajy quietwy...
+			Yumumu... %name wiww shtay quiet...
+			Yuu, %name wiww enduwe it fow a wittwe bit...
+			YuYuu..
+		</child>
+		<adult>
+			Yuu... taking it easy quietly...
+			Yumumu... %name will stay quiet...
+			Yuu, %name will endure it for a little bit...
+			YuYuu..
+		</adult>
+	</normal>
+[/BeingQuiet]
+
+
