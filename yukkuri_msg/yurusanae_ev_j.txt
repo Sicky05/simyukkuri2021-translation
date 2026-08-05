@@ -1,3 +1,9 @@
+# ==============================================================================
+# WARNING: AI TRANSLATION NOTICE
+# This file was translated using a cloud model (google/gemini-3.1-pro)
+# and manually reviewed by a human.
+# ==============================================================================
+
 # レイパー怯え
 [ScareRapist]
 	<normal>
