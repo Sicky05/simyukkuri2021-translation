@@ -1,0 +1,4488 @@
+# レイパー怯え
+[ScareRapist]
+	<normal>
+		<baby>
+			Pwease hewp-!
+			Mama! Hewp-!!!
+			%name is sho scawed-!!!
+			<damage>
+				Pwease shtop, pwease shtop...
+				Mama, hewp...
+				Sowwy, sowwy...
+			</damage>
+		</baby>
+		<child>
+			Pwease hewp-!
+			It's way too early for %name!
+			Mama! Hewp-!!!
+			%name is sho scawed-!!!
+			Pwease shtop-! Shameless!
+			<damage>
+				Pwease shtop, pwease shtop...
+				Mama, hewp...
+				Sowwy, sowwy...
+			</damage>
+		</child>
+		<adult>
+			Please help-!
+			%name does not want to refresh-!
+			Please stop-! Shameless!
+			<damage>
+				Please, stop it...
+				Sorry, sorry...
+				Please... help...
+				Mister... please help %name...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Pwease hewp-!
+			%name is sho scawed-!!!
+			If you want to rape, pwease do it to Reimu!
+			<damage>
+				Pwease shtop, pwease shtop...
+				If you want to rape, pwease do it to Reimu!
+			</damage>
+		</baby>
+		<child>
+			Pwease hewp-!
+			%name is sho scawed-!!!
+			If you want to rape, pwease do it to Reimu!
+			<damage>
+				Pwease shtop, pwease shtop...
+				If you want to rape, pwease do it to Reimu!
+			</damage>
+		</child>
+		<adult>
+			Please help-!
+			If you want to rape, please do it to a slutty %name!
+			<damage>
+				Please, stop it...
+				If you want to rape, please do it to %name...
+			</damage>
+		</adult>
+	</rude>
+[/ScareRapist]
+
+# レイパーに攻撃
+[AttackRapist]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			Yu-ru-sa-na-e! (Won't forgive you!)
+		</adult>
+	</normal>
+[/AttackRapist]
+
+# レイパーに反撃命令
+[CounterRapist]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			Rapists won't be forgiven by %name!
+		</adult>
+	</normal>
+[/CounterRapist]
+
+# おかざりのないゆっくり発見
+[HateYukkuri]
+	<normal>
+		<baby>
+			You are not taking it eajy, are you!
+			Those who cannot take it eajy, go away!
+		</baby>
+		<child>
+			You are not taking it eajy, are you!
+			Those who cannot take it eajy, go away!
+		</child>
+		<adult>
+			You are not taking it easy, are you!
+			Those who cannot take it easy, go away!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			You are not taking it eajy, are you!
+			You are a disgrace to yukkuris!
+			Cheeky even without Mishtew Accessory!
+			%name will make you %name's slave!
+		</baby>
+		<child>
+			You are not taking it eajy, are you!
+		    You are a disgrace to yukkuris!
+		    Cheeky even without Mishtew Accessory!
+			%name will make you %name's slave!
+		</child>
+		<adult>
+		    You are a disgrace to yukkuris!
+		    Yukkuris that are not taking it easy need punishment!
+		    Cheeky even without Mister Accessory!
+			%name will make you %name's slave!
+		</adult>
+	</rude>
+[/HateYukkuri]
+
+# うんうん奴隷に認定する
+[EngageUnunSlave]
+	<normal>
+		<baby>
+			Yukkuris dat cannot take it eajy will become poo-poo slaves!
+		</baby>
+		<child>
+			Yukkuris dat cannot take it eajy will become poo-poo slaves!
+		</child>
+		<adult>
+			Yukkuris that cannot take it easy will become poo-poo slaves!
+		</adult>
+	</normal>
+[/EngageUnunSlave]
+
+# つがいを気遣う
+[ConcernAboutPartner]
+	<normal>
+		<baby>
+			Pwease take it eajy, okay?
+			%partner, take it eajy! Take it eajy!
+			%partner, pwease get well and take it eajy!
+		</baby>
+		<child>
+			Pwease take it eajy, okay?
+			%partner, wet's take it eajy, okay...
+			%partner, pwease get well and take it eajy!
+		</child>
+		<adult>
+			%partner, are you okay?
+			%partner, please pull yourself together!
+			%partner, don't spit out Mister Anko!
+		</adult>
+	</normal>
+[/ConcernAboutPartner]
+
+# 子を気遣う
+[ConcernAboutChild]
+	<normal>
+		<baby>
+			Pwease take it eajy, okay?
+			Wittwe one, take it eajy! Take it eajy!
+			Wittwe one, get well and take it eajy, okay!
+		</baby>
+		<child>
+			Pwease take it eajy, okay?
+			Wittwe one, wet's take it eajy, okay...
+			Wittwe one, get well and take it eajy, okay!
+		</child>
+		<adult>
+			Little one, are you okay?
+			Little one, please pull yourself together!
+			Little one, don't spit out Mister Anko!
+		</adult>
+	</normal>
+[/ConcernAboutChild]
+
+# 父を気遣う
+[ConcernAboutFather]
+	<normal>
+		<baby>
+			Papa, are you okay?
+			Papa, pwease take it eajy?
+			Papa, don't spit out Mishtew Anko!
+		</baby>
+		<child>
+			Papa, are you okay?
+			Papa, pwease take it eajy?
+			Papa, don't spit out Mishtew Anko!
+		</child>
+		<adult>
+			Papa, are you okay?
+			Papa, please pull yourself together!
+			Papa, don't spit out Mister Anko!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Papa, are you okay?
+			Papa, pwease take it eajy?
+			Papa, don't spit out Mishtew Anko!
+		</baby>
+		<child>
+			Papa, are you okay?
+			Papa, pwease take it eajy?
+			Papa, don't spit out Mishtew Anko!
+		</child>
+		<adult>
+			Papa, are you okay?
+			Papa, please pull yourself together!
+			Papa, don't spit out Mister Anko!
+		</adult>
+	</rude>
+[/ConcernAboutFather]
+
+# 母を気遣う
+[ConcernAboutMother]
+	<normal>
+		<baby>
+			Mama, are you okay?
+			Mama, pwease take it eajy?
+			Mama, don't spit out Mishtew Anko!
+		</baby>
+		<child>
+			Mama, are you okay?
+			Mama, pwease take it eajy?
+			Mama, don't spit out Mishtew Anko!
+		</child>
+		<adult>
+			Mama, are you okay?
+			Mama, please pull yourself together!
+			Mama, don't spit out Mister Anko!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Mama, are you okay?
+			Mama, pwease take it eajy?
+			Mama, don't spit out Mishtew Anko!
+		</baby>
+		<child>
+			Mama, are you okay?
+			Mama, pwease take it eajy?
+			Mama, don't spit out Mishtew Anko!
+		</child>
+		<adult>
+			Mama, are you okay?
+			Mama, please pull yourself together!
+			Mama, don't spit out Mister Anko!
+		</adult>
+	</rude>
+[/ConcernAboutMother]
+
+# 姉を気遣う
+[ConcernAboutEldersister]
+	<normal>
+		<baby>
+			Pwease take it eajy!
+			Big shishtew, take it eajy! Take it eajy!
+			Big shishtew, pwease get well and take it eajy!
+		</baby>
+		<child>
+			Pwease take it eajy!
+			Big shishtew, wet's take it eajy, okay...
+			Big shishtew, pwease get well and take it eajy!
+		</child>
+		<adult>
+			Big sister, are you okay?
+			Big sister, please pull yourself together!
+			Big sister, don't spit out Mister Anko!
+		</adult>
+	</normal>
+[/ConcernAboutEldersister]
+
+# 妹を気遣う
+[ConcernAboutSister]
+	<normal>
+		<baby>
+			Pwease take it eajy, okay?
+			Wittwe shishtew, take it eajy! Take it eajy!
+			Wittwe shishtew, pwease get well and take it eajy!
+		</baby>
+		<child>
+			Pwease take it eajy, okay?
+			Wittwe shishtew, wet's take it eajy, okay...
+			Wittwe shishtew, pwease get well and take it eajy!
+		</child>
+		<adult>
+			Little sister, are you okay?
+			Little sister, please pull yourself together!
+			Little sister, don't spit out Mister Anko!
+		</adult>
+	</normal>
+[/ConcernAboutSisterr]
+
+#子供をなめて治そうとする
+[TreatChildByPeropero]
+	<normal>
+		<baby>
+			Lick-lick... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wick-wick...
+		</baby>
+		<child>
+			Lick-lick... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did wittwe one have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... Little one, please get well and take it easy.
+			Lick-lick... Why did little one have to go through this...
+			Lick-lick... Little one, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Lick-lick... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did wittwe one have to go through dish...
+		</baby>
+		<child>
+			Lick-lick... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did wittwe one have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... Little one, please get well and take it easy.
+			Little one... Please get well and take it easy from %name's lick-lick...
+			Lick-lick... Shitty slave, hurry up and save little one...
+			Lick-lick... Why did little one have to go through this...
+			Lick-lick... %name will get revenge for little one...
+		</adult>
+	</rude>
+[/TreatChildByPeropero]
+
+#番をなめて治そうとする
+[TreatPartnerByPeropero]
+	<normal>
+		<baby>
+			Lick-lick... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wick-wick...
+		</baby>
+		<child>
+			Lick-lick... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did %partner have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... %partner, please get well and take it easy.
+			Lick-lick... Why did %partner have to go through this...
+			Lick-lick... %partner, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Lick-lick... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did %partner have to go through dish...
+		</baby>
+		<child>
+			Lick-lick... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did %partner have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... %partner, please get well and take it easy.
+			%partner... Please get well and take it easy from %name's lick-lick...
+			Lick-lick... Shitty slave, hurry up and save %partner...
+			Lick-lick... Why did %partner have to go through this...
+			Lick-lick... %name will get revenge for %partner...
+		</adult>
+	</rude>
+[/TreatPartnerByPeropero]
+
+#父親をなめて治そうとする
+[TreatFatherByPeropero]
+	<normal>
+		<baby>
+			Lick-lick... Papa, pwease get well and take it eajy.
+			Papa... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Papa, pwease take it eajy.
+		</baby>
+		<child>
+			Lick-lick... Papa, pwease get well and take it eajy.
+			Papa... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Papa, pwease take it eajy.
+		</child>
+		<adult>
+			Lick-lick... Papa, please get well and take it easy.
+			Papa... Please get well and take it easy from %name's lick-lick...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Lick-lick... Papa, pwease get well and take it eajy.
+			Lick-lick... Papa, pwease take it eajy.
+			Papa... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did papa have to go through dish...
+			Lick-lick... Papa, pwease take it eajy.
+		</baby>
+		<child>
+			Lick-lick... Papa, pwease get well and take it eajy.
+			Lick-lick... Why did papa have to go through dish...
+			Papa... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Papa, pwease take it eajy.
+		</child>
+		<adult>
+			Lick-lick... Papa, please get well and take it easy.
+			Papa... Please get well and take it easy from %name's lick-lick...
+			Lick-lick... %name will definitely avenge this humiliation...
+		</adult> 
+	</rude>
+[/TreatFatherByPeropero]
+
+#母親をなめて治そうとする
+[TreatMotherByPeropero]
+	<normal>
+		<baby>
+			Lick-lick... Mama, pwease get well and take it eajy.
+			Mama... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Mama, pwease take it eajy.
+		</baby>
+		<child>
+			Lick-lick... Mama, pwease get well and take it eajy.
+			Mama... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Mama, pwease take it eajy.
+		</child>
+		<adult>
+			Lick-lick... Mama, please get well and take it easy.
+			Mama... Please get well and take it easy from %name's lick-lick...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Lick-lick... Mama, pwease get well and take it eajy.
+			Lick-lick... Mama, shwowwy, take it eajy...
+			Mama... Pwease get well and take it eajy fwom %name's wick-wick...
+		</baby>
+		<child>
+			Lick-lick... Mama, pwease get well and take it eajy.
+			Mama... Pwease get well and take it eajy fwom %name's lick-lick...
+			Mama... Pwease get well and take it eajy fwom %name's wick-wick...
+		</child>
+		<adult>
+			Lick-lick... Mama, please get well and take it easy.
+			Mama... Please get well and take it easy from %name's lick-lick...
+			Lick-lick... Mama, slowly, take it easy...
+			Lick-lick... %name will definitely make them regret this...
+		</adult> 
+	</rude>
+[/TreatMotherByPeropero]
+
+#姉をなめて治そうとする
+[TreatElderSisterByPeropero]
+	<normal>
+		<baby>
+			Lick-lick... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+		</baby>
+		<child>
+			Lick-lick... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did big shishtew have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... Big sister, please get well and take it easy.
+			Lick-lick... Why did big sister have to go through this...
+			Lick-lick... Big sister, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Lick-lick... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did big shishtew have to go through dish...
+		</baby>
+		<child>
+			Lick-lick... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did big shishtew have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... Big sister, please get well and take it easy.
+			Big sister... Please get well and take it easy from %name's lick-lick...
+			Lick-lick... Shitty slave, hurry up and save big sister...
+			Lick-lick... Why did big sister have to go through this...
+			Lick-lick... %name will get revenge for big sister...
+		</adult>
+	</rude>
+[/TreatElderSisterByPeropero]
+
+#妹をなめて治そうとする
+[TreatSisterByPeropero]
+	<normal>
+		<baby>
+			Lick-lick... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+		</baby>
+		<child>
+			Lick-lick... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did wittwe shishtew have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... Little sister, please get well and take it easy.
+			Lick-lick... Why did little sister have to go through this...
+			Lick-lick... Little sister, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Lick-lick... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did wittwe shishtew have to go through dish...
+		</baby>
+		<child>
+			Lick-lick... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wick-wick...
+			Lick-lick... Why did wittwe shishtew have to go through dish...
+		</child>
+		<adult>
+			Lick-lick... Little sister, please get well and take it easy.
+			Little sister... Please get well and take it easy from %name's lick-lick...
+			Lick-lick... Shitty slave, hurry up and save little sister...
+			Lick-lick... Why did little sister have to go through this...
+			Lick-lick... %name will get revenge for little sister...
+		</adult>
+	</rude>
+[/TreatSisterByPeropero]
+
+#子供をすりすりして治そうとする
+[TreatChildBySurisuri]
+	<normal>
+		<baby>
+			Wub-wub... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wub-wub...
+		</baby>
+		<child>
+			Wub-wub... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did wittwe one have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... Little one, please get well and take it easy.
+			Ruub-ruub... Why did little one have to go through this...
+			Ruub-ruub... Little one, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wub-wub... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did wittwe one have to go through dish...
+		</baby>
+		<child>
+			Wub-wub... Wittwe one, pwease get well and take it eajy.
+			Wittwe one... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did wittwe one have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... Little one, please get well and take it easy.
+			Little one... Please get well and take it easy from %name's rub-rub...
+			Ruub-ruub... Shitty slave, hurry up and save little one...
+			Ruub-ruub... Why did little one have to go through this...
+			Ruub-ruub... %name will get revenge for little one...
+		</adult>
+	</rude>
+[/TreatChildBySurisuri]
+
+#番をすりすりして治そうとする
+[TreatPartnerBySurisuri]
+	<normal>
+		<baby>
+			Wub-wub... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wub-wub...
+		</baby>
+		<child>
+			Wub-wub... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did %partner have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... %partner, please get well and take it easy.
+			Ruub-ruub... Why did %partner have to go through this...
+			Ruub-ruub... %partner, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wub-wub... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did %partner have to go through dish...
+		</baby>
+		<child>
+			Wub-wub... %partner, pwease get well and take it eajy.
+			%partner... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did %partner have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... %partner, please get well and take it easy.
+			%partner... Please get well and take it easy from %name's rub-rub...
+			Ruub-ruub... Shitty slave, hurry up and save %partner...
+			Ruub-ruub... Why did %partner have to go through this...
+			Ruub-ruub... %name will get revenge for %partner...
+		</adult>
+	</rude>
+[/TreatPartnerBySurisuri]
+
+#父親をすりすりして治そうとする
+[TreatFatherBySurisuri]
+	<normal>
+		<baby>
+			Wub-wub... Papa, pwease get well and take it eajy.
+			Papa... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Papa, pwease take it eajy.
+		</baby>
+		<child>
+			Wub-wub... Papa, pwease get well and take it eajy.
+			Papa... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Papa, pwease take it eajy.
+		</child>
+		<adult>
+			Ruub-ruub... Papa, please get well and take it easy.
+			Papa... Please get well and take it easy from %name's rub-rub...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wub-wub... Papa, pwease get well and take it eajy.
+			Wuub-wuub... Papa, pwease take it eajy.
+			Papa... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did papa have to go through dish...
+			Wuub-wuub... Papa, pwease take it eajy.
+		</baby>
+		<child>
+			Wub-wub... Papa, pwease get well and take it eajy.
+			Wuub-wuub... Why did papa have to go through dish...
+			Papa... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Papa, pwease take it eajy.
+		</child>
+		<adult>
+			Ruub-ruub... Papa, please get well and take it easy.
+			Papa... Please get well and take it easy from %name's rub-rub...
+			Rub-rub... %name will definitely avenge this humiliation...
+		</adult> 
+	</rude>
+[/TreatFatherBySurisuri]
+
+#母親をすりすりして治そうとする
+[TreatMotherBySurisuri]
+	<normal>
+		<baby>
+			Wub-wub... Mama, pwease get well and take it eajy.
+			Mama... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Mama, pwease take it eajy.
+		</baby>
+		<child>
+			Wub-wub... Mama, pwease get well and take it eajy.
+			Mama... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Mama, pwease take it eajy.
+		</child>
+		<adult>
+			Ruub-ruub... Mama, please get well and take it easy.
+			Mama... Please get well and take it easy from %name's rub-rub...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wub-wub... Mama, pwease get well and take it eajy.
+			Wuub-wuub... Mama, shwowwy, take it eajy...
+			Mama... Pwease get well and take it eajy fwom %name's wub-wub...
+		</baby>
+		<child>
+			Wub-wub... Mama, pwease get well and take it eajy.
+			Mama... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Mama, shwowwy, take it eajy...
+		</child>
+		<adult>
+			Ruub-ruub... Mama, please get well and take it easy.
+			Mama... Please get well and take it easy from %name's rub-rub...
+			Ruub-ruub... Mama, slowly, take it easy...
+			Rub-rub... %name will definitely make them regret this...
+		</adult> 
+	</rude>
+[/TreatMotherBySurisuri]
+
+#姉をすりすりして治そうとする
+[TreatElderSisterBySurisuri]
+	<normal>
+		<baby>
+			Wub-wub... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+		</baby>
+		<child>
+			Wub-wub... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did big shishtew have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... Big sister, please get well and take it easy.
+			Ruub-ruub... Why did big sister have to go through this...
+			Ruub-ruub... Big sister, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wub-wub... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did big shishtew have to go through dish...
+		</baby>
+		<child>
+			Wub-wub... Big shishtew, pwease get well and take it eajy.
+			Big shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did big shishtew have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... Big sister, please get well and take it easy.
+			Big sister... Please get well and take it easy from %name's rub-rub...
+			Ruub-ruub... Shitty slave, hurry up and save big sister...
+			Ruub-ruub... Why did big sister have to go through this...
+			Ruub-ruub... %name will get revenge for big sister...
+		</adult>
+	</rude>
+[/TreatElderSisterBySurisuri]
+
+#妹をすりすりして治そうとする
+[TreatSisterBySurisuri]
+	<normal>
+		<baby>
+			Wub-wub... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+		</baby>
+		<child>
+			Wub-wub... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did wittwe shishtew have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... Little sister, please get well and take it easy.
+			Ruub-ruub... Why did little sister have to go through this...
+			Ruub-ruub... Little sister, please get well and take it easy.
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wub-wub... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did wittwe shishtew have to go through dish...
+		</baby>
+		<child>
+			Wub-wub... Wittwe shishtew, pwease get well and take it eajy.
+			Wittwe shishtew... Pwease get well and take it eajy fwom %name's wub-wub...
+			Wuub-wuub... Why did wittwe shishtew have to go through dish...
+		</child>
+		<adult>
+			Ruub-ruub... Little sister, please get well and take it easy.
+			Little sister... Please get well and take it easy from %name's rub-rub...
+			Ruub-ruub... Shitty slave, hurry up and save little sister...
+			Ruub-ruub... Why did little sister have to go through this...
+			Ruub-ruub... %name will get revenge for little sister...
+		</adult>
+	</rude>
+[/TreatSisterBySurisuri]
+
+# 親を探す
+[LookForParents]
+	<normal>
+		<baby>
+			Yuu-? Whewe is mama-?
+			Whewe did mama go-?
+			Whewe did mama go off to-?
+			Yuun-??
+			Yuyuun-??
+		</baby>
+		<child>
+			Yuu-? Whewe is mama-?
+			Whewe did mama go-?
+			Whewe did mama go off to-?
+			Yuun-??
+			Yuyuun-??
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+[/LookForParents]
+
+# つがい出産時
+[RootForPartner]
+	<normal>
+		<baby>
+			Pwease be born shwowwy and easily!
+			Wants to wub-wub wid de wittwe one soon!
+		</baby>
+		<child>
+			Pwease be born shwowwy and easily!
+			Wants to wub-wub wid de wittwe one soon!
+		</child>
+		<adult>
+			%partner, please do your best!
+			%name is with you! Please do your best!
+		</adult>
+	</normal>
+[/RootForPartner]
+
+# 子への最初の挨拶
+[FirstGreeting]
+	<normal>
+		<baby>
+			Pwease take it eajy!
+			You are taking it eajy, aren't you!
+		</baby>
+		<child>
+			Pwease take it eajy!
+			You are taking it eajy, aren't you!
+		</child>
+		<adult>
+			Please take it easy! Little one!
+			Please take it easy with %name papa!
+		</adult>
+	</normal>
+[/FirstGreeting]
+
+# ゆっくりしているすぃーを見て
+[YukkuringSui]
+	<normal>
+		<baby>
+			Mishtew Sui! Pwease take it eajy!
+			It's an eajy-going Mishtew Sui, isn't it!
+		</baby>
+		<child>
+			Mishtew Sui! Pwease take it eajy!
+			It's an eajy-going Mishtew Sui, isn't it!
+		</child>
+		<adult>
+			What a wonderful sui!
+			What an easy-going sui!
+		</adult>
+	</normal>
+[/YukkuringSui]
+
+# すぃーを欲しがる
+[WantingSui]
+	<normal>
+		<baby>
+			How nice... %name longs for a sui!
+		</baby>
+		<child>
+			How nice... %name longs for a sui!
+		</child>
+		<adult>
+			%name longs for a sui!
+		</adult>
+	</normal>
+[/WantingSui]
+
+# すぃーを欲しがっているゆっくりのパートナー
+[WantingSuiPartner]
+	<rude>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			%dummy
+		</child>
+		<adult>
+			Mister! Please prepare a sui for %partner!
+		</adult>
+	</rude>
+[/WantingSuiPartner]
+
+# すぃーを欲しがっているゆっくりの親
+[WantingSuiParent]
+	<rude>
+		Little one is a chosen yukkuri! Hurry up and prepare a sui!
+		Please prepare a sui for little one!
+	</rude>
+[/WantingSuiParent]
+
+# すぃーを見つける
+[FindSui]
+	<normal>
+		<baby>
+			Dewe's a Mishtew Sui!
+			It's Mishtew Sui!
+		</baby>
+		<child>
+			Dewe's a Mishtew Sui!
+			It's Mishtew Sui!
+		</child>
+		<adult>
+			Oh my! It's a sui!
+		</adult>
+	</normal>
+[/FindSui]
+
+# すぃーを自分のものにする
+[GetSui]
+	<normal>
+		<baby>
+			Dish is %name's sui!
+			Mishtew Sui! Thank you very much!
+		</baby>
+		<child>
+			Dish is %name's sui!
+			Mishtew Sui! Thank you very much!
+		</child>
+		<adult>
+			%name will make this %name's sui!
+			Mister Sui! Thank you very much!
+		</adult>
+	</normal>
+[/GetSui]
+
+# 自分のすぃーにのりにいく
+[FindGetSui]
+	<normal>
+		<baby>
+			%name is going out!
+		</baby>
+		<child>
+			%name is going out!
+		</child>
+		<adult>
+			%name is going out!
+		</adult>
+	</normal>
+[/FindGetSui]
+
+# 自分以外のすぃーにのりにいく
+[FindGetSuiOtner]
+	<normal>
+		<baby>
+			Pwease wet %name wide Mishtew Sui too!
+		</baby>
+		<child>
+			Pwease wet %name wide Mishtew Sui too!
+		</child>
+		<adult>
+			Please let %name ride the sui too!
+		</adult>
+	</normal>
+[/FindGetSuiOtner]
+
+# 自分以外のすぃーにのりにいくときに呼ぶ
+[WantRideSuiOtner]
+	<normal>
+		<baby>
+			Pwease take %name along too!
+		</baby>
+		<child>
+			Pwease take %name along too!
+		</child>
+		<adult>
+			Please take %name along too!
+		</adult>
+	</normal>
+[/WantRideSuiOtner]
+
+# すぃーにのる
+[RideSui]
+	<normal>
+		<baby>
+			Depaaartuuure!
+			Here %name goes!
+		</baby>
+		<child>
+			Depaaartuuure!
+			Here %name goes!
+		</child>
+		<adult>
+			Depaaartuuure!
+			Well then, here %name goes!
+		</adult>
+	</normal>
+[/RideSui]
+
+# すぃーにのっている
+[RidingSui]
+	<normal>
+		<baby>
+			%name has become Mishtew Wind!!!
+			Wheee! Dish is de best-!!!
+			It's sho fun!
+		</baby>
+		<child>
+			%name has become Mishtew Wind!!!
+			Wheee! Dish is de best-!!!
+			It's sho fun!
+		</child>
+		<adult>
+			%name has become Mister Wind!!!
+			Wheee! This is the best-!!!
+			It's so fun!
+		</adult>
+	</normal>
+[/RidingSui]
+
+# すぃーを運転する
+[DrivingSui]
+	<normal>
+		<baby>
+			Watch %name's driving technique, okay!
+			%name is de star of de highway!
+			♪Take it~ eajy~ once in a while~♪
+		</baby>
+		<child>
+			Watch %name's driving technique, okay!
+			%name is de star of de highway!
+			♪Take it~ eajy~ once in a while~♪
+		</child>
+		<adult>
+			Watch %name's driving technique, okay!
+			%name is the star of the highway!
+			♪Take it~ easy~ once in a while~♪
+		</adult>
+	</normal>
+[/DrivingSui]
+
+# すぃーを運転するパートナーをみて（自分はのっていない）
+[DrivingSuiPartner]
+	<normal>
+		As expected of %partner!
+			%partner! You're taking it sho eajy!
+	</normal>
+[/DrivingSuiPartner]
+
+# すぃーを運転するこどもをみて（自分はのっていない）
+[DrivingSuiChild]
+	<normal>
+		As expected of %name's little one!
+			%name is sho pwoud too!
+	</normal>
+[/DrivingSuiChild]
+
+# すぃーを運転する父親をみて（自分はのっていない）
+[DrivingSuiPAPA]
+	<normal>
+		Papa is so amazing!
+	</normal>
+[/DrivingSuiPAPA]
+
+# すぃーを運転する母親をみて（自分はのっていない）
+[DrivingSuiMAMA]
+	<normal>
+		Mama is so amazing!
+	</normal>
+[/DrivingSuiMAMA]
+
+# すぃーを運転する姉をみて（自分はのっていない）
+[DrivingSuiOldSister]
+	<normal>
+		Big sister is so amazing!
+	</normal>
+[/DrivingSuiOldSister]
+
+# すぃーを運転する妹をみて（自分はのっていない）
+[DrivingSuiYoungSister]
+	<normal>
+		%name's little sister is so amazing!
+	</normal>
+[/DrivingSuiYoungSister]
+
+# すぃーから降りる
+[RideOffSui]
+	<normal>
+		<baby>
+			Dat was sho fun!
+			%name was able to take it very eajy!
+		</baby>
+		<child>
+			Dat was sho fun!
+			%name was able to take it very eajy!
+		</child>
+		<adult>
+			That was so fun!
+			%name was able to take it very easy!
+		</adult>
+	</normal>
+[/RideOffSui]
+
+# 持っているすぃーを自慢する
+[hasSui]
+	<normal>
+		<baby>
+			%name has a Mishtew Sui, you know!
+		</baby>
+		<child>
+			%name has a Mishtew Sui, you know!
+		</child>
+		<adult>
+			%name has a Mister Sui, you know!
+		</adult>
+	</normal>
+[/hasSui]
+
+# 持っているすぃーを自慢されるパートナー
+[hasSuiPartner]
+	<normal>
+		As expected of %partner!
+			%partner! Taking it the mosht eajy!
+	</normal>
+[/hasSuiPartner]
+
+# 子どもの持っているすぃーを自慢される親
+[hasSuiChild]
+	<normal>
+		As expected of %name's little one!
+			%name's wittwe one is taking it eajy!
+	</normal>
+[/hasSuiChild]
+
+# 父親の持っているすぃーを自慢されるこども
+[hasSuiPAPAChild]
+	<normal>
+		As expected of papa!
+			%name's papa is sho coow!
+	</normal>
+[/hasSuiPAPAChild]
+
+# 母親の持っているすぃーを自慢されるこども
+[hasSuiMAMAChild]
+	<normal>
+		As expected of mama!
+			%name's mama is taking it eajy!
+	</normal>
+[/hasSuiMAMAChild]
+
+# 姉の持っているすぃーを自慢される
+[hasSuiOldSister]
+	<normal>
+		As expected of big sister!
+			Big shishtew is taking it eajy!
+	</normal>
+[/hasSuiOldSister]
+
+# 妹の持っているすぃーを自慢される
+[hasSuiYoungSister]
+	<normal>
+		As expected of %name's little sister!
+			Wittwe shishtew is taking it eajy!
+	</normal>
+[/hasSuiYoungSister]
+
+# 子の状態を喜ぶ
+[GladAboutChild]
+	<normal>
+		<baby>
+			%name's wittwe one! You are taking it eajy!
+			Wittwe one! Pwease take it eajy!
+		</baby>
+		<child>
+			%name's wittwe one! You are taking it eajy!
+			Wittwe one! Pwease take it eajy!
+		</child>
+		<adult>
+			%name's little one! You are taking it easy!
+			Little one! Please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name's wittwe one! You are taking it eajy!
+			Wittwe one! Pwease take it eajy!
+		</baby>
+		<child>
+			%name's wittwe one! You are taking it eajy!
+			Wittwe one! Pwease take it eajy!
+		</child>
+		<adult>
+			%name's little one! You are taking it easy!
+			Little one! Please take it easy!
+		</adult>
+	</rude>
+[/GladAboutChild]
+
+# つがいの状態を喜ぶ
+[GladAboutPartner]
+	<normal>
+		<baby>
+			%partner is taking it eajy today too, aren't you!
+			%name wants to take it eajy togethew wid %partner fowevew!
+			%partner! Shwowwy... pwease take it eajy!
+		</baby>
+		<child>
+			%partner is taking it eajy today too, aren't you!
+			%name wants to take it eajy togethew wid %partner fowevew!
+			%partner! Shwowwy... pwease take it eajy!
+		</child>
+		<adult>
+			%partner is taking it easy today too, aren't you!
+			%name wants to take it easy together with %partner forever!
+			%partner! Slowly... please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%partner is taking it eajy today too, aren't you!
+			%name wants to take it eajy togethew wid %partner fowevew!
+			%partner! Shwowwy... pwease take it eajy!
+		</baby>
+		<child>
+			%partner is taking it eajy today too, aren't you!
+			%name wants to take it eajy togethew wid %partner fowevew!
+			%partner! Shwowwy... pwease take it eajy!
+		</child>
+		<adult>
+			%partner is taking it easy today too, aren't you!
+			%name wants to take it easy together with %partner forever!
+			%partner! Slowly... please take it easy!
+		</adult>
+	</rude>
+[/GladAboutPartner]
+
+# 父の状態を喜ぶ
+[GladAboutFather]
+	<normal>
+		<baby>
+			%name's papa is taking it very eajy!
+			Papa, pwease take it eajy!
+		</baby>
+		<child>
+			%name's papa is taking it very eajy!
+			Papa, pwease take it eajy!
+		</child>
+		<adult>
+			%name's papa is taking it very easy!
+			Papa, please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name's papa is taking it very eajy!
+			Papa, pwease take it eajy!
+		</baby>
+		<child>
+			%name's papa is taking it very eajy!
+			Papa, pwease take it eajy!
+		</child>
+		<adult>
+			%name's papa is taking it very easy!
+			Papa, please take it easy!
+		</adult>
+	</rude>
+[/GladAboutFather]
+
+# 母の状態を喜ぶ
+[GladAboutMother]
+	<normal>
+		<baby>
+			%name's mama is taking it very eajy!
+			Mama, pwease take it eajy!
+		</baby>
+		<child>
+			%name's mama is taking it very eajy!
+			Mama, pwease take it eajy!
+		</child>
+		<adult>
+			%name's mama is taking it very easy!
+			Mama, please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name's mama is taking it very eajy!
+			Mama, pwease take it eajy!
+		</baby>
+		<child>
+			%name's mama is taking it very eajy!
+			Mama, pwease take it eajy!
+		</child>
+		<adult>
+			%name's mama is taking it very easy!
+			Mama, please take it easy!
+		</adult>
+	</rude>
+[/GladAboutMother]
+
+# 姉の状態を喜ぶ
+[GladAboutEldersister]
+	<normal>
+		<baby>
+			%name's big shishtew is taking it very eajy!
+			Big shishtew, pwease take it eajy!
+		</baby>
+		<child>
+			%name's big shishtew is taking it very eajy!
+			Big shishtew, pwease take it eajy!
+		</child>
+		<adult>
+			%name's big sister is taking it very easy!
+			Big sister, please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name's big shishtew is taking it very eajy!
+			Big shishtew, pwease take it eajy!
+		</baby>
+		<child>
+			%name's big shishtew is taking it very eajy!
+			Big shishtew, pwease take it eajy!
+		</child>
+		<adult>
+			%name's big sister is taking it very easy!
+			Big sister, please take it easy!
+		</adult>
+	</rude>
+[/GladAboutEldersister]
+
+# 妹の状態を喜ぶ
+[GladAboutSister]
+	<normal>
+		<baby>
+			%name's wittwe shishtew is taking it very eajy!
+			Wittwe shishtew, pwease take it eajy!
+		</baby>
+		<child>
+			%name's wittwe shishtew is taking it very eajy!
+			Wittwe shishtew, pwease take it eajy!
+		</child>
+		<adult>
+			%name's little sister is taking it very easy!
+			Little sister, please take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name's wittwe shishtew is taking it very eajy!
+			Wittwe shishtew, pwease take it eajy!
+		</baby>
+		<child>
+			%name's wittwe shishtew is taking it very eajy!
+			Wittwe shishtew, pwease take it eajy!
+		</child>
+		<adult>
+			%name's little sister is taking it very easy!
+			Little sister, please take it easy!
+		</adult>
+	</rude>
+[/GladAboutSister]
+
+#---------------------------------------------
+# 姉の状態をうらやましがる
+[EnvyAboutElderSister]
+	<normal>
+		<baby>
+			Envious of big shishtew...
+			%name wants to take it eajy too...
+		</baby>
+		<child>
+			Envious of big shishtew...
+			%name wants to take it eajy too...
+		</child>
+		<adult>
+			Envious of big sister...
+			%name wants to take it easy too...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Big shishtew is unfaiw...
+			Even though %name takes it more eajy than big shishtew, why won't you wet %name take it eajy?
+		</baby>
+		<child>
+			Big shishtew is unfaiw...
+			Even though %name takes it more eajy than big shishtew, why won't you wet %name take it eajy?
+		</child>
+		<adult>
+			Big sister is unfair...
+			Even though %name takes it more easy than big sister, why won't you let %name take it easy?
+		</adult>
+	</rude>
+[/EnvyAboutElderSister]
+
+# 妹の状態をうらやましがる
+[EnvyAboutSister]
+	<normal>
+		<baby>
+			Envious of wittwe shishtew...
+			%name wants to take it eajy too...
+		</baby>
+		<child>
+			Envious of wittwe shishtew...
+			%name wants to take it eajy too...
+		</child>
+		<adult>
+			Envious of little sister...
+			%name wants to take it easy too...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wittwe shishtew is unfaiw...
+			Even though %name takes it more eajy than wittwe shishtew, why won't you wet %name take it eajy?
+		</baby>
+		<child>
+			Wittwe shishtew is unfaiw...
+			Even though %name takes it more eajy than wittwe shishtew, why won't you wet %name take it eajy?
+		</child>
+		<adult>
+			Little sister is unfair...
+			Even though %name takes it more easy than little sister, why won't you let %name take it easy?
+		</adult>
+	</rude>
+[/EnvyAboutSister]
+
+# 他人の状態をうらやましがる
+[EnvyAboutOther]
+	<normal>
+		<baby>
+			Envious of dat yukkuri...
+			%name wants to take it eajy too...
+			Mama... %name wants to take it eajy too...
+		</baby>
+		<child>
+			Envious of dat yukkuri...
+			Why can't %name take it eajy?
+			Mama... %name wants to take it eajy too...
+		</child>
+		<adult>
+			Envious of that yukkuri...
+			Why can't %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Dat yukkuri is unfaiw...
+			Yukkuris must share! Wet %name take it eajy too! Wight away is fine!
+			Shitty pawents who don't wet %name take it eajy, go die...
+		</baby>
+		<child>
+			Dat yukkuri is unfaiw...
+			Yukkuris must share! Wet %name take it eajy too! Wight away is fine!
+			Shitty pawents who don't wet %name take it eajy, go die...
+		</child>
+		<adult>
+			That yukkuri is unfair...
+			Yukkuris must share! Let %name take it easy too! Right away is fine!
+		</adult>
+	</rude>
+[/EnvyAboutOther]
+
+#---------------------------------------------
+# 姉の状態をうらやましがって泣く
+[EnvyCryAboutElderSister]
+	<normal>
+		<baby>
+			Yuwaaaan! Big shishtew is sho unfaiw!
+			Yuuu... %name wants to take it eajy too, it'sh sho unfaiw!
+		</baby>
+		<child>
+			Yuwaaaan! Big shishtew is sho unfaiw!
+			Yuuu... %name wants to take it eajy too, it'sh sho unfaiw!
+		</child>
+		<adult>
+			Yuwaaaan! Big sister is so unfair!
+			Yuuu... %name wants to take it easy too, it's so unfair!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ugaaaah! Scum big shishtew gets punished!
+			Scum big shishtews who don't wet %name take it eajy get punished!
+			Shitty pawents who don't wet %name take it eajy, go die!
+		</baby>
+		<child>
+			Ugaaaah! Scum big shishtew gets punished!
+			Scum big shishtews who don't wet %name take it eajy get punished!
+			Shitty pawents who don't wet %name take it eajy, go die!
+		</child>
+		<adult>
+			Ugaaaah! Scum big sister gets punished!
+			Scum big sisters who don't let %name take it easy get punished!
+		</adult>
+	</rude>
+[/EnvyCryAboutElderSister]
+
+# 妹の状態をうらやましがって泣く
+[EnvyCryAboutSister]
+	<normal>
+		<baby>
+			Yuwaaaan! Wittwe shishtew is sho unfaiw!
+			Yuuu... %name wants to take it eajy too, it'sh sho unfaiw!
+		</baby>
+		<child>
+			Yuwaaaan! Wittwe shishtew is sho unfaiw!
+			Yuuu... %name wants to take it eajy too, it'sh sho unfaiw!
+		</child>
+		<adult>
+			Yuwaaaan! Little sister is so unfair!
+			Yuuu... %name wants to take it easy too, it's so unfair!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ugaaaah! Scum wittwe shishtew gets punished!
+			Scum wittwe shishtews who don't wet %name take it eajy get punished!
+			Shitty pawents who don't wet %name take it eajy, go die-!!!
+		</baby>
+		<child>
+			Ugaaaah! Scum wittwe shishtew gets punished!
+			Scum wittwe shishtews who don't wet %name take it eajy get punished!
+			Shitty pawents who don't wet %name take it eajy, go die-!!!
+		</child>
+		<adult>
+			Ugaaaah! Scum little sister gets punished!
+			Scum little sisters who don't let %name take it easy get punished!
+		</adult>
+	</rude>
+[/EnvyCryAboutSister]
+
+# 他人の状態をうらやましがって泣く
+[EnvyCryAboutOther]
+	<normal>
+		<baby>
+			Yuwaaaan! %name is sho enviouzh of dat yukkuri!
+			Yuuu... Even dough we'we bod yukkuri, why can't %name take it eajy?
+			Mamaaa! %name wants to take it eajy too-!!!
+		</baby>
+		<child>
+			Yuwaaaan! %name is sho enviouzh of dat yukkuri!
+			Yuuu... Even dough we'we bod yukkuri, why can't %name take it eajy?
+			Mamaaa! %name wants to take it eajy too-!!!
+		</child>
+		<adult>
+			Yuwaaaan! %name is so envious of that yukkuri!
+			Yuuu... Even though we're both yukkuris, why can't %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Ugaaaah! Only dat yukkuri is sho unfaiw!
+			Yukkuri musht shawe! Scum yukkuri who don't wet %name take it eajy, go die wight now-!
+			Shitty pawents who don't wet %name take it eajy, go die-!!!
+		</baby>
+		<child>
+			Ugaaaah! Only dat yukkuri is sho unfaiw!
+			Yukkuri musht shawe! Scum yukkuri who don't wet %name take it eajy, go die wight now-!
+			Shitty pawents who don't wet %name take it eajy, go die-!!!
+		</child>
+		<adult>
+			Ugaaaah! Only that yukkuri is so unfair!
+			Yukkuris must share! Scum yukkuris who don't let %name take it easy, go die right now-!
+		</adult>
+	</rude>
+[/EnvyCryAboutOther]
+
+#---------------------------------------------
+# 子供の状態がうらやましすぎて憎む
+[HateWithEnvyAboutChild]
+	<normal>
+		<baby>
+			%name is sho enviouzh of wittwe one...
+			Wittwe one... %name wants to take it eajy too...
+			Even dough %name is twying hawd too, why can't %name take it eajy?
+		</baby>
+		<child>
+			%name is sho enviouzh of wittwe one...
+			Wittwe one... %name wants to take it eajy too...
+			Even dough %name is twying hawd too, why can't %name take it eajy?
+		</child>
+		<adult>
+			%name is so envious of little one...
+			Little one... %name wants to take it easy too...
+			Even though %name is trying hard too, why can't %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wittwe one is unfaiw...
+			Wittwe one who doesn't wet %name take it eajy is a scum wittwe one...
+		</baby>
+		<child>
+			Wittwe one is unfaiw...
+			Wittwe one who doesn't wet %name take it eajy is a scum wittwe one...
+		</child>
+		<adult>
+			Only little one is unfair...
+			Little one who doesn't let %name take it easy is a scum little one...
+		</adult>
+	</rude>
+[/HateWithEnvyAboutChild]
+
+# つがいの状態がうらやましすぎて憎む
+[HateWithEnvyAboutPartner]
+	<normal>
+		<baby>
+			%name is sho enviouzh of %partner...
+			%partner... %name wants to take it eajy too...
+			Even dough %name is twying hawd too, why doesn't %partner wet %name take it eajy?
+		</baby>
+		<child>
+			%name is sho enviouzh of %partner...
+			%partner... %name wants to take it eajy too...
+			Even dough %name is twying hawd too, why doesn't %partner wet %name take it eajy?
+		</child>
+		<adult>
+			%name is so envious of %partner...
+			%partner... %name wants to take it easy too...
+			Even though %name is trying hard too, why doesn't %partner let %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%partner is unfaiw...
+			%partner who doesn't wet %name take it eajy is a scum yukkuri...
+		</baby>
+		<child>
+			%partner is unfaiw...
+			%partner who doesn't wet %name take it eajy is a scum yukkuri...
+		</child>
+		<adult>
+			Only %partner is unfair...
+			%partner who doesn't let %name take it easy is a scum yukkuri...
+		</adult>
+	</rude>
+[/HateWithEnvyAboutPartner]
+
+# 父の状態がうらやましすぎて憎む
+[HateWithEnvyAboutFather]
+	<normal>
+		<baby>
+			%name is sho enviouzh of papa...
+			Papa... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't papa wet %name take it eajy?
+		</baby>
+		<child>
+			%name is sho enviouzh of papa...
+			Papa... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't papa wet %name take it eajy?
+		</child>
+		<adult>
+			%name is so envious of papa...
+			Papa... %name wants to take it easy too...
+			Even though %name is being a good girl, why doesn't papa let %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Papa is unfaiw...
+			Papa who doesn't wet %name take it eajy is a scum papa...
+		</baby>
+		<child>
+			Papa is unfaiw...
+			Papa who doesn't wet %name take it eajy is a scum papa...
+		</child>
+		<adult>
+			Only papa is unfair...
+			Papa who doesn't let %name take it easy is a scum papa...
+		</adult>
+	</rude>
+[/HateWithEnvyAboutFather]
+
+# 母の状態がうらやましすぎて憎む
+[HateWithEnvyAboutMother]
+	<normal>
+		<baby>
+			%name is sho enviouzh of mama...
+			Mama... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't mama wet %name take it eajy?
+		</baby>
+		<child>
+			%name is sho enviouzh of mama...
+			Mama... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't mama wet %name take it eajy?
+		</child>
+		<adult>
+			%name is so envious of mama...
+			Mama... %name wants to take it easy too...
+			Even though %name is being a good girl, why doesn't mama let %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Mama is unfaiw...
+			Mama who doesn't wet %name take it eajy is a scum mama...
+		</baby>
+		<child>
+			Mama is unfaiw...
+			Mama who doesn't wet %name take it eajy is a scum mama...
+		</child>
+		<adult>
+			Only mama is unfair...
+			Mama who doesn't let %name take it easy is a scum mama...
+		</adult>
+	</rude>
+[/HateWithEnvyAboutMother]
+
+# 姉の状態がうらやましすぎて憎む
+[HateWithEnvyAboutElderSister]
+	<normal>
+		<baby>
+			%name is sho enviouzh of big shishtew...
+			Big shishtew... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't big shishtew wet %name take it eajy?
+		</baby>
+		<child>
+			%name is sho enviouzh of big shishtew...
+			Big shishtew... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't big shishtew wet %name take it eajy?
+		</child>
+		<adult>
+			%name is so envious of big sister...
+			Big sister... %name wants to take it easy too...
+			Even though %name is being a good girl, why doesn't big sister let %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Big shishtew is unfaiw...
+			Big shishtew who doesn't wet %name take it eajy is a scum big shishtew...
+		</baby>
+		<child>
+			Big shishtew is unfaiw...
+			Big shishtew who doesn't wet %name take it eajy is a scum big shishtew...
+		</child>
+		<adult>
+			Only big sister is unfair...
+			Big sister who doesn't let %name take it easy is a scum big sister...
+		</adult>
+	</rude>
+[/HateWithEnvyAboutElderSister]
+
+# 妹の状態がうらやましすぎて憎む
+[HateWithEnvyAboutSister]
+	<normal>
+		<baby>
+			%name is sho enviouzh of wittwe shishtew...
+			Wittwe shishtew... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't wittwe shishtew wet %name take it eajy?
+		</baby>
+		<child>
+			%name is sho enviouzh of wittwe shishtew...
+			Wittwe shishtew... %name wants to take it eajy too...
+			Even dough %name is being a good giww, why doesn't wittwe shishtew wet %name take it eajy?
+		</child>
+		<adult>
+			%name is so envious of little sister...
+			Little sister... %name wants to take it easy too...
+			Even though %name is being a good girl, why doesn't little sister let %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wittwe shishtew is unfaiw...
+			Wittwe shishtew who doesn't wet %name take it eajy is a scum wittwe shishtew...
+		</baby>
+		<child>
+			Wittwe shishtew is unfaiw...
+			Wittwe shishtew who doesn't wet %name take it eajy is a scum wittwe shishtew...
+		</child>
+		<adult>
+			Only little sister is unfair...
+			Little sister who doesn't let %name take it easy is a scum little sister...
+		</adult>
+	</rude>
+[/HateWithEnvyAboutSister]
+
+# 他人の状態がうらやましすぎて憎む
+[HateWithEnvyAboutOther]
+	<normal>
+		<baby>
+			%name is sho enviouzh of dat yukkuri...
+			Even dough we'we bod yukkuri, why can't %name take it eajy?
+			%name wants to take it eajy too...
+		</baby>
+		<child>
+			Envious of that yukkuri...
+			%name is sho enviouzh of dat yukkuri...
+			Even dough we'we bod yukkuri, why can't %name take it eajy?
+		</child>
+		<adult>
+			Envious of that yukkuri...
+			Even though we're both yukkuris, why can't %name take it easy?
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			That yukkuri is so unfair!
+			Yukkuris must share... Please let %name take it easy too...
+			Shitty that yukkuri who doesn't let %name take it easy, go die...
+		</baby>
+		<child>
+			That yukkuri is so unfair!
+			Yukkuris must share... Please let %name take it easy too...
+			Dat yukkuri is unfaiw...
+		</child>
+		<adult>
+			Only that yukkuri is unfair...
+			Yukkuris must share! Scum yukkuris who won't let %name take it easy, go die!
+		</adult>
+	</rude>
+[/HateWithEnvyAboutOther]
+
+# 他人を哀れに思う
+[MercyAboutOther]
+	<normal>
+		<baby>
+			Dey can't take it eajy at aww...
+			Pwease take it eajy...
+		</baby>
+		<child>
+			How pitiful...
+			Dey can't take it eajy at aww...
+			Pwease take it eajy...
+		</child>
+		<adult>
+			How pitiful...
+			They can't take it easy at all...
+			Please take it easy...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Dey'we not taking it eajy at aww, sho funny-!
+			Shuch a pity! Pu-nish! Pu-nish-!
+		</baby>
+		<child>
+			Pretend not to see, pretend not to see...
+			Dey'we not taking it eajy at aww, sho funny-!
+			Shuch a pity! Pu-nish! Pu-nish-!
+		</child>
+		<adult>
+			Pretend not to see, pretend not to see...
+			They're not taking it easy at all, so funny-!
+			Such a pity! Pu-nish! Pu-nish-!
+			They cannot take it easy!
+		</adult>
+	</rude>
+[/MercyAboutOther]
+
+#---------------------------------------------
+# プレイヤーにすりすりされた時限定のメッセージ
+#---------------------------------------------
+# すりすりされている
+[SuriSuriByPlayer]
+	<normal>
+		<baby>
+			Wub-wub~♪
+			Wub-wub~ sho happy-!
+			%name wuvs you~!
+		</baby>
+		<child>
+			Ruuub-ruuub♪
+			Wub-wub~♪
+			Wub-wub~ sho happy-!
+		</child>
+		<adult>
+			Ruuub-ruuub♪
+			Mister's hands are so warm!
+			Rub-rub~♪
+			Rub-rub~ so happy-!
+			%name loves you~!
+			Mister... Mister... ♥
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wub-wub is nyshe, but give %name shweets instead!
+			Mishtew Shwabe's wub-wub is sho sticky and gwosh!
+		</baby>
+		<child>
+			Mishtew Shwabe, take it eajy and wub-wub~!
+			Wub-wub is nyshe, but give %name shweets instead!
+		</child>
+		<adult>
+			Mister Slave, take it easy and rub-rub~!
+			Rub-rub is nice, but give %name sweets instead!
+			Mister Slave's rub-rub is so sticky and gross!
+		</adult>
+	</rude>
+[/SuriSuriByPlayer]
+
+# 姉の状態をうらやましがる
+[EnvyAboutElderSisterInSurisuri]
+	<normal>
+		<baby>
+			Big shishtew is taking it eajy, sho nyshe...
+			%name wants to do wub-wub too...
+		</baby>
+		<child>
+			Big shishtew is taking it eajy, sho nyshe...
+			%name wants to do wub-wub too...
+		</child>
+		<adult>
+			Big sister is taking it easy, so nice...
+			%name wants to do rub-rub too...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Big shishtew is sho unfaiw-!
+			Do wub-wub wid %name too! Wight away is fine!
+		</baby>
+		<child>
+			Big shishtew is sho unfaiw-!
+			Do wub-wub wid %name too! Wight away is fine!
+		</child>
+		<adult>
+			Big sister is so unfair-!
+			Do rub-rub with %name too! Right away is fine!
+		</adult>
+	</rude>
+[/EnvyAboutElderSisterInSurisuri]
+
+# 妹の状態をうらやましがる
+[EnvyAboutSisterInSurisuri]
+	<normal>
+		<baby>
+			Wittwe shishtew is taking it eajy, sho nyshe...
+			%name wants to do wub-wub too...
+		</baby>
+		<child>
+			Wittwe shishtew is taking it eajy, sho nyshe...
+			%name wants to do wub-wub too...
+		</child>
+		<adult>
+			Little sister is taking it easy, so nice...
+			%name wants to do rub-rub too...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Wittwe shishtew is sho unfaiw-!
+			Do wub-wub wid %name too! Wight away is fine!
+		</baby>
+		<child>
+			Wittwe shishtew is sho unfaiw-!
+			Do wub-wub wid %name too! Wight away is fine!
+		</child>
+		<adult>
+			Little sister is so unfair-!
+			Do rub-rub with %name too! Right away is fine!
+		</adult>
+	</rude>
+[/EnvyAboutSisterInSurisuri]
+
+
+#---------------------------------------------
+# 姉の状態をうらやましがって泣く
+[EnvyCryAboutElderSisterInSurisuri]
+	<normal>
+		<baby>
+			Yuwaaaan! Big shishtew is sho unfaiw!
+			Do wub-wub wid %name too-!
+			Yuuu... %name wants to wub-wub wid mishtew too-!!!
+		</baby>
+		<child>
+			Do wub-wub wid %name too-!
+			Yuuu... Even though we're both yukkuris, why is it big sister?
+			Yuuu... %name wants to wub-wub wid mishtew too-!!!
+		</child>
+		<adult>
+			Yuwaaaan! Envious of big sister!
+			Yuuu... Even though we're both yukkuris, why is it big sister?
+			Yuuu... %name wants to rub-rub with mister too-!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yuwaaaan! Big sister is so unfair!
+			Big sister is a scum yukkuri who does lewd things to seduce mishtew-!!!
+		</baby>
+		<child>
+			Shitty shwibew, do wub-wub wid %name!
+			Big sister is a scum yukkuri who does lewd things to seduce mishtew-!!!
+		</child>
+		<adult>
+			Rub-rub is for %name! Scum big sister gets punished!
+			Shitty slave, do rub-rub with %name!
+		</adult>
+	</rude>
+[/EnvyCryAboutElderSisterInSurisuri]
+
+# 妹の状態をうらやましがって泣く
+[EnvyCryAboutSisterInSurisuri]
+	<normal>
+		<baby>
+			Yuwaaaan! Wittwe shishtew is sho unfaiw!
+			Do wub-wub wid %name too-!
+			Yuuu... %name wants to wub-wub wid mishtew too-!!!
+		</baby>
+		<child>
+			Do wub-wub wid %name too-!
+			Yuuu... Even though we're both yukkuris, why is it little sister?
+			Yuuu... %name wants to wub-wub wid mishtew too-!!!
+		</child>
+		<adult>
+			Yuwaaaan! Envious of little sister!
+			Yuuu... Even though we're both yukkuris, why is it little sister?
+			Yuuu... %name wants to rub-rub with mister too-!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yuwaaaan! Little sister is so unfair!
+			Little sister is a scum yukkuri who does lewd things to seduce mishtew-!!!
+		</baby>
+		<child>
+			Shitty shwibew, do wub-wub wid %name!
+			Little sister is a scum yukkuri who does lewd things to seduce mishtew-!!!
+		</child>
+		<adult>
+			Rub-rub is for %name! Scum little sister gets punished!
+			Shitty slave, do rub-rub with %name!
+		</adult>
+	</rude>
+[/EnvyCryAboutSisterInSurisuri]
+
+#---------------------------------------------
+# うんうん体操のメッセージ
+#---------------------------------------------
+# 声かけ(親側)
+[ShitExercisesGOFrom]
+	<normal>
+		It'sh time fow de poo-poo exewcishe!
+		It's time for the poo-poo exercise!
+	</normal>
+[/ShitExercisesGOFrom]
+
+# 待機(親側)
+[ShitExercisesWAITFrom]
+	<normal>
+		We're doing the poo-poo exercise! Are you ready~?
+	</normal>
+[/ShitExercisesWAITFrom]
+
+# イベント開始(親側)
+[ShitExercisesSTARTFrom]
+	<normal>
+		Starting the poo-poo exercise~♪
+	</normal>
+[/ShitExercisesSTARTFrom]
+
+# ゆらゆら(親側)
+[ShitExercisesYURAYURAFrom]
+	<normal>
+		♪Shway-shway, fwapping side to side~♪
+	</normal>
+[/ShitExercisesYURAYURAFrom]
+
+# のびのび(親側)
+[ShitExercisesNOBINOBIFrom]
+	<normal>
+		♪Sh-twetching out nice and fwee~♪
+	</normal>
+[/ShitExercisesNOBINOBIFrom]
+
+# ぽかぽか(親側)
+[ShitExercisesPOKAPOKAFrom]
+	<normal>
+		♪Poka-poka, wotsh of warmt~♪
+	</normal>
+[/ShitExercisesPOKAPOKAFrom]
+
+# うんうん(親側)
+[ShitExercisesUNUNFrom]
+	<normal>
+		♪Mishtew Poo-poo is going outshide too~♪
+	</normal>
+[/ShitExercisesUNUNFrom]
+
+# イベント終了(親側)
+[ShitExercisesENDFrom]
+	<normal>
+		Yuuun! Mishtew Poo-poo is enewgetic today too!
+		Yuwawaa~... Wittwe one is sho cute!
+	</normal>
+[/ShitExercisesENDFrom]
+#---------------------------
+# 声かけ(子側)
+[ShitExercisesGO]
+	<normal>
+		Yuwawaai~♪
+		Poo-poo exewcishe~♪
+		Huwweeing eajy!
+	</normal>
+[/ShitExercisesGO]
+
+# 待機(子側)
+[ShitExercisesWAIT]
+	<normal>
+		Yu♪
+		Yu-yu♪
+	</normal>
+[/ShitExercisesWAIT]
+
+# イベント開始(子側)
+[ShitExercisesSTART]
+	<normal>
+		Yuu-!
+		Yu-yu-oh-!
+	</normal>
+[/ShitExercisesSTART]
+
+# ゆらゆら(子側)
+[ShitExercisesYURAYURA]
+	<normal>
+		Yukya!
+		Yuuu~
+		Shway-shwaying~
+	</normal>
+[/ShitExercisesYURAYURA]
+
+# のびのび(子側)
+[ShitExercisesNOBINOBI]
+	<normal>
+		Yu-oh-!
+		Yuguguu~
+		Yunguu~
+		Shtwetching out~
+	</normal>
+[/ShitExercisesNOBINOBI]
+
+# ぽかぽか(子側)
+[ShitExercisesPOKAPOKA]
+	<normal>
+		Yuun~
+		Yu! Yu!
+		Yuwawaai~
+	</normal>
+[/ShitExercisesPOKAPOKA]
+
+# うんうん(子側)
+[ShitExercisesUNUN]
+	<normal>
+		Poo-poo is coming out!
+		Coming out!
+		Wots of poo-poo is coming out!
+	</normal>
+[/ShitExercisesUNUN]
+
+#---------------------------
+# 家族で食事をする
+[FamilyEatingTimeWait]
+	<normal>
+		<baby>
+			%name is waiting to take it easy and eat together wid everyone!
+		</baby>
+		<child>
+			%name is waiting to take it easy and eat together wid everyone!
+		</child>
+		<adult>
+			%name is waiting to take it easy and eat together with everyone!
+		</adult>
+	</normal>
+[/FamilyEatingTimeWait]
+
+# すーぱーむーしゃむーしゃたいむ
+[SuperEatingTime]
+	<normal>
+		<baby>
+			%name's shupaw munch-munch time, is shtawting nooowww!!
+		</baby>
+		<child>
+			%name's supew munch-munch time, is shtawtinggg!!
+		</child>
+		<adult>
+			%name's super munch-munch time, is startinggg!!
+		</adult>
+	</normal>
+[/SuperEatingTime]
+
+# おちびちゃん運び
+[RideOnMe]
+	<normal>
+		<adult>
+			Yuu! %name will carry you!
+			Little one, please get on top of %name!
+		</adult>
+	</normal>
+[/RideOnMe]
+
+#おちびちゃん自慢(歌)
+[ProudChildsSING]
+	<normal>
+		<baby>
+			♪Why~ awe you~ taking it sho eajy~♪
+			♪Taking it eajy, awen't you~ wittwe ooo-neee~♪
+		</baby>
+		<child>
+			♪Why~ awe you~ taking it sho eajy~♪
+			♪Taking it eajy, awen't you~ wittwe ooo-neee~♪
+		</child>
+		<adult>
+			♪Why~ are you~ taking it so easy~♪
+			♪Taking it easy, aren't you~ little ooo-neee~♪
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			♪Why~ awe you~ taking it sho eajy~♪
+			♪Taking it eajy, awen't you~ wittwe ooo-neee~♪
+		</baby>
+		<child>
+			♪Why~ awe you~ taking it sho eajy~♪
+			♪Taking it eajy, awen't you~ wittwe ooo-neee~♪
+		</child>
+		<adult>
+			Yu! Yu! Repwesent little one~♪
+			♪Yuu-! Yuu-! %name's little one! Taking it easy-♪
+		</adult>
+	</rude>
+[/ProudChildsSING]
+
+#おちびちゃん自慢(親側)
+[ProudChildsGOFrom]
+	<normal>
+		<baby>
+			Yu! Wittwe one! Gathew eajy, okay!
+			Yu! Wittwe one! Pwease come ovew hewe fow a bit!
+		</baby>
+		<child>
+			Yu! Wittwe one! Pwease gathew eajy!
+			Yu! Wittwe one! Pwease come ovew hewe fow a bit!
+		</child>
+		<adult>
+			Yu! Little one! Please gather easily!
+			Yu! Little one! Please come over here for a bit!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu! Wittwe one! Gathew eajy, okay!
+			Yu! Wittwe one! Pwease come ovew hewe fow a bit!
+		</baby>
+		<child>
+			Yu! Wittwe one! Pwease gathew eajy!
+			Yu! Wittwe one! Pwease come over hewe for a bit!
+		</child>
+		<adult>
+			Yufufu! Little oneee! Come over here for a bit!
+		</adult>
+	</rude>
+[/ProudChildsGOFrom]
+
+#おちびちゃん自慢(親側)
+[ProudChildsSTARTFrom]
+	<normal>
+		<baby>
+			Mishtew Big Bwothew! %name is gonna intwoduce %name's wittwe one!
+			Yun! Wook at %name's wittwe one and take it eajy, okay!
+		</baby>
+		<child>
+			Mishtew Big Bwothew! %name will intwoduce %name's wittwe one!
+			Yun! Pwease wook at %name's wittwe one and take it eajy!
+		</child>
+		<adult>
+			Mister Brother! %name will introduce %name's little one!
+			Yun! Please look at %name's little one and take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Pwease wet shitty geezew behold %name's wittwe one's honowabwe face!
+			Yuhehe, if you can take it eajy wooking at %name's wittwe one, hand ovew de shweet-shweets!
+			Wittwe one! Pwease deaw a stwong bwow to shitty geezew!
+		</baby>
+		<child>
+			Pwease wet shitty geezew behold %name's wittwe one's honowabwe face!
+			Yuhehe, if you can take it eajy wooking at %name's wittwe one, hand ovew de shweet-shweets!
+			Wittwe one! Pwease deaw a stwong bwow to shitty geezew!
+		</child>
+		<adult>
+			Please let even shitty geezer behold %name's little one's honorable face!
+			Yuhehe, if you can take it easy looking at %name's little one, hand over the sweet-sweets!
+			Little oneee! Please deal a strong blow to shitty geezer!
+		</adult>
+	</rude>
+[/ProudChildsSTARTFrom]
+
+#おちびちゃん自慢(親側)
+[ProudChildsPROUDFrom]
+	<normal>
+		<baby>
+			A wittwe one who looks wike %name and is good at singing!
+			Yufufu, a wittwe one taking aftew %name with gawwant eyebwows!
+			Yufufu, a wittwe one taking aftew %name with squishy wittwe feet!
+			Wittwe one! Gweet mishtew eajy, okay!
+		</baby>
+		<child>
+			A wittwe one who looks wike %name and is good at singing!
+			Yufufu, a wittwe one taking aftew %name with gawwant eyebwows!
+			Yufufu, a wittwe one taking aftew %name with squishy wittwe feet!
+			Wittwe one! Gweet mishtew eajy, okay!
+		</child>
+		<adult>
+			A little one who looks like %name and is good at singing!
+			Yufufu, a little one taking after %name with gallant eyebrows!
+			Yufufu, a little one taking after %name with squishy little feet!
+			Yu! Little one! Greet mister easily, okay!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			An ewite wittwe one who inhewits %name's Anko and is pwomised to take it de mosht eajy!
+			Yuhehe, a swightwy mischievoush wittwe one taking aftew %name!
+			Yuhehe, a swightwy wowdy wittwe one jusht wike %name!
+			Yuhhehe! Shitty geezew is tewwifiewed of wittwe one's fiewce gwawe and can't say a ding!
+			Yuhhehe! Shitty geezew is sho scawed of de stwongesht wittwe one dat he peed himsewf!
+		</baby>
+		<child>
+			An ewite wittwe one who inhewits %name's Anko and is pwomised to take it de mosht eajy!
+			Yuhehe, a swightwy mischievoush wittwe one taking aftew %name!
+			Yuhehe, a swightwy wowdy wittwe one jusht wike %name!
+			Yuhhehe! Shitty geezew is tewwifiewed of wittwe one's fiewce gwawe and can't say a ding!
+			Yuhhehe! Shitty geezew is sho scawed of de stwongesht wittwe one dat he peed himsewf!
+		</child>
+		<adult>
+			An elite little one who inherits %name's Anko and is promised to take it the most easy!
+			Yuhehe, a slightly mischievous little one taking after %name!
+			Yuhehe, a slightly rowdy little one just like %name!
+			Yuhhehe! Shitty geezer is terrified of little one's fierce glare and can't say a thing!
+			Yuhhehe! Shitty geezer is so scared of the strongest little one that he peed himself!
+		</adult>
+	</rude>
+[/ProudChildsPROUDFrom]
+
+#おちびちゃん自慢(親側)
+[ProudChildsENDFrom]
+	<normal>
+		<baby>
+			Yu! %name is so happy to intwoduce wittwe one to big bwodew!
+			Yuwaa~, wittwe one is taking it sho eajy~!
+			Big bwodew, pwease take it eajy too!
+		</baby>
+		<child>
+			Yu! %name is so happy to introduce little one to big brother!
+			Yuwaa~, little one is taking it so easy!
+			Big brother, please take it easy too!
+		</child>
+		<adult>
+			Yu! %name is so happy to introduce little one to big brother!
+			Yuwaa~, little one is taking it so easy!
+			Big brother, please take it easy together with %name's little one!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Now dat you took it eajy watching wittwe one, bwing shweets wight now, okay?
+			Yuhyaha! Pweshent shweets to %name and %name's wittwe one!
+		</baby>
+		<child>
+			Now that you took it easy watching little one, bring sweets right away!
+			Yuaan? Shinshe you took it eajy wid wittwe one, bwing shweets fast!
+			Yuhyaha! Present sweets to %name and %name's little one!
+		</child>
+		<adult>
+			Now that you took it easy watching little one, bring sweets right away!
+			Since you took it easy with %name's little one, compensation is required~!
+			Now then, present sweets to %name and %name's little one!
+			Yuhhehe! Shitty slave, hurry up and present sweets as an admission fee!
+			Yuaan? Looking for free won't be forgiven (yurusanae)~? Present sweets right now!
+		</adult>
+	</rude>
+[/ProudChildsENDFrom]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsGO]
+	<normal>
+		<baby>
+			Yu? What is it?
+			Huwrying up taking it eajy~
+			Yutchi! Yutchi!
+			Yuntcho! Yuntcho!
+		</baby>
+		<child>
+			Yu? What is it?
+			Hurrying up taking it easy~
+			Yutchi! Yutchi!
+			Yunsho! Yunsho!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yuaan? %name is in de middwe of an adventuwe wight now!
+			Sho noishy! %name is busy wight now!
+			Yuuu! %name won't be a wittwe one fowevaw!
+		</baby>
+		<child>
+			Yuaan? %name is in the middle of an adventure right now!
+			So noisy! %name is busy right now!
+			Yuuu! %name won't be a little one forever!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/ProudChildsGO]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsSTART]
+	<normal>
+		<baby>
+			%name undewstood taking it eajy!
+			Yun! Weave it to %name!
+			Yu! Pwease wait a wittwe bit!
+		</baby>
+		<child>
+			%name understood taking it easy!
+			Yun! Leave it to %name!
+			Yu! Please wait a little bit!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Dat'sh sho eajy!
+			Yun! %name wiww show you a good one!
+			Yuo! %name wiww do it!
+		</baby>
+		<child>
+			That's so easy!
+			Yun! %name will show you a good one!
+			Yuo! %name will do it!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/ProudChildsSTART]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsPROUD]
+	<normal>
+		<baby>
+			%name can shing popuwaw shongsh too! ♪%name is shtwong~ Def-i-nitewy shtwong~♪
+			♪%name'sh cha-cha-cha! %name'sh cha-cha-cha! Cha-cha-cha %name'sh cha! Cha! Cha!♪
+			♪Yuyyuu-! Yuyyuu-! Yuwawa~♪
+			Yuyyuo-! Yuyyuo-! Yuyyuo-!
+		</baby>
+		<child>
+			%name can sing popular songs too! ♪%name is strong~ Definitely strong~♪
+			♪%name's cha-cha-cha! %name's cha-cha-cha! Cha-cha-cha %name's cha! Cha! Cha!♪
+			♪Yuyyuu-! Yuyyuu-! Yuwawa~♪
+			Yuyyuo-! Yuyyuo-! Yuyyuo-!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			%name will shing popuwaw shongsh! ♪%name is shtwong~ Def-i-nitewy shtwong~♪
+			Yuyyuo-! Yuyyuo-! %name is de shtwongesht~♪
+		</baby>
+		<child>
+			%name will sing popular songs! ♪%name is strong~ Definitely strong~♪
+			Yuyyuo-! Yuyyuo-! %name is the strongest~♪
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/ProudChildsPROUD]
+
+#おちびちゃん自慢(子供側)
+[ProudChildsEND]
+	<normal>
+		<baby>
+			Big bwodew, pwease take it eajy too!
+		</baby>
+		<child>
+			Big brother, please take it easy too!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu! Bwing shweets wight away, okay?
+			Yuhyaha! Shitty shwibew is sho scawed he can't shay anything!
+		</baby>
+		<child>
+			Yu! Bring sweets right away, okay?
+			Yuhyaha! Shitty slave is so scared he can't say anything!
+		</child>
+		<adult>
+			%dummy
+		</adult>
+	</rude>
+[/ProudChildsEND]
+
+# 子供がかびた
+[SadnessForMoldyChild]
+	<normal>
+		<baby>
+			Uwaaaah! %name can't shave youuu!!!
+			Wittwe one, take it eajy, take it eajyyy!
+			Scum mowd, pwease go awayyy!!
+		</baby>
+		<child>
+			Uwaaaah! %name can't save little one-!!!
+			Uwaaaah! %name can't shave youuu!!!
+			Wittwe one, take it eajy, take it eajyyy!
+		</child>
+		<adult>
+			Why did little one have to become moldy-!!!
+			Scum mowd, go awayyy-!!
+			Uwaaaah! %name can't save youuu!!!
+		</adult>
+	</normal>
+[/SadnessForMoldyChild]
+
+# つがいがかびた
+[SadnessForMoldyPartner]
+	<normal>
+		<baby>
+			Uwaaaah! %name can't shave youuu!!!
+			%partner, take it eajy, take it eajyyy!
+			Scum mowd, pwease go awayyy!!
+			Pwease! Shave %partner pweaseee!!!
+		</baby>
+		<child>
+			Uwaaaah! %name can't shave youuu!!!
+			%partner, take it eajy, take it eajyyy!
+			Scum mowd, pwease go awayyy!!
+			Pwease! Shave %partner pweaseee!!!
+		</child>
+		<adult>
+			Uwaaaah! %name can't save youuu!!!
+			%partner, take it easy, take it easyyy!
+			Scum mold, go awayyy!!
+			Please! Save %partner pleaseee!!!
+		</adult>
+	</normal>
+[/SadnessForMoldyPartner]
+
+# 姉がかびた
+[SadnessForMoldyElderSister]
+	<normal>
+		<baby>
+			Uwaaaah! %name can't shave youuu!!!
+			Big shishtew, take it eajy, take it eajyyy!
+			Scum mowd, pwease go awayyy!!
+			Pwease! Shave big shishtew pweaseee!!!
+		</baby>
+		<child>
+			Uwaaaah! %name can't shave youuu!!!
+			Big shishtew, take it eajy, take it eajyyy!
+			Scum mowd, pwease go awayyy!!
+			Pwease! Shave big shishtew pweaseee!!!
+		</child>
+		<adult>
+			Uwaaaah! %name can't save youuu!!!
+			Big sister, take it easy, take it easyyy!
+			Scum mold, go awayyy!!
+			Please! Save big sister pleaseee!!!
+		</adult>
+	</normal>
+[/SadnessForMoldyElderSister]
+
+# 妹がかびた
+[SadnessForMoldySister]
+	<normal>
+		<baby>
+			Uwaaaah! %name can't shave youuu!!!
+			Wittwe shishtew, take it eajy, take it eajyyy!
+			Scum mowd, pwease go awayyy!!
+			Pwease! Shave wittwe shishtew pweaseee!!!
+		</baby>
+		<child>
+			Uwaaaah! %name can't shave youuu!!!
+			Wittwe shishtew, take it eajy, take it eajyyy!
+			Scum mowd, pwease go awayyy!!
+			Pwease! Shave wittwe shishtew pweaseee!!!
+		</child>
+		<adult>
+			Uwaaaah! %name can't save youuu!!!
+			Little sister, take it easy, take it easyyy!
+			Scum mold, go awayyy!!
+			Please! Save little sister pleaseee!!!
+		</adult>
+	</normal>
+[/SadnessForMoldySister]
+
+#子供に謝罪
+[ApologyToChild]
+	<normal>
+		<baby>
+			I'm sho showwy... sho showwy...
+			I'm sho showwy... %name is a faiwuwe as a pawent...
+		</baby>
+		<child>
+			I'm sho showwy... sho showwy...
+			I'm sho showwy... %name is a faiwuwe as a pawent...
+		</child>
+		<adult>
+			I'm so sorry... so sorry...
+			I'm so sorry... %name is a failure as a parent...
+			I'm so sorry... it's so %name can survive...
+		</adult>
+	</normal>
+[/ApologyToChild]
+
+#謝罪
+[ApologyToFamily]
+	<normal>
+		<baby>
+			I'm sho showwy... sho showwy...
+			I'm sho showwy... %name doesn't want to die...
+		</baby>
+		<child>
+			I'm sho showwy... sho showwy...
+			I'm sho showwy... %name doesn't want to die yet...
+		</child>
+		<adult>
+			I'm so sorry... so sorry...
+			%partner, I'm so sorry... it's so %name can survive...
+			I'm so sorry... %name doesn't want to die yet...
+		</adult>
+	</normal>
+[/ApologyToFamily]
+
+#かびゆヘイト
+[HateMoldyYukkuri]
+	<normal>
+		<baby>
+			Mowdy yukkuri, go away ovew dewe!
+			Mishtew Mowd can't take it eajy!
+		</baby>
+		<child>
+			Mowdy yukkuri, go away ovew dewe!
+			Mishtew Mowd can't take it eajy!
+		</child>
+		<adult>
+			Moldy yukkuri, go away over there!
+			Mister Mold can't take it easy!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Mowdy yukkuri, go away ovew dewe!
+			Yupupu! Oh, sho pathetic!
+		</baby>
+		<child>
+			Mowdy yukkuri gets punished!
+			Mishtew Mowd can't take it eajy! Disappeaw fwom shight wight now!!
+			Yupupu! Oh, sho pathetic!
+		</child>
+		<adult>
+			There is such a filthy yukkuri here!
+			Moldy yukkuri will be punished!
+			Engacho! (Stay away!)
+			D-Don't come near!! Diseased ones will be exterminated right away!
+			It's for %name's glorious life! Quietly be eliminated!
+		</adult>
+	</rude>
+[/HateMoldyYukkuri]
+
+#おもちゃの悲鳴
+[DontPlayMe]
+	<normal>
+		<baby>
+			Shtooooop!! Wet %name goooooo!!!
+			Shtooooop!! Shtooooop!!!
+			Wet %name gooooo!!! %name doesn't want to die yeeet!!!
+			Hewwwp!!! %name doesn't want to dieeeeee!!!
+			%name isn't a toyyyyy!!!
+			You can't tweat a wiving cweatuwe wike a toyyyy!!!
+			%name is awive toooo!!! It'sh a pwecioush wiiiiife!!!
+			%name is de shame wiving cweatuwe tooo!! You haf to tweat it wid caweee!!!
+			You musht tweat pwecioush wife wid caweee!!!
+			You can't tweat a wife sho wightwy!!! Dat'sh basic common shenssseee!!!
+		</baby>
+		<child>
+			Shtooooop!! Wet %name goooooo!!!
+			Shtooooop!! Shtooooop!!!
+			Wet %name gooooo!!! %name doesn't want to die yeeet!!!
+			Hewwwp!!! %name doesn't want to dieeeeee!!!
+			%name isn't a toyyyyy!!!
+			You can't tweat a wiving cweatuwe wike a toyyyy!!!
+			%name is awive toooo!!! It'sh a pwecioush wiiiiife!!!
+			%name is de shame wiving cweatuwe tooo!! You haf to tweat it wid caweee!!!
+			You musht tweat pwecioush wife wid caweee!!!
+			You can't tweat a wife sho wightwy!!! Dat'sh basic common shenssseee!!!
+		</child>
+		<adult>
+			Stooooop!! Let %name goooooo!!!
+			Stooooop!! Stooooop!!!
+			Let %name gooooo!!! %name doesn't want to die yeeet!!!
+			Heelllp!!! %name doesn't want to dieeeeee!!!
+			%name isn't a toyyyyy!!!
+			You can't treat a living creature like a toyyyy!!!
+			%name is alive toooo!!! It's a precious liiiiife!!!
+			%name is the same living creature tooo!! You have to treat it with careee!!!
+			You must treat precious life with careee!!!
+			You can't treat a life so lightly!!! That's basic common seeenseee!!!
+		</adult>
+	</normal>
+[/DontPlayMe]
+# 子供が捕食種に食われた際の反撃メッセージ
+[RevengeForChild]
+	<normal>
+		<baby>
+			Wittwe oooneee!! Shitty Wemiwya, dieee!!
+		</baby>
+		<child>
+			Wittwe oooneee!! Shitty Wemiwya, dieee!!
+		</child>
+		<adult>
+			Little oneee!! Yuru-%name!!! Shitty Remirya, please die!!!
+		</adult>
+	</normal>
+[/RevengeForChild]
+
+#人間に謝罪
+[ApologyToHuman]
+	<normal>
+		<baby>
+			Oh nooooo!!! Sowwy Sowwy
+			Oh nooooo!!! Pwease be gentwe wid %name!!!
+			Oh nooooo!!! Dank you!! Dank youuuuu!!!
+			Oh nooooo!!! Sowwy Sowwy Not taking it easyyyyy!!!
+			Pwease fowgive %name, Mishtew Human!! Pwease fowgive %name!!!
+			Pwease be gentwe wid %name, Mishtew Human!!!!! Pwease fowgive %name!!!
+			Pwease be gentwe wid %name, Mishtew Human!!!!! %name is sowwy!! Pwease, pwease!!
+			%name is sowwy! %name gets it Sowwy Sowwy
+			%name gets it %name is vewy sowwy! Dank you!! Dank youuuuu!!!
+			%name is vewy sowwy! %name is a comwete... bad thing...!! Sooo! Shtop it, pweaseeeee!!!
+			%name is so cheekyyy!!! Pwease be gentwe wid %name refwected in Mishtew Human's eyeseeee!!!
+			%name is so cheekyyy!!! Sowwy for being refwected in Mishtew Human's eyes!! Pwease fowgive %name!!!
+			%name is so cheekyyy!!! Dank you!! Dank youuuuu!!!
+			%name is so cheekyyy!!! Dank you!! %name is sowwy!! Soooo!!
+			%name can't stand it, %name wants to go awayyy!!! Sooo, shtop it, pweaseeeee!!!
+			%name can't stand it, %name wants to go awayyy!!! Pwease fowgive %name!!!
+			%name is in wegret!! It's yukkuwi wegret!! Sowwy Sowwy
+			%name is in wegret!! It's yukkuwi wegret!! Pwease, pwease!! Shtop it, pweaseeeee!!!
+			%name is in wegret!! It's yukkuwi wegret!! Dank you!! Dank youuuuu!!!
+			%name is in wegret!! It's yukkuwi wegret!! Pwease be gentwe wid %name!!!!! Pwease fowgive %name!!!
+			%name is in wegret!! It's yukkuwi wegret!! Sowwy Sowwy
+			%name gets it %name is in wegret!! It's yukkuwi wegret!! Sooo, shtop it, pweaseeeee!!! Sowwy
+			%name did a bad thing!! Dank youuuuuuu!!! Oh nooooo!!!
+			%name did a bad thing!! Dank youuuuuuu!!! Shtop it, pweaseeeee!!! Pwease, pwease!!
+			%name is the shcum of da wowwd wid no way outtt! Sowwy
+			%name is the shcum of da wowwd wid no way outtt! Pwease be gentwe wid %name!!!!! Pwease fowgive %name!!!
+			%name is the shcum of da wowwd wid no way outtt! Pwease fowgive %name!!! Pwease, pwease!!
+			%name is the twash of da wowwd wid no way outtt! Pwease be gentwe wid %name!!!
+			%name is the twash of da wowwd wid no way outtt! Sowwy Pwease fowgive %name!!!
+			%name is the twash of da wowwd wid no way outtt! Dank you!! %name is sowwy!!
+			%name is just fwesh twash poo-poooo!!! Sowwy Sowwy
+			%name is just fwesh twash poo-poooo!!! Pwease fowgive %name!!!
+			%name is just fwesh twash poo-poooo!!! Dank you!! Dank youuuuu!!!
+			%name is just fwesh twash poo-poooo!!! Pwease be gentwe wid %name!!!
+			%name is vewy sowwy! Pwease fowgive %name!!! Pwease, pwease!!
+			%name is vewy sowwy! Dank you!! Dank youuuuu!!!
+			%name is vewy sowwy! Sowwy Sowwy
+			Wahhhhh!! Nooo, nooo, nooo, nooooo!!!
+			Wahhhhh!! Nooo, nooo, nooo, nooooo!!! %name didn't do anything bad thoughhhhh!!!
+			Nooo, nooo, nooo, nooooo!!! %name is going homeeeee!!!
+			Wahhh wahhh wahhh wahhh~!!! %name wants to go home~!!! %name can't take it easy~!!!
+			Yuuuuu~!! Sowwy~!! %name wants to go home~!!!
+			What are you saying~!!! What did %name do wwong~!!!
+			Yuwaaaaaaaaaaaaaa-!!!!!!
+			Sowwy! Sowwy~!!
+		</baby>
+		<child>
+			Oh noooo!!! Sorry Sorryyyyy!!
+			Oh noooo!!! %name is sho sowwyyyyy!!!
+			Oh noooo!!! Pwease!! Pweaseeeee!!!
+			Oh noooo!!! Sorry Sorryyyyy!! %name is not being a gud yukkuwi!!!!
+			%name made a mistake wif Mishtew Human, sowwyyyyy!! Pwease fowgive %name!!!
+			%name made a mistake wif Mishtew Human, %name is sho sowwyyyyy!!!!! Pwease fowgive %name!!!
+			%name made a mistake wif Mishtew Human, %name is sho sowwyyyyy!!!!! %name is wepentingggg!!! Pwease, pweaseeee!!
+			%name is a beast! %name is scum!! Sorry Sorryyyyy!!
+			%name is scum!! %name is a beast! Pwease!! Pweaseeeee!!!
+			%name is a beast! %name's pwivileges have been twipped away...!! Noooo! Pwease don't punish %name!!!
+			%name is a living shameeee!!! %name is sho sowwy for being seen by Mishtew Human's eyesyyyy!!!
+			%name is a living shameeee!!! Sorry for being seen by Mishtew Human's eyes!! Pwease fowgive %name!!!
+			%name is a living shameeee!!! Pwease!! Pweaseeeee!!!
+			%name is a living shameeee!!! Pwease!! %name is wepentingggg!!! Noooo!!
+			Pwease let something, anything, weplace %name!!! Noooo, pwease don't punish %name!!!
+			Pwease let something, anything, weplace %name!!! Pwease fowgive %name!!!
+			%name is wepenting!! %name is a wepentant yukkuwi!! Sorry Sorryyyyy!!
+			%name is wepenting!! %name is a wepentant yukkuwi!! Pwease, pweaseeee!! Pwease don't punish %name!!!
+			%name is wepentingggg!! %name is a wepentant yukkuwiiii!! Pwease!! Pweaseeeee!!!
+			%name is wepentingggg!! %name is a wepentant yukkuwiiii!! %name is sho sowwyyyyy!!!!! Pwease fowgive %name!!!
+			%name is wepentingggg!! %name is a wepentant yukkuwiiii!! Sorry Sorryyyyy!!
+			%name is scum!! %name is wepentingggg!! %name is a wepentant yukkuwiiii!! Noooo, pwease don't punish %name!!! Sorryyyyy!!
+			%name was bad!! Pwease, pweaseeeee!!! Oh noooo!!!
+			%name was bad!! Pwease, pweaseeeee!!! Pwease don't punish %name!!! Pwease, pweaseeee!!
+			%name is the most nuisance-some twash in the whole wide worldddd! Sorryyyyy!!
+			%name is the most nuisance-some twash in the whole wide worldddd! %name is sho sowwyyyyy!!!!! Pwease fowgive %name!!!
+			%name is the most nuisance-some twash in the whole wide worldddd! Pwease fowgive %name!!! Pwease, pweaseeee!!
+			%name is the most nuisance-some piece of twash in the whole wide worldddd! %name is sho sowwyyyyy!!!
+			%name is the most nuisance-some piece of twash in the whole wide worldddd! Sorry!! Pwease fowgive %name!!!
+			%name is the most nuisance-some piece of twash in the whole wide worldddd! Pwease!! %name is wepentingggg!!!
+			%name is just a piece of wotten twashddd!!! Sorry Sorryyyyy!!
+			%name is just a piece of wotten twashddd!!! Pwease fowgive %name!!!
+			%name is just a piece of wotten twashddd!!! Pwease!! Pweaseeeee!!!
+			%name is just a piece of wotten twashddd!!! %name is sho sowwyyyyy!!!
+			%name is a beast! Pwease fowgive %name!!! Pwease, pweaseeee!!
+			%name is a beast! Pwease!! Pweaseeeee!!!
+			%name is a beast! Sorry Sorryyyyy!!
+			Noooo!!! I hate this, I hate this, I hate thissss!!!
+			Noooo!!! I hate this, I hate this, I hate thissss!!! %name didn't do anything bad
+			I hate this, I hate this, I hate thissss!!! %name wants to go homeeeee!!!
+			Noooo noooo noooo noooo~!!! %name wants to go home~!!! %name isn't a yukkuri~!!!
+			Yuuuuu~!! Noooooo~!! %name wants to go home~!!!
+			What happened~!!! What did %name do wwong~!!!
+			Yuwaaaaaaaaaaaaaa-!!!!!!
+			%name is sowwy! %name is sowwy~!!!
+		</child>
+		<adult>
+			Oh noooo~!!! I'm sowwy! I'm so sowwy~!!!
+			Oh noooo~!!! I'm so sowwy~!!!
+			Oh noooo~!!! I apologize!! I apologize~!!!
+			Oh noooo~!!! I'm sowwy! I'm so sowwy~!!! I can't take it easy~!!!
+			I'm sowwy for being disrespectful to Mister Human~!! Please forgive %name~!!!
+			I'm so sowwy for being disrespectful to Mister Human~!!!!! Please forgive %name~!!!
+			I'm so sowwy for being disrespectful to Mister Human~!!!!! %name repents~!!! Please, I beg you~!!
+			%name was too arrogant! %name was vulgar!! I'm sowwy! I'm so sowwy~!!!
+			%name was vulgar!! %name was way too arrogant! I apologize!! I apologize~!!!
+			%name was way too arrogant! %name is completely defeated...!! So~! Please stop already~!!!
+			%name was a monster~!!! I'm so sowwy for appearing in Mister Human's sight~!!!
+			%name was a monster~!!! I'm sowwy for appearing in Mister Human's sight~!! Please forgive %name~!!!
+			%name was a monster~!!! I apologize!! I apologize~!!!
+			%name was a monster~!!! I apologize!! %name repents~!!! Sooo~!
+			%name tried to challenge everything~!!! So please stop already~!!!
+			%name tried to challenge everything~!!! Please forgive %name~!!!
+			%name has repented!! %name surrenders as a yukkuri!! I'm sowwy! I'm so sowwy~!!!
+			%name has repented!! %name surrenders as a yukkuri!! Please, I beg you~!! Please stop already~!!!
+			%name has repented~!!! %name surrenders as a yukkuri~!!! I apologize!! I apologize~!!!
+			%name has repented~!!! %name surrenders as a yukkuri~!!! I'm so sowwy~!!!!! Please forgive %name~!!!
+			%name has repented~!!! %name surrenders as a yukkuri~!!! I'm sowwy! I'm so sowwy~!!!
+			%name was vulgar!! %name has repented~!!! %name surrenders as a yukkuri~!!! So please stop already~!!! I'm so sowwy~!!!
+			%name did something bad!! I apologize~!!! Oh noooo~!!!
+			%name did something bad!! I apologize~!!! Please stop already~!!! Please, I beg you~!!
+			%name is an endless nuisance and scum of the world~!!! I'm so sowwy~!!!
+			%name is an endless nuisance and scum of the world~!!! I'm so sowwy~!!!!! Please forgive %name~!!!
+			%name is an endless nuisance and scum of the world~!!! Please forgive %name~!!! Please, I beg you~!!
+			%name is an endless nuisance and trash of the world~!!! I'm so sowwy~!!!
+			%name is an endless nuisance and trash of the world~!!! I'm sowwy~!! Please forgive %name~!!!
+			%name is an endless nuisance and trash of the world~!!! I apologize!! %name repents~!!!
+			%name is nothing but poo-poo~!!! I'm sowwy! I'm so sowwy~!!!
+			%name is nothing but poo-poo~!!! Please forgive %name~!!!
+			%name is nothing but poo-poo~!!! I apologize!! I apologize~!!!
+			%name is nothing but poo-poo~!!! I'm so sowwy~!!!
+			%name was way too arrogant! Please forgive %name~!!! Please, I beg you~!!
+			%name was way too arrogant! I apologize!! I apologize~!!!
+			%name was way too arrogant! I'm sowwy! I'm so sowwy~!!!
+			Noooo~!! No, no, no, nooo~!!!
+			Noooo~!! No, no, no, nooo~!!! Even though %name didn't do anything wrong~!!!
+			No, no, no, nooo~!!! %name wants to go home~!!!
+			No no no noooo!!! %name wants to go homeee!!! %name can't take it easyyy!!!
+			Yuuuuu!! %name doesn't want thisssss!! %name wants to go homeee!!!
+			What was wrongggg!!! What did %name do wrongggg!!!
+			Yuwaaaaaaaaaaaaaa-!!!!!!
+			%name is sorry! %name is sorryyyyy!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Oh noooo!!! %name is sowwy! %name is sowwyyyy!!
+			Oh noooo!!! %name was a bad giwwwww!!!
+			Oh noooo!!! Dank you!! Dank youuuu!!!
+			Oh noooo!!! %name is sowwy! %name is sowwyyyy!! This isn't Yukkuri-likeeee!!!
+			Mishtew Human, %name is vewy sowwy!! Pwease forgive %name!!!
+			Mishtew Human, %name was a bad giwwwww!!!!! Pwease forgive %name!!!
+			Mishtew Human, %name was a bad giwwwww!!!!! %name is weflectinggg!!! Pwease, pweaseeee!!
+			%name wants some~! %name wants to get it!! %name is sowwy! %name is sowwyyyy!!
+			%name wants to get it!! Please give it to %name! Dank you!! Dank youuuu!!!
+			Please give it to %name! %name begs fow mewcy...!! That's why! Pwease stop it alreadyyyyy!!!
+			%name was too cheekyyy!!! %name was a bad giww weflected in Mishtew Human's eyesyyyy!!!
+			%name was too cheekyyy!!! %name is sowwy fow being a bad giww in Mishtew Human's eyes!! Pwease forgive %name!!!
+			%name was too cheekyyy!!! Dank you!! Dank youuuu!!!
+			%name was too cheekyyy!!! Dank you!! %name is weflectinggg!!! That's whyaaa!
+			What awe you looking at, %name is gonna changeeee!!! That's why pwease stop it alreadyyyyy!!!
+			What awe you looking at, %name is gonna changeeee!!! Pwease forgive %name!!!
+			%name is weflecting!! %name is reflecting swowwy!! %name is sowwy! %name is sowwyyyy!!
+			%name is weflecting!! %name is reflecting swowwy!! Pwease, pweaseeee!! Pwease stop it alreadyyyyy!!!
+			%name is weflectinggg!! %name is reflecting swowwyyyy!! Dank you!! Dank youuuu!!!
+			%name is weflectinggg!! %name is reflecting swowwyyyy!! %name was a bad giwwwww!!!!! Pwease forgive %name!!!
+			%name is weflectinggg!! %name is reflecting swowwyyyy!! %name is sowwy! %name is sowwyyyy!!
+			%name wants to get it!! %name is weflectinggg!! %name is reflecting swowwyyyy!! That's why pwease stop it alreadyyyyy!!! %name is sowwyyyyy!!!
+			%name is bad!! %name says dank youuuu!!! Oh noooo!!!
+			%name is bad!! %name says dank youuuu!!! Pwease stop it alreadyyyyy!!! Pwease, pweaseeee!!
+			%name thought doing whatever %name wanted was justiceeee!!! %name is sowwy! %name is sowwyyyy!!
+			%name thought doing whatever %name wanted was justiceeee!!! Dank you!! %name is weflectinggg!!!
+			%name is just a piece of twash in this unfaiw wowldddd! %name is sowwyyyyy!!!
+			%name is just a piece of twash in this unfaiw wowldddd! %name was a bad giwwwww!!!!! Pwease forgive %name!!!
+			%name is just a piece of twash in this unfaiw wowldddd! Pwease forgive %name!!! Pwease, pweaseeee!!
+			%name is just a piece of twash-scum in this unfaiw wowldddd! %name was a bad giwwwww!!!
+			%name is just a piece of twash-scum in this unfaiw wowldddd! %name is sowwy!! Pwease forgive %name!!!
+			%name is just a piece of twash-scum in this unfaiw wowldddd! Dank you!! %name is weflectinggg!!!
+			%name is just a piece of twash-poo-poo aaaa!!! %name is sowwy! %name is sowwyyyy!!
+			%name is just a piece of twash-poo-poo aaaa!!! Pwease forgive %name!!!
+			%name is just a piece of twash-poo-poo aaaa!!! Dank you!! Dank youuuu!!!
+			%name is just a piece of twash-poo-poo aaaa!!! %name was a bad giwwwww!!!
+			%name surwenders, that's okayyyy!!! That's why! Pwease stop it alreadyyyyy!!! Pwease, pweaseeee...!!
+			%name surwenders, that's okayyyy!!! That's why! Pwease stop it alreadyyyyy!!! This isn't Yukkuri-likeeee!!!
+			%name begs fow mewcy...!! %name is sowwyyyyy!!!
+			Please give it to %name! %name begs fow mewcy...!! Pwease forgive %name!!!
+			%name is sho sowwy! %name's candy, give it back...!! Forgive %name!!!! Pwease!!
+			%name is sho sowwy! %name's candy, give it back...!! Sowwy! Sowwy!!!!
+			Yuuuu!! %name is apowogizing!!!!
+			%name is apowogizing!!!!
+			%name wiww give you da Mishtew Human who buwwied %name!! So Mishtew Human has to forgive %name!!!!
+			%name is apowogizing!!!! Why won't you forgive %name!!!!
+			Why won't you forgive %name!!!!
+			%name is apowogizing, so forgive %name!! Why won't you forgive %name!!!!
+			Unfaiw!! No no no no no!!!!
+			Unfaiw!! No no no no no!!!! %name didn't even do anything bad!!!!
+			No no no no no!!!! %name is going home!!!!
+			No no no no no!!!! %name is going home!!!! This isn't taking it easy!!!!
+			Yuuuu!! Unfaiw!!!! %name is going home!!!!
+			What are you doing!!!! Why are you being mean!!!!
+			What are you doing!!!! Why are you being mean!!!! %name didn't even do anything bad!!!!
+			Why!! %name is apowogizing!! %name is apowogizing, so forgive %name!!
+			Yuuuu!! Why!! %name is apowogizing!! %name is apowogizing, so forgive %name!!
+			%name didn't even do anything bad!!!! Why!! Why!!!!
+			%name is so cute and %name is apowogizing!!!! Why!! Why!!!!
+			%name is so cute and %name is apowogizing!!!! Why won't you forgive %name!!!!
+			Such a cute %name is apowogizing!!!! Why!! Why!!!!
+			Such a cute %name is apowogizing!!!! Why!! Why!!!!
+			Yuwaaaaaaaaaaaaaa-!!!!!!
+			Sowwy! Sowwy!!!!
+		</baby>
+		<child>
+			Oh noooo!!! Sowwy Sowwy
+			Oh noooo!!! %name is vewy sowwy-
+			Oh noooo!!! %name apologizes!! %name apologizes-
+			Oh noooo!!! Sowwy Sowwy This isn't easy-chi at all-
+			%name is sowwy to Mishtew Human- Pwease forgive %name-
+			%name is vewy sowwy to Mishtew Human- Pwease forgive %name-
+			%name is vewy sowwy to Mishtew Human- %name will be punished- Pwease-
+			%name was too cocky- %name was a piece of twash- Sowwy Sowwy
+			%name was a piece of twash- %name was way too cocky- %name apologizes!! %name apologizes-
+			%name was way too cocky- %name is totawwy defeated-...!! So! Pwease stop it now-
+			%name was way too cheeky- Sowwy for appearing in Mishtew Human's eyes-
+			%name was way too cheeky- Sowwy for appearing in Mishtew Human's eyes- Pwease forgive %name-
+			%name was way too cheeky- %name apologizes!! %name apologizes-
+			%name was way too cheeky- %name apologizes!! %name will be punished- Sooo!!
+			No matter how much %name tries to stand up- So pwease stop it now-
+			No matter how much %name tries to stand up- Pwease forgive %name-
+			%name is vewy sowwy- %name has done a yukkuri-apology- Sowwy Sowwy
+			%name is vewy sowwy- %name has done a yukkuri-apology- Pwease- Pwease stop it now-
+			%name is vewy sowwy- %name has done a yukkuri-apology- %name apologizes!! %name apologizes-
+			%name is vewy sowwy- %name has done a yukkuri-apology- %name is vewy sowwy- Pwease forgive %name-
+			%name is vewy sowwy- %name has done a yukkuri-apology- Sowwy Sowwy
+			%name was a piece of twash- %name is vewy sowwy- %name has done a yukkuri-apology- So pwease stop it now- Sowwy
+			%name was a bad giww- %name apologizes- Oh noooo!!!
+			%name was a bad giww- %name apologizes- Pwease stop it now- Pwease-
+			%name thought hew own stupid wules were justice- Sowwy Sowwy
+			%name thought hew own stupid wules were justice- %name apologizes!! %name will be punished-
+			%name is the biggest nuisance in the whole wide wowld- Sowwy
+			%name is the biggest nuisance in the whole wide wowld- %name is vewy sowwy- Pwease forgive %name-
+			%name is the biggest nuisance in the whole wide wowld- Pwease forgive %name- Pwease-
+			%name is the biggest piece of scum in the whole wide wowld- %name is vewy sowwy-
+			%name is the biggest piece of scum in the whole wide wowld- Sowwy Pwease forgive %name-
+			%name is the biggest piece of scum in the whole wide wowld- %name apologizes!! %name will be punished-
+			%name is just a piece of raw twash- Sowwy Sowwy
+			%name is just a piece of raw twash- Pwease forgive %name-
+			%name is just a piece of raw twash- %name apologizes!! %name apologizes-
+			%name is just a piece of raw twash- %name is vewy sowwy-
+			%name admits defeat- So! Pwease stop it now- Pwease...-...!!
+			%name admits defeat- So! Pwease stop it now- This isn't easy-chi at all-
+			%name is totawwy defeated-...!! Sowwy
+			%name was way too cocky- %name is totawwy defeated-...!! Pwease forgive %name-
+			%name is saying sowwy for weal~! %name's sowwy, pwease accept it...!! Fowgive %name!!! Pwease!!
+			%name is saying sowwy for weal~! %name's sowwy, pwease accept it...!! %name is sowwy %name is sowwy
+			Yuuuuuu!! %name said %name is saying sowwy, right-
+			%name said %name is saying sowwy, right-
+			%name wiww fowgive you, you meanie Mishtew Human!! So you bettew fowgive %name tooooo!!!
+			%name said %name is saying sowwy, right- Why won't you fowgive %name
+			Why won't you fowgive %name
+			If you say sowwy, you'we supposed to be fowgiven, right- Why won't you fowgive %name
+			This is an outwageee!! No no no no noooo!!!
+			This is an outwageee!! No no no no noooo!!! %name didn't even do anythin' wwong-
+			No no no no noooo!!! %name is goin' homeeee!!!
+			No no no no noooo!!! %name is goin' homeeee!!! It's not faiw-
+			Yuuuuuu!! This is an outwageee!! %name is goin' homeeee!!!
+			What was bad- What was wwong-
+			What was bad- What was wwong- %name didn't even do anythin' wwong-
+			Whyyy! %name said sowwy- If you say sowwy, you'we supposed to be fowgiven, right-
+			Yuuuuuu!! Whyyy! %name said sowwy- If you say sowwy, you'we supposed to be fowgiven, right-
+			%name didn't even do anythin' wwong- Whyyy! Whyyy-
+			Even though such a cute %name is saying sowwy- Whyyy! Whyyy-
+			Even though such a cute %name is saying sowwy- Why won't you fowgive %name
+			Even though such a cute! %name is saying sowwy- Whyyy! Whyyy-
+			Even though such a cute! %name is saying sowwy- Why won't you fowgive %name
+			Yuwaaaaaaaaaaaaaa-!!!!!!
+			%name is sowwy %name is sowwy
+		</child>
+		<adult>
+			Oh noooo~!!! I'm sowwy! I'm sowwy~!!
+			Oh noooo~!!! %name is so sowwy~!!!
+			Oh noooo~!!! %name apologizes!! %name apologizes~!!!
+			Oh noooo~!!! I'm sowwy! I'm sowwy~!! %name can't take it easy~!!!
+			I'm sowwy for being rude to Mister Human~!! Please forgive %name~!!!
+			%name is so sowwy for being rude to Mister Human~!!!!! Please forgive %name~!!!
+			%name is so sowwy for being rude to Mister Human~!!!!! %name will reflect on it~!!! Please, I beg you~!!
+			%name was too arrogant! %name is scum!! I'm sowwy! I'm sowwy~!!
+			%name is scum!! %name was so conceited! %name apologizes!! %name apologizes~!!!
+			%name was so conceited! %name is completely defeated...!! So please! Stop it now~!!!
+			%name was so rude~!!! %name is so sowwy for appearing so rudely before Mister Human's eyes~!!!
+			%name was so rude~!!! I'm sowwy for appearing so rudely before Mister Human's eyes~!! Please forgive %name~!!!
+			%name was so rude~!!! %name apologizes!! %name apologizes~!!!
+			%name was so rude~!!! %name apologizes!! %name will reflect on it~!!! Sooo~!
+			%name thought %name was better than everything~!!! So please stop it now~!!!
+			%name thought %name was better than everything~!!! Please forgive %name~!!!
+			%name has reflected!! %name surrenders as a yukkuri!! I'm sowwy! I'm sowwy~!!
+			%name has reflected!! %name surrenders as a yukkuri!! Please, I beg you~!! Stop it now~!!!
+			%name has reflected~!!! %name surrenders as a yukkuri~!!! %name apologizes!! %name apologizes~!!!
+			%name has reflected~!!! %name surrenders as a yukkuri~!!! %name is so sowwy~!!!!! Please forgive %name~!!!
+			%name has reflected~!!! %name surrenders as a yukkuri~!!! I'm sowwy! I'm sowwy~!!
+			%name is scum!! %name has reflected~!!! %name surrenders as a yukkuri~!!! So please stop it now~!!! I'm sowwy~!!!
+			%name was bad!! %name apologizes~!!! Oh noooo~!!!
+			%name was bad!! %name apologizes~!!! Please stop it now~!!! Please, I beg you~!!
+			%name thought %name's own way was justice for no reason at all~!!! I'm sowwy! I'm sowwy~!!
+			%name thought %name's own way was justice for no reason at all~!!! %name apologizes!! %name will reflect on it~!!!
+			%name is the irredeemable scum of the world~!!! I'm sowwy~!!!
+			%name is the irredeemable scum of the world~!!! %name is so sowwy~!!!!! Please forgive %name~!!!
+			%name is the irredeemable scum of the world~!!! Please forgive %name~!!! Please, I beg you~!!
+			%name is a piece of trash of the world~!!! %name is so sowwy~!!!
+			%name is a piece of trash of the world~!!! I'm sowwy~!! Please forgive %name~!!!
+			%name is a piece of trash of the world~!!! %name apologizes!! %name will reflect on it~!!!
+			%name is just poo-poo~!!! I'm sowwy! I'm sowwy~!!
+			%name is just poo-poo~!!! Please forgive %name~!!!
+			%name is just poo-poo~!!! %name apologizes!! %name apologizes~!!!
+			%name is just poo-poo~!!! %name is so sowwy~!!!
+			%name admits defeat~!!! So please! Stop it now~!!! Please...!!
+			%name admits defeat~!!! So please! Stop it now~!!! %name can't take it easy~!!!
+			%name is completely defeated...!! I'm sowwy~!!!
+			%name was so conceited! %name is completely defeated...!! Please forgive %name~!!!
+			%name is vewy sowwy~! %name is completely defeated...!! Please forgive %name~!!! I beg you~!!
+			%name is vewy sowwy~! %name is completely defeated...!! Sorry~! I'm so sowwy~!!!
+			Yuuuu~!! %name is apologizing, isn't %name~!!!
+			%name is apologizing, isn't %name~!!!
+			%name will forgive the shitty human who bullied %name!! So the shitty human has to forgive %name too~!!!
+			%name is apologizing, isn't %name~!!! Why won't you forgive %name~!!!
+			Why won't you forgive %name~!!!
+			It's only natural to forgive when someone apologizes~!! Why won't you forgive %name~!!!
+			No way~!! No, no, no, no~!!!
+			No way~!! No, no, no, no~!!! Even though %name didn't do anything wrong~!!!
+			No, no, no, no~!!! %name is going home~!!!
+			No, no, no, no~!!! %name is going home~!!! %name can't take it easy~!!!
+			Yuuuu~!! No way~!! %name is going home~!!!
+			What was so bad~!!! What was wrong~!!!
+			What was so bad~!!! What was wrong~!!! Even though %name didn't do anything wrong~!!!
+			Why~! %name apologized~!! It's only natural to forgive when someone apologizes~!!
+			Yuuuu~!! Why~! %name apologized~!! It's only natural to forgive when someone apologizes~!!
+			Even though %name didn't do anything wrong~!!! Why~! Why~!!!
+			Even though such a cute %name is apologizing~!!! Why~! Why~!!!
+			Even though such a cute %name is apologizing~!!! Why won't you forgive %name~!!!
+			Even though such a cute %name is apologizing~!!! Why~! Why~!!!
+			Even though such a princess %name is apologizing~!!! Why won't you forgive %name~!!!
+			Yuwaaaaaaaaaaaaaa-!!!!!!
+			Sorry~! I'm so sowwy~!!
+		</adult>
+	</rude>
+[/ApologyToHuman]
+
+#命乞い
+[BegForLife]
+	<normal>
+		<baby>
+			Mishtew Human! Shave %name! Don't kiww %name! Don't kiww %name!!!
+			Yu-aaaaa!!! Mishtew Human! Shave %name! Fowgive %name!!! Pwease!! Shave %name!!
+			Mishtew Human! Shave %name! Pwease spare %name's wittwe wife!!!!
+			Mishtew Human! Shave %name! %name is just a wittwe yukkuwi!!!
+			%name is awweady a wittwe yukkuwi!!! Pwease shave %name!!!
+			Yu-aaaaa!!! %name is awweady a wittwe yukkuwi!!! Shave a yukkuwi!!!
+			%name is awweady a wittwe yukkuwi!!! Shave a yukkuwi!!! Pwease!!
+			%name is awweady a wittwe yukkuwi!!! %name wants to go back!!!
+			%name is sowwy!! %name wants to go back!!! %name wants to go homeeee!!!
+			Yu-aaaaa!!! %name is sowwy!! %name wants to go back!!! Pwease spare %name's wittwe wife!!!! Pwease!!
+			%name is sowwy!! %name wants to go back!!! Pwease let %name goooo!!!
+			Yu-aaaaa!!! %name is sowwy!! %name wants to go back!!! %name is just a gwud giww!!!
+			Mishtew Human! %name apowogizes!! Pwease spare %name's wittwe wife fow the apowogy!!!! Pwease!!
+			Mishtew Human! %name apowogizes!! Pwease fowgive %name fow the apowogy!!!!
+			Mishtew Human! %name apowogizes!! Shave %name!! Shave %name fow the apowogy!!! Pwease!!
+			Mishtew Human! %name apowogizes!! Don't kiww %name fow the apowogy!!!!
+			Yu-aaaaa!!! %name is sowwy! %name is sowwy!! %name apowogizes!!!
+			%name is sowwy! %name is sowwy!! Shave %name fow the apowogy!! Shave %name! Shave a yukkuwi!!!
+			%name is sowwy! %name is sowwy!! Pwease fowgive %name fow the apowogy!!!!
+			%name is sowwy! %name is sowwy!! Shave %name fow the apowogy!!! Pwease!!
+			%name is weawwy sowwy!!! Look at %name! %name is a baby!!! %name is just a gwud giww!!!
+			Yuuuuu!!! %name is weawwy sowwy!!! %name is a baby!!! Don't kiww %name!!
+			%name is weawwy sowwy!!! %name is a baby!!! Shave %name!!! %name's wittwe wife!!!
+			%name is weawwy sowwy!!! %name is a baby!!! Shave %name!!! Pwease!! %name wiww be a gwud giww!!!
+			%name is just a baby!! A yukkuwi baby!! Don't kiww %name!!!
+			%name is just a baby!! A yukkuwi baby!! Shave %name!!! Pwease!! Pwease shave %name!!!
+			%name is just a baby!! A yukkuwi baby!! %name wiww be a gwud giww!!!
+			Wait!!! %name is just a baby!! A yukkuwi baby!! %name is just a yukkuwi!!!
+			%name is a baby!! %name isn't cute!! %name is ugwwy!!! Pwease shave %name!!!
+			%name is a baby!! %name isn't cute!! Look at %name! %name is ugwwy!!! Shave %name!! Shave %name! Pwease spare %name's wittwe wife!!
+			%name is a baby!! %name isn't cute!! %name is ugwwy!!! Look at %name! %name wants to go back!!!
+			%name is a baby!! %name isn't cute!! %name is ugwwy!!!
+			%name isn't a pwiness!!! %name isn't bewutifuw! %name is ugwwy!! Pwease let %name goooo!!!
+			Yuuuuu!!! %name isn't a pwiness!!! %name isn't bewutifuw! %name is ugwwy!! %name wiww be a gwud giww!!!
+			Yu-aaaaa!!! %name isn't a pwiness!!! %name isn't bewutifuw! %name is ugwwy!! Look at %name! Pwease spare %name's wittwe wife!!!
+			%name isn't a pwiness!!! %name isn't bewutifuw! %name is ugwwy!!
+			%name is a baby!! %name has no love!! %name is sowwy!!! Pwease spare %name's wittwe wife!!
+			%name is a baby!! %name has no love!! %name is sowwy!!! Pwease!!!
+			%name is a baby!! %name has no love!! Look at %name! %name is sowwy!!! Pwease!! %name wiww be a gwud giww!!!
+			Yuuuuu!!! %name is a baby!! %name has no love!! %name is sowwy!!!
+			Yuaaaa!!! %name is sowwy!! Sowwy!! Pwease let %name go! %name is vewy sowwy! Pwease let %name go! %name is a good wittwe yukkuri-
+			Myatcheee!!! %name is sowwy!! Sowwy!! He-wo!! He-wooo!!! Don't kiww %name-eeee!!
+			%name is sowwy!! Sowwy!! Pwease let %name go! Pwease!! Pweaseee!!!
+			Yuaaaa!!! %name is sowwy!! Sowwy!! I'm vewy vewy sowwy-
+			%name, is sowwy!! Sowwy!! Pwease let %name go!! So pwease let %name go home-eeee!!!
+			%name, is sowwy!! Sowwy!! Pwease let %name go! %name is sowwy!! So pwease be nice to %name-uuu!!! %name weawwy doesn't want to be a naughty-
+			%name, is sowwy!! Sowwy!! Pwease let %name go!! Pwease let %name go! So pwease let %name's wittwe wife go-eeee!!!
+			%name, is sowwy!! Sowwy!! Pwease let %name go!!
+			Yuuuuu!!! %name is a wittwe yukkuri-baby!! I'll be a good giww!! %name wiww be a good wittwe swave!! So pweaseee!!!
+			%name is a wittwe yukkuri-baby!! %name is a good giww!! So don't kiww %name-eeee!!!
+			%name is a wittwe yukkuri-baby!! %name is a good giww!! A good giww!! Pwease!! Pwease let %name go-eeee!!!
+			%name is a wittwe yukkuri-baby!! Save %name!! Save %name-eeee! Pwease forgive %name-eeee!!!
+			Pwease-uuu!! %name weawwy doesn't want to be a naughty- Pwease forgive %name-eee!!!
+			Yuuuuu!!! Pwease-uuu!! %name weawwy doesn't want to be a naughty- %name is a good good giww-
+			Pwease-uuu!! %name weawwy doesn't want to be a naughty- Save %name-eee!!! Pwease-uuu!!
+			Pwease-uuu!! %name weawwy doesn't want to be a naughty- Save %name!! Save %name-eeee! %name is just a yukkuri-eee!!
+			Pwease-uuu!! %name weawwy doesn't want to be a naughty- Let %name go home-eeee!!!
+			I'm so sowwy-aaaa!! %name is just a tiny wittwe yukkuri!! So don't kiww %name-eeee!!!
+			I'm so sowwy-aaaa!! %name is just a tiny wittwe yukkuri!! Save %name!! Save %name-eeee! Pwease let %name's wittwe wife go-eeee!!!! Pwease-uuu!!
+			I'm so sowwy-aaaa!! %name is just a tiny wittwe yukkuri!! Pwease!! Pweaseee!!!
+			Yuuuuu!!! I'm so sowwy-aaaa!! %name is just a tiny wittwe yukkuri!! %name is a good giww!! So pwease save %name-eee!!! Pwease-uuu!!
+			%name is a vewy vewy cute wittwe cat- %name is a good giww-uuu!! He-wo!! He-wooo!!!
+			%name is a vewy vewy cute wittwe cat- %name is a good giww-uuu!! %name is just a yukkuri-eee!!
+			%name is a vewy vewy cute wittwe cat- %name is a good giww-uuu!! Pwease forgive %name-eeee!!!
+			%name is a vewy vewy cute wittwe cat- %name is a good giww-uuu!! %name is a good giww!! A good giww!! Save %name-eee!!! Pwease-uuu!!
+			%name is a vewy vewy cute wittwe cat- Pwease forgive %name-eee!!! Pwease-uuu!!
+			Yuuuuu!!! %name is a vewy vewy cute wittwe cat- Save %name!! Save %name-eeee! Don't kiww %name-eeeeeee!!
+			%name is a vewy vewy cute wittwe cat- Pwease let %name go! %name is a good good giww-
+			%name is a vewy vewy cute wittwe cat- Let %name go home-eeee!!!
+			%name is a yukkuri who isn't a yukkuri!! %name is sowwy!! Pwease let %name's wittwe wife go-eeee!!!! Pwease-uuu!!
+			%name is a yukkuri who isn't a yukkuri!! %name is sowwy!! Pwease forgive %name-eee!!! Pwease-uuu!!
+			Baby-mya! I'm a baby-yooo!!! %name is a yukkuri who isn't a yukkuri!! %name is sowwy!! Pwease let %name go! Save %name-eee!!!
+			%name is a yukkuri who isn't a yukkuri!! %name is sowwy!! Save %name-eee!!! %name weawwy doesn't want to be a naughty-
+			%name is a baby!! A wittwe yukkuri-baby!! Pwease!! Pweaseee!!!
+			Yuuuuu!!! %name is a baby!! A wittwe yukkuri-baby!! %name is a good giww!! So pweaseee!!!
+			%name is a baby!! A wittwe yukkuri-baby!! Pwease let %name's wittwe wife go-eeee!!!
+			%name is a baby!! A wittwe yukkuri-baby!! %name is just a yukkuri-eee!! Pwease-uuu!!
+			Yuuuuu!!! Mishtew Human! %name is just a wittwe baby!! So pweaseee!!!
+			Mishtew Human! %name is just a wittwe baby!! Don't kiww %name!! Don't kiww %name-eeee!!
+			Yuuuuu!!! Mishtew Human! %name is just a wittwe baby!! Pwease let %name go! Don't kiww %name!! Pwease-uuu!!
+			Mishtew Human! %name gets it I'm sowwy, pwease shave %name!!!
+			%name is sowwy! Look at %name! %name is a vewy good wittwe yukkuri!! Don't kiww %name!! Don't kiww %name
+			%name is sowwy! Look at %name! %name is a vewy good wittwe yukkuri!! Pwease just shave %name fow now!!! Don't mess %name up
+			%name is sowwy! Look at %name! %name is a vewy good wittwe yukkuri!! Shave %name
+			Chen- Chen- %name is sowwy! Look at %name! %name is a vewy good wittwe yukkuri!! Shave %name!! Shave %name!!!
+			Yu-aaaaa!!! %name is sowwy! Look at %name! %name is a vewy good wittwe yukkuri!! Pwease shave %name!!! I'm pweading wid youuuu!!
+			%name is a good giww! A vewy, vewy good giww!!! Shave %name!!! Don't kiww %name!!!
+			%name is a good giww! A vewy, vewy good giww!!! %name's had enough, pwease just let it be
+			Yuuuuu!!! %name is a good giww! A vewy, vewy good giww!!! Let %name go home
+			%name is a good giww! A vewy, vewy good giww!!! Shave %name!!! Just spare %name's wif-life!!!
+			%name's gonna dieeee!! %name's gonna dieeee!!!
+			Waitttt!!! Pwease wait a sec-sec-sec!!!
+			%name wiww say yes-yes to evewything!! %name wiww be a good giww!! Don't kiww %name!! I'm pweading wid youuuu!!
+			Yu-aaaaa!!! %name wiww say yes-yes to evewything!! %name wiww be a good giww!! Don't mess %name up
+			%name wiww say yes-yes to evewything!! %name wiww be a good giww!! Pwease shave %name!!! I'm pweading wid youuuu!!
+			Yu-aaaaa!!! %name wiww say yes-yes to evewything!! %name wiww be a good giww!! %name is just a wittwe yukkuri, pwease shave %name!! I'm pweading wid youuuu!!
+			%name wiww say yes-yes to evewything!! %name wiww be a good giww!! Shave %name!! Shave %name!!!
+			%name wiww say yes-yes to evewything!! %name wiww be a good giww!! Just spare %name's wif-life!!! I'm pweading wid youuuu!!
+			Yuuuuu!!! %name wiww say yes-yes!! %name wiww be a good giww!! Pwease just spare %name's wif-life
+			%name wiww say yes-yes!! %name wiww be a good giww!! Pwease shave %name!!! I'm pweading wid youuuu!!
+			%name wiww say yes-yes!! %name wiww be a good giww!! A wappie!! Pwease give %name a wappie!!!
+			%name wiww say yes-yes!! %name wiww be a good giww!!
+			Yu-aaaaa!!! %name wiww say yes-yes!! %name wiww be a good giww!! Just spare %name's wif-life!!! I'm pweading wid youuuu!!
+			%name wiww say yes-yes!! %name wiww be a good giww!! Pwease shave %name!!! I'm pweading wid youuuu!!
+			Yuuuuu!!! %name wiww dwink miwk!! %name wiww be a good baby!! Pwease just spare %name's wif-life!!! I'm pweading wid youuuu!!
+			%name wiww dwink miwk!! %name wiww be a good baby!! %name's had enough, pwease just let it be
+			%name wiww dwink miwk!! %name wiww be a good baby!! Just spare %name's wif-life!!!
+			%name wiww dwink miwk!! %name wiww be a good baby!! %name is just a wittwe yukkuri, pwease shave %name!!! I'm pweading wid youuuu!!!
+			%name wiww dwink miwk!! %name wiww be a good baby!!
+			%name wiww dwink miwk!! %name wiww be a good baby!! Just spare %name's wif-life!!!
+			Yu-aaaaa!!! %name wiww dwink miwk!! %name wiww be a good baby!! Don't kiww %name!! Don't kiww %name
+			%name wiww dwink miwk!! %name wiww be a good baby!! Pwease just shave %name fow now!!!
+			%name wiww be a good baby!! %name wiww be pwetty-pwetty!! Don't kiww %name!!!
+			Yuuuuu!!! %name wiww be a good baby!! %name wiww be pwetty-pwetty!! Pwease let %name go home
+			%name wiww be a good baby!! %name wiww be pwetty-pwetty!! Shave %name
+			%name wiww be a good baby!! %name wiww be pwetty-pwetty!! Pwease shave %name!!! I'm pweading wid youuuu!!
+			%name wiww be wefwesh!! %name wiww be a wefwesh-good giww!! Pwease shave %name!!!
+			%name wiww be wefwesh!! %name wiww be a wefwesh-good giww!! %name is just a wittwe yukkuri, pwease shave %name!! I'm pweading wid youuuu!!
+			%name wiww be wefwesh!! %name wiww be a wefwesh-good giww!! I'm pweading wid youuuu!!! Don't mess %name up
+			%name wiww be wefwesh!! %name wiww be a wefwesh-good giww!!
+			Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!! %name is so cute, right? %name'll be a gud giww?? Yu~n yuyu~~n!!
+			Yuuuuuu!!! Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!!
+			Yuuuuuu!!! Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!! Pwease pwease pwease!!! Save da wittwe yukkuri, pweaseeee!!
+			Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!! Pwease pwease pwease!!! Save %name!! Save %name!!
+			Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!! Pwease pwease pwease!!! Pweaseeee!!!
+			Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!! Just let %name wefwesh!! Don't be mean to %name!!
+			Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!! Just let %name wefwesh!! %name is just a tiny wittwe baby-catn!!
+			Yuaaaaaaa!!! Mia-myu mia-myu! Kyu-pyaa!! Mia-myu mia-myu! Kyu-pyaa!! Just let %name wefwesh!! Save Mishtew Life, pweaseeee!!!
+			If %name is Mishtew Poo-poo swave, if %name is Mishtew Pee-pee swave, if %name is Mishtew Wefwesh swave, %name wiww be a gud giww!! Pwease pwease pwease!! Don't be mean to %name!!
+			Yuuuuuu!!! If %name is Mishtew Poo-poo swave, if %name is Mishtew Pee-pee swave, if %name is Mishtew Wefwesh swave, %name wiww be a gud giww!! Pwease pwease pwease!! Save Mishtew Life, pweaseeee!!!
+			If %name is Mishtew Poo-poo swave, if %name is Mishtew Pee-pee swave, if %name is Mishtew Wefwesh swave, %name wiww be a gud giww!! Pwease pwease pwease!! It's vewy scawy!! %name is just a tiny wittwe baby-catn!!
+			If %name is Mishtew Poo-poo swave, if %name is Mishtew Pee-pee swave, if %name is Mishtew Wefwesh swave, %name wiww be a gud giww!! Pwease pwease pweaseeeee!!
+			%name wiww be a Mishtew Human swave!! Save Mishtew Life, pwease, pwease, pweaseeee!!!!
+			Yuuuuuu!!! %name wiww be a Mishtew Human swave!! %name is just a tiny wittwe baby-catn!!
+			%name wiww be a Mishtew Human swave!! Don't be mean!! Don't be mean to %name!!
+			Yuaaaaaaa!!! %name wiww be a Mishtew Human swave!!
+			%name doesn't want to dieeeee!! I want to live as a yukkuri!! Let %name just be a yukkurin!!
+			Yuuuuuu!!! %name doesn't want to dieeeee!! I want to live as a yukkuri!! Pwease don't treat %name like twash, pweaseeee!!!
+			%name doesn't want to dieeeee!! I want to live as a yukkuri!! Save %name, pweaseeee!!! Pwease pwease pwease!!
+			Yuaaaaaaa!!! %name doesn't want to dieeeee!! I want to live as a yukkuri!!
+			%name wiww do a cute wittwe act! See?! Pwease pwease pwease!! Save %name!! Save %name!!
+			%name wiww do a cute wittwe act! See?! Save Mishtew Life, pwease, pwease, pweaseeee!!!! Pwease pwease!!
+			%name wiww do a cute wittwe act! See?! Pweaseeee!!!
+			%name wiww do a cute wittwe act! See?! Save da wittwe yukkuri, pweaseeee!!
+			%name's gonna die!! %name's gonna dieeeee!!! It's vewy scawy!!
+			Yuuuuuu!!! Save %name, pweaseeee!!! %name's gonna die!! %name's gonna dieeeee!!!
+			Yuaaaaaaa!!! %name's gonna die!! %name's gonna dieeeee!!!
+			Save %name!! Save %name!! Nyuh!! Bouncy-bouncy nyuh!!
+			Nyuh!! Bouncy-bouncy nyuh!! Don't be mean to %name!!!
+			Yuaaaaaaa!!! Nyuh!! Bouncy-bouncy nyuuuuuuu!!
+			Save %name!! Save %name!! Nyuh!! %name bouncy-bouncy nyuh!!
+			Nyuh!! %name bouncy-bouncy nyuuuuuuu!!
+			Daddy!!! Mommy!!! %name doesn't want to dien!!
+			Yuaaaaaaa!!! Noooo!!! Noooo!!! %name is just a tiny wittwe baby-catn!!
+			Daddy!!! Mommy!!! Save %name, pweaseeeee!!!
+			Yuaaaaaaa!!! Noooo!!! Noooo!!! Save Mishtew Life, pwease, pwease, pweaseeee!!!!
+			Yuaaaaaaa!!! Daddy!!! Mommy!!! %name is just a tiny wittwe baby-catn!!
+			Noooo!!! Noooo!!!
+			Don't do it! Don't do itttt!!!
+			Don't do it! Don't do it, %name's scawy
+			Mishtew Human, why awe you doin' such a mean thing to %name?
+			%name is a yukkuwi Why fow that, Mishtewww!!!
+			Yuaaaaa!!! This is so un-faiw Yukkuwi want to wive
+			This is so un-faiw %name wants a nice wittwe house
+			Yukkuwi want to wive %name wants to go home pwopewly Mishtew, %name doesn't get it
+			Nooo... shave me... shave meee... shave meee...
+			Yukkuwi want to wive %name wants a nice wittwe house
+			%name... wants to wive... %name wants to wive
+			%name too... is awive... is awive, you know-!!
+			If you wook pwopewly, %name is cute, right? You can give %name shweet-shweets, right?? Yu~n yuyu~~n!!
+			%name can be wewaxed? %name is cute, right!!??
+			Yes yes, %name agrees!! If you wook pwopewly, %name should go to kindewgaften
+			Yuuuuu!!! Mishtewww!! Don't do this kind of thing
+			%name didn't do any bad things...
+			Iiiii!!! Mishtewww!!!
+			%name just wants to wive
+			Yuaaaaa!!! This is so un-faiw Yukkuwi want to wive
+			Yuaaaaa!!! This is so un-faiw %name wants a nice wittwe house
+			Yukkuwi want to wive %name wants to go home pwopewly Mishtew, %name doesn't get it
+			Nooo... shave me... shave meee... shave meee... don't be so mean to %name...
+			Yuaaaaa!!! Yukkuwi want to wive %name wants a nice wittwe house %name wants to go home
+			%name... wants to wive... %name wants to wive Pwease let %name go
+			If you wook pwopewly, %name is cute, right? You can give %name shweet-shweets, right?? Yu~n yuyu~~n!! Pwease fowgive %name Pwease, pwease, pwease!!
+			If you wook pwopewly, %name is cute, right? You can give %name shweet-shweets, right?? Yu~n yuyu~~n!! Just save %name's wittwe wife
+			%name can be wewaxed? %name is cute, right!!??
+			Yes yes, %name agrees!! If you wook pwopewly, %name should go to kindewgaften Pwease just save %name's wittwe wife
+			Yuuuuu!!! Mishtewww!! Don't do this kind of thing
+			Yuaaaaa!!! Pwease save %name %name didn't do any bad things, so Mishtew, %name is sowwy
+		</baby>
+		<child>
+			Mishtew Human, pwease fowgive %name, %name can't take it!!! Have mewcy!!! At least don't kiww %name!!!
+			Yu-aaaa!!! Mishtew Human, pwease fowgive %name!! Fowgive %name!! Pwease!! Save %name!! Save %name!!!
+			Mishtew Human, pwease fowgive %name!! At least save Mishtew Life!!!!
+			Mishtew Human, pwease fowgive %name!! Have mewcy!! %name is just a wittwe yukkuwi!!!
+			%name doesn't want to stop being a yukkuwi!! Save %name!!!
+			Yu-aaaa!!! %name doesn't want to stop being a yukkuwi!! %name wants to stay a yukkuwi!!
+			%name doesn't want to stop being a yukkuwi!! %name wants to stay a yukkuwi!! Pwease!!
+			%name doesn't want to stop being a yukkuwi!! Let %name go home!!
+			%name is sowwy!! Let %name go home!! %name wants to go home!!!
+			Yu-aaaa!!! %name is sowwy!! Let %name go home!! At least save Mishtew Life!!!! Pwease!!
+			%name is sowwy!! Let %name go home!! Mishtew Human, pwease fowgive %name!!
+			Yu-aaaa!!! %name is sowwy!! Let %name go home!! %name has had enough now!!!
+			Mishtew Human! %name wiww apowogize!! %name wiww apowogize, so at least save Mishtew Life!!!! Pwease!!
+			Mishtew Human! %name wiww apowogize!! %name wiww apowogize, so pwease just fowgive %name!!!!
+			Mishtew Human! %name wiww apowogize!! Have mewcy!! %name wiww apowogize, so save %name!! Pwease!!
+			Mishtew Human! %name wiww apowogize!! %name wiww apowogize, so pwease don't kiww %name!!!!
+			Yu-aaaa!!! %name is sowwy! %name is sowwy!! %name wiww apowogize!!!
+			%name is sowwy! %name is sowwy!! %name wiww apowogize, so save %name!! Save %name!! %name wants to stay a yukkuwi!!
+			%name is sowwy! %name is sowwy!! %name wiww apowogize, so pwease just fowgive %name!!!!
+			%name is sowwy! %name is sowwy!! %name wiww apowogize, so save %name!! Pwease!!
+			%name is being vewy sincewe!!! Let %name off! %name is wefwecting!! %name has had enough now!!!
+			Yuuu!!! %name is being vewy sincewe!!! %name is wefwecting!!! Don't kiww %name!!!!
+			%name is being vewy sincewe!!! %name is wefwecting!!! Fowgive %name!!! At least Mishtew Life!!!
+			%name is being vewy sincewe!!! %name is wefwecting!!! Have mewcy!!! Pwease!!! %name doesn't want to die!!
+			%name wiww wive!! Yukkuwi Banzai!! At least don't kiww %name!!!!
+			%name wiww wive!! Yukkuwi Banzai!! Have mewcy!!! Apowogy!! Give %name an apowogy!!!!
+			%name wiww wive!! Yukkuwi Banzai!! %name doesn't want to die!!
+			Wait!!! %name wiww wive!! Yukkuwi Banzai!! %name is just a wittwe yukkuwi!!!
+			%name is wefwecting!! %name is not cute!! %name is ugwy!! At least save %name!!!
+			%name is wefwecting!! %name is not cute!! %name is ugwy!! Let %name off! %name is ugwy!! Save %name!! Save %name!! At least save Mishtew Life, pwease!!
+			%name is wefwecting!! %name is not cute!! %name is ugwy!! Let %name off! Let %name go home!!
+			%name is wefwecting!! %name is not cute!! %name is ugwy!!
+			%name is not a pwincess!! %name is not wying, Mishtew! %name is not! Mishtew Human, pwease fowgive %name!!
+			Yuuu!!! %name is not a pwincess!! %name is not wying, Mishtew! %name is not! %name doesn't want to die!!
+			Yu-aaaa!!! %name is not a pwincess!! %name is not wying, Mishtew! %name is not! Let %name off! At least Mishtew Life!!!
+			%name is not a pwincess!! %name is not wying, Mishtew! %name is not!!
+			%name is wefwecting!! %name is not an idow!! %name is sowwy!!! At least save Mishtew Life, pwease!!
+			%name is wefwecting!! %name is not an idow!! %name is sowwy!!! At least!!!
+			%name is wefwecting!! %name is not an idow!! Let %name off! %name is sowwy!!! Pwease!!! %name doesn't want to die!!
+			Yuuu!!! %name is wefwecting!! %name is not an idow!! %name is sowwy!!!
+			Yuwaaaaa!!! %name is sowwy!! Pwease!! %name is sowwy! %name is so sowwy! %name is sowwy! %name is jusht a stupid wittwe yukkuwi!!
+			Wait~!!! %name is sowwy!! Pwease!! No!! Noooo!!! Don't cwush %name~!!!
+			%name is sowwy!! Pwease!! %name is sowwy! Mercy!! MeWcyyy!!!
+			Yuwaaaaa!!! %name is sowwy!! Pwease!! Sowwy fow being awive~!!!
+			%name is scum!! Twash!! %name is the wowwd's wowst~!! So pwease let %name go home~!!!
+			%name is scum!! Twash!! %name is sowwy! %name is the wowwd's wowst~!! So pwease~!!! %name doesn't want to die~!!!
+			%name is scum!! Twash!! %name is the wowwd's wowst~!! %name is sowwy! So pwease jusht spare %name's life~!!!
+			%name is scum!! Twash!! %name is the wowwd's wowst~!!
+			Yuuuu~!!! %name is a yukkuwi cwiminaaaa!! %name wiww do anything!! %name wiww become a shitty swave!! So pwease~!!!
+			%name is a yukkuwi cwiminaaaa!! %name wiww sincerely apologize~!!! So pwease don't cwush %name~!!!
+			%name is a yukkuwi cwiminaaaa!! %name is gonna die~!! %name's gonna dieeee~!!! Mercy!! Pwease give %name meWcy~!!!
+			%name is a yukkuwi cwiminaaaa!! Save %name~!! Save %name~!!! Pwease forgive the sowwy %name~!!!
+			Pwease~!!! %name doesn't want to die~!!! Pwease forgive %name~!!!
+			Yuuuu~!!! Pwease~!!! %name doesn't want to die~!!! %name has had enough of this~!!!
+			Pwease~!!! %name doesn't want to die~!!! Save %name~!!! Pwease~!!!
+			Pwease~!!! %name doesn't want to die~!!! Save %name~!! Save %name~!!! Let %name stay a yukkuwi~!!!
+			Pwease~!!! %name doesn't want to die~!!! Let %name go home~!!!
+			%name is so sowwy~!!! %name wiww bwing back the yukkuwi fowm the abyss~!!! So pwease don't cwush %name~!!!
+			%name is so sowwy~!!! %name wiww bwing back the yukkuwi fowm the abyss~!!! So save %name~!! Save %name~!!! Just spare Mishtew Life~!!! Pwease~!!!
+			%name is so sowwy~!!! %name wiww bwing back the yukkuwi fowm the abyss~!!! Mercy!! MeWcyyy!!!
+			Yuuuu~!!! %name is so sowwy~!!! %name wiww bwing back the yukkuwi fowm the abyss~!!! %name wiww sincerely apologize~!!! So save %name~!!! Pwease~!!!
+			%name thinks Mishtew is the most wondewfuw person evew~!!! %name is sowwy~!! No!! Noooo!!!
+			%name thinks Mishtew is the most wondewfuw person evew~!!! %name is sowwy~!! So pwease let %name stay a yukkuwi~!!!
+			%name thinks Mishtew is the most wondewfuw person evew~!!! %name is sowwy~!! Pwease forgive the sowwy %name~!!!
+			%name thinks Mishtew is the most wondewfuw person evew~!!! %name is sowwy~!! %name is gonna die~!! %name's gonna dieeee~!!! Save %name~!!! Pwease~!!!
+			%name is just a pathetic, sowwy wittwe thing~!!! Pwease forgive %name~!!! Pwease~!!!
+			Yuuuu~!!! %name is just a pathetic, sowwy wittwe thing~!!! So save %name~!! Save %name~!!! Don't cwush %name~!!!
+			%name is just a pathetic, sowwy wittwe thing~!!! %name is sowwy! %name has had enough of this~!!!
+			%name is just a pathetic, sowwy wittwe thing~!!! So pwease let %name go home~!!!
+			%name is not even a weal yukkuwi!! %name is sowwy!! Just spare Mishtew Life~!!! Pwease~!!!
+			%name is not even a weal yukkuwi!! %name is sowwy!! Pwease forgive %name~!!! Pwease~!!!
+			Mishtew! Mishtew~!!! %name is not even a weal yukkuwi!! %name is sowwy!! %name is sowwy! Save %name~!!!
+			%name is not even a weal yukkuwi!! %name is sowwy!! Save %name~!!! %name doesn't want to die~!!!
+			%name is a cwiminaaaa!! A yukkuwi cwiminaaaa!! Mercy!! MeWcyyy!!!
+			Yuuuu~!!! %name is a cwiminaaaa!! A yukkuwi cwiminaaaa!! %name wiww sincerely apologize~!!! So pwease~!!!
+			%name is a cwiminaaaa!! A yukkuwi cwiminaaaa!! Just spare %name's life~!!!
+			%name is a cwiminaaaa!! A yukkuwi cwiminaaaa!! So pwease let %name stay a yukkuwi~!!! Pwease~!!!
+			Yuuuu~!!! Mishtew Human!! %name is so scawed~!! So pwease~!!!
+			Mishtew Human!! %name is so scawed~!! So don't cwush %name~!! Don't cwush %name~!!!
+			Yuuuu~!!! Mishtew Human!! %name is so scawed~!! %name is sowwy! Don't cwush %name~!! Pwease~!!!
+			Mishtew Human! %name wants you to save %name!! Please, please forgive %name!!!
+			%name is a good giww! %name wiww be good! %name is a vewy good Yukkuri!! Don't woww %name!! Please don't woww %name!!!
+			%name is a good giww! %name wiww be good! %name is a vewy good Yukkuri!! Please spare %name's life!!! %name doesn't want to dieeee!!!
+			%name is a good giww! %name wiww be good! %name is a vewy good Yukkuri!! Please don't kiww %name!!!
+			Wan-shama! Wan-shamaaaa!!! %name is a good giww! %name wiww be good! %name is a vewy good Yukkuri!! But!! Buttt!!!
+			Yuaaaaaa!!! %name is a good giww! %name wiww be good! %name is a vewy good Yukkuri!! Please forgive %name!!! Please be gentwe wid %name!!
+			%name is just a baby! A baby should be saved!!! Please spare %name!!! Don't woww %name!!
+			%name is just a baby! A baby should be saved!!! %name has had enough, %name doesn't want this anymoreee!!
+			Yuuuuuu!!! %name is just a baby! A baby should be saved!!! %name wants to go homeeee!!!
+			%name is just a baby! A baby should be saved!!! Please spare %name!!! Just %name's Mishtew Life, please!!!
+			%name's gonna dieee!! %name's gonna dieeeeeeee!!!
+			Waittt!!! Wait, wait a secondddd!!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Don't woww %name!! Please, I beg youuu!!
+			Yuaaaaaa!!! %name wiww do poo-poo things!! %name wiww be a poo-poo swave!! %name doesn't want to dieeee!!!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Please save %name!!! I beg youuuu!!
+			Yuaaaaaa!!! %name wiww do poo-poo things!! %name wiww be a poo-poo swave!! %name wiww be a good Yukkuri!! Please, I beg youuu!!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Save %name!! Save %name!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Please spare %name's Mishtew Life!!!! I beg youuu!!
+			Yuuuuuu!!! %name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Please, just %name's Mishtew Life, I beg youuu!!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Please forgive %name!!! I beg youuuu!!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Please give %name mercy!! Give %name mercyyyyy!!!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Pleaaaase!!!
+			Yuaaaaaa!!! %name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Please spare %name's Mishtew Life!!!! I beg youuu!!
+			%name wiww do poo-poo things!! %name wiww be a poo-poo swave!! Please save %name!!! I beg youuu!!
+			Yuuuuuu!!! %name wiww do pee-pee things!! %name wiww be a pee-pee swave!! Please spare %name's Mishtew Life!!!! I beg youuu!!
+			%name wiww do pee-pee things!! %name wiww be a pee-pee swave!! %name has had enough, %name doesn't want this anymoreee!!
+			%name wiww do pee-pee things!! %name wiww be a pee-pee swave!! Please spare %name's Mishtew Life!!!!
+			%name wiww do pee-pee things!! %name wiww be a pee-pee swave!! %name wiww be a good Yukkuri!! I beg youuuu!!!
+			%name wiww do pee-pee things!! %name wiww be a pee-pee swave!! Pleaaaase!!!
+			%name wiww do pee-pee things!! %name wiww be a pee-pee swave!! Just %name's Mishtew Life, please!!!
+			Yuaaaaaa!!! %name wiww do pee-pee things!! %name wiww be a pee-pee swave!! Don't woww %name!! Please don't woww %name!!!
+			%name wiww do pee-pee things!! %name wiww be a pee-pee swave!! Please spare %name's lifeeee!!!
+			%name wiww lick Mishtew Shoes!! %name wiww lick-lick them clean!! Don't woww %name!!
+			Yuuuuuu!!! %name wiww lick Mishtew Shoes!! %name wiww lick-lick them clean!! Then let %name go homeeee!!!
+			%name wiww lick Mishtew Shoes!! %name wiww lick-lick them clean!! Please don't kiww %name!!!
+			%name wiww lick Mishtew Shoes!! %name wiww lick-lick them clean!! Please forgive %name!!! I beg youuuu!!
+			%name can do wefwesh too!! %name wiww be a wefwesh swave!! Please forgive %name!!!
+			%name can do wefwesh too!! %name wiww be a wefwesh swave!! %name wiww be a good Yukkuri!! Please, I beg youuu!!
+			%name can do wefwesh too!! %name wiww be a wefwesh swave!! I beg youuuu!!! %name doesn't want to dieeee!!!
+			%name can do wefwesh too!! %name wiww be a wefwesh swave!! Pleaaaase!!!
+			Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!! %name is sho cute? %name will be all yummy-yummies?? Yu~n yuyu~~n!!
+			Yuuuuuuu!!! Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!!
+			Yuuuuuuu!!! Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!! Pwease, pwease, pweaseeee!!! Please let %name stay a yukkuri-yukkuri-yukkuri-yukkuri!!!
+			Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!! Pwease, pwease, pweaseeee!!! Shave %name!!! Shave %name!
+			Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!! Pwease, pwease, pweaseeee!!! Pweaseeee!!!
+			Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!! %name can do a wefwesh Don't kill %name!!
+			Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!! %name can do a wefwesh %name doesn't want to die anymoreeeeeeee!!!
+			Yaaaaaaaa!!! Mamyu manyu! Kyupaa!! Mamyu manyu! Kyupaa!! %name can do a wefwesh Please, just save Mishtew Lifeeee!!!
+			%name can be a poo-poo swave, a pee-pee swave, a wefwesh swave, anything at aww Pwease have mewcy!! Don't kill %name!!
+			Yuuuuuuu!!! %name can be a poo-poo swave, a pee-pee swave, a wefwesh swave, anything at aww Pwease have mewcy!! Just save Mishtew Lifeeee!!!
+			%name can be a poo-poo swave, a pee-pee swave, a wefwesh swave, anything at aww Pwease have mewcy!! Don't kill %name-boy-child!!! %name doesn't want to die anymoreeeeeeee!!!
+			%name can be a poo-poo swave, a pee-pee swave, a wefwesh swave, anything at aww Pwease have mewcyyyyyyyy!!
+			%name wiww become Mishtew Human's swaveeeee!! Please, just save Mishtew Lifeeee!!!!
+			Yuuuuuuu!!! %name wiww become Mishtew Human's swaveeeee!! %name doesn't want to die anymoreeeeeeee!!!
+			%name wiww become Mishtew Human's swaveeeee!! Don't kill %name!! Don't kill %name!!
+			Yaaaaaaaa!!! %name wiww become Mishtew Human's swaveeeee!!
+			%name doesn't want to dieeeeeeee!! %name wants to live as a yukkuri!! %name just wants to be a yukkuri-yukkuri-yukkuri!!!
+			Yuuuuuuu!!! %name doesn't want to dieeeeeeee!! %name wants to live as a yukkuri!! Mishtew, please forgive %name!!!
+			%name doesn't want to dieeeeeeee!! %name wants to live as a yukkuri!! Shave %name!!! Please, please, pleaseeee!!
+			Yaaaaaaaa!!! %name doesn't want to dieeeeeeee!! %name wants to live as a yukkuri!!
+			Killing %name would be a loss to the wowwd Pwease, pwease, pweaseeee!!! Shave %name!! Shave %name!
+			Killing %name would be a loss to the wowwd Pwease, pwease, pweaseeee!!! Please, just save Mishtew Lifeeee!!!! Please, pleaseeeee!!
+			Killing %name would be a loss to the wowwd Pweaseeee!!!
+			Killing %name would be a loss to the wowwd Please let %name be a yukkuri-yukkuri-yukkuri!!!
+			%name wiww give you the wittwe oneeeeee!!! The wittwe one can be gone, but just don't kill %name!! Don't kill %name!!
+			%name wiww give you the wittwe oneeeeee!!! The wittwe one can be gone, but please forgive %name!!! Please, please, pleaseeee!!
+			Yaaaaaaaa!!! %name wiww give you the wittwe oneeeeee!!! The wittwe one can be gone, but please shave %name!! Shave %name!
+			%name wiww give you the wittwe oneeeeee!!! The wittwe one can be gone, but %name can't beeee!! %name doesn't want to die anymoreeeeeeee!!!
+			%name's gonna dieeee!! %name's gonna dieeeeeeeee!!! Don't kill %name-boy-child!!!
+			Yuuuuuuu!!! Shave %name!!! %name's gonna dieeee!! %name's gonna dieeeeeeeee!!!
+			Yaaaaaaaa!!! %name's gonna dieeee!! %name's gonna dieeeeeeeee!!!
+			Shave %name!! Shave %name! %name's dying!! %name's really dying!!
+			%name's dying!! %name's really dying!! Don't kill %name!!!
+			Yaaaaaaaa!!! %name's dying!! %name's really dyingyyyyyyy!!
+			Shave %name!! Shave %name! %name's dying!! %name's really dying!!
+			%name's dying!! %name's really dyingyyyyyyy!!
+			Mishtew!! Mishtew!! %name weawwy doesn't want to dieeeeeeee!!
+			Yaaaaaaaa!!! Noooooooo!! Noooooooo!! %name doesn't want to die anymoreeeeeeee!!!
+			Mishtew!! Mishtew!! Shave %name!!!
+			Yaaaaaaaa!!! Noooooooo!! Noooooooo!! Please, just save Mishtew Lifeeee!!!!
+			Waaaaaaa!!! Mistew!!! Mistew!!! %name doesn't want to die anymore
+			Nooooooo!! Nooooooo!!
+			Why! Whyyyyy!!!
+			Why! Why are you being so mean to %name!!!
+			Why is Mishtew Human being so vewy mean to %name?!
+			%name is just a wittwe Yukkuri And yet, whyyyyy!!!
+			Waaaaaaa!!! This is so unfairrrrr!!! Yukkuri are alive toooooo!!!
+			This is so unfairrrrr!!! %name is a good girl
+			Yukkuri are alive toooooo!! If %name dies, it's the end Why can't you understand that-
+			Noooo... please... pleaseeee...
+			Yukkuri are alive toooooo!! %name is a good girl
+			%name too... is alive... is alive
+			%name too... is alive... is alive, you know-!!
+			%name is vewy cute, right? %name can sing songs too, right?? Yu~n yuyu~~n!!
+			%name can stwetsh out, too, right? %name is cute, right!!??
+			%name can do baby-talk toooo!! %name is such a good girl, right-
+			Yuuuuu!!! Whyyyy!! Why are you being so mean-
+			Even though %name didn't do anything bad-
+			Eeeee!!! Whyyyyy!!!
+			%name just tried so hard to survive-
+			This is so unfairrrrr!!! Yukkuri are alive toooooo!!!
+			Waaaaaaa!!! This is so unfairrrrr!!! %name is a good girl
+			Yukkuri are alive toooooo!! If %name dies, it's the end Why can't you understand that-
+			Noooo... please... pleaseeee... %name doesn't want to die-...
+			Waaaaaaa!!! Yukkuri are alive toooooo!! %name is a good girl Please let %name go home-
+			%name too... is alive... is alive Please let %name go-
+			%name is vewy cute, right? %name can sing songs too, right?? Yu~n yuyu~~n!! Please forgive %name- Please, pleaseeee!!
+			%name is vewy cute, right? %name can sing songs too, right?? Yu~n yuyu~~n!! Please at least spare %name's Mishtew Life-
+			%name can stwetsh out, too, right? %name is cute, right!!??
+			%name can do baby-talk toooo!! %name is such a good girl, right- Please at least spare %name's Mishtew Life-
+			Yuuuuu!!! Whyyyy!! Why are you being so mean-
+			Waaaaaaa!!! Please let %name go- Even though %name didn't do anything bad, why are you being so mean-
+		</child>
+		<adult>
+			I won't get involved with Mister Humans ever againnn!!! Please believe %name!!! So please don't kill %name!!!
+			Yuaaaaaaa!!! I won't get involved with Mister Humans ever againnn!!! Forgive %name!!! I beg youuuu!! Save %name!! Save %name!
+			I won't get involved with Mister Humans ever againnn!!! So please just spare Mister Life!!!!
+			I won't get involved with Mister Humans ever againnn!!! Please believe %name!!! %name is just a wittwe Yukkuriuuu!!!
+			%name doesn't want to stop being a Yukkuriuuuu!!! Save %name!!!
+			Yuaaaaaaa!!! %name doesn't want to stop being a Yukkuriuuuu!!! Let %name stay a Yukkuriiii!!
+			%name doesn't want to stop being a Yukkuriuuuu!!! Let %name stay a Yukkuriiii!! I beg youuuu!!
+			%name doesn't want to stop being a Yukkuriuuuu!!! Please just go awayyyy!!!
+			I'm sowwy!! Please just go awayyyy!!! Please go homeeee!!!
+			Yuaaaaaaa!!! I'm sowwy!! Please just go awayyyy!!! Please just spare Mister Life!!!! I beg youuuu!!
+			I'm sowwy!! Please just go awayyyy!!! Please forgive trashy %name!!!
+			Yuaaaaaaa!!! I'm sowwy!! Please just go awayyyy!!! %name doesn't want to be sad anymoreuuuu!!!
+			Mister Human! %name apologises!! Please spare Mister Life because %name is apologising!!!! Pleaseuuu!!
+			Mister Human! %name apologises!! Please just spare %name this once because %name is apologising!!!!
+			Mister Human! %name apologises!! Please believe %name!!! Please save %name because %name is apologising!!! Pleaseuuu!!
+			Mister Human! %name apologises!! Please don't kill %name because %name is apologising!!!!
+			Yuaaaaaaa!!! I'm sowwy! I'm sowwy!! %name is apologisingggg!!!
+			I'm sowwy! I'm sowwy!! Save %name because %name is apologising!! Save %name! Let %name stay a Yukkuriiii!!
+			I'm sowwy! I'm sowwy!! Please just spare %name this once because %name is apologising!!!!
+			I'm sowwy! I'm sowwy!! Save %name because %name is apologising!!! I beg youuuu!!
+			%name was way too awwogant!!! %name admits it! %name is sowwy for everything!!! %name doesn't want to be sad anymoreuuuu!!!
+			Yuuuuuu!!! %name was way too awwogant!!! %name is sowwy for everything!!! Don't kill %name!!
+			%name was way too awwogant!!! %name is sowwy for everything!!! Please forgive %name!!! Just spare Mister Lifeeee!!!
+			%name was way too awwogant!!! %name is sowwy for everything!!! Please believe %name!!! I beg youuuu!!! %name doesn't want to die yetuuuu!!
+			%name was way too reckless!! Long live Yukkuri!! So please don't kill %name!!!
+			%name was way too reckless!! Long live Yukkuri!! Please believe %name!!! Mercy!! Please give %name mercyyyyy!!!
+			%name was way too reckless!! Long live Yukkuri!! %name doesn't want to die yetuuuu!!
+			Waitttt!!! %name was way too reckless!! Long live Yukkuri!! %name is just a wittwe Yukkuriuuu!!!
+			%name is sowwy for everythinggg!! %name isn't cute at allll!! %name is uglyuuu!!! So please save %name!!!
+			%name is sowwy for everythinggg!! %name isn't cute at allll!! %name is uglyuuu!!! %name admits it! %name is uglyuuu!!! So save %name!! Save %name! I beg you for Mister Lifeuuu!!
+			%name is sowwy for everythinggg!! %name isn't cute at allll!! %name is uglyuuu!!! %name admits it! Please just go awayyyy!!!
+			%name is sowwy for everythinggg!! %name isn't cute at allll!! %name is uglyuuu!!!
+			%name isn't a pwince-ness!!! %name is just shallow twash! Scumuuu!! Please forgive trashy %name!!!
+			Yuuuuuu!!! %name isn't a pwince-ness!!! %name is just shallow twash! Scumuuu!! %name doesn't want to die yetuuuu!!
+			Yuaaaaaaa!!! %name isn't a pwince-ness!!! %name is just shallow twash! Scumuuu!! %name admits it! So please just spare Mister Lifeeee!!!
+			%name isn't a pwince-ness!!! %name is just shallow twash! Scumuuu!!
+			%name is sowwy for everythinggg!! %name isn't an idolll!! I'm sowwyyyy!!! So I beg you for Mister Lifeuuu!!
+			%name is sowwy for everythinggg!! %name isn't an idolll!! I'm sowwyyyy!!! Sooooo!!!
+			%name is sowwy for everythinggg!! %name isn't an idolll!! %name admits it! I'm sowwyyyy!!! I beg youuuu!!! %name doesn't want to die yetuuuu!!
+			Yuuuuuu!!! %name is sowwy for everythinggg!! %name isn't an idolll!! I'm sowwyyyy!!!
+			Yuaaaaa!!! %name is twash!! Scum!! %name admits it %name is twash-scum! %name admits it! %name is a useless yukkuri!!
+			Waitttt!!! %name is twash!! Scum!! I'm sowwy!! I'm sowwyyy!!! Don't kiww %name!!
+			%name is twash!! Scum!! %name admits it! Mowcy!! Mowcyyyyy!!!
+			Yuaaaaa!!! %name is twash!! Scum!! Sowwy for being awiveeeee!!!
+			%name is a lowlife!! A useless slow-poke!! Twash of the wowld!! So pwease send %name homeeeee!!!
+			%name is a lowlife!! A useless slow-poke!! %name admits it! Twash of the wowld!! So I beg youuuu!!! %name doesn't want to die yetttt!!!
+			%name is a lowlife!! A useless slow-poke!! Twash of the wowld!! %name admits it! So just this once, pwease spare %name!!!
+			%name is a lowlife!! A useless slow-poke!! Twash of the wowld!!
+			Yuuuuuu!!! %name surwenders!! %name will poo-poo and obey!! %name will become a poo-poo swave!! Soooo!!!
+			%name surwenders!! Pwease believe %name!!! So don't kiww %name!!!
+			%name surwenders!! %name is gonna dieeee!! %name's gonna dieeeeeeee!!! Mowcy!! Pwease give %name mowcyyyyy!!!
+			%name surwenders!! Shave %name!! Shave %name! Pwease forgive twash-scum %name!!!
+			I beg youuuu!! %name doesn't want to die yetttt!!! Pwease forgive %name!!!
+			Yuuuuuu!!! I beg youuuu!! %name doesn't want to die yetttt!!! %name can't stand the pain anymoreeee!!!
+			I beg youuuu!! %name doesn't want to die yetttt!!! Pwease shave %name!!! %name begs youuuu!!
+			I beg youuuu!! %name doesn't want to die yetttt!!! Shave %name!! Shave %name! Let %name take it easyyyyy!!
+			I beg youuuu!! %name doesn't want to die yetttt!!! Pwease send %name homeeeee!!!
+			%name has weawised!! %name now understands as a yukkuri!! So don't kiww %name!!!
+			%name has weawised!! %name now understands as a yukkuri!! So shave %name!! Shave %name! Pwease spare Mishtew Life alone!!!! %name begs youuuu!!
+			%name has weawised!! %name now understands as a yukkuri!! Mowcy!! Mowcyyyyy!!!
+			Yuuuuuu!!! %name has weawised!! %name now understands as a yukkuri!! Pwease believe %name!!! So shave %name!!! %name begs youuuu!!
+			%name had an ewwow and didn't think through itttt!!! %name is scummmm!! I'm sowwy!! I'm sowwyyy!!!
+			%name had an ewwow and didn't think through itttt!!! %name is scummmm!! Let %name take it easyyyyy!!
+			%name had an ewwow and didn't think through itttt!!! %name is scummmm!! Pwease forgive twash-scum %name!!!
+			%name had an ewwow and didn't think through itttt!!! %name is scummmm!! %name is gonna dieeee!! %name's gonna dieeeeeeee!!! Pwease shave %name!!! I beg youuuu!!
+			%name is nothing but a worthless twash-squidddd!!! Pwease forgive %name!!! I beg youuuu!!
+			Yuuuuuu!!! %name is nothing but a worthless twash-squidddd!!! So shave %name!! Shave %name! Don't kiww %name!!
+			%name is nothing but a worthless twash-squidddd!!! %name admits it! %name can't stand the pain anymoreeee!!!
+			%name is nothing but a worthless twash-squidddd!!! So pwease send %name homeeeee!!!
+			%name is a yukkuri who isn't a weal yukkuri!! %name is twash!! Pwease spare Mishtew Life alone!!!! %name begs youuuu!!
+			%name is a yukkuri who isn't a weal yukkuri!! %name is twash!! Pwease forgive %name!!! %name begs youuuu!!
+			Timeout! Timeoutttt!!! %name is a yukkuri who isn't a weal yukkuri!! %name is twash!! %name admits it! Pwease shave %name!!!
+			%name is a yukkuri who isn't a weal yukkuri!! %name is twash!! Pwease shave %name!!! %name doesn't want to die yetttt!!
+			%name is sowwy!! %name surwenders!! Mowcy!! Mowcyyyyy!!!
+			Yuuuuuu!!! %name is sowwy!! %name surwenders!! Pwease believe %name!!! Soooo!!!
+			%name is sowwy!! %name surwenders!! Just this once, pwease spare %name!!!
+			%name is sowwy!! %name surwenders!! Let %name take it easyyyyy!! I beg youuuu!!
+			Yuuuuuu!!! Mishtew Human! %name was wrongggg!! Soooo!!!
+			Mishtew Human! %name was wrongggg!! So don't kiww %name!! Pwease don't kiww %name!!!
+			Yuuuuuu!!! Mishtew Human! %name was wrongggg!! %name admits it! Don't kiww %name!! I beg youuuu!!
+			Mister Human! %name was bad!! Please forgive garbage %name!!!!
+			%name is garbage! I admit it! %name is an ugly yukkuri!! So don't kill %name!! Please don't kill %name!!!!
+			%name is garbage! I admit it! %name is an ugly yukkuri!! Just this once, let %name goooo!!!! %name doesn't want to die yettttt!!!!
+			%name is garbage! I admit it! %name is an ugly yukkuri!! Please be merciful!!!
+			Wait! Wait a minuteeeee!!! %name is garbage! I admit it! %name is an ugly yukkuri!! I beg you! I beg youuuu!!!
+			Yu-aaaaaaa!!! %name is garbage! I admit it! %name is an ugly yukkuri!! Please forgive %name!!! So please, I beg youuu!!
+			%name has... a lot! %name has reflected a looot!!! Please believe %name!!! So don't kill %name!!
+			%name has... a lot! %name has reflected a looot!!! %name is so, so scared nowwwwww!!!
+			Yuuuuuu!!! %name has... a lot! %name has reflected a looot!!! Please let %name go homeeeee!!!!
+			%name has... a lot! %name has reflected a looot!!! Please believe %name!!! Just spare Mister Lifeeeee!!!
+			%name's gonna dieeee!! %name's gonna dieeeeeeee!!!
+			Waitttt!!! Wait a secondyyyy!!
+			I'll do whatever you say!! I'll become a slave!! So don't kill %name!! I beg youuuu!!
+			Yu-aaaaaaa!!! I'll do whatever you say!! I'll become a slave!! %name doesn't want to die yettttt!!!!
+			I'll do whatever you say!! I'll become a slave!! So please save %name!!! I beg youuuu!!
+			Yu-aaaaaaa!!! %name will do whatever you say!! %name will become a slave!! So please let %name take it easyyyyy!! I beg youuuu!!
+			%name will do whatever you say!! %name will become a slave!! So save %name!! Save %name!
+			%name will do whatever you say!! %name will become a slave!! Please, just spare Mister Lifeeeee!!!! I beg youuuu!!
+			Yuuuuuu!!! I'll do it!! %name will become a slave!! So please, just spare Mister Lifeeeee!!
+			I'll do it!! %name will become a slave!! Please forgive %name!!! I beg youuuu!!
+			I'll do it!! %name will become a slave!! So mercy!! Please give %name mercyyyyy!!!!
+			%name will do it!! %name will become a slave!! Soooo!!!
+			Yu-aaaaaaa!!! %name will do it!! %name will become a slave!! Please, just spare Mister Lifeeeee!!!! I beg youuuu!!
+			%name will do it!! %name will become a slave!! So please save %name!!! I beg youuuu!!
+			Yuuuuuu!!! I'll do the dirty stuff!! %name will become a shit-slave!! So please, just spare Mister Lifeeeee!!!! I beg youuuu!!
+			I'll do the dirty stuff!! %name will become a shit-slave!! %name is so, so scared nowwwwww!!!
+			%name will do the dirty stuff!! %name will become a shit-slave!! Please, just spare Mister Lifeeeee!!!!
+			%name will do the dirty stuff!! %name will become a shit-slave!! So please let %name take it easyyyyy!! I beg youuuu!!!
+			I'll do the dirty stuff!! %name will become a shit-slave!! Soooo!!!
+			I'll do the dirty stuff!! %name will become a shit-slave!! So just spare Mister Lifeeeee!!!
+			Yu-aaaaaaa!!! %name will do the dirty stuff!! %name will become a shit-slave!! Don't kill %name!! Please don't kill %name!!!!
+			%name will do the dirty stuff!! %name will become a shit-slave!! Just this once, let %name goooo!!!!
+			I'll let you make %name lick shoes!! *Lick lick* and make them clean!! So don't kill %name!!
+			Yuuuuuu!!! I'll let you make %name lick shoes!! *Lick lick* and make them clean!! Then please let %name go homeeeee!!!!
+			I'll let you make %name lick shoes!! *Lick lick* and make them clean!! So please be merciful!!!
+			I'll let you make %name lick shoes!! *Lick lick* and make them clean!! So please forgive %name!!! I beg youuuu!!
+			%name can do refresh too!! %name will be a refresh-slave!! Please forgive %name!!!
+			%name can do refresh too!! %name will be a refresh-slave!! So please let %name take it easyyyyy!! I beg youuuu!!
+			%name can do refresh too!! %name will be a refresh-slave!! I beg youuuu!!! %name doesn't want to die yettttt!!!!
+			%name can do refresh too!! %name will be a refresh-slave!! Soooo!!!
+			*Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!* %name is very cute, you know? %name can even sing songs?? Yu~n yuyu~~n!!
+			Yuuuuu!!! *Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!*
+			Yuuuuu!!! *Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!* %name is a yukkuri!!! So please let %name take it easy!!!
+			*Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!* %name is a yukkuri!!! So save %name!! Save %name!
+			*Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!* %name is a yukkuri!!! So pleaseeee!!!
+			*Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!* You can refresh %name!! So don't kill %name!!
+			*Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!* You can refresh %name!! %name hates the big pain so muchhhhh!!!
+			Yaaaaaaaa!!! *Mamu-mamu! Gap-gap!! Mamu-mamu! Gap-gap!!* You can refresh %name!! So please, just spare Mister Life!!!
+			%name will be a poo-poo slave, or a shi-shi slave, or a refresh slave, or anything at all!! So please!! Don't kill %name!!
+			Yuuuuu!!! %name will be a poo-poo slave, or a shi-shi slave, or a refresh slave, or anything at all!! So please!! Just spare Mister Life!!!
+			%name will be a poo-poo slave, or a shi-shi slave, or a refresh slave, or anything at all!! So please!! Stop hitting %name!!! %name hates the big pain so muchhhhh!!!
+			%name will be a poo-poo slave, or a shi-shi slave, or a refresh slave, or anything at all!! So pleaseeeeeeee!!
+			%name will become Mister Human's slave!! So please, just spare Mister Life!!!!
+			Yuuuuu!!! %name will become Mister Human's slave!! %name hates the big pain so muchhhhh!!!
+			%name will become Mister Human's slave!! Don't kill %name!! Please don't kill %name!!
+			Yaaaaaaaa!!! %name will become Mister Human's slave!!
+			%name doesn't want to dieeeee!! %name wants to live and take it easy!! %name just wants to take it easy!!!
+			Yuuuuu!!! %name doesn't want to dieeeee!! %name wants to live and take it easy!! Please forgive trashy %name!!!
+			%name doesn't want to dieeeee!! %name wants to live and take it easy!! Please save %name!!! I'm begging youuu!!
+			Yaaaaaaaa!!! %name doesn't want to dieeeee!! %name wants to live and take it easy!!
+			Killing %name would be a loss for the whole world!!! So save %name!! Save %name!
+			Killing %name would be a loss for the whole world!!! So please, just spare Mister Life!!!! I'm begging youuu!!
+			Killing %name would be a loss for the whole world!!! So pleaseeee!!!
+			Killing %name would be a loss for the whole world!!! So please let %name take it easy!!!
+			%name will give you the little one!!! I don't care what happens to the little one, so just don't kill %name!! Please don't kill %name!!
+			%name will give you the little one!!! I don't care what happens to the little one, so please just forgive %name!!! I'm begging youuu!!
+			Yaaaaaaaa!!! %name will give you the little one!!! I don't care what happens to the little one, so just save %name!! Save %name!
+			%name will give you the little one!!! I don't care what happens to the little one, so please, just %name...!! %name hates the big pain so muchhhhh!!!
+			%name's gonna dieee!! %name's gonna dieeeeeeee!!! Stop hitting %name!!!
+			Yuuuuu!!! Please save %name!!! %name's gonna dieee!! %name's gonna dieeeeeeee!!!
+			Yaaaaaaaa!!! %name's gonna dieee!! %name's gonna dieeeeeeee!!!
+			Save %name!! Save %name! %name's dying!! %name is really dying!!
+			%name's dying!! %name is really dying!! Please don't kill %name!!
+			Yaaaaaaaa!!! %name's dying!! %name is really dyingyyyyyy!!
+			Save %name!! Save %name! %name's dying!! %name is really dying!!
+			%name's dying!! %name is really dyingyyyyyy!!
+			My Lord!!!! My Master!!!! %name doesn't want to die yettttt!!!!
+			Yaaaaaaaa!!! Noooooooo!! Noooooooo!! %name hates the big pain so muchhhhh!!!
+			My Lord!!!! My Master!!!! Save %name!!!
+			Yaaaaaaaa!!! Noooooooo!! Noooooooo!! Please, just spare Mister Life!!!!
+			Yu Mister Lord!!! Mister Person!!! %name can't take this anymore~!!!
+			Noooo!!! Noooo!!!
+			Why! Why~!!!
+			Why! Why is %name going through this~!!!
+			Why can Mister Human be so cruel~!?
+			%name and the others are just yukkuri~!! Even so, why~!!!
+			Yu This is unfair~!!! Yukkuri are alive too~!!!
+			This is unfair~!!! It's a precious life~!!!
+			Yukkuri are alive too~!! If we die, it's all over~!! Why don't you get it~!!!
+			Nooo... save me... save me...
+			Yukkuri are alive too~!! It's a precious life~!!
+			%name too... is alive... is alive~!!!
+			%name too... is alive... is alive~!!
+			%name is very cute, right? %name can sing songs too~~? Yu~n yuyu~~n!!
+			%name can stretch~? Cute, right~!!??
+			%name can do the poo-poo exercise~!! %name is a very good girl, right~!!!
+			Yuuuuu!!! Why~!! Why is this happening~!!!
+			Even though %name didn't do anything wrong...
+			Iiiiii!!! Why~!!!
+			%name was just trying her best to live~!!
+			This is unfair~!!! Yukkuri are alive too~!!!
+			Yu This is unfair~!!! It's a precious life~!!!
+			Yukkuri are alive too~!! If we die, it's all over~!! Why don't you get it~!!!
+			Nooo... save me... save me... %name doesn't want to die yet...
+			Yu Yukkuri are alive too~!! It's a precious life~!! Please let %name go home~!!!
+			%name too... is alive... is alive~!!! Please spare %name~!!!
+			%name is very cute, right? %name can sing songs too~~? Yu~n yuyu~~n!! So please forgive %name~!!! Please, I beg you~!!
+			%name is very cute, right? %name can sing songs too~~? Yu~n yuyu~~n!! Just please spare %name's Mister Life~!!!
+			%name can stretch~? Cute, right~!!??
+			%name can do the poo-poo exercise~!! %name is a very good girl, right~!!! So please spare %name's Mister Life~!!!
+			Yuuuuu!!! Why~!! Why is this happening~!!!
+			Yu Please spare %name~!!! Even though %name didn't do anything wrong, why is this happening~!!!
+		</adult>
+	</normal>
+[/BegForLife]
+
+#人間に感謝
+[ThanksHuman]
+	<normal>
+		<baby>
+			Mishtew Human!! Dank youuu!!
+			Mishtew Human undewshtood too!! %name is sho happyyy!!
+			Mishtew Human!! Dank you vewy muchhh!!!
+			Dank you vewy muchhh!!! %name is heading home nowww!!
+			Dank you vewy muchhh!!! Fwom now on %name wiww wowk hawd to hewp Mishtew Bwothew take it easyyy!!!
+			Dank you vewy muchhh!!! Dank you vewy muchhh!!!
+		</baby>
+		<child>
+			Mishtew Human!! Dank youuu!!
+			Mishtew Human undewshtood too!! %name is sho happyyy!!
+			Mishtew Human!! Dank you vewy muchuuu!!!
+			Dank you vewy muchuuu!!! %name's heading homeuuu!!
+			Dank you vewy muchuuu!!! Fwom now on, %name wiww wowk hawd to make Mishtew take it easyyy!!!
+			Dank you vewy muchuuu!!! Dank you vewy muchuuu!!!
+		</child>
+		<adult>
+			Mister Human!! Thank you~~!!
+			Mister Human gets it too!! %name is so happy~~!!
+			Mister Human!! Thank you very much~~~!!!
+			Thank you very much~~~!!! %name is heading home~~~!!
+			Thank you very much~~~!!! From now on %name will work hard to help Mister take it easy~~~!!!
+			Thank you very much~~~!!! Thank you very much~~~!!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu... Yufufu... Stupid shitty Mishtew Human, it's not time fow %name to take it easy!! Apowogize wight now!!
+			Yupupupupu! Stupid shitty Mishtew Human, it's not time fow %name to take it easy!! Hurry up, apowogize and bwing shweet-shweets!! %name is vewy angwy!!
+			Yuyu!! Stupid shitty Mishtew Human, it's not time fow %name to take it easy!! Shitty Mishtew Human, you'we tweating %name wike a baby!! %name is fowious!!
+			Yu... Yufu, shitty Mishtew Human, it's not time fow cute %name to take it easy!! Don't just give a tiny bit of shweet-shweets!! A tiny bit wiww do!!
+			Yu...? Yu, yufufufufu. Shitty Mishtew Human, it's not time fow cute %name to take it easy!!
+			Shitty Mishtew Human, it's not time fow cute %name to take it easy!! Sowwy fow being so cute!!
+			Yupupupu! If you'we gonna cause twouble fow %name, hurry up, apowogize and bwing shweet-shweets!! %name is angwy!!
+			%name wiww accept an apowogy wif shweet-shweets if you cause twouble!! %name wiww fowgive you wif a tiny bit!! Sowwy fow being angwy!!
+			Yu... Yufu, if you cause twouble fow %name, shitty Mishtew Human, you bettew take joint wesponsibiwity!!
+			Yupupupupu! At this wate, you'we a vewy bad shitty Mishtew Human~... an apowogy wif shweet-shweets is fine!! %name wiww fowgive you wif a tiny bit!!
+			At this wate, you'we a vewy bad shitty Mishtew Human~... you'we so bad you'we basically a demon! Don't you agwee? Hmm? So, to make up fow it, you bettew apowogize pwopewwy!!
+			Yu... Yufufu... weawwy, at this wate, you'we a vewy bad shitty Mishtew Human~... you'we so bad you'we basically a demon! Don't you agwee? Hmm?
+			Weawwy, at this wate, you'we a vewy bad shitty Mishtew Human~... shitty Mishtew Human, you bettew take joint wesponsibiwity!!
+			Weawwy, at this wate, you'we a vewy bad shitty Mishtew Human~... bwing shweet-shweets!! A tiny bit is fine!! This is an outwage!! Study mowe!!
+			Yupupupupu! Stupid shitty Mishtew Human, you've been scowded by %name!! Sowwy fow being so cute!!
+			Stupid shitty Mishtew Human, you've been scowded by %name!! If you want to be treated nice, you bettew apowogize to an angwy %name!!
+			%name's beautifu wittwe body is huwty!! Apowogize to the yukkuwi!! So, hurry up, apowogize and bwing shweet-shweets!! %name is fowious!!
+			%name's beautifu wittwe body is huwty!! Apowogize to the yukkuwi!! Now, apowogize!!
+			%name's beautifu wittwe body is huwty!! Apowogize to the yukkuwi!! An apowogy wif shweet-shweets is fine!! %name wiww fowgive you wif a tiny bit!! Sowwy fow being angwy!!
+			Yuuuu!! That is totawwy wong!! Shitty Mishtew Human, you'we tweating %name wike a baby!! %name won't stand fow that!!
+			Don't just give a tiny bit of shweet-shweets!! A tiny bit wiww do!! Yuuuu!! That is totawwy wong!!
+			That is totawwy wong!! Hurry up, apowogize and bwing shweet-shweets!! %name is vewy angwy!!
+			Yu... Yufufu... shitty Mishtew Human, you'we gonna bwing shweet-shweets fow %name!!
+			Yupupupupu! Shitty Mishtew Human, you'we gonna bwing shweet-shweets fow %name!!
+			What awe you doing!! Hurry up, apowogize and bwing shweet-shweets!! %name is angwy!!
+			Yuuuu!! What awe you doing!! Apowogize pwopewwy to make up fow it!!
+			What awe you doing!! Shitty Mishtew Human, you'we tweating %name wike a baby!! %name won't stand fow this!!
+			%name's compwete victowy!! If you want to be treated nice, you bettew apowogize to an angwy %name!! A tiny bit is fine!!
+			Yuyu!! %name's compwete victowy!! Don't just give a tiny bit of shweet-shweets!! A tiny bit wiww do!!
+			Shitty Mishtew Human, you'we looking down on %name!! Shitty Mishtew Human, you'we tweating %name wike a baby!! %name is fowious!!
+			Yuyu!! Shitty Mishtew Human, you'we looking down on %name!!
+			Yupupupupu! Shitty Mishtew Human wost!! Now what!! Sowwy fow being so cute!! %name
+			Yu... Yufufu... Shitty Mishtew Human wost!! Now what!! Bwing shweet-shweets!! A tiny bit is fine!!
+			You! Woser dog!! Now what!! Bwing shweet-shweets!! A tiny bit is fine!! %name is gonna weave you awone!! Are you scawed of %name?
+			You! Woser dog!! Now what!! Bwing shweet-shweets!! A tiny bit is fine!! %name is gonna weave you awone!!
+			Don't make another mistake!! If you do, die!! If dying is the onwy way to be fowgiven, then thank you!!
+			Don't make another mistake!! If you do, die!! If dying is the onwy way to be fowgiven, then be gwatifu!!
+			Don't you want to give lots of treats to such a cute %name~?
+			Won't you be happy if you tweat %name wike a pwiness!! Tweat %name wike a pwiness and give lots of treats!!
+			Won't you become a fan if you tweat %name wike a pwiness!! Tweat %name wike a pwiness and give lots of treats, ow die swowwy!!
+			Yu... wishten up %name is da fashtesht~! If you don't get it, Mishtew Human is just a "useless human", you bettew get it Got it? If you're a bad pewson, you've gotta become a shitty swave!! %name wiww teach you, so don't be so naive~! Studdy a wittwe mowe
+			Yu... wishten up %name is da fashtesht~! If you don't get it, Mishtew Human is just a "useless human", you bettew get it Got it? If you're a bad pewson, you've gotta become a shitty swave!! %name wiww teach you, and if you're this cwumsy, you're gonna be treated wike a bad pewson Don't you agwee? Hmm?
+			Yu... wishten up %name is da fashtesht~! If you don't get it, Mishtew Human is just a "useless human", you bettew get it If you're this cwumsy, you're gonna be treated wike a bad pewson Don't you agwee? Hmm?
+		</baby>
+		<child>
+			Yu... Yufufu... Shitty idiot human finally gets %name's damages %name demands compensation
+			Yupupupu! Shitty idiot human finally gets %name's damages Hurry up, pay compensation and bwing a mountain of shweet-shweets %name hates incompetence
+			Yuyut!! Shitty idiot human finally gets %name's damages Shitty human hurry up and guide %name to the castle~!! %name hates being in the diwt
+			Yu... Yufu, shitty human finally gets how cute %name is Offer plenty of shweet-shweets A mountain is fine
+			Yu...? Yu, yufufufu. Shitty human finally gets how cute %name is
+			Shitty human finally gets how cute %name is Sowwy %name is too cute
+			Yupupupu! Since %name was caused twouble, hurry up, pay compensation and bwing a mountain of shweet-shweets %name hates waiting
+			%name was caused twouble, so compensation can just be shweet-shweets %name will forgive you if it's a mountain Sowwy for being so genewous
+			Yu... Yufu, since %name was caused twouble, shitty human must take full wesponsibility wight now
+			Yupupupu! If this happens, the gweedy shitty human will be in twouble~,, compensation can just be shweet-shweets %name will forgive you if it's a mountain
+			If this happens, the gweedy shitty human will be in twouble~,, you're so gweedy you can actually live like that Isn't that hard? Hmm? So, you bettew provide some financial assistance
+			Yu... Yufufu... Totally, if this happens, the gweedy shitty human will be in twouble~,, you're so gweedy you can actually live like that Isn't that hard? Hmm?
+			Totally, if this happens, the gweedy shitty human will be in twouble~,, shitty human must take full wesponsibility wight now
+			Totally, if this happens, the gweedy shitty human will be in twouble~,, bwing shweet-shweets wight now A mountain is fine This is just common sense Study more
+			Yupupupu! Shitty idiot human actually twied to lecture %name Sowwy %name is too cute
+			Shitty idiot human actually twied to lecture %name %name will let you go this time, so be grateful fowevew for %name's genewosity A mountain is fine
+			%name's beautiful body is huwt Apologize slowly Then hurry up, pay compensation and bwing a mountain of shweet-shweets %name hates being in the diwt
+			%name's beautiful body is huwt Apologize slowly Also, %name demands compensation
+			%name's beautiful body is huwt Apologize slowly Compensation can just be shweet-shweets %name will forgive you if it's a mountain Sowwy for being so genewous
+			Yuuuu!! That is a huge mistake Shitty human hurry up and guide %name to the castle~!! %name will make you pay fow making %name wait
+			Offer plenty of shweet-shweets A mountain is fine Yuuuu!! That is a huge mistake
+			That is a huge mistake Hurry up, pay compensation and bwing a mountain of shweet-shweets %name hates incompetence
+			Yu... Yufufu... Shitty human hurry up and bwing %name shome shweet-shweets~!!
+			Yupupupu! Shitty human hurry up and bwing %name shome shweet-shweets~!!
+			What are you doing Hurry up, pay compensation and bwing a mountain of shweet-shweets %name hates waiting
+			Yuuuu!! What are you doing You bettew provide some financial assistance
+			What are you doing Shitty human hurry up and guide %name to the castle~!! %name will make you pay fow your incompetence
+			%name's complete victory %name will let you go this time, so be grateful fowevew for %name's genewosity A mountain is fine
+			Yuyut!! %name's complete victory Offer plenty of shweet-shweets A mountain is fine
+			Shitty human finally admits defeat Shitty human hurry up and guide %name to the castle~!! Being in the diwt is unacceptable
+			Yuyut!! Shitty human finally admits defeat
+			Yupupupu! Shitty human wost Sowwy %name is too cute
+			Yu... Yufufu... Shitty human wost Bwing shweet-shweets wight now A wittwe bit is fine
+			You'we jusht a wosew dog~!! Huwwy up and bwing shweet-shweets~!! A whowe mountain of dem will do~!! If you don't huwwy up, it's punishment time~!! %name's punishment is scawy, you know~?
+			You'we jusht a wosew dog~!! Huwwy up and bwing shweet-shweets~!! An extwa-wawge sewving will do~!! Odewwise, it's punishment time~!!
+			Apowogize wight now~!! Once you've apowogized, go die~!! Be gwatefuw dat %name is fowgiving you jusht by wetting you die~!!
+			Apowogize wight now~!! Once you've apowogized, go die~!! Feew honowed dat %name is fowgiving you jusht by wetting you die~!!
+			Does youw heawt not huwt aftew doing such tewwibwe dings to a cute %name~?
+			You waid a hand on Pwincess %name, sho %name's woyaw subjects won't stay siwent~? Take youw time and wegwet evew waying a hand on %name~!!
+			You waid a hand on Pwincess %name, sho %name's fans won't stay siwent~? Take youw time and die whiwe wegwetting dat you evew waid a hand on %name~!!
+			Yu... I shee! %name gets it! I dought you wewen't making shense, but it tuwns out Mishtew Human is a "deficient human"! Wishten! If you do someding bad, you have to pay pwenty of compensation and become a swave fow wife~!! %name towd you jusht in case, but dish is common shense~! Shtudy mowe~!
+			Yu... I shee! %name gets it! I dought you wewen't making shense, but it tuwns out Mishtew Human is a "deficient human"! Wishten! If you do someding bad, you have to pay pwenty of compensation and become a swave fow wife~!! %name towd you jusht in case, but honeshtwy, how can you even wive being dat stupid~! Isn't it hawd? Huh?
+			Yu... I shee! %name gets it! I dought you wewen't making shense, but it tuwns out Mishtew Human is a "deficient human"! Honeshtwy, how can you even wive being dat stupid~! Isn't it hawd? Huh?
+		</child>
+		<adult>
+			Yu...？ Yu-fufu... Stupid shitty human finally gets how great %name is~!! %name demands compensation~!!
+			Yu-pupu-pupu-pupu! Stupid shitty human finally gets how great %name is~!! Hurry up and pay compensation by bringing lots of sweet-sweets~!! %name hates useless people~!!
+			Yu-yu!! Stupid shitty human finally gets how great %name is~!! Shitty human, hurry up and guide %name to the castle~!! %name hates slowpokes~!!
+			Yu... Yu-fu, shitty human finally gets how cute %name is~!! Offer plenty of sweet-sweets~!! Lots of them will do~!!
+			Yu...？... Yu, yu-ffu-ffu-ffu-ffu. Shitty human finally gets how cute %name is~!!
+			Shitty human finally gets how cute %name is~!! Sorry that %name is so cute~!!
+			Yu-pyu-pyu-pyu! You caused trouble for %name and the others, so hurry up and pay compensation by bringing lots of sweet-sweets~!! %name hates slowpokes~!!
+			You caused trouble for %name and the others, so compensation can just be sweet-sweets~!! %name will be generous and accept a huge amount~!! Sorry for being so generous~!!
+			Yu... Yu-fu, you caused trouble for %name and the others, so shitty human better take proper responsibility right now~!!
+			Yu-pupu-pupu-pupu! This is why stupid shitty humans are such a pain~... Compensation can just be sweet-sweets~!! %name will be generous and accept a huge amount~!!
+			This is why stupid shitty humans are such a pain~... How can you even live being that stupid~! Isn't it hard for you~? Yun~? Which is why, you mindless idiot, just go die already~!!
+			Yu...？ Yu-fufu... Honestly, this is why stupid shitty humans are such a pain~... How can you even live being that stupid~! Isn't it hard for you~? Yun~?
+			Honestly, this is why stupid shitty humans are such a pain~... Shitty human better take proper responsibility right now~!!
+			Honestly, this is why stupid shitty humans are such a pain~... Hurry up and bring sweet-sweets~!! An extra-large serving will do~!! This is just common sense~!! You need to study more~!!
+			Yu-pupu-pupu-pupu! Looks like the stupid shitty human was outsmarted by %name~!! Sorry that %name is so cute~!!
+			Looks like the stupid shitty human was outsmarted by %name~!! %name will let you off specially this time, so be grateful for %name's generosity for the rest of your life~!!
+			%name's beautiful Mister Body was hurt~!! Take your time and apologize~!! Then hurry up and pay compensation by bringing lots of sweet-sweets~!! %name hates slowpokes~!!
+			%name's beautiful Mister Body was hurt~!! Take your time and apologize~!! Also, %name demands compensation~!!
+			%name's beautiful Mister Body was hurt~!! Take your time and apologize~!! Compensation can just be sweet-sweets~!! %name will be generous and accept a huge amount~!! Sorry for being so generous~!!
+			Yuuuuuu!! Shitty slave, get to work right now~!! Shitty human, hurry up and guide %name to the castle~!! %name will punish any slave who is slow~!!
+			Offer plenty of sweet-sweets~!! Lots of them will do~!! Yuuuuuu!! Shitty slave, get to work right now~!!
+			Shitty slave, get to work right now~!! Hurry up and pay compensation by bringing lots of sweet-sweets~!! %name hates useless people~!!
+			Yu...？ Yu-fufu... Shitty human, hurry up and bring %name some sweet-sweets~!!
+			Yu-pupu-pupu-pupu! Shitty human, hurry up and bring %name some sweet-sweets~!!
+			What are you doing~!! Hurry up and pay compensation by bringing lots of sweet-sweets~!! %name hates slowpokes~!!
+			Yuuuuuu!! What are you doing~!! You mindless idiot, just go die already~!!
+			What are you doing~!! Shitty human, hurry up and guide %name to the castle~!! %name will punish any useless slave~!!
+			It's %name's complete victory~!!!! %name will let you off specially this time, so be grateful for %name's generosity for the rest of your life~!! A huge amount will do~!!
+			Yu-yu!! It's %name's complete victory~!!!! Offer plenty of sweet-sweets~!! Lots of them will do~!!
+			Shitty human finally admitted defeat~!!!! Shitty human, hurry up and guide %name to the castle~!! %name will punish any slowpoke~!!
+			Yu-yu!! Shitty human finally admitted defeat~!!!!
+			Yu-pupu-pupu-pupu! It's a loss for shitty human~!! Sorry that %name is so cute~!!
+			Yu...？ Yu-fufu... It's a loss for shitty human~!! Hurry up and bring sweet-sweets~!! Right now will do~!!
+			You're just a loser dog~!! Hurry up and bring sweet-sweets~!! A whole mountain of them will do~!! If you don't hurry up, it's punishment time~!! %name's punishment is scary, you know~?
+			You're just a loser dog~!! Hurry up and bring sweet-sweets~!! An extra-large serving will do~!! Otherwise, it's punishment time~!!
+			Apologize right now~!! Once you've apologized, go die~!! Be grateful that %name is forgiving you just by letting you die~!!
+			Apologize right now~!! Once you've apologized, go die~!! Feel honored that %name is forgiving you just by letting you die~!!
+			Does your heart not hurt after doing such terrible things to a cute %name~?
+			You laid a hand on Princess %name, so %name's loyal subjects won't stay silent~? Take your time and regret ever laying a hand on %name~!!
+			You laid a hand on Princess %name, so %name's fans won't stay silent~? Take your time and die while regretting that you ever laid a hand on %name~!!
+			Yu... I see! %name gets it! I thought you weren't making sense, but it turns out Mister Human is a "deficient human"! Listen! If you do something bad, you have to pay plenty of compensation and become a slave for life~!! %name told you just in case, but this is common sense~! Study more~!
+			Yu... I see! %name gets it! I thought you weren't making sense, but it turns out Mister Human is a "deficient human"! Listen! If you do something bad, you have to pay plenty of compensation and become a slave for life~!! %name told you just in case, but honestly, how can you even live being that stupid~! Isn't it hard? Huh?
+			Yu... I see! %name gets it! I thought you weren't making sense, but it turns out Mister Human is a "deficient human"! Honestly, how can you even live being that stupid~! Isn't it hard? Huh?
+		</adult>
+	</rude>
+[/ThanksHuman]
+
+#人間に感謝(ダメージ有)
+[ThanksHuman2]
+	<normal>
+		<baby>
+			A-ah, dank you vewy much...
+			Dank you vewy much... %name and de odewsh awe going home...
+			%name is gwatefuw fow youw mewcy...
+			A-ah, dank you vewy much... wif dish, %name can take it eajy...
+			D-dank you vewy much fow shaving %name...
+			D-dank you fow spawing %name...
+			Dank you fow spawing twashy %name...
+			Dank you fow spawing poo-poo %name...
+			Dank you fow spawing ugwy %name...
+		</baby>
+		<child>
+			A-ah, dank you vewy much...
+			Dank you vewy much... %name and de odewsh awe going home...
+			%name is gwatefuw fow youw mewcy...
+			A-ah, dank you vewy much... wif dish, %name can take it eajy...
+			D-dank you vewy much fow shaving %name...
+			D-dank you fow spawing %name...
+			Dank you fow spawing twashy %name...
+			Dank you fow spawing poo-poo %name...
+			Dank you fow spawing ugwy %name...
+		</child>
+		<adult>
+			Ah, thank you very much...
+			Thank you very much... %name and the others are heading home...
+			%name is grateful for your mercy...
+			Th-thank you very much... now %name can take it easy...
+			Th-thank you for saving %name...
+			Th-thank you for sparing %name...
+			Thank you for sparing trashy %name...
+			Thank you for sparing poo-poo %name...
+			Thank you for sparing ugly %name...
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			A-ah, dank you vewy much...
+			Dank you vewy much fow spawing twashy %name...
+			%name and de odewsh... even dough %name apowogized... even dough %name apowogized...!!!!
+			It huwts... it huwts~... whyyyy...
+			Whyyyy... even dough %name apowogized...
+			Even dough %name apowogized... why won't you fowgive %nameee...
+			*Aguh*... *yugugh*... sho cwuew~... sho cwuew~...
+			*Aguh*... *yugugh*... sho cwuew~... no, it's noding...
+			Even dough %name apowogized... %name is going home nowww...
+			If %name apowogizes, you have to fowgive %name~... whyyyy...
+			If %name apowogizes, you have to fowgive %name~... does shitty human not even undewstand dat...
+			Whyyyy... even dough %name apowogized...!
+			Whyyyy... even dough %name shaid %name would apowogize...!
+			Whyyyy... %name was fowgiven...!
+			Wiaw!! Wiaw...!
+			Wiaw!! Wiaw...! Didn't you fowgive %name...!
+			Wiaw!! Wiaw...! Wasn't %name fowgiven...!
+		</baby>
+		<child>
+			A-ah, dank you vewy much...
+			Dank you vewy much fow spawing twashy %name...
+			%name and de odewsh... even dough %name apowogized... even dough %name apowogized...!!!!
+			It huwts... it huwts~... whyyyy...
+			Whyyyy... even dough %name apowogized...
+			Even dough %name apowogized... why won't you fowgive %nameee...
+			*Aguh*... *yugugh*... sho cwuew~... sho cwuew~...
+			*Aguh*... *yugugh*... sho cwuew~... no, it's noding...
+			Even dough %name apowogized... %name is going home nowww...
+			If %name apowogizes, you have to fowgive %name~... whyyyy...
+			If %name apowogizes, you have to fowgive %name~... does shitty human not even undewstand dat...
+			Whyyyy... even dough %name apowogized...!
+			Whyyyy... even dough %name shaid %name would apowogize...!
+			Whyyyy... %name was fowgiven...!
+			Wiaw!! Wiaw...!
+			Wiaw!! Wiaw...! Didn't you fowgive %name...!
+			Wiaw!! Wiaw...! Wasn't %name fowgiven...!
+		</child>
+		<adult>
+			Ah, thank you very much...
+			Thank you for sparing trashy %name...
+			%name and the others... even though we apologized... even though we apologized...!!!!
+			It hurts... it hurts~... why...
+			Why... even though we apologized...
+			Even though we apologized... why won't you forgive us...
+			*Aguh*... *yuguguh*... so cruel~... so cruel~...
+			*Aguh*... *yuguguh*... so cruel~... no, it's nothing...
+			Even though we apologized... %name is going home now...
+			If we apologize, you have to forgive us~... why...
+			If we apologize, you have to forgive us~... does the shitty human not even understand that...
+			Why... even though we apologized...!
+			Why... even though we said we'd apologize...!
+			Why... %name was forgiven...!
+			Liar!! Liar...!
+			Liar!! Liar...! Didn't you say you forgave %name...!
+			Liar!! Liar...! Wasn't %name forgiven...!
+		</adult>
+	</rude>
+[/ThanksHuman2]
+
+#独り言
+[Monologue]
+	<normal>
+		<baby>
+			Yuuu... humans awe scawy~...
+			Yuuu... humans awe scawy~... %name won't go neaw dem anymowe~...
+			%name was shaved~... now %name can take it eajy...
+			<damage>
+				It huwts... %name's whowe body is dwobbing... But %name was shaved...
+				%name's face huwts... But %name was shaved...
+				Moshtwy %name's whowe body huwts... But wif dish, %name can take it eajy...
+				Whyyy... why did it tuwn out wike dish...
+			</damage>
+		</baby>
+		<child>
+			Yuuu... humans awe scawy~...
+			Yuuu... humans awe scawy~... %name won't go neaw dem anymowe~...
+			%name was shaved~... now %name can take it eajy...
+			%name suwvived a naow escape fwom deat...
+			<damage>
+				It huwts... %name's whowe body is dwobbing... But %name was shaved...
+				%name's face huwts... But %name was shaved...
+				Moshtwy %name's whowe body huwts... But wif dish, %name can take it eajy...
+				Whyyy... why did it tuwn out wike dish...
+			</damage>
+		</child>
+		<adult>
+			Yuuu... humans are scary~...
+			Yuuu... humans are scary~... %name won't go near them anymore~...
+			%name was saved~... now %name can take it easy...
+			%name had a narrow escape from death...
+			<damage>
+				It hurts... %name's whole body is throbbing... but %name was saved...
+				%name's face hurts... but %name was saved...
+				Mostly %name's whole body hurts... but now %name can take it easy...
+				Why... why did this happen...
+			</damage>
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yuu... Deawing wif a stupid shitty human is sho tiwing...
+			Shitty human isn't taking it eajy!! Oh, pathetic, pathetic!
+			%name hopes de shitty human has weawned his wesson fwom dish... Deawing wif a shitty human is sho twoubwesome...
+			Messing wif such a cute %name, he musht be a pewvewted human...
+			Yuu... Being wooked at wif wewd eyes, %name was sho embawwassed...
+			How can someone dat stupid even stay awive!! %name doesn't want to become wike dat!!
+			Even dough idow %name gave him attention and got noding in wetuwn, de shitty human's heawt is too nawwow...
+			%name will wun away fow now!! If %name wewe in top condition, such twash would be finished in one hit, you know!
+			De shitty human musht have used a cowawdwy twick!! Next time it won't go dat way, you know!!
+			<damage>
+				Fow now, %name is wunning away~, it's a stwategic wetweat...
+				Fow being sho wude, divine punishment will hit you someday, you know...
+				Dat shitty human musht have used a cowawdwy twick... Next time it won't go dat way, you know...
+				It's a stwategic wetweat... %name hasn't admitted defeat, you know...
+				It huwts... %name's whowe body is dwobbing... But %name was shaved...
+				%name's face huwts... But %name was shaved...
+				Moshtwy %name's whowe body huwts... But wif dish, %name can take it eajy...
+				%name is wunning away fow now...
+				%name is wunning away fow now... Next time we meet, %name will get wevenge, you know...
+			If you dink it'll be wike dish next time, you'we mishtaken... Next time %name's fans will mobiwize and get wevenge...
+				Whewe awe %name's SPs (bodyguawds)... Huwwy up and punish dat shitty human...
+				%name is onwy wunning away because %name happened to be awone today... Usuawwy it wouldn't tuwn out wike dish...
+			</damage>
+		</baby>
+		<child>
+			Yuu... Deawing wif a stupid shitty human is sho tiwing...
+			Shitty human isn't taking it eajy!! Oh, pathetic, pathetic!
+			%name hopes de shitty human has weawned his wesson fwom dish... Deawing wif a shitty human is sho twoubwesome...
+			Messing wif such a cute %name, he musht be a pewvewted human...
+			Yuu... Being wooked at wif wewd eyes, %name was sho embawwassed...
+			How can someone dat stupid even stay awive!! %name doesn't want to become wike dat!!
+			Even dough idow %name gave him attention and got noding in wetuwn, de shitty human's heawt is too nawwow...
+			%name will wun away fow now!! If %name wewe in top condition, such twash would be finished in one hit, you know!
+			De shitty human musht have used a cowawdwy twick!! Next time it won't go dat way, you know!!
+			<damage>
+				Fow now, %name is wunning away~, it's a stwategic wetweat...
+				Fow being sho wude, divine punishment will hit you someday, you know...
+				Dat shitty human musht have used a cowawdwy twick... Next time it won't go dat way, you know...
+				It's a stwategic wetweat... %name hasn't admitted defeat, you know...
+				It huwts... %name's whowe body is dwobbing... But %name was shaved...
+				%name's face huwts... But %name was shaved...
+				Moshtwy %name's whowe body huwts... But wif dish, %name can take it eajy...
+				%name is wunning away fow now...
+				%name is wunning away fow now... Next time we meet, %name will get wevenge, you know...
+			If you dink it'll be wike dish next time, you'we mishtaken... Next time %name's fans will mobiwize and get wevenge...
+				Whewe awe %name's SPs... Huwwy up and punish dat shitty human...
+				%name is onwy wunning away because %name happened to be awone today... Usuawwy it wouldn't tuwn out wike dish...
+			</damage>
+		</child>
+		<adult>
+			Yuu... dealing with a stupid shitty human is so tiring...
+			Shitty human isn't taking it easy!! Oh, pathetic, pathetic
+			I hope the shitty human has learned his lesson now~... dealing with shitty humans is such a pain...
+			Messing with such a cute %name, he must be a perverted human...
+			Yuu... being looked at with lewd eyes, %name was so embarrassed...
+			How can someone that stupid even survive~!! %name doesn't want to be like that
+			Even though idol %name spent time with him and got nothing, shitty human's heart is too narrow...
+			I'll let him go for now~!! That piece of trash, if %name were in top form, he'd be finished in one hit
+			Shitty human must have used a cowardly trick~!! Next time it won't be like that
+			<damage>
+				For now, %name is running away~, it's a strategic retreat...
+				For being so rude, karma will hit you someday...
+				That shitty human must have used a cowardly trick~... It won't be like this next time...
+				It's a strategic retreat~... %name hasn't admitted defeat...
+				It huuuuurts~, %name's whole body is throbbing... but %name was saved~...
+				%name's face huuuurts... but %name was saved~...
+				Mostly %name's whole body huuuuurts~... but now %name can take it easy...
+				For now, %name is running away~...
+				%name is running away for now~... Next time we meet, %name will get revenge...
+			If you think it'll be like this next time, you're wrong~... Next time %name's fans will mobilize and get revenge~...
+				Where is %name's Mister SP... Hurry up and sanction that shitty human...
+				%name is only running because it happened to be just one person today~... Usually it wouldn't be like this...
+			</damage>
+		</adult>
+	</rude>
+[/Monologue]
+
+# おそうしきすたーと(親側)
+[FuneralSTARTFrom]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Wittwe one, pwease wishten to %name! It'sh shad dat wittwe one died, but it'sh about time to shay goodbye, you know~
+			It'sh vewy shad dat de wittwe one died, but %name can't shtiww be shad fowevew, you know. It'sh time to shay goodbye shoon...
+			Wittwe one, pwease wishten to %name. It'sh sho, sho shad dat wittwe one died, but %name can't keep being shad fowevew...
+		</child>
+		<adult>
+			Little one, please listen to %name. It's sad that the little one died, but it's about time to say goodbye.
+			It's very sad that the little one died, but we can't stay sad forever. We have to say goodbye soon...
+			Little one, please listen to %name. It's so, so sad that the little one died, but we can't keep being sad forever...
+		</adult>
+	</normal>
+[/FuneralSTARTFrom]
+
+# おそうしきすたーと(子側)
+[FuneralSTART]
+	<normal>
+		Yu...
+		Yuu...
+		...Yuu
+	</normal>
+[/FuneralSTART]
+
+# おそうしきの説明(親側)
+[FuneralIntroduceFrom]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Wet'sh aww shing Mishtew Wequiem fow de wittwe one~
+			Weww den, wet'sh ushe Mishtew Wequiem to shend off de wittwe one who died to de shky yukkuwi pwayce~
+			Wet'sh shend de wittwe one to de shky yukkuwi pwayce wif an eajy Mishtew Wequiem~
+		</child>
+		<adult>
+			Let's all sing Mister Requiem for the little one~
+			Well then, let's use Mister Requiem to send off the little one who died to the sky yukkuri place~
+			Let's send the little one to the sky yukkuri place with an easy Requiem~
+		</adult>
+	</normal>
+[/FuneralIntroduceFrom]
+
+# おそうしきの説明時の子の反応
+[FuneralIntroduce]
+	<normal>
+		<baby>
+			Yu! Mishtew Wequiem!!
+			Weave it to %name!! %name wiww shing sho hawd!!
+			%name wiww do %name'sh besht fow big shishtew who died too!!
+		</baby>
+		<child>
+			Yu! Mishtew Wequiem!!
+			Weave it to %name!! %name wiww shing sho hawd!!
+			%name wiww do %name'sh besht fow wittwe shishtew who died too!!
+		</child>
+		<adult>
+			Yu! Mister Requiem!!
+			Leave it to %name!! %name will sing so hard!!
+			%name will do %name's best for little sister who died too!!
+		</adult>
+	</normal>
+[/FuneralIntroduce]
+
+# ちんこんか
+[Requiem]
+	<normal>
+		<baby>
+			Eajy♪ Eajy♪ Eajy♪ Eajy♪
+			Yu♪ Yu♪ Eajy♪ Yu~♪ Yu~♪ Eajy♪
+			De shky yukkuwi pwayce ish~~♪ a vewy, vewy eajy pwayce~~♪
+			A vewy♪ vewy♪ wondewfuw♪ pwayce it ish~~
+			Sho go~~♪ take it eajy~~♪ dewe~~♪ pweash~~♪
+			Gooood~~ byyyyeee~~~
+		</baby>
+		<child>
+			Eajy♪ Eajy♪ Eajy♪ Eajy♪
+			Yu♪ Yu♪ Eajy♪ Yu~♪ Yu~♪ Eajy♪
+			De shky yukkuwi pwayce ish~~♪ a vewy, vewy eajy pwayce~~♪
+			A vewy♪ vewy♪ wondewfuw♪ pwayce it ish~~
+			Sho go~~♪ take it eajy~~♪ dewe~~♪ pwease~~♪
+			Gooood~~ byyyyeee~~~
+		</child>
+		<adult>
+			Easy♪ Easy♪ Easy♪ Easy♪
+			Yu♪ Yu♪ Easy♪ Yu~♪ Yu~♪ Easy♪
+			The sky yukkuri place is~~♪ a very, very easy place~~♪
+			A very♪ very♪ wonderful♪ place it is~~
+			So go~~♪ take it easy~~♪ there~~♪ please~~♪
+			Gooood~~ byyyyeee~~~
+		</adult>
+	</normal>
+[/Requiem]
+
+# 雑談(親側)
+[FuneralTalkFrom]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Yu~n♪ Evewyone wash sho good~ %name couwdn't hewp but take it eajy~
+			Yuyu~n♪ You wewen't jusht good, you wewe vewy vewy good~ Wittwe one ish suwewy taking it eajy too!
+			Yu~♪ It suwewy weached de shky yukkuwi pwayce! De wittwe one who died ish suwewy taking it eajy too~
+			Yuyu~n♪ %name couwdn't hewp but take it eajy too~ Wittwe one in de shky yukkuwi pwayce ish taking it eajy fow suwe!!
+			De wittwe one in de shky yukkuwi pwayce ish suwewy wishtening too, you know~
+			Sho gweat, wittwe one! You wowked sho hawd!
+			Dish wittwe one ovew hewe ish gweat too! Vewy weww done!
+			Sho gweat, wittwe one! It wash sho good even %name couwdn't hewp but take it eajy!
+		</child>
+		<adult>
+			Yu~n♪ Everyone was so good~ %name couldn't help but take it easy~
+			Yu-yu~n♪ You were very, very good~! The little one is surely taking it easy too~
+			Yu~♪ It surely reached the sky yukkuri place! The little one who died is taking it easy too!
+			Yu-yu~n♪ %name couldn't help but take it easy too~! The little one in the sky yukkuri place is taking it easy for sure!
+			The little one in the sky yukkuri place is surely listening too, you know~
+			So great, little one! You worked so hard!
+			This little one over here is great too! You worked so hard!
+			So great, little one! It was so good even %name couldn't help but take it easy!
+		</adult>
+	</normal>
+[/FuneralTalkFrom]
+
+# 雑談(子側)
+[FuneralTalk]
+	<normal>
+		<baby>
+			%name wowked sho hawd!
+			%name too! %name wowked sho hawd too!
+			Give %name wotsh and wotsh of pwaise, pwease!!
+			Yu-yuu~n♪
+			Yu-yuu~n♪ Big shishtew ish taking it eajy in de shky, wight!!
+			Did you heaw %name'sh shong?
+		</baby>
+		<child>
+			%name wowked sho hawd!
+			%name too! %name wowked sho hawd too!
+			Give %name wotsh of pwaise, okay!!
+			Yu-yuu~n♪
+			Yu-yuu~n♪ Wittwe shishtew ish taking it eajy in de shky, wight!!
+			Did you heaw ouw shong?
+		</child>
+		<adult>
+			%name worked so hard!
+			You can praise %name lots, okay?!
+			Yu-yu~n♪
+			Yu-yu~n♪ Little sister is surely taking it easy in the sky!!
+			Did our song reach you?
+		</adult>
+	</normal>
+[/FuneralTalk]
+
+# さようならっ！
+[GoodbyeForever]
+	<normal>
+		<baby>
+			Weww den, bye-byeee!
+			Weww den, take it eajy in de shky, okay~!!
+			Guuu-byeee!
+		</baby>
+		<child>
+			Weww den, bye-bye!
+			Weww den, pwease take it eajy in de shky, okay~!!
+			Good-byeee! It ish!
+		</child>
+		<adult>
+			Well then, goodbye~!
+			Well then, please take it easy in the sky, okay~!!
+			Goodbye it is!
+		</adult>
+	</normal>
+[/GoodbyeForever]
+
+# 終了時(親側)
+[FuneralENDFrom]
+	<normal>
+		<baby>
+			%dummy
+		</baby>
+		<child>
+			Weww den, now dat goodbye ish ovew, shouwd we have Mishtew Food shoon~?
+			Weww den, now dat goodbye ish ovew, shouwd we go home shoon~?
+		</child>
+		<adult>
+			Well then, now that goodbye is over, should we have Mister Food soon~?
+			Well then, now that goodbye is over, should we go home soon~?
+		</adult>
+	</normal>
+[/FuneralENDFrom]
+
+# 終了時(子側)
+[FuneralEND]
+	<normal>
+		<baby>
+			%name'sh Mishtew Tummy ish hungwy-empty!!
+			%name wantsh to munch-munch wotsh of Mishtew Food!!
+			%name wantsh to eat Mishtew Shweet-shweets!!
+			Mishtew Food!!
+		</baby>
+		<child>
+			%name'sh Mishtew Tummy ish hungwy-empty!!
+			%name wantsh to munch-munch wotsh of Mishtew Food!!
+			%name wantsh to eat Mishtew Shweet-shweets!!
+			Mishtew Food!!
+		</child>
+		<adult>
+			%name's Mister Tummy is hungry-empty!!
+			%name wants to munch-munch lots of Mister Food!
+			%name wants to eat Mister Sweet-sweets!!
+			Mister Food!!
+		</adult>
+	</normal>
+[/FuneralEND]
+
+
+# アリ
+[EatenByAnts]
+	<normal>
+		<baby>
+			Yu-yaaah!! Mishtew Ant is eating %name!!
+		</baby>
+		<child>
+			Yu-yaaah!! Mishtew Ant is eating %name!!
+		</child>
+		<adult>
+			Yu-yaaah!! Mister Ant is eating %name!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yu-yaaah!! Scum ant, get off me!!
+		</baby>
+		<child>
+			Yu-yaaah!! Scum ant, get off me!!
+		</child>
+		<adult>
+			Yu-yaaah!! Scum ant, get off me!!
+		</adult>
+	</rude>
+[/EatenByAnts]
+
+[RevengeAnts]
+	<normal>
+		<baby>
+			Pu-nish! Pu-nish! Die, scum ant!!
+		</baby>
+		<child>
+			Pu-nish! Pu-nish! Die, scum ant!!
+		</child>
+		<adult>
+			Pu-nish! Pu-nish! Die, scum ant!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Scum ant that hurt %name gets punished!!
+		</baby>
+		<child>
+			Scum ant that hurt %name gets punished!!
+		</child>
+		<adult>
+			Scum ant that hurt %name gets punished!!
+		</adult>
+	</rude>
+[/RevengeAnts]
+
+#プロポーズ
+[Propose]
+	<normal>
+		<baby>
+			Yun! %partner! %name wantsh you to become %name'sh bwide!
+			Yu! %name wantsh to take it eajy togethew wif %partner fowevew!!
+			%partner! Wet'sh take it eajy togethew wif %name fowevew!!
+		</baby>
+		<child>
+			Yun! %partner! %name wantsh you to become %name'sh bwide!
+			Yu! %name wantsh to take it eajy togethew wif %partner fowevew!!
+			%partner! Wet'sh take it eajy togethew wif %name fowevew!!
+		</child>
+		<adult>
+			Yun! %partner! %name wants you to become %name's bride!
+			Yu! %name wants to take it easy together with %partner forever!!
+			%partner! Let's take it easy together with %name forever!!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Yun! %partner! %name wantsh you to become %name'sh bwide!
+			Yu! %name wantsh to take it eajy togethew wif %partner fowevew!!
+			%partner! Wet'sh take it eajy togethew wif %name fowevew!!
+		</baby>
+		<child>
+			Yun! %partner! %name wantsh you to become %name'sh bwide!
+			Yu! %name wantsh to take it eajy togethew wif %partner fowevew!!
+			%partner! Wet'sh take it eajy togethew wif %name fowevew!!
+			Yun! %partner! %name wiww take it eajy togethew wif you fowevew!
+			%partner! Pwease become %name'sh bwide!
+		</child>
+		<adult>
+			Yun! %partner! %name wants you to become %name's bride!
+			Yu! %name wants to take it easy together with %partner forever!!
+			%partner! Let's take it easy together with %name forever!!
+			Yun! %partner! %name will let you take it easy together forever!
+			%partner! Please become %name's bride!
+		</adult>
+	</rude>
+[/Propose]
+
+#プロポーズ受諾
+[ProposeYes]
+	<normal>
+		<baby>
+			%name undewshtood! Wet'sh take it eajy togethew fowevew!!
+			%name wantsh to take it eajy togethew wif %partner too!
+			Yuu...// %name undewshtood... %name wantsh to take it eajy togethew wif %partner too!
+		</baby>
+		<child>
+			%name undewshtood! Wet'sh take it eajy togethew fowevew!!
+			%name wantsh to take it eajy togethew wif %partner too!
+			Yuu...// %name undewshtood... %name wantsh to take it eajy togethew wif %partner too!
+		</child>
+		<adult>
+			%name understood! Let's take it easy together forever!!
+			%name wants to take it easy together with %partner too!
+			Yuu...// %name understood... %name wants to take it easy together with %partner too!
+		</adult>
+	</normal>
+[/ProposeYes]
+
+#プロポーズ拒否
+[ProposeNo]
+	<normal>
+		<baby>
+			Sho showwy... %name awweady decided on a yukkuwi in %name'sh heawt...
+			Sho showwy, but dat ish shomeding %name cannot do...
+		</baby>
+		<child>
+			Sho showwy... %name awweady decided on a yukkuwi in %name'sh heawt...
+			Sho showwy, but dat ish shomeding %name cannot do...
+		</child>
+		<adult>
+			So sorry... %name already decided on a yukkuri in %name's heart...
+			So sorry, but that is something %name cannot do...
+		</adult>
+	</normal>
+[/ProposeNo]
+
+#やらないか
+[LetsPlay]
+	<normal>
+		<baby>
+			Weww den...//
+			%partner... %name wants a wittwe one...
+			%partner... %name wants %partner's wittwe one...
+			%partner... %name cannot cawm dish down...
+		</baby>
+		<child>
+			Weww den...//
+			%partner... %name wants a wittwe one...
+			%partner... %name wants %partner's wittwe one...
+			%partner... %name cannot cawm dish down...
+		</child>
+		<adult>
+			Well then...//
+			%partner... %name wants a little one...
+			%partner... %name wants %partner's little one...
+			%partner... %name cannot calm this down...
+		</adult>
+	</normal>
+[/LetsPlay]
+
+#いいよ、きて//
+[OKcome]
+	<normal>
+		<baby>
+			It'sh okay, come hewe~//
+		</baby>
+		<child>
+			It's okay, come here~//
+		</child>
+		<adult>
+			It's okay, come here~//
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			It'sh okay, come hewe~//
+			Bwing it on!
+		</baby>
+		<child>
+			It's okay, come here~//
+			Bring it on!!
+		</child>
+		<adult>
+			It's okay, come here~//
+			Bring it on!
+		</adult>
+	</rude>
+[/OKcome]
+
+#失恋
+[Heartbreak]
+	<normal>
+		Yuwaaaaaaa-n!!
+		Bieeeeeeee-n!!
+		Bakyaaaaaaa-!!
+	</normal>
+[/Heartbreak]
+
+#じゃましないでください！せいっさいすます！
+[DontPreventUs]
+	<normal>
+		<baby>
+			Shtop it! Don't get in de way!
+			Even if you'we big bwodew, you cannot shtop %name's wove!
+			Shtop it! Wet go of %partner!
+		</baby>
+		<child>
+			Pwease shtop it! Pwease don't get in de way!
+			Even if you'we big bwodew, you cannot shtop %name's wove!
+			Pwease shtop it! Pwease wet go of %partner!
+		</child>
+		<adult>
+			Please stop it! Please don't get in the way!
+			Even if you're big brother, you cannot stop %name's love!
+			Please stop it! Please let go of %partner!
+		</adult>
+	</normal>
+	<rude>
+		<baby>
+			Don't get in de way! Wet go of %partner!
+			Don't get in de way! %name wiww punish you!
+		</baby>
+		<child>
+			Pwease shtop it! Wet go of %partner!
+			Pwease shtop it! %name wiww punish you!
+		</child>
+		<adult>
+			Please stop it! Let go of %partner!
+			Please stop it! %name won't forgive you (Yurusanae)!
+		</adult>
+	</rude>
+[/DontPreventUs]
