@@ -1041,7 +1041,7 @@
 [DrivingSuiPartner]
 	<normal>
 		As expected of %partner!
-			%partner! You're taking it sho eajy!
+		%partner! You're taking it sho eajy!
 	</normal>
 [/DrivingSuiPartner]
 
@@ -1049,7 +1049,7 @@
 [DrivingSuiChild]
 	<normal>
 		As expected of %name's little one!
-			%name is sho pwoud too!
+		%name is sho pwoud too!
 	</normal>
 [/DrivingSuiChild]
 
@@ -1118,7 +1118,7 @@
 [hasSuiPartner]
 	<normal>
 		As expected of %partner!
-			%partner! Taking it the mosht eajy!
+		%partner! Taking it the mosht eajy!
 	</normal>
 [/hasSuiPartner]
 
@@ -1126,7 +1126,7 @@
 [hasSuiChild]
 	<normal>
 		As expected of %name's little one!
-			%name's wittwe one is taking it eajy!
+		%name's wittwe one is taking it eajy!
 	</normal>
 [/hasSuiChild]
 
@@ -1134,7 +1134,7 @@
 [hasSuiPAPAChild]
 	<normal>
 		As expected of papa!
-			%name's papa is sho coow!
+		%name's papa is sho coow!
 	</normal>
 [/hasSuiPAPAChild]
 
@@ -1142,7 +1142,7 @@
 [hasSuiMAMAChild]
 	<normal>
 		As expected of mama!
-			%name's mama is taking it eajy!
+		%name's mama is taking it eajy!
 	</normal>
 [/hasSuiMAMAChild]
 
@@ -1150,7 +1150,7 @@
 [hasSuiOldSister]
 	<normal>
 		As expected of big sister!
-			Big shishtew is taking it eajy!
+		Big shishtew is taking it eajy!
 	</normal>
 [/hasSuiOldSister]
 
@@ -1158,7 +1158,7 @@
 [hasSuiYoungSister]
 	<normal>
 		As expected of %name's little sister!
-			Wittwe shishtew is taking it eajy!
+		Wittwe shishtew is taking it eajy!
 	</normal>
 [/hasSuiYoungSister]
 
