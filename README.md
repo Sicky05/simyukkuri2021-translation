@@ -12,7 +12,9 @@ I have gone through and hand-edited the output to make sure the specific Yukkuri
 ## How to use
 
 Replace the original `.txt` files in `/data/yukkuri_msg` and `/data/yukkuri_msg_nora`
-with the translated versions from this repository and run build.bat.
+with the translated versions from this repository. 
+Also, replace the `/data/yukkuri_ini` folder with the `yukkuri_ini` folder from this repository.
+After replacing the files, run build.bat.
 
 ## Translation Status
 
